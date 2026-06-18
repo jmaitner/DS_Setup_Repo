@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531465",
+  "vendor": "Family Games America",
+  "brand": "FGA",
+  "vendor_item_number": "FG0020101",
+  "product_name": "DON'T BREAK THE BOTTLE WINE PUZZLE - CORKSCREW",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "086453201010"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 15,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 29.99
+  },
+  "sourcing": {
+    "fob_point": "Montreal, QC",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.00.73"
+  },
+  "content": {
+    "bullets": [
+      "A unique, amusing, and entertaining house warming gift.",
+      "Follow the instructions to lock up a bottle of wine or alcohol in the wooden puzzle.",
+      "Watch the fun start to flow as they try to set the bottle free.",
+      "Appeals to home, gift, and wine market.",
+      "Set up instructions and solution are included."
+    ],
+    "keywords": 0,
+    "description": "The original bottle puzzle has been given an extra twist... a corkscrew!  Fit a favorite bottle of wine into this sleek wooden contraption and secure the bottle with the corkscrew lock. Slip your gift into the accompanying gift bag and hand it to your host. Dinner conversation will flow and wine will flow, but only if you solve the puzzle!"
+  },
+  "attributes": {
+    "material": "Wood\nMetal",
+    "num_pieces": 3,
+    "whats_in_box": "2 wooden puzzle pieces, 1 corkscrew locking device, 1 gift bag, instructions.",
+    "primary_color": "Brown",
+    "secondary_color": 0,
+    "min_age": "21 +",
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.4,
+      "weight_unit": "lbs",
+      "length": 4.8,
+      "length_unit": "In",
+      "width": 4.8,
+      "width_unit": "In",
+      "height": 10,
+      "height_unit": "In"
+    },
+    "package": {
+      "weight": 1.5,
+      "weight_unit": "lbs",
+      "length": 5,
+      "length_unit": "In",
+      "width": 5,
+      "width_unit": "In",
+      "height": 14,
+      "height_unit": "In"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 16,
+      "length_unit": "in",
+      "width": 10.5,
+      "width_unit": "in",
+      "height": 15,
+      "height_unit": "in",
+      "weight": 11,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "2nd_Family Games America_New Item Setup Sheet Template Version 2026 Games.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "family-games-america"
+  }
+}

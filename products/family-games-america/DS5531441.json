@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531441",
+  "vendor": "Family Games America",
+  "brand": "Matchitecture",
+  "vendor_item_number": "MATCH6635",
+  "product_name": "MATCHITECTURE - TAJ MAHAL - 7500 PCS.",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "061404066351"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": null,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 99.99
+  },
+  "sourcing": {
+    "fob_point": "Montreal, QC",
+    "country_of_origin": "Canada",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "Construction kit",
+      "Cut and glue MICROBEAMS together",
+      "Easy to follow instruction and assembly plans.",
+      "Toy of the Year Award 2001 Belgium",
+      "New York 2003 Prix d'excellence Museum Tour Catalog"
+    ],
+    "keywords": 0,
+    "description": "The ivory-white marble mausoleum in the Indian city of Agra was commissioned in 1632 by emperor Shah Jahan to house the tomb of his favourite wife. The 43cm/17 inch tall model you are constructing has 7500 microbeams. Simply cut and glue the MICROBEAMS together according to the plans then assembled to create a 3D design. CUT - GLUE - ASSEMBLE. 61 x 61 x 43 cm / 24 x 24 x 17 inch tall when completed. MADE IN CANADA."
+  },
+  "attributes": {
+    "material": "Wood",
+    "num_pieces": 7510,
+    "whats_in_box": "1 assembly board, 1 acetate sheet, 4 clips, 1 matchsticks cutter, 7500 matchsticks, 2 bottles of wood glue (120ml / 4 oz), 1 pair of pliers, plans and instructions.",
+    "primary_color": "Dark Blue",
+    "secondary_color": "Brown",
+    "min_age": 14,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "Yes",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 2.6,
+      "weight_unit": "lbs",
+      "length": 24,
+      "length_unit": "in",
+      "width": 24,
+      "width_unit": "in",
+      "height": 17,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 5.75,
+      "weight_unit": "lbs",
+      "length": 2.99,
+      "length_unit": "in",
+      "width": 18.03,
+      "width_unit": "in",
+      "height": 14.57,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 2,
+      "length": 23.43,
+      "length_unit": "in",
+      "width": 7.09,
+      "width_unit": "in",
+      "height": 15.16,
+      "height_unit": "in",
+      "weight": 13.18,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "No, Age group 14+",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Family Games America New Item Setup Sheet Template Version 2025-1-1.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "family-games-america"
+  }
+}

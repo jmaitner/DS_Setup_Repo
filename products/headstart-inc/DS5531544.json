@@ -1,0 +1,119 @@
+{
+  "ds_number": "5531544",
+  "vendor": "Headstart Inc",
+  "brand": "Mermaid Magic",
+  "vendor_item_number": 28148,
+  "product_name": "Mermaid Magic  9\" Warrior Transformation Doll  - Merlinda",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "840150281481"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 10.8,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 34.99
+  },
+  "sourcing": {
+    "fob_point": "Yantian",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.00.73"
+  },
+  "content": {
+    "bullets": [
+      "2 in 1 transformation",
+      "9 points of movement",
+      "Outfit transformation",
+      "Detailed hair styling",
+      "Included fashion accessories"
+    ],
+    "keywords": "2 in 1 doll, mermaid doll, roleplay",
+    "description": "10 inch doll,9 points  of articulation,rooted hair,1set of fabric clothes,1 fabric mermaid tail"
+  },
+  "attributes": {
+    "material": "Plastic,  cloth",
+    "num_pieces": 1,
+    "whats_in_box": "1 x doll,1 x doll  jacket, 1 x leggings,1 x shoes,1 x fishtail skirt,1 x Trident,1 x bracelets,1 x ring",
+    "primary_color": "Blue",
+    "secondary_color": "Blue",
+    "min_age": 36,
+    "max_age": 72,
+    "gender": "Unisex",
+    "assembly_required": "NO",
+    "assembly_instructions": "NO"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781116044/Headstart/Mermaid_Magic/28148_Mermaid_Magic_9_Warrior_Transformation_Doll_Merlinda/28147_Mermaid_Magic_9in_Warrior_Doll_Asst_IP_Merlinda_B.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781116054/Headstart/Mermaid_Magic/28148_Mermaid_Magic_9_Warrior_Transformation_Doll_Merlinda/28147_Mermaid_Magic_9in_Warrior_Doll_Asst_IP_Merlinda_F.png",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781116059/Headstart/Mermaid_Magic/28148_Mermaid_Magic_9_Warrior_Transformation_Doll_Merlinda/28147_Mermaid_Magic_9in_Warrior_Doll_Asst_IP_Merlinda_L.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781116064/Headstart/Mermaid_Magic/28148_Mermaid_Magic_9_Warrior_Transformation_Doll_Merlinda/28147_Mermaid_Magic_9in_Warrior_Doll_Asst_IP_Merlinda_R.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781116068/Headstart/Mermaid_Magic/28148_Mermaid_Magic_9_Warrior_Transformation_Doll_Merlinda/28147_Mermaid_Magic_9in_Warrior_Doll_Asst_OOP_Merlinda_F.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781116071/Headstart/Mermaid_Magic/28148_Mermaid_Magic_9_Warrior_Transformation_Doll_Merlinda/28147_Mermaid_Magic_9in_Warrior_Doll_Asst_OOP_Merlinda_F2.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781116074/Headstart/Mermaid_Magic/28148_Mermaid_Magic_9_Warrior_Transformation_Doll_Merlinda/28147_Mermaid_Magic_9in_Warrior_Doll_Asst_OOP_Merlinda_GROUP.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.16,
+      "weight_unit": "lbs",
+      "length": 3.15,
+      "length_unit": "in",
+      "width": 13.78,
+      "width_unit": "in",
+      "height": 11.81,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.793,
+      "weight_unit": "lbs",
+      "length": 14.375,
+      "length_unit": "in",
+      "width": 10.25,
+      "width_unit": "in",
+      "height": 12.5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 3,
+      "length": 14.375,
+      "length_unit": "in",
+      "width": 10.25,
+      "width_unit": "in",
+      "height": 12.5,
+      "height_unit": "in",
+      "weight": 0.88,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts;   packaging card has printed warning words",
+    "lead_phthalates": null,
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": "Blister Pack",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Mermaid Magic New Item Setup Sheet Template Version 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 2061,
+    "last_verified": null,
+    "vendor_slug": "headstart-inc"
+  }
+}

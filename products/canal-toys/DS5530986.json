@@ -1,0 +1,122 @@
+{
+  "ds_number": "5530986",
+  "vendor": "CANAL TOYS",
+  "brand": "Airbrush Plush",
+  "vendor_item_number": "228412",
+  "product_name": "Airbrush Plush Neon Puppy – DIY Stuffed Animal Decorating Kit",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850052337957"
+  },
+  "pricing": {
+    "drop_ship_cost": 21.49,
+    "wholesale_cost": 15.39,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 29.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "Style a plush puppy with colorful airbrushed patterns and designs",
+      "choose from 120 stencils and 4 airbrush colors!",
+      null,
+      "When you’re done designing, wash your furry friend off and begin again!",
+      "Includes plush puppy, airbrush tool, 4 airbrush colors, 120 stick-on stencils, and plastic gloves"
+    ],
+    "keywords": 0,
+    "description": "Style your own plush puppy with the Airbrush Plush Neon Puppy kit! Choose from 120 stencils and 4 airbrush colors, position your patterns and designs, and use the working airbrush tool to decorate your furry friend. When you’re done designing, wash your plush pal, let it dry, and begin again! Includes plush puppy, airbrush tool, 4 airbrush colors, 120 stick-on stencils, and plastic gloves."
+  },
+  "attributes": {
+    "material": "plush, ink, felt, plastic, paper",
+    "num_pieces": "8 pieces",
+    "whats_in_box": "1 Plush ,1  Airbrush tool, sticker sheets, plastic gloves,1  instruction manual",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": "6+",
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/81zfRcV057L.jpg",
+      "https://m.media-amazon.com/images/I/71Ta9RvJyDL.jpg",
+      "https://m.media-amazon.com/images/I/8143MZi9AjL.jpg",
+      "https://m.media-amazon.com/images/I/71aDrexSj5L.jpg",
+      "https://m.media-amazon.com/images/I/81HUDzNtrEL.jpg",
+      "https://m.media-amazon.com/images/I/71E+xbs2imL.jpg",
+      "https://m.media-amazon.com/images/I/715Nc-Pe5TL.jpg",
+      "https://m.media-amazon.com/images/I/71hC6WdehiL.jpg",
+      "https://m.media-amazon.com/images/I/61Tsec0o8DL.jpg",
+      "https://m.media-amazon.com/images/I/61xVsMSd2iL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.33,
+      "weight_unit": "lbs",
+      "length": 6.5,
+      "length_unit": "in",
+      "width": 4.5,
+      "width_unit": "in",
+      "height": 12.2,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.33,
+      "weight_unit": "lbs",
+      "length": 6.5,
+      "length_unit": "in",
+      "width": 4.5,
+      "width_unit": "in",
+      "height": 12.2,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 13.58,
+      "length_unit": "in",
+      "width": 9.65,
+      "width_unit": "in",
+      "height": 13,
+      "height_unit": "in",
+      "weight": "6.6",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "Yes",
+    "batteries_included": "No",
+    "battery_cell_comp": 0,
+    "battery_type_qty": "2 AA",
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

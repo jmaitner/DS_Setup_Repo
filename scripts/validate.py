@@ -31,6 +31,12 @@ import json
 import os
 import sys
 
+for _stream in (sys.stdout, sys.stderr):
+    try:
+        _stream.reconfigure(encoding="utf-8")
+    except (AttributeError, ValueError):
+        pass
+
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from ds_schema import brand_slug
 
@@ -77,27 +83,29 @@ def main():
             continue
 
         ds = str(p.get("ds_number") or "").strip()
-        brand = p.get("brand")
+        vendor = p.get("vendor")
         name = p.get("product_name")
         upc = str((p.get("identity") or {}).get("upc") or "").strip()
 
         # ── required fields ──
         if not ds:
             errors.append(f"{rel}: missing ds_number")
-        if not brand:
-            errors.append(f"{rel}: missing brand")
+        if not vendor:
+            errors.append(f"{rel}: missing vendor")
+        if not p.get("brand"):
+            warnings.append(f"{rel}: missing brand")
         if not name:
             errors.append(f"{rel}: missing product_name")
         if not upc:
             errors.append(f"{rel}: missing identity.upc")
 
-        # ── location / naming ──
-        if ds and brand:
-            expected_dir = os.path.join(PRODUCTS_DIR, brand_slug(brand))
+        # ── location / naming (folder keyed on vendor) ──
+        if ds and vendor:
+            expected_dir = os.path.join(PRODUCTS_DIR, brand_slug(vendor))
             expected_name = f"DS{ds}.json"
             if os.path.dirname(path) != expected_dir:
-                errors.append(f"{rel}: wrong folder - brand '{brand}' should live in "
-                              f"products/{brand_slug(brand)}/")
+                errors.append(f"{rel}: wrong folder - vendor '{vendor}' should live in "
+                              f"products/{brand_slug(vendor)}/")
             if os.path.basename(path) != expected_name:
                 errors.append(f"{rel}: filename should be {expected_name}")
 

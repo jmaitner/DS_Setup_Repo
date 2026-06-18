@@ -1,0 +1,123 @@
+{
+  "ds_number": "5530989",
+  "vendor": "CANAL TOYS",
+  "brand": "Paw Patrol",
+  "vendor_item_number": "777001",
+  "product_name": "Paw Patrol Instant Print Camera for Kids",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850052337742"
+  },
+  "pricing": {
+    "drop_ship_cost": 51.99,
+    "wholesale_cost": 45.36,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 59.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "INNOVATIVE AND ECONOMIC INSTANT PRINTING DIGITAL CAMERA SUITABLE FOR CHILDREN FROM 4 YEARS: Take a picture of your environment, family or friends and print instantly. The colour LCD display makes it easy to navigate menus and frame / view photos.",
+      "AW PATROL DESIGN: a camera with a unique Paw Patrol design! The filters and stickers provided are also from the cartoon, to personalize his photos!",
+      "3 IN 1: In addition to photo and instant printing, thanks to the interface provided for this purpose, you can insert a micro-SD card (not included) to make videos, save your photos for reviewing them later or transfer them to share with family and/or friends.",
+      "ERGONOMIC & INTUITIVE: This product has been developed especially for children aged 4 and up. The shape of the device and the layout of the buttons are designed for intuitive use and easy grip. Inkfree: the printing is done by thermal transfer and requires no drying time. Guaranteed BPA free thermal paper.",
+      "FUNCTIONS: 12 Megapixel Resolution / Front and Rear Dual Lens / 200 DPI Print Quality / 2.0 Inch Color LCD Screen / Customizable with 5 Filters and 22 Frames / Compatible Storage Support: Micro SD Card (not included). No need to have a micro SD card to print the photos / Built-in battery with USB cable included / Compatible with computers, laptops and tablets with USB port."
+    ],
+    "keywords": 0,
+    "description": "Capture photos and instantly print them with the Paw Patrol™ Instant Camera This easy-to-use camera includes three different functions in one device – a digital camera, instant printer, and a video camera! Use the back or front facing lenses to capture photos or selfies. Switch to the video function to have fun recording videos with your friends. You can even choose between multiple Paw Patrol™ themed effects to add onto your photos. Fun filters with favorite PAW Patrol pups: Chase, Marshall, Rubble, Skye and more. Must have for all Paw Patrol fans. The thermal printing capability means no ink and no film! You’ll always be ready to capture and print a fun memory. Personalize your photos with markers and trendy stickers to hang on your wall or locker. The compact design, wrist strap, printer, and funny effects make the Paw Patrol™ Instant Camera perfect for parties, and any other occasions! Instant photos and instant fun! Print over 250 black and white photos and save full color digital versions on your computer with the included USB cable. Includes one camera, one wrist strap, one USB cable, 4 paper rolls, 4 markers, and 50+ stickers! Includes 1 camera, 1 USB cable, 1 strap, 4 rolls of thermal printing paper, 1 sheet of stickers, 4 markers!"
+  },
+  "attributes": {
+    "material": "plastic, paper,",
+    "num_pieces": "12 pieces",
+    "whats_in_box": "1camera, 1 USB charging cable, 1wrist strap, 4 rolls of thermal paper rolls (BPA-free), 4 markers, and 1 sticker sheet.",
+    "primary_color": "Blue",
+    "secondary_color": 0,
+    "min_age": 4,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/817J3Za2F3L.jpg",
+      "https://m.media-amazon.com/images/I/81HEPv8Q1pL.jpg",
+      "https://m.media-amazon.com/images/I/81JIBuTVRVL.jpg",
+      "https://m.media-amazon.com/images/I/81byW49Yq8L.jpg",
+      "https://m.media-amazon.com/images/I/81Z8olbuKzL.jpg",
+      "https://m.media-amazon.com/images/I/71q6knklHML.jpg",
+      "https://m.media-amazon.com/images/I/71HEzVtmPnL.jpg",
+      "https://m.media-amazon.com/images/I/71iy0jgV9HL.jpg",
+      "https://m.media-amazon.com/images/I/81KE5SC2C-L.jpg",
+      "https://m.media-amazon.com/images/I/71MONX835UL.jpg",
+      "https://m.media-amazon.com/images/I/81tRnD4QReL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.375,
+      "weight_unit": "lbs",
+      "length": 9.45,
+      "length_unit": "in",
+      "width": 2.36,
+      "width_unit": "in",
+      "height": 7.9,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.375,
+      "weight_unit": "lbs",
+      "length": 9.45,
+      "length_unit": "in",
+      "width": 2.36,
+      "width_unit": "in",
+      "height": 7.9,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 10.63,
+      "length_unit": "in",
+      "width": 10.24,
+      "width_unit": "in",
+      "height": 9.25,
+      "height_unit": "in",
+      "weight": "6.2",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "Yes",
+    "batteries_included": "Yes",
+    "battery_cell_comp": 0,
+    "battery_type_qty": "Built in rechargable",
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

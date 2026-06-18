@@ -1,0 +1,122 @@
+{
+  "ds_number": "5530991",
+  "vendor": "CANAL TOYS",
+  "brand": "Airbrush Plush",
+  "vendor_item_number": "AIR040",
+  "product_name": "Airbrush Plush Hair'iffic Squishy Kitty – Styling & Airbrush Kit",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850060743238"
+  },
+  "pricing": {
+    "drop_ship_cost": 18.74,
+    "wholesale_cost": 13.85,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 24.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "Decorate this soft, high-quality plush kitty with a real airbrush. Combine stencils to created patterns and designs. Once the plush is finished, simply wash it to start again! Reuse the stencils to create new designs and hair styles",
+      "Children will have fun customizing their squishy plush kitty toy using the 3 felt-tip airbrush markers, electronic Airbrush sprayer, stencils, and hair accessories included. Bead, braid, and style the hair with the comb and hair beading set",
+      "Includes hairdryer shaped airbrush tool is easy to use to make all your colorful creations. Requires 2 x AA / LR6 batteries (not included).",
+      "Suitable for children 6+: non-toxic ink with special fast-drying formula and marker tip fitted to Airbrush Plush brand airbrush spray tool",
+      0
+    ],
+    "keywords": 0,
+    "description": "Airbrush Plush now has “Hair’iffic” hairstyling fun! Transform your Hair’iffic Squishy plush kitty toy into a real work of art! Use the electronic airbrush tool, markers, and stencils, give it a unique and colorful look. Have fun styling its hair with the hair clips, comb and beads. Simply wash and dry to start a new colorful style. The stencil designs have sticker back to stay in place on your plush character while airbrushing. Simply peel off and reposition to repeat shapes and create patterns. Both stencils and masking shapes are included. Reuse stencils over and over. It’s so soft and squishy. Collect all of the Airbrush Plush styles!"
+  },
+  "attributes": {
+    "material": "plush, ink, felt, plastic, paper",
+    "num_pieces": "7 pieces",
+    "whats_in_box": "1 plush, 3 markers, 1 airbrush sprayer, stencil sheet, hair accessories,",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/81M3qmgbSAL.jpg",
+      "https://m.media-amazon.com/images/I/71DmIfCY2qL.jpg",
+      "https://m.media-amazon.com/images/I/71En6jtpJLL.jpg",
+      "https://m.media-amazon.com/images/I/81iyHrlXUhL.jpg",
+      "https://m.media-amazon.com/images/I/61NRx-MWbRL.jpg",
+      "https://m.media-amazon.com/images/I/61fx8lChJ3L.jpg",
+      "https://m.media-amazon.com/images/I/61dwT8nyFmL.jpg",
+      "https://m.media-amazon.com/images/I/71Gn8q69qUL.jpg",
+      "https://m.media-amazon.com/images/I/61X2lStfMxL.jpg",
+      "https://m.media-amazon.com/images/I/71mWmBq533L.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.78,
+      "weight_unit": "lbs",
+      "length": 9.84,
+      "length_unit": "in",
+      "width": 4.57,
+      "width_unit": "in",
+      "height": 9.84,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.78,
+      "weight_unit": "lbs",
+      "length": 9.84,
+      "length_unit": "in",
+      "width": 4.57,
+      "width_unit": "in",
+      "height": 9.84,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 20.47,
+      "length_unit": "in",
+      "width": 14.56,
+      "width_unit": "in",
+      "height": 10.43,
+      "height_unit": "in",
+      "weight": "4.7",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "Yes",
+    "batteries_included": "No",
+    "battery_cell_comp": 0,
+    "battery_type_qty": "2 AA",
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "ds_number": "5530982",
+  "vendor": "CANAL TOYS",
+  "brand": "Style 4 Ever",
+  "vendor_item_number": "228351",
+  "product_name": "Style 4 Ever 3-in-1 Scrapbooking Station",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850041019666"
+  },
+  "pricing": {
+    "drop_ship_cost": 19.87,
+    "wholesale_cost": 13.28,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 26.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "Design your own scrapbooking creations",
+      "Use stickers and tape to make cool designs",
+      "Emboss your scrapbook pages!",
+      "Combine your creations with your photos or journaling for a cool keepsake",
+      "Use the gemstones for an extra sparkle"
+    ],
+    "keywords": 0,
+    "description": "Design your own scrapbooking creations with this unique 3-in-1 Scrapbooking station! Design your own stickers, tapes and embossed decorations. The stylish workstation includes an embossing machine, tape & sticker dispensers and holds your decorating supplies. It even includes a memory book with formatted pages to start creating! Combine your creations with your photos or journaling for the ultimate keepsake book! There are so many ways to decorate each page using custom tapes, stickers, glitter glue, gems, stencils, embossing plates and more. Mix and combine techniques to make it totally customized"
+  },
+  "attributes": {
+    "material": "plastic, felt, ink, paper, glue,",
+    "num_pieces": "33 pieces",
+    "whats_in_box": "3-in-1 plastic workstation with 4 embossing designs, memory book, 4 rolls of paper tapes, 2 rolls of stickers, 10 decorative papers, 4 markers, 2 colors of glitter glue, 1 glue stick, 3 stencil cards, gems and instructional guide",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 8,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/813xpmPBpuL.jpg",
+      "https://m.media-amazon.com/images/I/81xivOBfJCL.jpg",
+      "https://m.media-amazon.com/images/I/813yM-xhTLL.jpg",
+      "https://m.media-amazon.com/images/I/71oeXVLc2yL.jpg",
+      "https://m.media-amazon.com/images/I/81RHwgh72ZL.jpg",
+      "https://m.media-amazon.com/images/I/81wFDt4CVVL.jpg",
+      "https://m.media-amazon.com/images/I/71z2CXBlnTL.jpg",
+      "https://m.media-amazon.com/images/I/71E5T3JdmPL.jpg",
+      "https://m.media-amazon.com/images/I/71XhhDzsXvL.jpg",
+      "https://m.media-amazon.com/images/I/71oAcZ8QipL.jpg",
+      "https://m.media-amazon.com/images/I/81ZPnpYxjHL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 2.15,
+      "weight_unit": "lbs",
+      "length": 13.4,
+      "length_unit": "in",
+      "width": 3.15,
+      "width_unit": "in",
+      "height": 12.2,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 2.15,
+      "weight_unit": "lbs",
+      "length": 13.4,
+      "length_unit": "in",
+      "width": 3.15,
+      "width_unit": "in",
+      "height": 12.2,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 14.2,
+      "length_unit": "in",
+      "width": 13.4,
+      "width_unit": "in",
+      "height": 13,
+      "height_unit": "in",
+      "weight": 12.9,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

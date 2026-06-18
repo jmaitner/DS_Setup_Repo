@@ -4,11 +4,12 @@
   "title": "DS Catalog Product",
   "description": "One product from a DS setup sheet (DS Only tab, 81 fields). Source of truth for the catalog.",
   "type": "object",
-  "required": ["ds_number", "brand", "product_name", "identity"],
+  "required": ["ds_number", "vendor", "product_name", "identity"],
   "additionalProperties": false,
   "properties": {
     "ds_number": { "type": "string", "description": "DS item number. Primary key. Filename is DS<ds_number>.json." },
-    "brand": { "type": "string", "description": "Brand name. Determines the products/<brand-slug>/ folder." },
+    "vendor": { "type": "string", "description": "Vendor / supplier we buy from (e.g. 'Headstart Inc'). Determines the products/<vendor-slug>/ folder." },
+    "brand": { "type": ["string", "null"], "description": "Marketing brand from the sheet's Brand Name column (e.g. 'Disney Toddler'). May differ from vendor." },
     "vendor_item_number": { "type": ["string", "null"], "description": "Vendor's own SKU / item number." },
     "product_name": { "type": "string" },
 
@@ -130,7 +131,19 @@
         "cpc": { "type": ["string", "null"] },
         "product_pics": { "type": ["string", "null"] },
         "instructions": { "type": ["string", "null"] },
-        "letter_of_compliance": { "type": ["string", "null"] }
+        "letter_of_compliance": { "type": ["string", "null"] },
+        "documents": {
+          "type": "array",
+          "description": "Compliance/testing documents (Cloudinary URLs), merged from doc-URL files.",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "type": { "type": ["string", "null"], "description": "e.g. 'ASTM Test Report', 'CPC', 'CPSIA'" },
+              "url": { "type": "string" }
+            }
+          }
+        }
       }
     },
 

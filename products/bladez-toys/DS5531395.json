@@ -1,0 +1,121 @@
+{
+  "ds_number": "5531395",
+  "vendor": "BLADEZ TOYS",
+  "brand": "BLADEZ",
+  "vendor_item_number": "HW30000",
+  "product_name": "Hot Wheels Monster Trucks Sticker Activity Set",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "5061051300001"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 0.85,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 2.99
+  },
+  "sourcing": {
+    "fob_point": "Ningbo, CN",
+    "country_of_origin": "China",
+    "harmonized_code": 9503007000
+  },
+  "content": {
+    "bullets": [
+      "UNLEASH CREATIVITY - This Hot Wheels Monster Trucks Sticker Craft Activity Set comes with 40+ pieces including stickers and colour-in card monster trucks, making it perfect for hours of creative fun!",
+      "IDEAL FOR ON-THE-GO FUN - Compact and easy to carry, this set is perfect for keeping young fans entertained anywhere. With sticker sheets, strips, and small colouring pages, it fits easily into any bag, making it an ideal sticker pack for travel.",
+      "PERFECT FOR PARTY BAGS - Ideal for party bags, these vibrant and fun sets make fantastic gifts. With stickers, colouring and pens included, they are perfect for all young monster truck fans!",
+      "OFFICIALLY LICENSED HOT WHEELS - An authentic Hot Wheels product, this set includes colour-in card monster trucks for interactive play!",
+      0
+    ],
+    "keywords": 0,
+    "description": "Craft and customise with this Hot Wheels Monster Trucks Sticker Activity Set, including colour-in cardboard racer, felt tip pens and stickers. Great for on the go fun, this sticker set makes the perfect creative activity for young fans."
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": 1,
+    "whats_in_box": "1 x Sticker Activity Set including Stickers, Pens, Colouring Sheets and Card Characters",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 3,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": "N/A"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.042108242,
+      "weight_unit": "lbs",
+      "length": 0.47244094488188976,
+      "length_unit": "in",
+      "width": 4.724409448818897,
+      "width_unit": "in",
+      "height": 7.874015748031496,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.1,
+      "weight_unit": "lbs",
+      "length": 0.4330708661417323,
+      "length_unit": "in",
+      "width": 4.724409448818897,
+      "width_unit": "in",
+      "height": 7.874015748031496,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 24,
+      "length": 5.9,
+      "length_unit": "in",
+      "width": 10.8,
+      "width_unit": "in",
+      "height": 8.5,
+      "height_unit": "in",
+      "weight": "3.2",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Compliant as of 06/09/25",
+    "warranty_included": "No",
+    "warranty_desc": "12 Months",
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": "Hang Card",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0,
+    "documents": [
+      {
+        "type": "ASTM Test Report",
+        "url": "https://res.cloudinary.com/dbwtptwyf/raw/upload/v1779195891/bladez-toyz/2026/testing/BTHW-C08/Bladez_Maker_Kitz_Activity_Sets__8525_1540197_ASTM_US.pdf"
+      },
+      {
+        "type": "CPC",
+        "url": "https://res.cloudinary.com/dbwtptwyf/raw/upload/v1779195893/bladez-toyz/2026/testing/BTHW-C08/Bladez_Maker_Kitz_Activity_Sets_US_CPC.pdf"
+      }
+    ]
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "bladez-toys"
+  }
+}

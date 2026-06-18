@@ -1,0 +1,123 @@
+{
+  "ds_number": "5530506",
+  "vendor": "CANAL TOYS",
+  "brand": "Studio Creator",
+  "vendor_item_number": "872074",
+  "product_name": "Studio Creator Podcast & Vlog Kit with Microphone & LED Light",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850041019109"
+  },
+  "pricing": {
+    "drop_ship_cost": 18.74,
+    "wholesale_cost": 10.94,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 24.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "Fold Up table top kit",
+      "compact design to record on the go",
+      "LED light with 3 modes",
+      "Built in smart phone holder",
+      "Easy to use recording"
+    ],
+    "keywords": 0,
+    "description": "Record your own podcasts and vlogs like your favorite content creators! The Podcast & Vlog Kit from Studio_Creator brings your video and audio quality to the next level! The kit includes everything you need: a fold-up tabletop tripod with a smartphone holder, LED light, and microphone. The compact design makes it so easy to record digital content at home and on the go! Simply fold up the tabletop tripod into a portable phone grip and take it on your next adventure! Whether you’re vlogging fun memories with your friends or interviewing them for a podcast, your videos will look and sound great! The Podcast & Vlog kit is great for record other types of content too like beauty tutorials, livestreams, singing videos, and so much more! Includes 1 microphone, 1 LED light with 3 light modes, 1 smartphone holder, 1 tabletop trip/portable phone grip, 1 3.5mm audio cable, and instructions. Ages 8+"
+  },
+  "attributes": {
+    "material": "plastic, paper",
+    "num_pieces": "6 pieces",
+    "whats_in_box": "1 microphone, 1 LED light with 3 light modes, 1 smartphone holder, 1 tabletop trip/portable phone grip, 1 3.5mm audio cable, and instructions",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 8,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": 0,
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/81VqgAp3rpL.jpg",
+      "https://m.media-amazon.com/images/I/61bwy7hXwKL.jpg",
+      "https://m.media-amazon.com/images/I/61X3x2QFL9L.jpg",
+      "https://m.media-amazon.com/images/I/61pI5itL93L.jpg",
+      "https://m.media-amazon.com/images/I/81-Xbm63uaL.jpg",
+      "https://m.media-amazon.com/images/I/51BP-zRAhLL.jpg",
+      "https://m.media-amazon.com/images/I/81-hXVVI7VL.jpg",
+      "https://m.media-amazon.com/images/I/71JHQ6Kdl-L.jpg",
+      "https://m.media-amazon.com/images/I/71qevKlDnDL.jpg",
+      "https://m.media-amazon.com/images/I/81Smz6UbZrL.jpg",
+      "https://m.media-amazon.com/images/I/715jgSZ6RJL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.4,
+      "weight_unit": "lbs",
+      "length": 7,
+      "length_unit": "in",
+      "width": 1.55,
+      "width_unit": "in",
+      "height": 9.75,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.4,
+      "weight_unit": "lbs",
+      "length": 7,
+      "length_unit": "in",
+      "width": 1.55,
+      "width_unit": "in",
+      "height": 9.75,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 10.43,
+      "length_unit": "in",
+      "width": 9.84,
+      "width_unit": "in",
+      "height": 7.67,
+      "height_unit": "in",
+      "weight": "5.5",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

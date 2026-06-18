@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531065",
+  "vendor": "First 4 Figures",
+  "brand": "First 4 Figures",
+  "vendor_item_number": "YGOREBST",
+  "product_name": "Yu-Gi-Oh! - Red-Eyes B. Dragon Black Edition",
+  "identity": {
+    "id_type": "UPC,EAN",
+    "upc": "5060316625392"
+  },
+  "pricing": {
+    "drop_ship_cost": 104.99,
+    "wholesale_cost": 49,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 139.99
+  },
+  "sourcing": {
+    "fob_point": "China",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible"
+    ],
+    "keywords": 0,
+    "description": "The statue's concept draws inspiration from Red-Eyes B. Dragon's unparalleled strength and unyielding ferocity, brilliantly captured in its dynamic pose. The highly-detailed base, featuring a captivating environment of lava, smoke, and flames, complements the monster's fierce nature. The patterns on the sides of the base are reminiscent of Ancient Egyptian times.\n* Red-Eyes B. Dragon is available in 2 colour variants, black or purple"
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": 4,
+    "whats_in_box": "• Yu-Gi-Oh! – Red-Eyes B. Dragon PVC painted statue (Black or Purple colour variant)\n• Highly detailed base inspired by the Yu-Gi-Oh! art style",
+    "primary_color": "Black",
+    "secondary_color": 0,
+    "min_age": 15,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 3.22,
+      "weight_unit": "lbs",
+      "length": 12.2,
+      "length_unit": "in",
+      "width": 10.9,
+      "width_unit": "in",
+      "height": 13.1,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0,
+      "weight_unit": "lbs",
+      "length": 13.58,
+      "length_unit": "in",
+      "width": 12.4,
+      "width_unit": "in",
+      "height": 13.7,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 27.76,
+      "length_unit": "in",
+      "width": 25.39,
+      "width_unit": "in",
+      "height": 14.76,
+      "height_unit": "in",
+      "weight": 18.96,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "first-4-figures"
+  }
+}

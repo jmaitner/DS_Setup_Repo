@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531022",
+  "vendor": "First 4 Figures",
+  "brand": "First 4 Figures",
+  "vendor_item_number": "DKM2VST",
+  "product_name": "Darkstalkers – Morrigan Aensland (Player 2 Variant)",
+  "identity": {
+    "id_type": "UPC,EAN",
+    "upc": "5060316627549"
+  },
+  "pricing": {
+    "drop_ship_cost": 74.99,
+    "wholesale_cost": 35,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 99.99
+  },
+  "sourcing": {
+    "fob_point": "China",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible"
+    ],
+    "keywords": 0,
+    "description": "The design of the base comes from Morrigan's stage in the game, Deserted Chateau. In the foreground and background of the stage are numerous rock formations as if players were fighting in a cave. As for the coffin, the purple puddle, the skulls, and the candles on the base, these are details that can also be found in the background of Deserted Chateau. The coffin is resting on the left-most part of the stage, and to the right is a body of purple liquid lit by candles with skulls and bones floating.The design of the base comes from Morrigan's stage in the game, Deserted Chateau. In the foreground and background of the stage are numerous rock formations as if players were fighting in a cave. As for the coffin, the purple puddle, the skulls, and the candles on the base, these are details that can also be found in the background of Deserted Chateau. The coffin is resting on the left-most part of the stage, and to the right is a body of purple liquid lit by candles with skulls and bones floating."
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": 2,
+    "whats_in_box": "• Darkstalkers – Morrigan Aensland PVC painted statue (Player 2 variant)\n• Highly detailed base inspired by the Darkstalkers art style",
+    "primary_color": "Grey",
+    "secondary_color": 0,
+    "min_age": 15,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.92,
+      "weight_unit": "lbs",
+      "length": 7.7,
+      "length_unit": "in",
+      "width": 5.7,
+      "width_unit": "in",
+      "height": 10,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0,
+      "weight_unit": "lbs",
+      "length": 10.04,
+      "length_unit": "in",
+      "width": 9.25,
+      "width_unit": "in",
+      "height": 11.73,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 20.47,
+      "length_unit": "in",
+      "width": 18.9,
+      "width_unit": "in",
+      "height": 12.2,
+      "height_unit": "in",
+      "weight": 0,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "first-4-figures"
+  }
+}

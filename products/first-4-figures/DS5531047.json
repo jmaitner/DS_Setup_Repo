@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531047",
+  "vendor": "First 4 Figures",
+  "brand": "First 4 Figures",
+  "vendor_item_number": "SPY2ST",
+  "product_name": "Spyro™ 2: Classic Ripto's Rage (Standard Edition)",
+  "identity": {
+    "id_type": "UPC,EAN",
+    "upc": "5060316623701"
+  },
+  "pricing": {
+    "drop_ship_cost": 63.74,
+    "wholesale_cost": 29.75,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 84.99
+  },
+  "sourcing": {
+    "fob_point": "China",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible"
+    ],
+    "keywords": 0,
+    "description": "The concept for this statue is inspired by the official cover of the classic Spyro 2: Classic Ripto's Rage video game, from the pose of Spyro down to the design of the PVC base. The tilt of Spyro's head, his right paw up, the slight lean forward, the grassy terrain on fire that Spyro is standing on, and everything in between all directly matches the official video game cover the statue is based on!"
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": 4,
+    "whats_in_box": "• Spyro 2: Classic Ripto's Rage PVC painted statue\n• Highly detailed PVC base inspired by the Spyro the Dragon art style\n• Collectors Box containing F4F Leaflet with 500 F4F reward points included",
+    "primary_color": "Purple",
+    "secondary_color": 0,
+    "min_age": 15,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.32,
+      "weight_unit": "lbs",
+      "length": 7.3,
+      "length_unit": "in",
+      "width": 5.1,
+      "width_unit": "in",
+      "height": 7.7,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.98,
+      "weight_unit": "lbs",
+      "length": 9.65,
+      "length_unit": "in",
+      "width": 8.07,
+      "width_unit": "in",
+      "height": 10.04,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 19.69,
+      "length_unit": "in",
+      "width": 16.54,
+      "width_unit": "in",
+      "height": 11.02,
+      "height_unit": "in",
+      "weight": 9.04,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "first-4-figures"
+  }
+}

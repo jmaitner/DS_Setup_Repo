@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531368",
+  "vendor": "Cactus Games",
+  "brand": "Tales of Glory",
+  "vendor_item_number": "CGD8220",
+  "product_name": "Nativity Playset",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "603154505386"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 17.5,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 35
+  },
+  "sourcing": {
+    "fob_point": "Long Beach, CA",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0000"
+  },
+  "content": {
+    "bullets": [
+      "Complete Playset: This Nativity playset includes 17 colorful pieces and a mini storybook, providing everything needed for children to engage with the holiday story.",
+      "Interactive Learning: Designed to create excitement and wonder, this interactive set serves as a fun teaching tool for the Nativity story, suitable for repeated use.",
+      "Durable Construction: Made from durable plastic, the set is designed for children to play and reenact the Nativity Story without concern for damaging a special Nativity set.",
+      "Storybook Inclusion: A miniature storybook in English and Spanish is included, simplifying the process of teaching the Bible story of the birth of Baby Jesus Christ while children play",
+      "Storybook Inclusion: A miniature storybook in English and Spanish is included, simplifying the process of teaching the Bible story of the birth of Baby Jesus Christ while children play"
+    ],
+    "keywords": "christian, bible, religious, toy, historical, figurines",
+    "description": "Children bring the story of Jesus’ birth to life with this charming Nativity Set. The complete collection features a mini storybook describing the birth of Christ and 17 toy pieces ideal for little hands to play and learn"
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": "17 pieces",
+    "whats_in_box": "Stable, figurines, animals, storybook",
+    "primary_color": "multicolor",
+    "secondary_color": 0,
+    "min_age": 36,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.8,
+      "weight_unit": "lbs",
+      "length": 12,
+      "length_unit": "in",
+      "width": 6,
+      "width_unit": "in",
+      "height": 5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.8,
+      "weight_unit": "lbs",
+      "length": 12,
+      "length_unit": "in",
+      "width": 6,
+      "width_unit": "in",
+      "height": 5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 13,
+      "length_unit": "in",
+      "width": 11,
+      "width_unit": "in",
+      "height": 13,
+      "height_unit": "in",
+      "weight": 9,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": 0,
+    "warranty_included": "Yes",
+    "warranty_desc": "6 month manufactuer warranty",
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": "Box",
+    "compliance_cert": "NOT REQUIRED",
+    "doc": "NOT REQUIRED",
+    "sds": "NOT REQUIRED",
+    "sds_url": "NOT REQUIRED",
+    "cpsia": "NOT REQUIRED",
+    "test_reports": "Dropbox",
+    "cpc": "Dropbox",
+    "product_pics": "Dropbox",
+    "instructions": "NOT REQUIRED",
+    "letter_of_compliance": "NOT REQUIRED"
+  },
+  "_meta": {
+    "source_file": "Cactus Games Setup Sheet Template Version 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 210,
+    "last_verified": null,
+    "vendor_slug": "cactus-games"
+  }
+}

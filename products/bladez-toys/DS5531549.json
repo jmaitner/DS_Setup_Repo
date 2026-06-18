@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531549",
+  "vendor": "BLADEZ TOYS",
+  "brand": "BLADEZ",
+  "vendor_item_number": "HW85481",
+  "product_name": "Hot Wheels R/C Drift 'N' Fly Drone",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "5060158854813"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 49.99,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 18
+  },
+  "sourcing": {
+    "fob_point": "Yantian, CN",
+    "country_of_origin": "China",
+    "harmonized_code": 9503007500
+  },
+  "content": {
+    "bullets": [
+      "AUTO HOVER - Effortless hovering technology keeps these kids drones steady mid-flight, making them brilliant for learning aerial control and stunts",
+      "2 IN 1 RC ACTION - Switch to drive mode and experience some super quick, super smooth drifting action!",
+      "FLIGHT FUN - This 2.4GHz drone is more than a drone – it’s a Drone Racer! Easy to fly, you can perform tricks and stunts to impress the crowd!",
+      "CRASH RESISTANT - With crash resistant guards and a durable foam body, this drone racer is ready to fly indoors or out! It also comes with some replacement parts to keep it performing at it's best!",
+      "OFFICIAL LICENSED HOT WHEELS TOY - This Drift n Fly Drone has the iconic Hot Wheels styling and is great for kids 8 years and above."
+    ],
+    "keywords": null,
+    "description": "The Hot Wheels Fly N Drift Drone Racer is more than a drone – it’s a Drone Racer! Fly with Auto Hover – then remotely switch to drive mode with super smooth drifting action! Easy to fly, fun to drive and hard to beat! A must have for 2026."
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": 9,
+    "whats_in_box": "1 x 2.4GHz Quadcopter, 1 x Handset, 1 x USB Charging Cable, 4 x Spare Rotor Blades, 1 x Screwdriver, 1 x Instruction Sheet",
+    "primary_color": "Blue",
+    "secondary_color": null,
+    "min_age": 8,
+    "max_age": null,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": "N/A"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.38,
+      "weight_unit": "lbs",
+      "length": 8.27,
+      "length_unit": "in",
+      "width": 5.51,
+      "width_unit": "in",
+      "height": 2.76,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.88,
+      "weight_unit": "lbs",
+      "length": 3.15,
+      "length_unit": "in",
+      "width": 11.81,
+      "width_unit": "in",
+      "height": 11.42,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 19,
+      "length_unit": "in",
+      "width": 12.6,
+      "width_unit": "in",
+      "height": 12.2,
+      "height_unit": "in",
+      "weight": 6.98,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Pending",
+    "warranty_included": "No",
+    "warranty_desc": "12 Months",
+    "batteries_required": "Yes",
+    "batteries_included": "Yes",
+    "battery_cell_comp": "TBC",
+    "battery_type_qty": "1x Rechargeable Li-ion (Included)\n3x AAA (Not Included)",
+    "packaging_type": "Open Box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "bladez-toys"
+  }
+}

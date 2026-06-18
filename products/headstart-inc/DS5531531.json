@@ -1,0 +1,113 @@
+{
+  "ds_number": "5531531",
+  "vendor": "Headstart Inc",
+  "brand": "Disney Toddler",
+  "vendor_item_number": 26929,
+  "product_name": "Disney Toddler Stitch Shake It Up Feature Plush",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "840150269298"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 11.77,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 36.99
+  },
+  "sourcing": {
+    "fob_point": "Shanghai",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "Interactive touchpoints teach shapes and colours through play",
+      "Shake response adds fun feedback and encourages active learning",
+      "Press tummy to activate calming heartbeat self-soothe mode",
+      "Supports emotional development, sensory play and curiosity",
+      "Part of the trusted Disney Toddler range – “Big fun for little ones”"
+    ],
+    "keywords": "interactive plush toy, stitch plush toy, toddler learning toy, sensory plush toy, shapes and colours toy, baby interactive toy, emotional development toy, toddler gift",
+    "description": "Shake, learn and play with the Disney Toddler Stitch Shake It Up Feature Plush. Designed for interactive toddler fun, Stitch features six touchpoints on his ears, hands and feet that help little ones learn shapes and colours through hands-on play. Respond correctly or Stitch will shake with playful feedback, encouraging engagement and curiosity. Press Stitch’s tummy to activate a calming heartbeat, supporting self-soothing and emotional development during quiet moments. With a soft, huggable design and engaging sensory features, this playful companion supports learning at every milestone. Part of the Disney Toddler range, it’s a fun and trusted toy that brings big fun for little ones."
+  },
+  "attributes": {
+    "material": "softboa",
+    "num_pieces": 1,
+    "whats_in_box": "1 x plush toy",
+    "primary_color": "oxford blue",
+    "secondary_color": "light blue",
+    "min_age": 36,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": "No"
+  },
+  "images": {
+    "availability": 0,
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781614855/Headstart/Updated/26929/26929_Stitch_Shake_it_Up_Plush_Main.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.7,
+      "weight_unit": "lbs",
+      "length": 5.9,
+      "length_unit": "in",
+      "width": 7.5,
+      "width_unit": "in",
+      "height": 11,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.15,
+      "weight_unit": "lbs",
+      "length": 4.5,
+      "length_unit": "in",
+      "width": 10,
+      "width_unit": "in",
+      "height": 14.5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 14.5,
+      "length_unit": "in",
+      "width": 21,
+      "width_unit": "in",
+      "height": 15,
+      "height_unit": "in",
+      "weight": 9,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": "Yes",
+    "batteries_included": "Yes",
+    "battery_cell_comp": 0,
+    "battery_type_qty": "2 x AAA Batteries",
+    "packaging_type": "color box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "HeadStart Disney New Item Setup Sheet 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 2061,
+    "last_verified": null,
+    "vendor_slug": "headstart-inc"
+  }
+}

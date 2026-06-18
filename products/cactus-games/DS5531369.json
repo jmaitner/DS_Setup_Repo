@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531369",
+  "vendor": "Cactus Games",
+  "brand": "Tales of Glory",
+  "vendor_item_number": "CGD8223",
+  "product_name": "Galilean Boat with Jesus & Apostles Playset",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "603154506338"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 17.5,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 35
+  },
+  "sourcing": {
+    "fob_point": "Long Beach, CA",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0000"
+  },
+  "content": {
+    "bullets": [
+      "Interactive Play Set: This 15-piece play set allows children to recreate the biblical story of Jesus and his disciples on the Sea of Galilee, bringing the \"Tale of Glory\" to life.",
+      "Comprehensive Figures: The set includes 14 figures, featuring Jesus, Simon Peter, Andrew, John, James (the greater), Phillip, Bartholomew, Thomas, Matthew, James (the lessor), Thaddeus, Simon the Zealot, Judas Iscariot, and Matthias.",
+      "Galilean Boat: A large Galilean Fishing Boat is included, serving as a central component for imaginative play and storytelling based on the biblical narrative.",
+      "Age Appropriateness: This interactive play set is suitable for children aged 3 years and older, providing an engaging way to learn about biblical events.",
+      "Age Appropriateness: This interactive play set is suitable for children aged 3 years and older, providing an engaging way to learn about biblical events."
+    ],
+    "keywords": "christian, bible, religious, toy, historical, figurines",
+    "description": "Children bring the story of Jesus and the Apostles to life with this charming play set. The complete collection features a mini storybook describing the story of Jesus with his Apostles on the Sea of Galilee and 15 toy pieces ideal for little hands to play and learn. Note: 12 figurines are shown in the photo. However, the set comes with 14 figures. A figurine of Jesus is also included as is one for Matthias who is the apostle chosen to replace Judas Iscariot as described in the book of Acts."
+  },
+  "attributes": {
+    "material": "Cotton blend",
+    "num_pieces": "15 pieces",
+    "whats_in_box": "Galilean boat with 14 figurines, storybook",
+    "primary_color": "multicolor",
+    "secondary_color": 0,
+    "min_age": 36,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.4,
+      "weight_unit": "lbs",
+      "length": 12.5,
+      "length_unit": "in",
+      "width": 6,
+      "width_unit": "in",
+      "height": 3.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.4,
+      "weight_unit": "lbs",
+      "length": 12.5,
+      "length_unit": "in",
+      "width": 6,
+      "width_unit": "in",
+      "height": 3.5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 13,
+      "length_unit": "in",
+      "width": 7,
+      "width_unit": "in",
+      "height": 11,
+      "height_unit": "in",
+      "weight": 6,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": 0,
+    "warranty_included": "Yes",
+    "warranty_desc": "6 month manufactuer warranty",
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": "Box",
+    "compliance_cert": "NOT REQUIRED",
+    "doc": "NOT REQUIRED",
+    "sds": "NOT REQUIRED",
+    "sds_url": "NOT REQUIRED",
+    "cpsia": "NOT REQUIRED",
+    "test_reports": "Dropbox",
+    "cpc": "Dropbox",
+    "product_pics": "Dropbox",
+    "instructions": "NOT REQUIRED",
+    "letter_of_compliance": "NOT REQUIRED"
+  },
+  "_meta": {
+    "source_file": "Cactus Games Setup Sheet Template Version 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 210,
+    "last_verified": null,
+    "vendor_slug": "cactus-games"
+  }
+}

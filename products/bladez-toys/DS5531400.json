@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531400",
+  "vendor": "BLADEZ TOYS",
+  "brand": "BLADEZ",
+  "vendor_item_number": "BT30103",
+  "product_name": "Bladez RPM R/C 1:10 Mega Monster Truck",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "5061051301039"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 18.5,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 59.99
+  },
+  "sourcing": {
+    "fob_point": "Yantian, CN",
+    "country_of_origin": "China",
+    "harmonized_code": 9503007590
+  },
+  "content": {
+    "bullets": [
+      "MONSTER POWER - This full function radio control comes with real rubber jumbo tyres that are perfect for even the toughest terrain!",
+      "HOURS OF FUN - With a run time of at least 30 mins and a rechargeable battery, this Mega Monster Trucks offers hours of fun!",
+      "ALL TERRAIN - This real performance machine comes in an eye catching design that makes it stand out from the crowd! It makes a great gift for inside or outside use and is perfect for kids 3 years and over!",
+      "TURBO MODE - This 1:10 scale Monster Truck has two speeds, so you can activate turbo mode and speed things up!",
+      "REAL PERFORMANCE MACHINES - Bladez RPM perfectly blends high performance with style making it perfect for kids and adults alike!"
+    ],
+    "keywords": 0,
+    "description": "The Bladez RPM 1:10 RC Monster Truck has awesome mega rubber tyres, turbo mode and LED headlights. Featuring a bright neon deco and measuring at 42cm long, this all terrain 2.4 GHz radio control is the ultimate off road mean machine!"
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": 1,
+    "whats_in_box": "1 x Radio Control Monster Truck, 1 x Handset Controller, 1 x Rechargeable Li-ion Battery, 1 x USB Charging Cable, 1 x Instruction Manual",
+    "primary_color": "Green",
+    "secondary_color": 0,
+    "min_age": 3,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": "N/A"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 2.8549828999999995,
+      "weight_unit": "lbs",
+      "length": 16.53543307086614,
+      "length_unit": "in",
+      "width": 11.811023622047244,
+      "width_unit": "in",
+      "height": 9.84251968503937,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 4.850164,
+      "weight_unit": "lbs",
+      "length": 13.385826771653543,
+      "length_unit": "in",
+      "width": 16.929133858267715,
+      "width_unit": "in",
+      "height": 11.811023622047244,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 27.6,
+      "length_unit": "in",
+      "width": 17.7,
+      "width_unit": "in",
+      "height": 25.2,
+      "height_unit": "in",
+      "weight": "23.",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Pending",
+    "warranty_included": "No",
+    "warranty_desc": "12 Months",
+    "batteries_required": "Yes",
+    "batteries_included": "Yes",
+    "battery_cell_comp": "1300mAh, 3.7V, 4.81Wh, Li-Ion\nAlkaline",
+    "battery_type_qty": "1x Rechargeable Li-ion (Included)\n2x AA (Not Included)",
+    "packaging_type": "Open Box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "bladez-toys"
+  }
+}

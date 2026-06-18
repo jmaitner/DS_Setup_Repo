@@ -1,0 +1,120 @@
+{
+  "ds_number": "5529831",
+  "vendor": "CANAL TOYS",
+  "brand": "Airbrush Plush",
+  "vendor_item_number": "228256",
+  "product_name": "Airbrush Plush Refill Marker Set – 7 Colors & Stencils",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850020801930"
+  },
+  "pricing": {
+    "drop_ship_cost": 7.19,
+    "wholesale_cost": 4.19,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 8.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "A refill kit for use with any of your Airbrush Plush sets (sold separately.)",
+      "Includes 7 Airbrush markers colors and 2 sheets of reusable stick-on stencils",
+      "Compatible with all Airbrush Plush, the ink of the felt tip pens is hand or machine washable from your Airbrush Plush toy",
+      "Two additional stencils sheets are provided to create a multitude of different styles and patterns",
+      "The felt tip airbrush markers include black, red, yellow, green, turquoise, purple, and dark pink."
+    ],
+    "keywords": 0,
+    "description": "This airbrush refill kit contains 7 colors of airbrush markers and 2 sheets of stencils that stick-on to your plush to create new designs. The markers are compatible with Airbrush Plush electronic spray tool. The ink is non-toxic and can be washed by hand or by machine washer. Decorate your plush, wash it and start over again! Extend the Airbrush Plush experience with this refill set.\nOnly Airbrush Plush brand airbrush markers should be used with your Airbrush Plush airbrush as they are specially sized and have unique ink formula for use on your Airbrush Plush toys."
+  },
+  "attributes": {
+    "material": "plastic, felt, ink",
+    "num_pieces": "9 pieces",
+    "whats_in_box": "7 markers, 2 stencil sheets",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://canaltoys.com/wp-content/uploads/2022/10/ABP_228274_Angle.jpg",
+      "https://canaltoys.com/wp-content/uploads/2022/10/ABP_228274_PackContent.jpg",
+      "https://canaltoys.com/wp-content/uploads/2022/10/ABP_228274_Lifestyle2.jpg",
+      "https://canaltoys.com/wp-content/uploads/2022/10/ABP_228274_Step1.jpg",
+      "https://canaltoys.com/wp-content/uploads/2022/10/ABP_228274_Step2.jpg",
+      "https://canaltoys.com/wp-content/uploads/2022/10/ABP_228274_Style1.jpg",
+      "https://canaltoys.com/wp-content/uploads/2022/10/ABP_228274_Step3.jpg",
+      "https://canaltoys.com/wp-content/uploads/2022/10/ABP_228274_Style2.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 2,
+      "weight_unit": "lbs",
+      "length": 11.22,
+      "length_unit": "in",
+      "width": 2.95,
+      "width_unit": "in",
+      "height": 11.22,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 2,
+      "weight_unit": "lbs",
+      "length": 11.22,
+      "length_unit": "in",
+      "width": 2.95,
+      "width_unit": "in",
+      "height": 11.22,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 11.81,
+      "length_unit": "in",
+      "width": 11.61,
+      "width_unit": "in",
+      "height": 12,
+      "height_unit": "in",
+      "weight": 10.6,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

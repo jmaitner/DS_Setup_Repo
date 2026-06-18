@@ -1,0 +1,121 @@
+{
+  "ds_number": "5528695",
+  "vendor": "CANAL TOYS",
+  "brand": "Style 4 Ever",
+  "vendor_item_number": "228157",
+  "product_name": "Style 4 Ever DIY Lava Lamp Kit",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "851786007291"
+  },
+  "pricing": {
+    "drop_ship_cost": 21.4526,
+    "wholesale_cost": 12.87,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 28.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "Create your own Lamp!",
+      "Set up the metallic base add decorative inserts, glitter and beads, turn it on and watch it glow.",
+      "You can even decorate the lamp base with colorful stickers",
+      "Watch as it illuminates with the color-changing LED light, glittery bubbles, and swirling beads",
+      "Includes 1 battery-powered lava lamp base with LED light, 1 clear lamp bottle, stickers, decorative inserts, glitter, confetti, beads, 1 colorant bottle and instructions"
+    ],
+    "keywords": 0,
+    "description": "Create your own  lamp to add cosmic color to your room!  This set includes everything you need to build and customize your own bubbling lamp using colorful beads, colorant, confetti, glitter, decorative inserts, and stickers. Simply set up the metallic lamp base and insert batteries. Then fill the clear lamp by adding your own combination of colorant, beads, decorations, glitter, and water. You can even decorate the lamp base with colorful stickers. Watch as it illuminates with the color-changing LED light, glittery bubbles, and swirling beads. Perfect to bring out your inner unicorn spirit!"
+  },
+  "attributes": {
+    "material": "plastic, paper, glitter,",
+    "num_pieces": "9 pieces",
+    "whats_in_box": "1 battery operater lamp base with LED light, 1 clear lamp bottle, stickers, decorative inserts, glitter, confetti, beads, colorant, instructions",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 8,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://canaltoys.com/wp-content/uploads/2022/04/OFG229_02_ANGLE.jpg",
+      "https://canaltoys.com/wp-content/uploads/2022/04/OFG229_01_ANGLESCENE.jpg",
+      "https://canaltoys.com/wp-content/uploads/2022/04/OFG229_09_LIFESTYLE-scaled.jpg",
+      "https://canaltoys.com/wp-content/uploads/2022/04/OFG229_08a_STEP05-stickers.jpg",
+      "https://canaltoys.com/wp-content/uploads/2022/04/OFG229_07_STEP04-INSERT-scaled.jpg",
+      "https://canaltoys.com/wp-content/uploads/2022/04/OFG229_06_STEP03-COLOUR-scaled.jpg",
+      "https://canaltoys.com/wp-content/uploads/2022/04/OFG229_05_STEP02-CONFETTI-scaled.jpg",
+      "https://canaltoys.com/wp-content/uploads/2022/04/OFG229_03_SCENE.jpg",
+      "https://canaltoys.com/wp-content/uploads/2022/04/OFG229_10_CONTENTS.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.88,
+      "weight_unit": "lbs",
+      "length": 12.2,
+      "length_unit": "in",
+      "width": 3.15,
+      "width_unit": "in",
+      "height": 9.84,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.88,
+      "weight_unit": "lbs",
+      "length": 12.2,
+      "length_unit": "in",
+      "width": 3.15,
+      "width_unit": "in",
+      "height": 9.84,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 19.9,
+      "length_unit": "in",
+      "width": 12.8,
+      "width_unit": "in",
+      "height": 10.55,
+      "height_unit": "in",
+      "weight": "6.4",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": 0,
+    "warranty_included": "Yes",
+    "warranty_desc": 0,
+    "batteries_required": "Yes",
+    "batteries_included": "NO",
+    "battery_cell_comp": 0,
+    "battery_type_qty": "3 AA",
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

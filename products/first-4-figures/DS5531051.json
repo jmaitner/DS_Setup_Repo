@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531051",
+  "vendor": "First 4 Figures",
+  "brand": "First 4 Figures",
+  "vendor_item_number": "BOTWHC",
+  "product_name": "The Legend of Zelda: Breath of the Wild: Hylian Shield (Collector's edition)",
+  "identity": {
+    "id_type": "UPC,EAN",
+    "upc": "5060316623923"
+  },
+  "pricing": {
+    "drop_ship_cost": 74.99,
+    "wholesale_cost": 35,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 99.99
+  },
+  "sourcing": {
+    "fob_point": "China",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible"
+    ],
+    "keywords": 0,
+    "description": "The hero of Hyrule, Link, has tons of weapons, armor sets, and shields at his disposal when exploring the vast kingdom of Hyrule, but one of his most iconic pieces of equipment in the entire The Legend of Zelda series is the Hylian Shield. The blue front with silver borders, the Triforce symbol, and Hyrule's crest are staples in its classic design, and this particular statue was inspired by the design from The Legend of Zelda : Breath of the Wild.\nAs for the base it's mounted on, the Hylian Shield attaches magnetically to the display  stand it comes with, which is simple by design but perfectly accentuates the shield itself. The Collector's Edition of this statue comes with bright LED functionality beneath the gold rivet details of the stand, giving the shield an even more majestic look!"
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": 4,
+    "whats_in_box": "• The Legend of Zelda : Breath of the Wild – Hylian Shield PVC statue\n• Magnetic display stand (with LED light function)\n• F4F Leaflet with 500 F4F reward points included",
+    "primary_color": "Silver",
+    "secondary_color": 0,
+    "min_age": 15,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.48,
+      "weight_unit": "lbs",
+      "length": 8,
+      "length_unit": "in",
+      "width": 5,
+      "width_unit": "in",
+      "height": 11.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0,
+      "weight_unit": "lbs",
+      "length": 9.45,
+      "length_unit": "in",
+      "width": 5.51,
+      "width_unit": "in",
+      "height": 13.98,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 19.72,
+      "length_unit": "in",
+      "width": 11.65,
+      "width_unit": "in",
+      "height": 14.76,
+      "height_unit": "in",
+      "weight": 0,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "first-4-figures"
+  }
+}

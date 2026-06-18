@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531050",
+  "vendor": "First 4 Figures",
+  "brand": "First 4 Figures",
+  "vendor_item_number": "BOTWDS",
+  "product_name": "The Legend of Zelda: Breath of the Wild: Daruk (Standard edition)",
+  "identity": {
+    "id_type": "UPC,EAN",
+    "upc": "5060316624265"
+  },
+  "pricing": {
+    "drop_ship_cost": 101.24,
+    "wholesale_cost": 47.25,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 134.99
+  },
+  "sourcing": {
+    "fob_point": "China",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible"
+    ],
+    "keywords": 0,
+    "description": "The mighty yet friendly hero is brought to life in this high-quality PVC statue. His pose is modeled after the official artwork from the game - a wide grin on his face and his signature weapon, Boulder Breaker, in his hands. The base’s design features the Sheikah Eye symbol, which retains consistency between the other statues in the First 4 Figures The Legend of Zelda : Breath of the Wild lineup."
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": 4,
+    "whats_in_box": "• Exquisitely detailed PVC statue of Daruk\n• Pose inspired by official artwork\n• Highly detailed base featuring the Sheikah Eye symbol.\n• F4F Leaflet with 500 F4F reward points included",
+    "primary_color": "Brown",
+    "secondary_color": 0,
+    "min_age": 15,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 3.97,
+      "weight_unit": "lbs",
+      "length": 11.2,
+      "length_unit": "in",
+      "width": 7.7,
+      "width_unit": "in",
+      "height": 11.9,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0,
+      "weight_unit": "lbs",
+      "length": 12.8,
+      "length_unit": "in",
+      "width": 9.06,
+      "width_unit": "in",
+      "height": 13.78,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 28.15,
+      "length_unit": "in",
+      "width": 17.13,
+      "width_unit": "in",
+      "height": 16.34,
+      "height_unit": "in",
+      "weight": 0,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "first-4-figures"
+  }
+}

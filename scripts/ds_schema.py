@@ -22,14 +22,38 @@ from ds_automation import DS
 #  Value cleaning
 # ──────────────────────────────────────────────────────────────
 
+_EXCEL_ERRORS = {"#value!", "#ref!", "#n/a", "#div/0!", "#name?", "#null!", "#num!", "#name"}
+
+
 def _clean(value):
-    """Blank cells -> None.  Strip strings.  Leave numbers as-is."""
+    """Blank cells / Excel error strings -> None.  Strip strings.  Leave numbers as-is."""
     if value is None:
         return None
     if isinstance(value, str):
         s = value.strip()
-        return s if s else None
+        if not s or s.lower() in _EXCEL_ERRORS:
+            return None
+        return s
     return value
+
+
+def _price(value):
+    """
+    Normalise a price/cost cell. Numbers pass through. '$1,234.50' style strings
+    become floats. Placeholders like 'x', 'n/a', '-', 'tbd' (no numeric meaning)
+    become None so cost fields only ever hold a number or null.
+    """
+    if value is None:
+        return None
+    if isinstance(value, (int, float)):
+        return value
+    s = str(value).replace("$", "").replace(",", "").strip()
+    if not s:
+        return None
+    try:
+        return float(s)
+    except ValueError:
+        return None  # placeholder text (x, n/a, tbd, ...) -> no price
 
 
 def brand_slug(brand):
@@ -60,11 +84,13 @@ def sheet_row_to_product(ws, row):
         DS.IMAGE_URL_1, DS.IMAGE_URL_2, DS.IMAGE_URL_3,
         DS.IMAGE_URL_4, DS.IMAGE_URL_5,
     )]
-    image_urls = [u for u in image_urls if u]
+    image_urls = [u for u in image_urls
+                  if u and str(u).lower().startswith(("http://", "https://"))]
 
     return {
         "ds_number": str(g(DS.DS_NUMBER)) if g(DS.DS_NUMBER) is not None else None,
-        "brand": g(DS.BRAND),
+        "vendor": None,  # set by the importer from the file path; folder is keyed on this
+        "brand": g(DS.BRAND),  # marketing brand from col 9 (e.g. "Disney Toddler")
         "vendor_item_number": g(DS.VENDOR_ITEM_NUMBER),
         "product_name": g(DS.PRODUCT_NAME),
 
@@ -74,11 +100,11 @@ def sheet_row_to_product(ws, row):
         },
 
         "pricing": {
-            "drop_ship_cost": g(DS.DROP_SHIP_COST),
-            "wholesale_cost": g(DS.WHOLESALE_COST),
-            "ds_cost_domestic": g(DS.DS_COST_DOMESTIC),
-            "import_cost": g(DS.IMPORT_COST),
-            "msrp": g(DS.MSRP),
+            "drop_ship_cost": _price(g(DS.DROP_SHIP_COST)),
+            "wholesale_cost": _price(g(DS.WHOLESALE_COST)),
+            "ds_cost_domestic": _price(g(DS.DS_COST_DOMESTIC)),
+            "import_cost": _price(g(DS.IMPORT_COST)),
+            "msrp": _price(g(DS.MSRP)),
         },
 
         "sourcing": {

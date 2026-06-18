@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531408",
+  "vendor": "BLADEZ TOYS",
+  "brand": "BLADEZ",
+  "vendor_item_number": "BTHP-C14",
+  "product_name": "Harry Potter Creative Maker Kitz - Make Your Own Light Up Weasley Burrow",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "5060158857104"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 5.95,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 19.99
+  },
+  "sourcing": {
+    "fob_point": "Yantian, CN",
+    "country_of_origin": "China",
+    "harmonized_code": 9503009990
+  },
+  "content": {
+    "bullets": [
+      "MAGICAL EFFECT - Assemble the flat parts and then add LEDs to bring the iconic Harry Potter location, standing tall at 28cm, to life!",
+      "CREATE, BUILD AND DISPLAY - This Make Your Own kit allows you to build your own detailed model of Ron Weasley's ramshackle family home! Once complete, the model can be displayed with pride.",
+      "EASY TO BUILD - This Make Your Own kit is easy to build requiring no glue or scissors making it a safe and fun activity for children to do independently or with an adult.",
+      "STEM ACTIVITY - This easy to build kit has 66 pieces and is great for teaching kids 8 years and above some of the basic principals of STEM.",
+      "OFFICIAL LICENSED HARRY POTTER TOY - This official Harry Potter Make Your Own Weasley Burrow is the perfect gift for any Harry Potter fan!"
+    ],
+    "keywords": 0,
+    "description": "Create and build your very own Weasley Burrow from the Maker Kitz range. Slide together the parts to make Ron’s ramshackle family home, then add the LED lights to bring the model magically to life! Also available from Maker Kitz Make Your Own kits is the iconic Hogwarts school and Knight Bus."
+  },
+  "attributes": {
+    "material": "Cardboard, Plastic",
+    "num_pieces": 2,
+    "whats_in_box": "1 x Build Kit, 6 x LED Lights, 1 x Instruction Manual",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 8,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "Yes",
+    "assembly_instructions": "As per Instruction Manual"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.0141252,
+      "weight_unit": "lbs",
+      "length": 6.692913385826771,
+      "length_unit": "in",
+      "width": 7.086614173228346,
+      "width_unit": "in",
+      "height": 11.417322834645669,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.4550492,
+      "weight_unit": "lbs",
+      "length": 1.968503937007874,
+      "length_unit": "in",
+      "width": 12.204724409448819,
+      "width_unit": "in",
+      "height": 9.05511811023622,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 12.8,
+      "length_unit": "in",
+      "width": 13,
+      "width_unit": "in",
+      "height": 10.2,
+      "height_unit": "in",
+      "weight": "9.4",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Pending",
+    "warranty_included": "No",
+    "warranty_desc": "12 Months",
+    "batteries_required": "Yes",
+    "batteries_included": "No",
+    "battery_cell_comp": "Alkaline",
+    "battery_type_qty": "2x AA Batteries",
+    "packaging_type": "Closed Box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "bladez-toys"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531048",
+  "vendor": "First 4 Figures",
+  "brand": "First 4 Figures",
+  "vendor_item_number": "TOTKLS",
+  "product_name": "Tears of the Kingdom - Link",
+  "identity": {
+    "id_type": "UPC,EAN",
+    "upc": "5060316628607"
+  },
+  "pricing": {
+    "drop_ship_cost": 63.74,
+    "wholesale_cost": 29.75,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 84.99
+  },
+  "sourcing": {
+    "fob_point": "China",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible"
+    ],
+    "keywords": 0,
+    "description": "Link is depicted standing ready for battle, his expression focused and resolute. His left arm grips his new right arm, King Rauru’s Right Arm, which replaced his own after it was lost to the Gloom. On his back is the Master Sword, and around his waist is a quiver of arrows. His cape billows behind him as if caught in mid-motion. The design on the base is based on the Zonai shrine seal. There is a glow-in-the-dark feature on his right arm and on the base."
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": 4,
+    "whats_in_box": "· The Legend of Zelda : Tears of the Kingdom – Link painted PVC statue\n· Highly detailed base inspired by The Legend of Zelda : Tears of the Kingdom art style\n· Glow-in-the-dark feature on the right arm and base",
+    "primary_color": "Blue",
+    "secondary_color": 0,
+    "min_age": 15,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.65,
+      "weight_unit": "lbs",
+      "length": 7.5,
+      "length_unit": "in",
+      "width": 7.5,
+      "width_unit": "in",
+      "height": 7.9,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0,
+      "weight_unit": "lbs",
+      "length": 0,
+      "length_unit": "in",
+      "width": 0,
+      "width_unit": "in",
+      "height": 0,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 0,
+      "length": 0,
+      "length_unit": "in",
+      "width": 0,
+      "width_unit": "in",
+      "height": 0,
+      "height_unit": "in",
+      "weight": 0,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "first-4-figures"
+  }
+}

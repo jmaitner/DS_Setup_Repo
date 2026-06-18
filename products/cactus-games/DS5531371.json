@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531371",
+  "vendor": "Cactus Games",
+  "brand": "Wee Believers",
+  "vendor_item_number": "W2017203",
+  "product_name": "Liam the Lion Prayer Buddy",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "853922006632"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 15,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 30
+  },
+  "sourcing": {
+    "fob_point": "Long Beach, CA",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0000"
+  },
+  "content": {
+    "bullets": [
+      "Prayer Recitation: Recites Guardian Angel Prayer when you squeeze his tummy",
+      "Age Appropriate: Suitable for ages 0 and up",
+      "ON/OFF Switch",
+      "Child's Voice: Prayers are recited in a real child's voice",
+      "Machine Washable (with sound box removed)"
+    ],
+    "keywords": "christian, bible, religious, plush, lamb, catholic",
+    "description": "He loves God fiercely! With a hug or squeeze, Liam the Lion—the perfect bedtime Buddy—recites the Guardian Angel Prayer"
+  },
+  "attributes": {
+    "material": null,
+    "num_pieces": "1 piece",
+    "whats_in_box": "Plush Lion and sound box",
+    "primary_color": "white",
+    "secondary_color": "multicolor",
+    "min_age": 6,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "no",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.8,
+      "weight_unit": "lbs",
+      "length": 9,
+      "length_unit": "in",
+      "width": 7,
+      "width_unit": "in",
+      "height": 4,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.8,
+      "weight_unit": "lbs",
+      "length": 9,
+      "length_unit": "in",
+      "width": 7,
+      "width_unit": "in",
+      "height": 4,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 24,
+      "length": 20,
+      "length_unit": "in",
+      "width": 18,
+      "width_unit": "in",
+      "height": 16,
+      "height_unit": "in",
+      "weight": 14,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: THIS PRODUCT CONTAINS A COIN/BUTTON BATTERY: If swallowed, coin/button batteries can cause severe or fatal injuries within 2 hours.  If you think batteries may have been swallowed or placed inside any part of the body, seek immediate medical attention. KEEP COIN/BUTTON BATTERIES OUR OF REACH OF CHILDREN.",
+    "lead_phthalates": 0,
+    "warranty_included": "Yes",
+    "warranty_desc": "6 month manufactuer warranty",
+    "batteries_required": "Yes",
+    "batteries_included": "Yes",
+    "battery_cell_comp": "3 LR54 batteries",
+    "battery_type_qty": "3 LR54 batteries",
+    "packaging_type": "Bag",
+    "compliance_cert": "NOT REQUIRED",
+    "doc": "NOT REQUIRED",
+    "sds": "NOT REQUIRED",
+    "sds_url": "NOT REQUIRED",
+    "cpsia": "NOT REQUIRED",
+    "test_reports": "Dropbox",
+    "cpc": "Dropbox",
+    "product_pics": "Dropbox",
+    "instructions": "NOT REQUIRED",
+    "letter_of_compliance": "NOT REQUIRED"
+  },
+  "_meta": {
+    "source_file": "Cactus Games Setup Sheet Template Version 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 210,
+    "last_verified": null,
+    "vendor_slug": "cactus-games"
+  }
+}

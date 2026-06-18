@@ -1,0 +1,122 @@
+{
+  "ds_number": "5530990",
+  "vendor": "CANAL TOYS",
+  "brand": "Photo Creator",
+  "vendor_item_number": "872083",
+  "product_name": "Photo Creator Instant Camera Thermal Paper Refill – 10 Rolls",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850041019895"
+  },
+  "pricing": {
+    "drop_ship_cost": 8.11,
+    "wholesale_cost": 5.89,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 9.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "Themal Paper",
+      "Prints approximately 70 phots",
+      "10 rolls included",
+      "No Ink required",
+      "Sticker sheets indluded"
+    ],
+    "keywords": 0,
+    "description": "\tThis refill set includes 10 rolls of white thermal paper and 2 sticker sheets for use with the Photo_Creator Instant Print Camera from Canal Toys. (Camera not included, sold separately). This standard roll can print approximately 70 photos (5.6 x 700 cm). This complete kit offers the possibility of printing more than 700 photos and is so EASY TO USE, WITHOUT INK! Printing is done by thermal transfer and requires no drying time. Two sheets of stickers (7.5 x 10.5 cm each) are also included to decorate your photos. Ages 8+"
+  },
+  "attributes": {
+    "material": "paper",
+    "num_pieces": 12,
+    "whats_in_box": "10 rolls of paper, 2 sticker sheets",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 8,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/81P3nIWNr0L.jpg",
+      "https://m.media-amazon.com/images/I/71NXQaMO+vL.jpg",
+      "https://m.media-amazon.com/images/I/71uhtcPPB2L.jpg",
+      "https://m.media-amazon.com/images/I/71khGSIJWDL.jpg",
+      "https://m.media-amazon.com/images/I/61tDa8R359L.jpg",
+      "https://m.media-amazon.com/images/I/71PuEeXhNqL.jpg",
+      "https://m.media-amazon.com/images/I/71KmNwTlugL.jpg",
+      "https://m.media-amazon.com/images/I/61HavJjNaVL.jpg",
+      "https://m.media-amazon.com/images/I/61cq6OJzz8L.jpg",
+      "https://m.media-amazon.com/images/I/61kGPaWdA-L.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.71,
+      "weight_unit": "lbs",
+      "length": 4.725,
+      "length_unit": "in",
+      "width": 1.25,
+      "width_unit": 0,
+      "height": 6.1,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.71,
+      "weight_unit": "lbs",
+      "length": 4.725,
+      "length_unit": "in",
+      "width": 1.25,
+      "width_unit": "in",
+      "height": 6.1,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 12,
+      "length": 10.24,
+      "length_unit": "in",
+      "width": 8.3,
+      "width_unit": "in",
+      "height": 7.1,
+      "height_unit": "in",
+      "weight": "9.4",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

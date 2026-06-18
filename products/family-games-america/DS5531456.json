@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531456",
+  "vendor": "Family Games America",
+  "brand": "FGA",
+  "vendor_item_number": "FG0000611",
+  "product_name": "INVERSE",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "086453006110"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 20,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 39.99
+  },
+  "sourcing": {
+    "fob_point": "Montreal, QC",
+    "country_of_origin": "China",
+    "harmonized_code": "9504.90.6000"
+  },
+  "content": {
+    "bullets": [
+      "Beautifully crafted wooden coffee table game.",
+      "Simple moves, strategic play.",
+      "Chunky pieces ideal for young and older players.",
+      "Eco Responsible",
+      "Appeals to all ages."
+    ],
+    "keywords": 0,
+    "description": "A game of elegant simplicity and strategy, each player tires to position their wooden ‘Bauhaus’ shaped playing pieces on the board, following 3 strict rules of placement. The last player able to add a piece to the board, wins the game.A game of elegant simplicity and strategy, each player tires to position their wooden ‘Bauhaus’ shaped playing pieces on the board, following 3 strict rules of placement. The last player able to add a piece to the board, wins the game."
+  },
+  "attributes": {
+    "material": "Wood",
+    "num_pieces": 11,
+    "whats_in_box": "One 7.75 x 7.75 x 2.5 inch tall wooden playing surface, 10 wooden blocks, instructions.",
+    "primary_color": "Brown",
+    "secondary_color": 0,
+    "min_age": "6 +",
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 2.45,
+      "weight_unit": "lbs",
+      "length": 10.5,
+      "length_unit": "In",
+      "width": 10.5,
+      "width_unit": "In",
+      "height": 1,
+      "height_unit": "In"
+    },
+    "package": {
+      "weight": 3.51,
+      "weight_unit": "lbs",
+      "length": 2.37,
+      "length_unit": "In",
+      "width": 11,
+      "width_unit": "In",
+      "height": 11,
+      "height_unit": "In"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 16,
+      "length_unit": "in",
+      "width": 12,
+      "width_unit": "in",
+      "height": 12,
+      "height_unit": "in",
+      "weight": 23.15,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "N/A",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "2nd_Family Games America_New Item Setup Sheet Template Version 2026 Games.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "family-games-america"
+  }
+}

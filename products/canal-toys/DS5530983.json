@@ -1,0 +1,122 @@
+{
+  "ds_number": "5530983",
+  "vendor": "CANAL TOYS",
+  "brand": "Airbrush Plush",
+  "vendor_item_number": "228387",
+  "product_name": "Airbrush Plush Light-Up Cosmic Unicorn with Fortune Teller",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850060743054"
+  },
+  "pricing": {
+    "drop_ship_cost": 21.49,
+    "wholesale_cost": 15.39,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 29.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "Customize your own cosmic unicorn with colorful airbrushed patterns and designs",
+      "choose from 100 stencils and 4 airbrush colors",
+      "The ask a question, press the Cosmic Unicorn’s horn to reveal a color, and consult the fortune teller’s guide to translate the answer!",
+      "When you’re done designing, wash your unicorn off and begin again!",
+      "Includes plush unicorn with light-up fortune teller’s horn, airbrush tool, 4 airbrush colors, 100+ stick-on stencils, plastic gloves, and fortune teller’s guide"
+    ],
+    "keywords": 0,
+    "description": "Design your own cosmic unicorn with the Airbrush Plush Cosmic Light Up Unicorn! Choose from 100+ stencils and 4 airbrush colors, position your pattern just where you want it, then use the working airbrush tool to style your furry, fortune-telling friend. Once your design is complete, ask a question, press the unicorn’s horn to reveal a color, and consult the fortune teller’s guide to translate the answer. When you’re done, wash your plush pet, let it dry, and begin again! Includes plush cosmic unicorn with light-up fortune teller’s horn, airbrush tool, 4 airbrush colors, 100+ stick-on stencils, plastic gloves, and fortune teller’s guide"
+  },
+  "attributes": {
+    "material": "plush, ink, felt, plastic, paper",
+    "num_pieces": 0,
+    "whats_in_box": "1 plush, 1 airbrush tool, 4 airbrush markers, sticker sheets, plastic gloves, fortune teller's guide",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/81rGto6fcGL.jpg",
+      "https://m.media-amazon.com/images/I/71b0Jrq5jCL.jpg",
+      "https://m.media-amazon.com/images/I/716pQCcPk9L.jpg",
+      "https://m.media-amazon.com/images/I/71FZucMrNZL.jpg",
+      "https://m.media-amazon.com/images/I/71yNW3DfHQL.jpg",
+      "https://m.media-amazon.com/images/I/81xpjP+eVML.jpg",
+      "https://m.media-amazon.com/images/I/71FLduzvtLL.jpg",
+      "https://m.media-amazon.com/images/I/81w9oGHU66L.jpg",
+      "https://m.media-amazon.com/images/I/81PluGlxoiL.jpg",
+      "https://m.media-amazon.com/images/I/71H4ye6vSFL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.33,
+      "weight_unit": "lbs",
+      "length": 12.6,
+      "length_unit": "in",
+      "width": 4.5,
+      "width_unit": "in",
+      "height": 11.8,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.33,
+      "weight_unit": "lbs",
+      "length": 12.6,
+      "length_unit": "in",
+      "width": 4.5,
+      "width_unit": "in",
+      "height": 11.8,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 18.9,
+      "length_unit": "in",
+      "width": 13.38,
+      "width_unit": "in",
+      "height": 12.8,
+      "height_unit": "in",
+      "weight": "6.6",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "Yes",
+    "batteries_included": "No",
+    "battery_cell_comp": 0,
+    "battery_type_qty": "2 AA",
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

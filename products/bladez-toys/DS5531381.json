@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531381",
+  "vendor": "BLADEZ TOYS",
+  "brand": "BLADEZ",
+  "vendor_item_number": "BTHW-M04Y",
+  "product_name": "Hot Wheels Creative Maker Kitz - Custom Monster Trucks Kit - Town Hauler",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "5060158856060"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 4.8,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 14.99
+  },
+  "sourcing": {
+    "fob_point": "Yantian, CN",
+    "country_of_origin": "China",
+    "harmonized_code": 9503001000
+  },
+  "content": {
+    "bullets": [
+      "GO BIG - This custom kit Monster Truck can take on the gnarliest terrain! Build the truck from the snap-fit parts, pull back and watch them fly over the stunt ramp provided! They can even do a wheelie!",
+      "CUSTOMISABLE - Decorate the Monster Truck to make it your own with the five Hot Wheels coloured marker pens included with this creative kit!",
+      "EASY TO BUILD - This custom kit is easy to build requiring no glue or scissors making it a safe and fun activity for children to do independently or with an adult. It is also recognised as having some STEM learning benefits!",
+      "ECO FRIENDLY - With the car body made entirely from recyclable material and the packaging doubling up as a stunt ramp that you can also decorate, this is a great eco friendly toy!",
+      "OFFICIAL LICENSED HOT WHEELS TOY - Featuring one of the iconic Hot Wheels Monster Trucks, this kit allows children to build and decorate their vehicle as well as play when completed!"
+    ],
+    "keywords": 0,
+    "description": "With the Custom Monster Truck Kit you're the designer! Assemble the snap-fit parts made from durable recyclable plastic, add power with the 4x4 pull-back motors, then use 5 x Hot Wheels pens included to create your unique custom design! Build, Race & Collect Hot Wheels™ Maker Kitz!"
+  },
+  "attributes": {
+    "material": "Paper, Plastic",
+    "num_pieces": 9,
+    "whats_in_box": "1 x Monster Truck Body Panel Kit, 2 x Monster Wheels with Pull Back Motor, 5 x Coloured Pens, 1 x Cardboard Stunt Ramp, 1 x Instruction Manual",
+    "primary_color": "White",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "Yes",
+    "assembly_instructions": "As per Instruction Manual"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.3527392,
+      "weight_unit": "lbs",
+      "length": 5.511811023622047,
+      "length_unit": "in",
+      "width": 3.937007874015748,
+      "width_unit": "in",
+      "height": 3.937007874015748,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.8157093999999999,
+      "weight_unit": "lbs",
+      "length": 2.3622047244094486,
+      "length_unit": "in",
+      "width": 12.992125984251969,
+      "width_unit": "in",
+      "height": 7.283464566929133,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 10.4,
+      "length_unit": "in",
+      "width": 13.6,
+      "width_unit": "in",
+      "height": 8.5,
+      "height_unit": "in",
+      "weight": "3.8",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Compliant as of 11/11/24",
+    "warranty_included": "No",
+    "warranty_desc": "12 Months",
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": "Open Window Box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "bladez-toys"
+  }
+}

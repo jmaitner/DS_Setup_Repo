@@ -20,8 +20,10 @@ Read this whole file before touching anything.
    ERRORS, fix them before opening a PR. The GitHub Action will block the merge anyway.
 4. **Always rebuild the index after data changes.** Run `python scripts/build_index.py`
    so `index/catalog.csv` stays in sync, and commit it with your change.
-5. **One product = one file.** `products/<brand-slug>/DS<number>.json`. The DS number is
-   the primary key. Filename and folder must match the data (validate.py enforces this).
+5. **One product = one file.** `products/<vendor-slug>/DS<number>.json`. Folders are keyed
+   on **vendor** (who we buy from — Headstart, First 4 Figures, etc.), NOT the marketing
+   `brand` field. The DS number is the primary key. Filename and folder must match the
+   data (validate.py enforces this).
 6. **Explain what you're about to do before doing it**, especially for Bruce. Prefer the
    slash commands in `.claude/commands/` — they encode the safe workflow step by step.
 
@@ -30,10 +32,11 @@ Read this whole file before touching anything.
 ## What the data looks like
 
 Each product JSON follows `schema/product.schema.json` (81 fields from the DS Only tab),
-grouped as: top-level identity (`ds_number`, `brand`, `vendor_item_number`,
+grouped as: top-level identity (`ds_number`, `vendor`, `brand`, `vendor_item_number`,
 `product_name`), then `identity`, `pricing`, `sourcing`, `content`, `attributes`,
 `images` (Cloudinary URLs), `dimensions` (`item` / `package` / `master_case`),
-`compliance`, and `_meta`.
+`compliance`, and `_meta`. Note `vendor` (who we buy from) drives the folder; `brand` is
+the per-product marketing brand and can differ.
 
 Images are **Cloudinary URLs**, never binary files in the repo.
 

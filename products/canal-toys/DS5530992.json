@@ -1,0 +1,122 @@
+{
+  "ds_number": "5530992",
+  "vendor": "CANAL TOYS",
+  "brand": "Airbrush Plush",
+  "vendor_item_number": "AIR044",
+  "product_name": "Airbrush Plush Hair'iffic Hair Salon & Squishy Plush Styling Set",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850060743733"
+  },
+  "pricing": {
+    "drop_ship_cost": 29.99,
+    "wholesale_cost": 21.69,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 39.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "Decorate this soft, high-quality plush with a real airbrush. Combine stencils to created patterns and designs. Once the plush is finished, simply wash it to start again! Reuse the stencils to create new designs and hair styles. Once the plush is finished, simply wash it with your hair salon to start again! The plush toy is fully washable in sink or washing machine to start your design all over",
+      "Children will have fun customizing their squishy plush using the 6 felt-tip airbrush markers, electronic Airbrush sprayer, stencils, and hair accessories included. Bead, braid, and style the hair with the comb and hair beading set",
+      "Includes hairdryer shaped airbrush tool is easy to use to make all your colorful creations. Requires 2 x AA / LR6 batteries (not included)",
+      "This set includes an Airbrush Plush and a hair salon to wash the hair of the plush. Simply fill the water tank and then press the button to squeeze the water out of the shower head! Create many hairstyles with the included accessories: mini hair bands, clips, comb, airbrush markers and adhesive stencils to decorate and color the plush!",
+      0
+    ],
+    "keywords": 0,
+    "description": "Airbrush Plush now has “Hair’iffic” hairstyling fun! Transform your Hair’iffic Squishy plush toy into a variety of fun styles…glam, wild, pixie, and more! Use the electronic airbrush tool, markers, and stencils, give it a unique and colorful look. Have fun styling its hair with the hair clips, comb and beads. Simply wash and dry to start a new colorful style. The stencil designs have sticker back to stay in place on your plush character while airbrushing. Simply peel off and reposition to repeat shapes and create patterns. Both stencils and masking shapes are included. Reuse stencils over and over. Use the real working sink & salon to wash out the hair and style again. Simply fill the water tank and pump. The Airbrush Plush characters are fully washable in the sink or washing machine to clean it off and start new airbrush designs. Collect all of the Airbrush Plush styles!"
+  },
+  "attributes": {
+    "material": "plush, ink, felt, plastic, paper",
+    "num_pieces": "28 pieces",
+    "whats_in_box": "1 hair salon station, 1 Hair’iffic plush squishy, 1 electric spray tool, 6 colors of airbrush markers, 1 self-adhesive stencil sheet, 6 mini hair bands, 4 hair clips, 1 comb, 6 beads with threader, 1 mini towel and instruction manual",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/812DImAii0L.jpg",
+      "https://m.media-amazon.com/images/I/815AHN41RoL.jpg",
+      "https://m.media-amazon.com/images/I/71LeWjjMbAL.jpg",
+      "https://m.media-amazon.com/images/I/81fIB9aZldL.jpg",
+      "https://m.media-amazon.com/images/I/81qw3DJHKYL.jpg",
+      "https://m.media-amazon.com/images/I/71FsAFz5sfL.jpg",
+      "https://m.media-amazon.com/images/I/713GSfY-RgL.jpg",
+      "https://m.media-amazon.com/images/I/81t0x+JeiRL.jpg",
+      "https://m.media-amazon.com/images/I/81YEHsIVHTL.jpg",
+      "https://m.media-amazon.com/images/I/711qVMhtCRL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 2.16,
+      "weight_unit": "lbs",
+      "length": 14.7,
+      "length_unit": "in",
+      "width": 6.3,
+      "width_unit": "in",
+      "height": 11.81,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 2.16,
+      "weight_unit": "lbs",
+      "length": 14.7,
+      "length_unit": "in",
+      "width": 6.3,
+      "width_unit": "in",
+      "height": 11.81,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 25.98,
+      "length_unit": "in",
+      "width": 14.56,
+      "width_unit": "in",
+      "height": 12.6,
+      "height_unit": "in",
+      "weight": "8.6",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "Yes",
+    "batteries_included": "No",
+    "battery_cell_comp": 0,
+    "battery_type_qty": "2 AA",
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

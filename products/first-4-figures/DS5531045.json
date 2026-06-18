@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531045",
+  "vendor": "First 4 Figures",
+  "brand": "First 4 Figures",
+  "vendor_item_number": "SNTFST",
+  "product_name": "Sonic The Hedgehog: Sonic (Standard Edition)",
+  "identity": {
+    "id_type": "UPC,EAN",
+    "upc": "5060316622575"
+  },
+  "pricing": {
+    "drop_ship_cost": 67.49,
+    "wholesale_cost": 31.5,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 89.99
+  },
+  "sourcing": {
+    "fob_point": "China",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible"
+    ],
+    "keywords": 0,
+    "description": "The highly detailed Sonic PVC statue is seen striking a dynamic pose, revving up to run faster than the speed of sound. The base design is inspired by the Green Hill Zone, and on it is also the Star Post checkpoint, which you can rotate up to 90 degrees, allowing for multiple viewing angles.\nThe statue is housed in a beautifully designed collector's box, which can also turn and double as a diorama backdrop for added visual aesthetics."
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": 4,
+    "whats_in_box": "• SONIC THE HEDGEHOG: SONIC 11\" PVC Standard Edition Painted statue\n• Collectors Box\n• F4F Leaflet with 500 F4F reward points included",
+    "primary_color": "Blue",
+    "secondary_color": 0,
+    "min_age": 15,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.19,
+      "weight_unit": "lbs",
+      "length": 8,
+      "length_unit": "in",
+      "width": 7.5,
+      "width_unit": "in",
+      "height": 10.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 2.2,
+      "weight_unit": "lbs",
+      "length": 10.24,
+      "length_unit": "in",
+      "width": 9.45,
+      "width_unit": "in",
+      "height": 12.6,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 21.06,
+      "length_unit": "in",
+      "width": 19.49,
+      "width_unit": "in",
+      "height": 13.58,
+      "height_unit": "in",
+      "weight": 11.68,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "first-4-figures"
+  }
+}

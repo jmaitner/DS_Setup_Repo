@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531383",
+  "vendor": "BLADEZ TOYS",
+  "brand": "BLADEZ",
+  "vendor_item_number": "BTHW-M02",
+  "product_name": "Hot Wheels Motor Maker Kitz - Challenge Accepted Race Kit",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "5060158855513"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 4.1,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 12.99
+  },
+  "sourcing": {
+    "fob_point": "Yantian, CN",
+    "country_of_origin": "China",
+    "harmonized_code": 9503001000
+  },
+  "content": {
+    "bullets": [
+      "GET READY TO RACE - These street racers are tough and fast! Build the vehicle from the pop out parts, add power with not one but two turbo pull back motors and watch them fly over the stunt ramp provided!",
+      "DOUBLE THE FUN - This twin pack features two of the most iconic Hot Wheels vehicles - Roger Dodger and Super Van - making it a great gift or playset for friends to enjoy together!",
+      "EASY TO BUILD - This make your own kit is easy to build requiring no glue or scissors making it a safe and fun activity for children to do independently or with an adult. It is also recognised as having some STEM learning benefits!",
+      "ECO FRIENDLY - With the car body made entirely from recyclable material and the packaging doubling up as a stunt ramp, this is a great eco friendly toy!",
+      "OFFICIAL LICENSED HOT WHEELS TOY - These iconic Hot Wheels cars provide hours of open ended play allowing their imaginations to race away!"
+    ],
+    "keywords": 0,
+    "description": "Pop out the plastic parts made from durable recyclable plastic to build your Hot Wheels™ Car without scissors or glue. Once assembled the car is robust and features a pull back motor for awesome high speed racing with no batteries. Build, Race & Collect Hot Wheels™ Maker Kitz!"
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": 7,
+    "whats_in_box": "2 x Car Body Panel Kit. 4 x Sets of Wheels with Pull Back Motor, 1 x Cardboard Stunt Ramp, 2 x Instruction Manuals",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "Yes",
+    "assembly_instructions": "As per Instruction Manual"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.20723428,
+      "weight_unit": "lbs",
+      "length": 5.511811023622047,
+      "length_unit": "in",
+      "width": 2.1653543307086616,
+      "width_unit": "in",
+      "height": 1.574803149606299,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.54233652,
+      "weight_unit": "lbs",
+      "length": 1.574803149606299,
+      "length_unit": "in",
+      "width": 11.023622047244094,
+      "width_unit": "in",
+      "height": 7.283464566929133,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 10.2,
+      "length_unit": "in",
+      "width": 11.6,
+      "width_unit": "in",
+      "height": 8.3,
+      "height_unit": "in",
+      "weight": "3.6",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Compliant as of 11/11/24",
+    "warranty_included": "No",
+    "warranty_desc": "12 Months",
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": "Closed Box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "bladez-toys"
+  }
+}

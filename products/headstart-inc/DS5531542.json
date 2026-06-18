@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531542",
+  "vendor": "Headstart Inc",
+  "brand": "Mermaid Magic",
+  "vendor_item_number": 28137,
+  "product_name": "Mermaid Magic 9\" Doll - Sasha",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "840150281375"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 4.67,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 17.99
+  },
+  "sourcing": {
+    "fob_point": "Yantian",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.00.73"
+  },
+  "content": {
+    "bullets": [
+      "9 inch doll",
+      "10 points of movement",
+      "Magic Colour Changing Tail",
+      "Soft Rooted Hair",
+      "Built for everyday play"
+    ],
+    "keywords": "Mermaid doll, interactive toy, posable",
+    "description": "9 inch doll,articulated mermaid tail"
+  },
+  "attributes": {
+    "material": "Plastic,",
+    "num_pieces": 1,
+    "whats_in_box": "1 doll",
+    "primary_color": "Blue",
+    "secondary_color": "orange",
+    "min_age": 36,
+    "max_age": 72,
+    "gender": "Unisex",
+    "assembly_required": "NO",
+    "assembly_instructions": "NO"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781116015/Headstart/Mermaid_Magic/28137_Mermaid_Magic_9_Doll_Sasha/28135_Mermaid_Magic_9in_Mermaid_Doll_Asst_IP_Sasha_B.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781116017/Headstart/Mermaid_Magic/28137_Mermaid_Magic_9_Doll_Sasha/28135_Mermaid_Magic_9in_Mermaid_Doll_Asst_IP_Sasha_F.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781116019/Headstart/Mermaid_Magic/28137_Mermaid_Magic_9_Doll_Sasha/28135_Mermaid_Magic_9in_Mermaid_Doll_Asst_IP_Sasha_L.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781116022/Headstart/Mermaid_Magic/28137_Mermaid_Magic_9_Doll_Sasha/28135_Mermaid_Magic_9in_Mermaid_Doll_Asst_IP_Sasha_R.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781116024/Headstart/Mermaid_Magic/28137_Mermaid_Magic_9_Doll_Sasha/28135_Mermaid_Magic_9in_Mermaid_Doll_Asst_OOP_Sasha.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781116029/Headstart/Mermaid_Magic/28137_Mermaid_Magic_9_Doll_Sasha/28135_Mermaid_Magic_9in_Mermaid_Doll_Asst_OOP_Group.png"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.427,
+      "weight_unit": "lbs",
+      "length": 3.15,
+      "length_unit": "in",
+      "width": 3.94,
+      "width_unit": "in",
+      "height": 11.81,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.162,
+      "weight_unit": "lbs",
+      "length": 10.25,
+      "length_unit": "in",
+      "width": 4.5,
+      "width_unit": "in",
+      "height": 13.5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 3,
+      "length": 10.25,
+      "length_unit": "in",
+      "width": 4.5,
+      "width_unit": "in",
+      "height": 13.5,
+      "height_unit": "in",
+      "weight": 0.419,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts;   packaging card has printed warning words",
+    "lead_phthalates": null,
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": "Blister Pack",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Mermaid Magic New Item Setup Sheet Template Version 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 2061,
+    "last_verified": null,
+    "vendor_slug": "headstart-inc"
+  }
+}

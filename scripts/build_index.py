@@ -16,12 +16,18 @@ import json
 import os
 import sys
 
+for _stream in (sys.stdout, sys.stderr):
+    try:
+        _stream.reconfigure(encoding="utf-8")
+    except (AttributeError, ValueError):
+        pass
+
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PRODUCTS_DIR = os.path.join(REPO_ROOT, "products")
 INDEX_PATH = os.path.join(REPO_ROOT, "index", "catalog.csv")
 
 COLUMNS = [
-    "Brand", "DS#", "UPC", "Product Name", "Vendor Item#",
+    "Vendor", "Brand", "DS#", "UPC", "Product Name", "Vendor Item#",
     "Wholesale Cost", "Drop Ship Cost", "MSRP", "Case Qty",
     "# Images", "Has Compliance Docs", "Supplier ID", "Source File", "File Path",
 ]
@@ -45,6 +51,7 @@ def main():
         comp = p.get("compliance") or {}
         meta = p.get("_meta") or {}
         rows.append([
+            p.get("vendor", ""),
             p.get("brand", ""),
             p.get("ds_number", ""),
             ident.get("upc", ""),

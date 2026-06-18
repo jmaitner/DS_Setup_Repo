@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531533",
+  "vendor": "Headstart Inc",
+  "brand": "Disney Toddler",
+  "vendor_item_number": 30123,
+  "product_name": "Toy Story Push N Play Vehicles",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "840150301233"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 5.3500000000000005,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 22.99
+  },
+  "sourcing": {
+    "fob_point": "Shenzhen",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "Push down to activate fun motion features – no batteries required",
+      "Includes Buzz Lightyear, Woody and Jessie character vehicles",
+      "Supports early movement, coordination and cause-and-effect play",
+      "Easy-to-handle size designed for toddler hands",
+      "Bright colours and familiar characters inspire imaginative play"
+    ],
+    "keywords": "toy story toy cars, toddler car toy, push along toy, buzz lightyear toy, woody toy, jessie toy, preschool vehicle toy, baby push toy",
+    "description": "Ready, set, go! The Toy Story Push N Play Vehicles bring simple, action-packed fun to toddler playtime. Push down to activate unique motion features for each character-inspired vehicle – no batteries required. Featuring Buzz Lightyear, Woody and Jessie, these easy-to-use vehicles are perfectly sized for little hands, encouraging movement, coordination and cause-and-effect learning. Bright colours and familiar Disney-Pixar Toy Story characters inspire imaginative adventures, whether playing at home or on the go. Designed for early learners, this playful set delivers big fun with simple push-and-play action."
+  },
+  "attributes": {
+    "material": "Plastic,",
+    "num_pieces": "3 pieces",
+    "whats_in_box": "9 x Push-along Toys, 9 x Hang Tag Strings, 9 x Hang Tags",
+    "primary_color": "Blue, Green, Brown, Red, Black, Skin tone, Yellow, White, Orange, Purple",
+    "secondary_color": "MULTI",
+    "min_age": 36,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "Yes",
+    "assembly_instructions": "Assemble the frame by connecting main components with screws, attach additional parts using connectors"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.2646,
+      "weight_unit": "lbs",
+      "length": 5.1181,
+      "length_unit": "in",
+      "width": 3.937,
+      "width_unit": "in",
+      "height": 3.5433,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.4409,
+      "weight_unit": "lbs",
+      "length": 12.5984,
+      "length_unit": "in",
+      "width": 11.4173,
+      "width_unit": "in",
+      "height": 1.378,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 9,
+      "length": 11.0236,
+      "length_unit": "in",
+      "width": 11.7717,
+      "width_unit": "in",
+      "height": 5.3937,
+      "height_unit": "in",
+      "weight": 49,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": 0,
+    "warranty_included": "Yes",
+    "warranty_desc": "1 year manufacturer warranty",
+    "batteries_required": "No",
+    "batteries_included": "NO",
+    "battery_cell_comp": "/",
+    "battery_type_qty": "/",
+    "packaging_type": "CDU",
+    "compliance_cert": "Email",
+    "doc": "Wetransfer",
+    "sds": "URL",
+    "sds_url": "http://www.companyname.com/images/1250.other1.jpg",
+    "cpsia": "Dropbox",
+    "test_reports": "Wetransfer",
+    "cpc": "Email",
+    "product_pics": "Wetransfer",
+    "instructions": "Drobox",
+    "letter_of_compliance": "Dropbox"
+  },
+  "_meta": {
+    "source_file": "HeadStart Disney New Item Setup Sheet 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 2061,
+    "last_verified": null,
+    "vendor_slug": "headstart-inc"
+  }
+}

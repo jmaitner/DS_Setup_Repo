@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531399",
+  "vendor": "BLADEZ TOYS",
+  "brand": "BLADEZ",
+  "vendor_item_number": "BT85992",
+  "product_name": "Bladez RPM R/C Stunt Racer (Purple/Blue)",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "5060158859924"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 5.6,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 19.99
+  },
+  "sourcing": {
+    "fob_point": "Yantian, CN",
+    "country_of_origin": "China",
+    "harmonized_code": 9503007590
+  },
+  "content": {
+    "bullets": [
+      "FLIP OUT FUN - Experience thrilling action with this remote control stunt car! It performs impressive wheel flips and 360 spins, providing lots of excitement for your little stunt driver.",
+      "SUPER FAST PERFORMANCE - This RC car races at an exhilarating 8 km/h with soft rubber tyres for maximum grip and LED lights to show the way!",
+      "STUNTS GALORE - Equipped with rotating axles, this remote control stunt racer can turn in any direction, making it perfect for performing awesome stunts. Watch your child master daring tricks and manoeuvres.",
+      "EYE-CATCHING DESIGN - The  remote control stunt racer comes in a striking purple/turquoise deco, making it stand out in any crowd. Ideal for both indoor and outdoor play, it’s a fantastic gift choice for kids aged 3 years and above.",
+      "REAL PERFORMANCE MACHINES - Bladez RPM perfectly blends high performance with style making it perfect for kids and adults alike!"
+    ],
+    "keywords": 0,
+    "description": "The Bladez RPM RC Stunt Racer tumbles, spins and races at high speed. Featuring bright LED lights and easy to drive handset it’s the ultimate stunt machine!"
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": 1,
+    "whats_in_box": "1 x Radio Control Stunt Racer, 1 x Controller, 1 x Instruction Manual",
+    "primary_color": "Cyan",
+    "secondary_color": 0,
+    "min_age": 3,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": "N/A"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.7870493399999999,
+      "weight_unit": "lbs",
+      "length": 6.299212598425196,
+      "length_unit": "in",
+      "width": 5.905511811023622,
+      "width_unit": "in",
+      "height": 2.952755905511811,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.07364994,
+      "weight_unit": "lbs",
+      "length": 6.299212598425196,
+      "length_unit": "in",
+      "width": 9.448818897637794,
+      "width_unit": "in",
+      "height": 5.118110236220472,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 13.8,
+      "length_unit": "in",
+      "width": 10.2,
+      "width_unit": "in",
+      "height": 16.5,
+      "height_unit": "in",
+      "weight": "7.5",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Pending",
+    "warranty_included": "No",
+    "warranty_desc": "12 Months",
+    "batteries_required": "Yes",
+    "batteries_included": "No",
+    "battery_cell_comp": "Alkaline",
+    "battery_type_qty": "4x AAA Batteries\n2x AA Batteries",
+    "packaging_type": "Open Box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "bladez-toys"
+  }
+}

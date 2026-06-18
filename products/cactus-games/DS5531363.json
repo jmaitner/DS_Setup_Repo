@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531363",
+  "vendor": "Cactus Games",
+  "brand": "Outburst",
+  "vendor_item_number": "CGD724",
+  "product_name": "Bible Outburst Game",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "830938007242"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 15,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 30
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "United States",
+    "harmonized_code": "9504.40.0000"
+  },
+  "content": {
+    "bullets": [
+      "Engaging Gameplay: An uproarious party game featuring challenging Bible topics, where teams race against a 60-second timer to shout out answers.",
+      "Objective Focus: Each topic presents 10 specific target answers that players must guess to score points.",
+      "Included Components: Comes with a molded card viewer for convenient topic selection, along with bonus points and passing chips to enhance excitement.",
+      "Player Configuration: Designed for 2 teams, each consisting of 2 or more players, making it suitable for group entertainment.",
+      "Extensive Content: Includes 252 diverse topics, such as \"Names For Christ\" and \"Animals In The Bible,\" ensuring varied and prolonged gameplay."
+    ],
+    "keywords": "christian, bible, religious, game, historical",
+    "description": "Bible Outburst® is an uproarious party game filled with challenging and entertaining Bible topics. Each topic has 10 target answers. How many can you get? The fun begins as your team draws it’s very first topic. It could be “Names For Christ,” or “Animals In The Bible,” or “Sons of Jacob.”"
+  },
+  "attributes": {
+    "material": "paper, cardboard, plastic",
+    "num_pieces": 0,
+    "whats_in_box": 0,
+    "primary_color": "multicolor",
+    "secondary_color": 0,
+    "min_age": 144,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.6,
+      "weight_unit": "lbs",
+      "length": 10,
+      "length_unit": "in",
+      "width": 5,
+      "width_unit": "in",
+      "height": 4,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.6,
+      "weight_unit": "lbs",
+      "length": 10,
+      "length_unit": "in",
+      "width": 5,
+      "width_unit": "in",
+      "height": 3,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 13,
+      "length_unit": "in",
+      "width": 11,
+      "width_unit": "in",
+      "height": 13,
+      "height_unit": "in",
+      "weight": 11,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: THIS PRODUCT CONTAINS A COIN/BUTTON BATTERY: If swallowed, coin/button batteries can cause severe or fatal injuries within 2 hours.  If you think batteries may have been swallowed or placed inside any part of the body, seek immediate medical attention. KEEP COIN/BUTTON BATTERIES OUR OF REACH OF CHILDREN.",
+    "lead_phthalates": 0,
+    "warranty_included": "Yes",
+    "warranty_desc": "6 month manufactuer warranty",
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": "Box",
+    "compliance_cert": "NOT REQUIRED",
+    "doc": "NOT REQUIRED",
+    "sds": "NOT REQUIRED",
+    "sds_url": "NOT REQUIRED",
+    "cpsia": "NOT REQUIRED",
+    "test_reports": "Dropbox",
+    "cpc": "Dropbox",
+    "product_pics": "Dropbox",
+    "instructions": "NOT REQUIRED",
+    "letter_of_compliance": "NOT REQUIRED"
+  },
+  "_meta": {
+    "source_file": "Cactus Games Setup Sheet Template Version 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 210,
+    "last_verified": null,
+    "vendor_slug": "cactus-games"
+  }
+}

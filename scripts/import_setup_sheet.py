@@ -21,6 +21,14 @@ import os
 import sys
 from datetime import date
 
+# Product names can contain non-cp1252 chars (Ō, em-dash, …). Keep the Windows
+# console from crashing when we print them.
+for _stream in (sys.stdout, sys.stderr):
+    try:
+        _stream.reconfigure(encoding="utf-8")
+    except (AttributeError, ValueError):
+        pass
+
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 try:
@@ -33,6 +41,18 @@ from ds_schema import sheet_row_to_product, brand_slug
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PRODUCTS_DIR = os.path.join(REPO_ROOT, "products")
+
+
+def vendor_from_path(path):
+    """
+    Derive the vendor name from the file path's '...\\Priority Vendors\\<Vendor>\\...'
+    segment. Returns None if not found (caller should then require --vendor).
+    """
+    parts = os.path.normpath(path).replace("\\", "/").split("/")
+    for i, seg in enumerate(parts):
+        if seg.strip().lower() == "priority vendors" and i + 1 < len(parts):
+            return parts[i + 1].strip()
+    return None
 
 
 def read_supplier_id(ws):
@@ -50,6 +70,8 @@ def read_supplier_id(ws):
 def main():
     ap = argparse.ArgumentParser(description="Import a DS setup sheet into the catalog.")
     ap.add_argument("xlsx", help="Path to the .xlsx setup sheet")
+    ap.add_argument("--vendor", help="Vendor name (folder). Default: auto-detected from the "
+                                     "'Priority Vendors/<Vendor>' path segment.")
     ap.add_argument("--update", action="store_true",
                     help="Overwrite existing product files instead of skipping them")
     ap.add_argument("--dry-run", action="store_true",
@@ -59,6 +81,12 @@ def main():
     path = args.xlsx.strip().strip('"').strip("'")
     if not os.path.isfile(path):
         sys.exit(f"ERROR: file not found -> {path}")
+
+    vendor = args.vendor or vendor_from_path(path)
+    if not vendor:
+        sys.exit("ERROR: could not detect vendor from path. Pass --vendor \"<Vendor Name>\".")
+    slug = brand_slug(vendor)
+    print(f"Vendor: {vendor}  (folder: products/{slug}/)")
 
     print(f"Opening: {os.path.basename(path)}")
     wb = load_workbook(path, data_only=True)
@@ -78,15 +106,15 @@ def main():
             continue
 
         prod = sheet_row_to_product(ws, row)
-        slug = brand_slug(prod.get("brand"))
+        prod["vendor"] = vendor
         prod["_meta"]["source_file"] = source_file
         prod["_meta"]["imported_at"] = today
         prod["_meta"]["supplier_id"] = supplier_id
-        prod["_meta"]["brand_slug"] = slug
+        prod["_meta"]["vendor_slug"] = slug
 
         ds_clean = str(prod["ds_number"]).strip()
-        brand_dir = os.path.join(PRODUCTS_DIR, slug)
-        out_path = os.path.join(brand_dir, f"DS{ds_clean}.json")
+        vendor_dir = os.path.join(PRODUCTS_DIR, slug)
+        out_path = os.path.join(vendor_dir, f"DS{ds_clean}.json")
         rel = os.path.relpath(out_path, REPO_ROOT)
         exists = os.path.exists(out_path)
 
@@ -100,7 +128,7 @@ def main():
             print(f"  ~ would {'update' if exists else 'create'}  DS{ds_clean}  {prod.get('product_name')}")
             continue
 
-        os.makedirs(brand_dir, exist_ok=True)
+        os.makedirs(vendor_dir, exist_ok=True)
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(prod, f, indent=2, ensure_ascii=False, default=str)
             f.write("\n")

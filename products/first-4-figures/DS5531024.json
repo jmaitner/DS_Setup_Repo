@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531024",
+  "vendor": "First 4 Figures",
+  "brand": "First 4 Figures",
+  "vendor_item_number": "KKGDST",
+  "product_name": "Kirby and the Goal Door (Standard Edition)",
+  "identity": {
+    "id_type": "UPC,EAN",
+    "upc": "5060316623282"
+  },
+  "pricing": {
+    "drop_ship_cost": 59.99,
+    "wholesale_cost": 28,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 79.99
+  },
+  "sourcing": {
+    "fob_point": "China",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible"
+    ],
+    "keywords": 0,
+    "description": "At the end of each stage is a Goal Door that Kirby and his pals enter to play a Goal Game before proceeding to a new level. Kirby does a quick twirl and strikes a very cute pose just before they enter the Goal Door.\nThat entire scene with Kirby by the Goal Door and striking a pose is where this statue's concept is inspired from. The base replicates the environment of the very iconic Dream Land Stage, which has a checkered-pattern pathway and a grassy and flowery terrain."
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": 4,
+    "whats_in_box": "• Kirby – Kirby and the Goal Door PVC painted statue\n• Highly detailed base inspired by the Kirby art style\n• Collector's Box\n• F4F leaflet with 500 F4F reward points included",
+    "primary_color": "Pink",
+    "secondary_color": 0,
+    "min_age": 15,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.98,
+      "weight_unit": "lbs",
+      "length": 8.6,
+      "length_unit": "in",
+      "width": 7.5,
+      "width_unit": "in",
+      "height": 9.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 2.43,
+      "weight_unit": "lbs",
+      "length": 9.84,
+      "length_unit": "in",
+      "width": 7.28,
+      "width_unit": "in",
+      "height": 10.63,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 20.08,
+      "length_unit": "in",
+      "width": 14.96,
+      "width_unit": "in",
+      "height": 10.63,
+      "height_unit": "in",
+      "weight": 13.01,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "first-4-figures"
+  }
+}

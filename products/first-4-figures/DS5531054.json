@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531054",
+  "vendor": "First 4 Figures",
+  "brand": "First 4 Figures",
+  "vendor_item_number": "BOTWL",
+  "product_name": "The Legend of Zelda: Breath of the Wild: Link (Standard edition)",
+  "identity": {
+    "id_type": "UPC,EAN",
+    "upc": "5060316620830"
+  },
+  "pricing": {
+    "drop_ship_cost": 67.49,
+    "wholesale_cost": 31.5,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 89.99
+  },
+  "sourcing": {
+    "fob_point": "China",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible"
+    ],
+    "keywords": 0,
+    "description": "There was once a disaster that became known as 'calamity'. And hyrule kingdom collapsed. This is a story of 100 years after 'calamity'. Link, as the main character, wakes up from a long sleep in the underground ruin. Then he hears a mysterious voice. And following that, he steps into the wild land.\n“Link is suddenly woken from his one hundred year sleep inside the Shrine of Resurrection of the Great Plateau, and guided by a mysterious female voice through the ruins of Hyrule. He learns from an Old Man that a being called Calamity Ganon had appeared one hundred years earlier and destroyed much of Hyrule before being sealed away in Hyrule Castle. It is later revealed that this Old Man is Rhoam Bosphoramus Hyrule, the last King of Hyrule, in spirit form. Although Ganon was trapped, his power continues to grow from inside the castle, and Link must defeat him before he breaks free and destroys the rest of Hyrule. He must do this by unlocking memories of his past, which are revealed over time....”"
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": 6,
+    "whats_in_box": 0,
+    "primary_color": "Blue",
+    "secondary_color": 0,
+    "min_age": 15,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.28,
+      "weight_unit": "lbs",
+      "length": 8.9,
+      "length_unit": "in",
+      "width": 5.6,
+      "width_unit": "in",
+      "height": 9.6,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0,
+      "weight_unit": "lbs",
+      "length": 11.02,
+      "length_unit": "in",
+      "width": 7.87,
+      "width_unit": "in",
+      "height": 11.02,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 24.61,
+      "length_unit": "in",
+      "width": 23.03,
+      "width_unit": "in",
+      "height": 12.4,
+      "height_unit": "in",
+      "weight": 14.33,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "first-4-figures"
+  }
+}

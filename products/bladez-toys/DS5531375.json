@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531375",
+  "vendor": "BLADEZ TOYS",
+  "brand": "BLADEZ",
+  "vendor_item_number": "BTHW-M04",
+  "product_name": "Hot Wheels Motor Maker Kitz - 4x4 Monster Trucks Kit",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "5060158855780"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 3.1,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 9.99
+  },
+  "sourcing": {
+    "fob_point": "Yantian, CN",
+    "country_of_origin": "China",
+    "harmonized_code": 9503001000
+  },
+  "content": {
+    "bullets": [
+      "GO BIG - These pull back Monster Trucks can take on the gnarliest terrain! Build the truck from the snap-fit parts, pull back and watch them fly over the stunt ramp provided! They can even do a wheelie!",
+      "SIX TO COLLECT - Featuring some of the most iconic Hot Wheels Monster Trucks, there are six  to collect in this assortment including Mega Wrex and Bone Shaker!",
+      "EASY TO BUILD - This make your own kit is easy to build requiring no glue or scissors making it a safe and fun activity for children to do independently or with an adult. It is also recognised as having some STEM learning benefits!",
+      "ECO FRIENDLY - With the car body made entirely from recyclable material and the packaging doubling up as a stunt ramp, this is a great eco friendly toy!",
+      "OFFICIAL LICENSED HOT WHEELS TOY - These iconic Hot Wheels Monster Trucks provide hours of open ended play allowing their imaginations to run wild!"
+    ],
+    "keywords": 0,
+    "description": "GO BIG! with Monster Trucks Maker Kitz! Assemble snap-fit parts made from strong recyclable plastic, add giant wheels with 4x4 power and take on the gnarliest terrain! They even pop a wheelie! Included in the assortment are fan favourites Mega Wrex & Bone Shaker, so start collecting your trucks now! Build, Race & Collect Hot Wheels™ Maker Kitz!"
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": 4,
+    "whats_in_box": "1 x Monster Truck Body Panel Kit, 2 x Monster Wheels with Pull Back Motor, 1 x Cardboard Stunt Ramp, 1 x Instruction Manual",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "Yes",
+    "assembly_instructions": "As per Instruction Manual"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.34392071999999996,
+      "weight_unit": "lbs",
+      "length": 5.511811023622047,
+      "length_unit": "in",
+      "width": 3.937007874015748,
+      "width_unit": "in",
+      "height": 3.937007874015748,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.65477214,
+      "weight_unit": "lbs",
+      "length": 2.3622047244094486,
+      "length_unit": "in",
+      "width": 11.023622047244094,
+      "width_unit": "in",
+      "height": 7.283464566929133,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 15.4,
+      "length_unit": "in",
+      "width": 11.8,
+      "width_unit": "in",
+      "height": 8.3,
+      "height_unit": "in",
+      "weight": "5.0",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Compliant as of 11/11/24",
+    "warranty_included": "No",
+    "warranty_desc": "12 Months",
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": "Open Window Box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "bladez-toys"
+  }
+}

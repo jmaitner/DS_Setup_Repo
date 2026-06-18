@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531377",
+  "vendor": "BLADEZ TOYS",
+  "brand": "BLADEZ",
+  "vendor_item_number": "BTHW-M11",
+  "product_name": "Hot Wheels Motor Maker Kitz - Street Racer Kit",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "5060158856428"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 2.2,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 6.99
+  },
+  "sourcing": {
+    "fob_point": "Yantian, CN",
+    "country_of_origin": "China",
+    "harmonized_code": 9503001000
+  },
+  "content": {
+    "bullets": [
+      "GET READY TO RACE - These street racers are tough and fast! Build the vehicle from the pop out parts, add power with not one but two turbo pull back motors and watch them fly over the stunt ramp provided!",
+      "SIX TO COLLECT - Featuring some of the most iconic Hot Wheels vehicles, there are six great street racers to collect in this assortment including Rodger Dodger, Warp Speeder and Super Van!",
+      "EASY TO BUILD - This make your own kit is easy to build requiring no glue or scissors making it a safe and fun activity for children to do independently or with an adult. It is also recognised as having some STEM learning benefits!",
+      "ECO FRIENDLY - With the car body made entirely from recyclable material and the packaging doubling up as a stunt ramp, this is a great eco friendly toy!",
+      "OFFICIAL LICENSED HOT WHEELS TOY - These iconic Hot Wheels cars provide hours of open ended play allowing their imaginations to race away!"
+    ],
+    "keywords": 0,
+    "description": "Maker Kitz are the Hot Wheels™ cars YOU build - pop out the pre-cut recyclable plastic panels and assemble the tough snap-fit parts! Maker Kitz are now easier to build than ever but they’re just as fast and tough as ever! There are 6 styles including fan favourites Rodger Dodger, Super Van and Boneshaker. Build, Race & Collect Hot Wheels™ Maker Kitz!"
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": 4,
+    "whats_in_box": "1 x Car Body Panel Kit, 2 x Sets of Wheels with Pull Back Motor, 1 x Cardboard Stunt Ramp, 1 x Instruction Manual",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "Yes",
+    "assembly_instructions": "As per Instruction Manual"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.09920789999999999,
+      "weight_unit": "lbs",
+      "length": 5.511811023622047,
+      "length_unit": "in",
+      "width": 2.1653543307086616,
+      "width_unit": "in",
+      "height": 1.574803149606299,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.2866006,
+      "weight_unit": "lbs",
+      "length": 1.574803149606299,
+      "length_unit": "in",
+      "width": 9.05511811023622,
+      "width_unit": "in",
+      "height": 5.511811023622047,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 10.2,
+      "length_unit": "in",
+      "width": 9.6,
+      "width_unit": "in",
+      "height": 6.5,
+      "height_unit": "in",
+      "weight": "2.1",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Compliant as of 11/11/24",
+    "warranty_included": "No",
+    "warranty_desc": "12 Months",
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": "Closed Box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "bladez-toys"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "ds_number": "5531530",
+  "vendor": "Headstart Inc",
+  "brand": "Disney Toddler",
+  "vendor_item_number": 26927,
+  "product_name": "Disney Toddler Stitch Ring Stacker",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "840150269274"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 5.35,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 19.99
+  },
+  "sourcing": {
+    "fob_point": "Shanghai",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "Stack, sort and build with numbered rings and Stitch topper",
+      "Supports fine motor skills and early problem-solving development",
+      "Encourages hand-eye coordination and exploratory play",
+      "Sensory textures and colourful design for engaging playtime",
+      "Part of the trusted Disney Toddler range – “Big fun for little ones”"
+    ],
+    "keywords": "ring stacker toy, toddler stacking toy, stitch toy, baby learning toy, fine motor skills toy, problem solving toy, sensory toy toddler, educational toy baby",
+    "description": "Stack, sort and play with the Disney Toddler Stitch Ring Stacker, designed to support early learning through hands-on fun. Featuring playful Stitch character styling, this colourful stacking toy includes easy-to-grasp rings that help little ones build coordination, dexterity and problem-solving skills. Numbered rings introduce early numeracy concepts as toddlers stack and rebuild, while sensory textures provide engaging exploration during play. Created for gentle developmental play at every milestone, this durable and cheerful toy is part of the Disney Toddler range – bringing big fun for little ones."
+  },
+  "attributes": {
+    "material": "softboa",
+    "num_pieces": 1,
+    "whats_in_box": "1 x plush toy",
+    "primary_color": "oxford blue",
+    "secondary_color": "light blue",
+    "min_age": 36,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": "No"
+  },
+  "images": {
+    "availability": 0,
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781614848/Headstart/Updated/26927/26927_Stitch_Ring_Stacker_Main.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781614849/Headstart/Updated/26927/26927_Stitch_Ring_Stacker_render.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781614850/Headstart/Updated/26927/26927_Stitch_Ring_Stacker_render2.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.31,
+      "weight_unit": "lbs",
+      "length": 5.51,
+      "length_unit": "in",
+      "width": 5.9,
+      "width_unit": "in",
+      "height": 10,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.05,
+      "weight_unit": "lbs",
+      "length": 4.5,
+      "length_unit": "in",
+      "width": 10,
+      "width_unit": "in",
+      "height": 14.5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 14.5,
+      "length_unit": "in",
+      "width": 21,
+      "width_unit": "in",
+      "height": 15,
+      "height_unit": "in",
+      "weight": 8.55,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": "No",
+    "battery_cell_comp": 0,
+    "battery_type_qty": "No",
+    "packaging_type": "color box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "HeadStart Disney New Item Setup Sheet 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 2061,
+    "last_verified": null,
+    "vendor_slug": "headstart-inc"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "ds_number": "5531526",
+  "vendor": "Headstart Inc",
+  "brand": "Disney Toddler",
+  "vendor_item_number": 26928,
+  "product_name": "Disney Toddler Winnie the Pooh Stacking Cups",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "840150269281"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 4.066,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 17.99
+  },
+  "sourcing": {
+    "fob_point": "Shenzhen",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "Stack, nest and explore with 5 colourful cups and Pooh topper",
+      "Supports fine motor skills and early numeracy development",
+      "Learn numbers through matching holes and counting play",
+      "Encourages exploratory play, size recognition and problem solving",
+      "Part of the trusted Disney Toddler range – “Big fun for little ones”"
+    ],
+    "keywords": "stacking cups toddler, winnie the pooh toy, baby stacking toy, toddler bath toy, educational toy toddler, fine motor skills toy, counting toy, nesting cups",
+    "description": "Stack, nest and play with the Disney Toddler Winnie the Pooh Stacking Cups, designed for simple, engaging toddler fun. This colourful set includes 5 easy-to-grip cups and a cute Pooh topper, encouraging little ones to explore size, order and early numeracy through hands-on play. Each cup features matching holes to support counting and number recognition, while also doubling as a fun bath toy for splashy play. Designed to promote exploratory play and improve dexterity, this lightweight and durable set supports fine motor development at every milestone. Part of the Disney Toddler range, it’s a fun and trusted learning toy that brings big fun for little ones."
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": "6 pieces",
+    "whats_in_box": "5 x cups，1 x poon head",
+    "primary_color": "MISC, ORANGE",
+    "secondary_color": "BLUE",
+    "min_age": "6 M +",
+    "max_age": 120,
+    "gender": 0,
+    "assembly_required": "YES",
+    "assembly_instructions": "NEED TO ASSEMBLLY WHEN PLAY"
+  },
+  "images": {
+    "availability": "YES",
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781614852/Headstart/Updated/26928/26928_WTP_Stacking_Cups.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781614853/Headstart/Updated/26928/26928_WTP_Stacking_Cups_Main_render.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781614854/Headstart/Updated/26928/26928_WTP_Stacking_Cups_in_pack_render.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.4409,
+      "weight_unit": "lbs",
+      "length": 5.5118,
+      "length_unit": "in",
+      "width": 3.937,
+      "width_unit": "in",
+      "height": 7.874,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.4409,
+      "weight_unit": "lbs",
+      "length": 5.5118,
+      "length_unit": "in",
+      "width": 3.937,
+      "width_unit": "in",
+      "height": 7.874,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 14.1732,
+      "length_unit": "in",
+      "width": 8.8583,
+      "width_unit": "in",
+      "height": 12.7953,
+      "height_unit": "in",
+      "weight": 4.4092,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "YES",
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": "NO",
+    "battery_cell_comp": "NO",
+    "battery_type_qty": "NO",
+    "packaging_type": "WINDOW BOX",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "HeadStart Disney New Item Setup Sheet 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 2061,
+    "last_verified": null,
+    "vendor_slug": "headstart-inc"
+  }
+}

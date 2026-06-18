@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531463",
+  "vendor": "Family Games America",
+  "brand": "FGA",
+  "vendor_item_number": "FG0020093",
+  "product_name": "DON'T COUNT ON IT -ORIGINAL",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "086453200938"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 10,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 19.99
+  },
+  "sourcing": {
+    "fob_point": "Montreal, QC",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.00.73"
+  },
+  "content": {
+    "bullets": [
+      "Replaces the common white envelope used to give money and gift certificates.",
+      "Can be used over and over again - pass it on!",
+      "Watch them struggle as they try to release the money, concert tickets, coupons, cheque, gift cards... whatever has been put inside!",
+      "Open the puzzle by following the rules EXACTLY as written.",
+      "Set up instructions and solution are included."
+    ],
+    "keywords": 0,
+    "description": "Present a gift of money by replacing the paper envelope with this  humorous puzzle. Ideal for birthdays, graduations, weddings, showers,  anniversaries and holiday celebrations. Accommodates standard gift \ncertificates, concert, airline or lottery tickets as well as paper money."
+  },
+  "attributes": {
+    "material": "Wood",
+    "num_pieces": 4,
+    "whats_in_box": "One 8.5 x 3.75 x .75\"  wooden puzzle, slide-on cap, 2 magnets, instructions.",
+    "primary_color": "Brown",
+    "secondary_color": 0,
+    "min_age": "8 +",
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.82,
+      "weight_unit": "lbs",
+      "length": 1.24,
+      "length_unit": "In",
+      "width": 9.6,
+      "width_unit": "In",
+      "height": 4.73,
+      "height_unit": "In"
+    },
+    "package": {
+      "weight": 0.84,
+      "weight_unit": "lbs",
+      "length": 1.25,
+      "length_unit": "In",
+      "width": 9.63,
+      "width_unit": "In",
+      "height": 4.75,
+      "height_unit": "In"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 11,
+      "length_unit": "in",
+      "width": 6,
+      "width_unit": "in",
+      "height": 8,
+      "height_unit": "in",
+      "weight": 6,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "N/A",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "2nd_Family Games America_New Item Setup Sheet Template Version 2026 Games.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "family-games-america"
+  }
+}

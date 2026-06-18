@@ -1,0 +1,122 @@
+{
+  "ds_number": "5530984",
+  "vendor": "CANAL TOYS",
+  "brand": "Style 4 Ever",
+  "vendor_item_number": "228391",
+  "product_name": "Style 4 Ever Diamond Art Lamp Set – Unicorn & Butterfly",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850052337384"
+  },
+  "pricing": {
+    "drop_ship_cost": 11.15,
+    "wholesale_cost": 7.3,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 14.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "Dazzle your friends and family! Design a beautiful, light-up, diamond art lamp all on your own using the Style 4 Ever Diamond Art Unicorn Lamp.",
+      "Swap your style! Bead an adorable unicorn AND a colorful butterfly, then swap them out on the base to switch up your space",
+      "Fun and easy! Simply pick up the gems with the diamond pen and set them in place on the patterned topper. Repeat until the designs are complete.",
+      "Place your design in the included base to add some light and style to your space",
+      "Includes color-coded butterfly and unicorn toppers, 1300+ gems in 8 vibrant colors, diamond pen, wax, gem tray, and light-up base!"
+    ],
+    "keywords": 0,
+    "description": "Let your unique style shine with a dazzling, light-up lamp you bedazzle all by yourself! Peel the plastic to reveal the sticky surface, then use the diamond pen to place sparkling gems following the colorful patterns on the unicorn and butterfly toppers. Place your design in the included base to add some light and style to your space; when you’re ready for a change, just swap the topper on the base! Includes butterfly and unicorn designs, 1300 gems in 8 vibrant colors, diamond pen, wax, gem tray, and light-up base."
+  },
+  "attributes": {
+    "material": "plastic, wax, paper",
+    "num_pieces": 0,
+    "whats_in_box": "1 color coded butterfly topper , 1 color coded unicorn topper, 1300+ gems, 1 diamond pen, wax, 1 gem tray, 1 light up base",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/81sy8ZLpk0L.jpg",
+      "https://m.media-amazon.com/images/I/81jKWNqvZYL.jpg",
+      "https://m.media-amazon.com/images/I/61UFEfC3U6L.jpg",
+      "https://m.media-amazon.com/images/I/71Y23AMm4LL.jpg",
+      "https://m.media-amazon.com/images/I/91wzQ39ghkL.jpg",
+      "https://m.media-amazon.com/images/I/81kfhBAl-hL.jpg",
+      "https://m.media-amazon.com/images/I/71OglIvUR7L.jpg",
+      "https://m.media-amazon.com/images/I/717Ogka97FL.jpg",
+      "https://m.media-amazon.com/images/I/71ew6aGH+mL.jpg",
+      "https://m.media-amazon.com/images/I/717F5dXESPL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.58,
+      "weight_unit": "lbs",
+      "length": 8.27,
+      "length_unit": "in",
+      "width": 2.36,
+      "width_unit": "in",
+      "height": 12.2,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.58,
+      "weight_unit": "lbs",
+      "length": 8.27,
+      "length_unit": "in",
+      "width": 2.36,
+      "width_unit": "in",
+      "height": 12.2,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 14.96,
+      "length_unit": "in",
+      "width": 7.67,
+      "width_unit": "in",
+      "height": 10.63,
+      "height_unit": "in",
+      "weight": "4.3",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "yes",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "Yes",
+    "batteries_included": "No",
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

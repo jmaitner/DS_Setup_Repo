@@ -1,0 +1,123 @@
+{
+  "ds_number": "5529320",
+  "vendor": "CANAL TOYS",
+  "brand": "Studio Creator",
+  "vendor_item_number": "872006",
+  "product_name": "Studio Creator V2 Video Maker Kit with LED Ring Light & Green Screen",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850020801466"
+  },
+  "pricing": {
+    "drop_ship_cost": 18,
+    "wholesale_cost": 11.7,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 22.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "Create amazing videos like a  pro.",
+      "choose between 3 white LED modes plus 8 ore color modes",
+      "Green screen included.",
+      "Completely adjustable tripod",
+      "Record hands free."
+    ],
+    "keywords": 0,
+    "description": "Create amazing videos like your favorite influencers with the Studio Creator 2 Video Maker Kit! Use the LED multicolored ring light, adjustable tripod, and green screen to create 100% original content that will be #fyp worthy!  The completely adjustable tripod and smart phone mount will help you record hands-free from any POV and ensure you can easily participate in trends and challenges. Easily adjust the smart phone mount to capture your best angles and choose between three LED white light modes plus 8 more LED color modes to help you get professional lighting at home. Your selfies and videos will look better than ever, no filter needed! Use the included controller to easily switch between color modes and create the perfect lighting and vibe for your videos. Record yourself in front of the green screen and then use your favorite editing app to create custom backgrounds. Share your content on your favorite apps like TikTok, YouTube, and Instagram to be the next big influencer! Great for unboxing reviews, tutorials, livestreaming, photo booths, and more! Includes 8” LED ring light, 70”x59” green screen, extendable tripod up to 31.5”, smart phone holder, USB power cord with controller, guide. 8+ This kit is not affiliated with any apps. Fits most smart phones. Smart phone not included."
+  },
+  "attributes": {
+    "material": "plastic, fabric, paper",
+    "num_pieces": "4 pieces",
+    "whats_in_box": "1 ring light, 1 tripod, 1 green screen, 1 phone holder",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 8,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "Yes",
+    "assembly_instructions": "Attach ring light to tripod"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/81DPacnurwL.jpg",
+      "https://m.media-amazon.com/images/I/81OnIRE87ML.jpg",
+      "https://m.media-amazon.com/images/I/81pRSZL3pBL.jpg",
+      "https://m.media-amazon.com/images/I/812hz5fM1WL.jpg",
+      "https://m.media-amazon.com/images/I/81KPp2PwifL.jpg",
+      "https://m.media-amazon.com/images/I/81EniO8tZoL.jpg",
+      "https://m.media-amazon.com/images/I/616uRTkQosL.jpg",
+      "https://m.media-amazon.com/images/I/71UjZlXFBgL.jpg",
+      "https://m.media-amazon.com/images/I/71rEjtqjU7L.jpg",
+      "https://m.media-amazon.com/images/I/6136u2CrA0L.jpg",
+      "https://m.media-amazon.com/images/I/71GPakIHp3L.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 2.9,
+      "weight_unit": "lbs",
+      "length": 17.75,
+      "length_unit": "in",
+      "width": 3.15,
+      "width_unit": "in",
+      "height": 10.83,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 2.9,
+      "weight_unit": "lbs",
+      "length": 17.75,
+      "length_unit": "in",
+      "width": 3.15,
+      "width_unit": "in",
+      "height": 10.83,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 18.11,
+      "length_unit": "in",
+      "width": 13.14,
+      "width_unit": "in",
+      "height": 11.53,
+      "height_unit": "in",
+      "weight": 12.8,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

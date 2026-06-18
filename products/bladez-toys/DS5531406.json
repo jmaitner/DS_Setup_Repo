@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531406",
+  "vendor": "BLADEZ TOYS",
+  "brand": "BLADEZ",
+  "vendor_item_number": "BT85907.R",
+  "product_name": "Bladez TEK Lazer Tag (Red/Blue)",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "5060158859078"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 11,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 29.99
+  },
+  "sourcing": {
+    "fob_point": "Yantian, CN",
+    "country_of_origin": "China",
+    "harmonized_code": 9503008190
+  },
+  "content": {
+    "bullets": [
+      "THRILLING FUTURISTIC BATTLE – Bring the excitement of laser tag to life with this 2-player set! Enjoy action-packed battles with blasters & target armour for realistic gameplay.",
+      "VIBRATION & SOUND EFFECTS – Feel the hit with every strike! The laser tag guns vibrate & emit combat sounds, creating a fully immersive experience that kids will love.",
+      "REAL-TIME STRIKE DETECTION – Each laser tag game for kids includes infra-red sensor armour that detects hits, making each battle intense & ensuring precise, fair play.",
+      "LONG-RANGE ACTION UP TO 15M – Perfect for both indoor & outdoor play, these laser guns for kids have a range of up to 15 metres, letting kids explore & strategise during gameplay.",
+      "PERFECT GIFT FOR ADVENTURE SEEKERS – Includes 2x Laser Tag Blasters, 2x Chest Armour Targets with adjustable straps and 1x Instruction Manual, making this lazer tag gun set a fantastic gift for birthdays or family fun!"
+    ],
+    "keywords": 0,
+    "description": "You can have exciting futuristic combat gameplay at home with the Bladez TEK Electronic Lazer Tag 2-player combat set! Including 2x Lazer Tag Blasters and 2x Target Armour with infra-red sensors for accurate strike detection, this set is perfect for head to head action!"
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": 4,
+    "whats_in_box": "2 x Laser Tag Blasters, 2 x Chest Armour Targets, 1 x Instruction Manual",
+    "primary_color": "Red/Blue",
+    "secondary_color": 0,
+    "min_age": 8,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": "N/A"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.9964882399999999,
+      "weight_unit": "lbs",
+      "length": 1.3779527559055118,
+      "length_unit": "in",
+      "width": 8.26771653543307,
+      "width_unit": "in",
+      "height": 5.118110236220472,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.6512603799999999,
+      "weight_unit": "lbs",
+      "length": 2.7559055118110236,
+      "length_unit": "in",
+      "width": 17.716535433070867,
+      "width_unit": "in",
+      "height": 11.614173228346457,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 17.3,
+      "length_unit": "in",
+      "width": 18.5,
+      "width_unit": "in",
+      "height": 12.4,
+      "height_unit": "in",
+      "weight": "11.",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Pending",
+    "warranty_included": "No",
+    "warranty_desc": "12 Months",
+    "batteries_required": "Yes",
+    "batteries_included": "No",
+    "battery_cell_comp": "Alkaline",
+    "battery_type_qty": "10x AA Batteries",
+    "packaging_type": "Window Box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "bladez-toys"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "ds_number": "5531421",
+  "vendor": "Smartivity",
+  "brand": "Smartivity",
+  "vendor_item_number": "SMRT1246",
+  "product_name": "Food Body & Nutrition",
+  "identity": {
+    "id_type": "UPC, EAN, GTIN",
+    "upc": "8908011797723"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 15,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 29.99
+  },
+  "sourcing": {
+    "fob_point": "Philly, PA",
+    "country_of_origin": "India",
+    "harmonized_code": 95030020
+  },
+  "content": {
+    "bullets": [
+      "ACTION-PACKED FUN TIME: STEAM (Science, Technology, Engineering, Arts, Math) toy designed for kids (ages 6+) to make learning about healthy eating and the human digestive system fun and interactive, featuring 5-in-1 activities like building a 3D human body model, playing nutrition card games, completing puzzles, and tracking daily food intake to encourage good habits",
+      "DEVELOPS KEY SKILLS: Reduce screen time and boost confidence and creativity with 100% screen-free engagement. As kids build their own toys, they learn about the science around us, developing a lifelong love for science.",
+      "FREE PARTS LIFETIME: Enjoy hassle free fun with all parts included, plus a lifetime supply of replacement parts. Easy-to-follow instructions make building a breeze, ensuring uninterrupted playtime.",
+      "MADE FROM SUSTAINABLE WOOD: Made from the highest quality engineered wood, our toys are completely safe for kids and boast long-lasting durability.",
+      "ULTIMATE GIFT: Give the gift of entertainment and learning combined. Ideal for birthdays gifts for boys and girls, this makes for a thoughtful present that providing endless hours of enjoyment and learning for kids"
+    ],
+    "keywords": 0,
+    "description": "Introducing the ultimate solution to the epic battle of making your munchkin embrace the world of healthy eating! Behold the Smartivity Food Body & Nutrition—a 5-in-1 STEAM wonder that turns learning about food into a playtime bonanza! Picture this: Your little explorer gets to assemble a mind-blowing 3D model of the human body while diving headfirst into 5 interactive games that make gobbling up knowledge as exciting as a plate of delicious food! Ever wondered how food takes the route through the food path? Curious about the calories party happening in your belly? This quirky STEAM game spills the beans on all things nutrition, food groups, and the path that food takes."
+  },
+  "attributes": {
+    "material": "Wood",
+    "num_pieces": 118,
+    "whats_in_box": "1 High Quality Wooden Sheets, 21 Wooden Puzzle Pieces, 44 Game Cards + 2 Game Sheets + 1 Daily Tracker, 3 Quiz Sheets, 1 Richly Illustrated Instruction Booklet, 29 Loose Parts including Rubber Bands",
+    "primary_color": "Multi Color",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 14,
+    "gender": "N/A",
+    "assembly_required": "Y",
+    "assembly_instructions": "N.A"
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://smartivity.com/cdn/shop/files/1_8d1f07fa-0789-4a83-9472-c4040ae3084d.jpg?v=1752753117&width=823",
+      "https://smartivity.com/cdn/shop/files/2_6ff61713-5a4b-432d-9cb6-b3ee8c039d21.jpg?v=1752753117&width=823",
+      "https://smartivity.com/cdn/shop/files/3_0895bedb-c07b-4742-9da8-7d00a545659b.jpg?v=1752753117&width=823",
+      "https://smartivity.com/cdn/shop/files/4_811ddbfe-1bfc-49da-be4d-883529ca6e1c.jpg?v=1752753117&width=823",
+      "https://smartivity.com/cdn/shop/files/5_b1f59588-8415-4610-abd0-76398f1bb443.jpg?v=1752753117&width=823"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.61,
+      "weight_unit": "lbs",
+      "length": 13.2,
+      "length_unit": "in",
+      "width": 9.8,
+      "width_unit": "in",
+      "height": 1.6,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 10.96,
+      "weight_unit": "lbs",
+      "length": 20.87,
+      "length_unit": "in",
+      "width": 13.8,
+      "width_unit": "in",
+      "height": 10.7,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 20.87,
+      "length_unit": "in",
+      "width": 13.8,
+      "width_unit": "in",
+      "height": 10.7,
+      "height_unit": "in",
+      "weight": 10.96,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "N",
+    "lead_phthalates": "N",
+    "warranty_included": "NA",
+    "warranty_desc": "NA",
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Smartivity Food Body Nutrition New Item Setup Sheet Template Version 2025.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 2058,
+    "last_verified": null,
+    "vendor_slug": "smartivity"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531365",
+  "vendor": "Cactus Games",
+  "brand": "Cranium",
+  "vendor_item_number": "CGD729",
+  "product_name": "Cranium Bible Edition Game",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "830938007297"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 15,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 30
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "United States",
+    "harmonized_code": "9504.40.0000"
+  },
+  "content": {
+    "bullets": [
+      "Bible-Themed Gameplay: A \"game for the whole brain\" designed to build Bible knowledge through various engaging activities.",
+      "Diverse Player Roles: Caters to different player strengths, including artists, actors, data hounds, and wordsmiths, allowing each to contribute.",
+      "Comprehensive Components: Includes a game board, 200 game cards, a 10-sided die, modeling clay, a timer, and four playing pieces.",
+      "Player Count: Specifically designed for four or more players, making it suitable for group entertainment.",
+      "Great for Families and Friends Youth Groups and Bible studies"
+    ],
+    "keywords": "christian, bible, religious, game, historical",
+    "description": "Featuring the same uproarious fun as regular Cranium but, with faith based content. Win by sculpting, acting, puzzling, humming, drawing, spelling, and possibly spelling backward!"
+  },
+  "attributes": {
+    "material": "paper, cardboard, plastic, clay",
+    "num_pieces": 0,
+    "whats_in_box": 0,
+    "primary_color": "multicolor",
+    "secondary_color": 0,
+    "min_age": 192,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.6,
+      "weight_unit": "lbs",
+      "length": 10.5,
+      "length_unit": "in",
+      "width": 8,
+      "width_unit": "in",
+      "height": 2.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.6,
+      "weight_unit": "lbs",
+      "length": 10.5,
+      "length_unit": "in",
+      "width": 8,
+      "width_unit": "in",
+      "height": 2.5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 13,
+      "length_unit": "in",
+      "width": 8,
+      "width_unit": "in",
+      "height": 11,
+      "height_unit": "in",
+      "weight": 9,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": 0,
+    "warranty_included": "Yes",
+    "warranty_desc": "6 month manufactuer warranty",
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": "Box",
+    "compliance_cert": "NOT REQUIRED",
+    "doc": "NOT REQUIRED",
+    "sds": "NOT REQUIRED",
+    "sds_url": "NOT REQUIRED",
+    "cpsia": "NOT REQUIRED",
+    "test_reports": "Not Required",
+    "cpc": "Not Required",
+    "product_pics": "Dropbox",
+    "instructions": "NOT REQUIRED",
+    "letter_of_compliance": "NOT REQUIRED"
+  },
+  "_meta": {
+    "source_file": "Cactus Games Setup Sheet Template Version 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 210,
+    "last_verified": null,
+    "vendor_slug": "cactus-games"
+  }
+}

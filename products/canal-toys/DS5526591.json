@@ -1,0 +1,113 @@
+{
+  "ds_number": "5526591",
+  "vendor": "CANAL TOYS",
+  "brand": "So Slime",
+  "vendor_item_number": "277004",
+  "product_name": "So Slime DIY Slime Factory – Just Add Water!",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "851786007253"
+  },
+  "pricing": {
+    "drop_ship_cost": 18.74,
+    "wholesale_cost": 12.15,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 24.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "Easy DIY Slime. Just add water!",
+      "Use the slime factory to create your own slimes",
+      "Includes 10 different slime powder colors",
+      "Mix in glitter or confetti",
+      "Add in a surprise figure!"
+    ],
+    "keywords": 0,
+    "description": "Make your own shimmery slime with a surprise! This Slime Factory makes it fun and easy to create custom slime. Combine slime colors, confetti, glitter and surprise figurines to for the coolest slime around.\nIncludes everything you need…just add water! No glue required. Includes assorted metallic, neon and pastel slime powder colors. Simply pour one slime powder, glitter and water into the mixer. Mix well and then add a surprise figurine. Which 4 surprises figures will you get?! Styles and colors will vary. \nIncludes 1 Mixer, 1 Workstation, 10 Slime Powder Packs, 3 Colors of Glitter, 4 Styles of Confetti, 3 Shaker Containers, 1 sticker sheet, 4 surprise figures, 1 stir stick, 1 mini funnel, and instructions.\nAges 6+\nMade In China\nNotice: Colors and styles of contents may vary. Conforms to ASTM D-4236. Do not put content near eyes or mouth. Do not eat or ingest contents. Wash hands after use. Contents contain colorants that may stain certain surfaces. Read all instructions before use."
+  },
+  "attributes": {
+    "material": "plastic, powder, paper, rubber",
+    "num_pieces": "30 pieces",
+    "whats_in_box": "1 Mixer, 1 Workstation, 10 Slime Powder Packs, 3 Colors of Glitter, 4 Styles of Confetti, 3 Shaker Containers, 1 sticker sheet, 4 surprise figures, 1 stir stick, 1 mini funnel, and instructions.",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/910tkqr9PtL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.49,
+      "weight_unit": "lbs",
+      "length": 13.39,
+      "length_unit": "in",
+      "width": 3.15,
+      "width_unit": "in",
+      "height": 12.2,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.49,
+      "weight_unit": "lbs",
+      "length": 13.39,
+      "length_unit": "in",
+      "width": 3.15,
+      "width_unit": "in",
+      "height": 12.2,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 19.7,
+      "length_unit": "in",
+      "width": 14.17,
+      "width_unit": "in",
+      "height": 13.39,
+      "height_unit": "in",
+      "weight": 10.2,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": "Yes",
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531362",
+  "vendor": "Cactus Games",
+  "brand": "Apples to Apples",
+  "vendor_item_number": "CGD716",
+  "product_name": "Apples to Apples Bible Edition Game",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "830938007167"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 15,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 30
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "United States",
+    "harmonized_code": "9504.40.0000"
+  },
+  "content": {
+    "bullets": [
+      "Engaging Gameplay: This wild party game offers instant fun, requiring players to select a card from their hand that best describes a card played by the judge.",
+      "Simple Setup: Easy to play, simply open the box, deal the cards, and the game is ready to begin for immediate enjoyment.",
+      "Winning Rounds: If the judge chooses your card, you win that round, with everyone getting a chance to be the judge throughout the game.",
+      "Educational Benefits: The game expands Bible knowledge, vocabulary, and thinking skills through clever comparisons, fostering engaging table talk.",
+      "Extensive Content: Featuring over 500 cards, each round provides surprising comparisons from a wide range of people, places, things, and events."
+    ],
+    "keywords": "christian, bible, religious, game, historical",
+    "description": "Apples to Apples ®: Bible Edition is the wild, party game that provides instant fun! for everyone! It’s as easy as “comparing apples to apples”… just open the box, deal the cards, and you’re ready to play!"
+  },
+  "attributes": {
+    "material": "paper, cardboard",
+    "num_pieces": 0,
+    "whats_in_box": "396 Red Apple cards, 132 Green Apple cards and rules",
+    "primary_color": "multicolor",
+    "secondary_color": 0,
+    "min_age": 144,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.8,
+      "weight_unit": "lbs",
+      "length": 8,
+      "length_unit": "in",
+      "width": 8,
+      "width_unit": "in",
+      "height": 3,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.8,
+      "weight_unit": "lbs",
+      "length": 9,
+      "length_unit": "in",
+      "width": 9,
+      "width_unit": "in",
+      "height": 5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 13,
+      "length_unit": "in",
+      "width": 9,
+      "width_unit": "in",
+      "height": 9,
+      "height_unit": "in",
+      "weight": 12,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "NO",
+    "lead_phthalates": 0,
+    "warranty_included": "Yes",
+    "warranty_desc": "6 month manufactuer warranty",
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": "Box",
+    "compliance_cert": "NOT REQUIRED",
+    "doc": "NOT REQUIRED",
+    "sds": "NOT REQUIRED",
+    "sds_url": "NOT REQUIRED",
+    "cpsia": "NOT REQUIRED",
+    "test_reports": "Not Required",
+    "cpc": "Not Required",
+    "product_pics": "Dropbox",
+    "instructions": "NOT REQUIRED",
+    "letter_of_compliance": "NOT REQUIRED"
+  },
+  "_meta": {
+    "source_file": "Cactus Games Setup Sheet Template Version 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 210,
+    "last_verified": null,
+    "vendor_slug": "cactus-games"
+  }
+}

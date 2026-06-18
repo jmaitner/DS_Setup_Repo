@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531031",
+  "vendor": "First 4 Figures",
+  "brand": "First 4 Figures",
+  "vendor_item_number": "MSGSCO",
+  "product_name": "Metroid Prime™ - Samus Gravity Suit PVC (Collector's Edition)",
+  "identity": {
+    "id_type": "UPC,EAN",
+    "upc": "5060316626818"
+  },
+  "pricing": {
+    "drop_ship_cost": 112.49,
+    "wholesale_cost": 52.5,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 149.99
+  },
+  "sourcing": {
+    "fob_point": "China",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible"
+    ],
+    "keywords": 0,
+    "description": "For this PVC statue, the First 4 Figures team faithfully recreated the Gravity Suit with its sleek design and iconic components. The statue's base is a version of the Screw Attack emblem, which has since become the logo of the Metroid series itself.\nThe Collector’s Edition incorporates an LED light-up function to bring Samus to life. When activated, all of the appropriate elements of the suit glow, including the helmet, arm cannon, and blue stripes."
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": 4,
+    "whats_in_box": "• High-quality and lifelike PVC statue of Samus in her iconic Gravity Suit\n• Base of the statue based on the Screw Attack/Metroid logo\n• LED light-up function\n• F4F Leaflet with 500 F4F reward points included",
+    "primary_color": "Purple",
+    "secondary_color": 0,
+    "min_age": 15,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.36,
+      "weight_unit": "lbs",
+      "length": 7.9,
+      "length_unit": "in",
+      "width": 7.9,
+      "width_unit": "in",
+      "height": 10,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0,
+      "weight_unit": "lbs",
+      "length": 9.06,
+      "length_unit": "in",
+      "width": 6.89,
+      "width_unit": "in",
+      "height": 13.78,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 18.5,
+      "length_unit": "in",
+      "width": 14.17,
+      "width_unit": "in",
+      "height": 14.57,
+      "height_unit": "in",
+      "weight": 0,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "first-4-figures"
+  }
+}

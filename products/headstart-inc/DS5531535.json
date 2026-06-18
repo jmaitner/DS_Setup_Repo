@@ -1,0 +1,115 @@
+{
+  "ds_number": "5531535",
+  "vendor": "Headstart Inc",
+  "brand": "Disney Toddler",
+  "vendor_item_number": 28721,
+  "product_name": "Disney Toddler Mickey Mouse Shape O’Clock Learning Toy",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "840150287216"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 5.3500000000000005,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 22.99
+  },
+  "sourcing": {
+    "fob_point": "Shenzhen",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "Learn time, shapes and numbers through interactive play",
+      "Turn clock hands to explore day-to-night routines and daily moments",
+      "Multi-use shapes support building, counting and colour sorting",
+      "Encourages fine motor skills, problem solving and exploration",
+      "Part of the trusted Disney Toddler range – “Big fun for little ones”"
+    ],
+    "keywords": "learning clock toy toddler, mickey mouse toy, shape sorter clock, toddler learning toy, educational toy toddler, fine motor skills toy, counting toy, preschool learning toy",
+    "description": "Learn, play and discover with the Disney Toddler Mickey Mouse Shape O’Clock. This interactive learning toy introduces early concepts like time, shapes and numbers through hands-on exploration. Turn the clock hands to activate a moving 24-hour window that brings daily routines to life, helping little ones understand “Good Morning,” “Good Afternoon,” “Good Evening” and “Good Night.” Multi-use shapes can be used for building, counting and colour sorting, encouraging problem-solving and early numeracy skills. Packed with moving parts and surprises, this engaging activity toy supports dexterity, curiosity and free play at every milestone. Part of the Disney Toddler range, it’s a fun and trusted way to bring big fun for little ones."
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": "Example: 13 pieces",
+    "whats_in_box": "1PC clock body,12PCS digital components",
+    "primary_color": "brown",
+    "secondary_color": "Red",
+    "min_age": 24,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": "/"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781614856/Headstart/Updated/28721/28721_Mickey_Shape_O_clock_OOP1_Main.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781614857/Headstart/Updated/28721/28721_Mickey_Shape_O_clock_OOP_F.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781614859/Headstart/Updated/28721/28721_Mickey_Shape_O_clock_OOP_L.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.79,
+      "weight_unit": "lbs",
+      "length": 13.5,
+      "length_unit": "in",
+      "width": 1.75,
+      "width_unit": "in",
+      "height": 12.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.1,
+      "weight_unit": "lbs",
+      "length": 14,
+      "length_unit": "in",
+      "width": 1.75,
+      "width_unit": "in",
+      "height": 12.5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 14.25,
+      "length_unit": "in",
+      "width": 7.56,
+      "width_unit": "in",
+      "height": 13.2,
+      "height_unit": "in",
+      "weight": 5.4,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "/",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": "no",
+    "battery_cell_comp": "/",
+    "battery_type_qty": "/",
+    "packaging_type": "Window opening box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "HeadStart Disney New Item Setup Sheet 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 2061,
+    "last_verified": null,
+    "vendor_slug": "headstart-inc"
+  }
+}

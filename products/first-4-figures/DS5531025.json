@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531025",
+  "vendor": "First 4 Figures",
+  "brand": "First 4 Figures",
+  "vendor_item_number": "LM03ST",
+  "product_name": "Luigi's Mansion 3 - Luigi Standard Edition",
+  "identity": {
+    "id_type": "UPC,EAN",
+    "upc": "5060316622421"
+  },
+  "pricing": {
+    "drop_ship_cost": 63.74,
+    "wholesale_cost": 29.75,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 84.99
+  },
+  "sourcing": {
+    "fob_point": "China",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible"
+    ],
+    "keywords": 0,
+    "description": "The Standard Edition of this statue comes with Luigi wearing his ghost defending weapon the Poltergust G-00."
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": 4,
+    "whats_in_box": "• Luigi's Mansion 3 - Luigi 9\" PVC Painted statue\n• Standard base with carpet design\n• Poltergust G-00\n• Collectors Box\n• F4F Leaflet with 500 F4F reward points included",
+    "primary_color": "Green",
+    "secondary_color": 0,
+    "min_age": 15,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.42,
+      "weight_unit": "lbs",
+      "length": 5.2,
+      "length_unit": "in",
+      "width": 5,
+      "width_unit": "in",
+      "height": 9,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0,
+      "weight_unit": "lbs",
+      "length": 7.48,
+      "length_unit": "in",
+      "width": 7.48,
+      "width_unit": "in",
+      "height": 10.24,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 0,
+      "length_unit": "in",
+      "width": 0,
+      "width_unit": "in",
+      "height": 0,
+      "height_unit": "in",
+      "weight": 0,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "first-4-figures"
+  }
+}

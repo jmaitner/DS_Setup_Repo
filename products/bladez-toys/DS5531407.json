@@ -1,0 +1,121 @@
+{
+  "ds_number": "5531407",
+  "vendor": "BLADEZ TOYS",
+  "brand": "BLADEZ",
+  "vendor_item_number": "BTHP-C10",
+  "product_name": "Harry Potter Activity Set",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "5060158857029"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 2,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 7.99
+  },
+  "sourcing": {
+    "fob_point": "Ningbo, CN",
+    "country_of_origin": "China",
+    "harmonized_code": 9503007000
+  },
+  "content": {
+    "bullets": [
+      "GET CRAFTY - This Harry Potter themed Mini Activity Set includes over 150 pieces so your fan can stick, draw, stamp and create. With pens, stampers, stickers and much more, this set provides plenty of crafting fun!",
+      "PERSONALISABLE STORAGE - This themed craft set even comes with a customisable quidditch pen holder for keeping all your stationery tidy!",
+      "OFFICIAL LICENSED HARRY POTTER SET - This official art set provides all Harry Potter fans the chance to craft with accessories from all four houses - Gryffindor, Slytherin, Ravenclaw and Hufflepuff!",
+      0,
+      0
+    ],
+    "keywords": 0,
+    "description": "Let your imagination run wild with the Harry Potter activity set! Colour in the Quidditch grandstands in your teams of choice and add the stickers to make pen holders. Use the ink stampers to add the finishing touches to your artwork!"
+  },
+  "attributes": {
+    "material": "Paper, Plastic",
+    "num_pieces": 150,
+    "whats_in_box": "150+ pieces including Sticker Rolls, Quidditch Colour-In Pen Holder, Colouring Sheets, Mini Felt Tip Pens, Ink Stampers and Ink Pad",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": "N/A"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.1904948,
+      "weight_unit": "lbs",
+      "length": 1.574803149606299,
+      "length_unit": "in",
+      "width": 5.511811023622047,
+      "width_unit": "in",
+      "height": 10.236220472440944,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.26455439999999997,
+      "weight_unit": "lbs",
+      "length": 1.574803149606299,
+      "length_unit": "in",
+      "width": 5.511811023622047,
+      "width_unit": "in",
+      "height": 10.236220472440944,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 5.5,
+      "length_unit": "in",
+      "width": 6.1,
+      "width_unit": "in",
+      "height": 18.9,
+      "height_unit": "in",
+      "weight": "1.9",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Compliant as of 06/09/25",
+    "warranty_included": "No",
+    "warranty_desc": "12 Months",
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": "Window Box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0,
+    "documents": [
+      {
+        "type": "ASTM Test Report",
+        "url": "https://res.cloudinary.com/dbwtptwyf/raw/upload/v1779195891/bladez-toyz/2026/testing/BTHW-C08/Bladez_Maker_Kitz_Activity_Sets__8525_1540197_ASTM_US.pdf"
+      },
+      {
+        "type": "CPC",
+        "url": "https://res.cloudinary.com/dbwtptwyf/raw/upload/v1779195893/bladez-toyz/2026/testing/BTHW-C08/Bladez_Maker_Kitz_Activity_Sets_US_CPC.pdf"
+      }
+    ]
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "bladez-toys"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "ds_number": "5530496",
+  "vendor": "CANAL TOYS",
+  "brand": "Airbrush Plush",
+  "vendor_item_number": "228313",
+  "product_name": "Airbrush Plush Unicorn Paint Bucket Set",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850041019192"
+  },
+  "pricing": {
+    "drop_ship_cost": 18.74,
+    "wholesale_cost": 11.43,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 24.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "Reusable bucket container",
+      "Customize your own Unicorn plush",
+      "Manual airbrush tool",
+      "Wash your plush and start over!",
+      "Includes everything you need to customize your plush"
+    ],
+    "keywords": 0,
+    "description": "Customize your own soft and squishy plushie with an airbrush tool and stencils! Design and decorate your Airbrush Plush Squish Pal to match your personal style. So cute and so you! The included spray tool and stick-on stencils make it so fun and easy to add cool color blended effects and trendy shapes like flowers, hearts, and more. Create a themed plushie like tie-dye or get creative and freestyle. Airbrush Plush is washable, so you can explore your style by customizing over and over! When you’re feeling inspired for a new design, simply wash your plush and start again! The possibilities are endless! Store everything in the reusable paint bucket container"
+  },
+  "attributes": {
+    "material": "plush, ink, felt, plastic, paper",
+    "num_pieces": "8 pieces",
+    "whats_in_box": "1 plush, 1 airbrush too, 4 markers, 1 sticker stencil sheet, 1 pair of gloves, 1 instruction sheet",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://i5.walmartimages.com/asr/b3de7878-be7a-45e7-ae89-64335876ba79.3edb54c32499705b23f3979e1f655dde.jpeg",
+      "https://i5.walmartimages.com/asr/017338b4-4fc2-4d33-8b58-859d69336386.6a713e673bb696802968131106f74c45.jpeg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.95,
+      "weight_unit": "lbs",
+      "length": 6.5,
+      "length_unit": "in",
+      "width": 6.5,
+      "width_unit": "in",
+      "height": 8,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.95,
+      "weight_unit": "lbs",
+      "length": 6.5,
+      "length_unit": "in",
+      "width": 6.5,
+      "width_unit": "in",
+      "height": 8,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 18.7,
+      "length_unit": "in",
+      "width": 12.6,
+      "width_unit": "in",
+      "height": 9.4,
+      "height_unit": "in",
+      "weight": "6.6",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "ds_number": "5530987",
+  "vendor": "CANAL TOYS",
+  "brand": "So Slime",
+  "vendor_item_number": "277063",
+  "product_name": "So Slime DIY Slime'licious Scented Slime Station",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "851786007918"
+  },
+  "pricing": {
+    "drop_ship_cost": 18.74,
+    "wholesale_cost": 13.23,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 24.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "This set makes up to 16 scented mini slimes!",
+      "This slime making workstation makes it  so fun and easy to mix up your own custom food-inspired mini slimes without a mess",
+      "Slime Station includes 4 mini parfait style slime shakers and slime powder you can make popcorn slime, grape slime, chocolate slime, bubble gum slime  or even Strawberry Milk & Cereal slime",
+      "Add some water into the shaker cup…then shake for 30 seconds. Your slime is ready in 5 minutes! Mix in the pack of decorations… beads, fruit shapes, mini straws and more",
+      "Your slime is ready in 5 minutes! Mix in the pack of decorations… beads, fruit shapes, mini straws and more"
+    ],
+    "keywords": 0,
+    "description": "Mix your own scented slimes with this Slime'licious Slime Station! This set makes up to 16 scented mini slimes! Slime'licious slimes are so fresh and SMELLICIOUS! This slime making workstation makes it  so fun and easy to mix up your own custom food-inspired mini slimes without a mess. Create your own scented slime recipes!  Includes everything you need…just add water! No glue required. Slime Station includes 4 mini parfait style slime shakers and slime powder you can make popcorn slime, grape slime, chocolate slime, bubble gum slime  or even Strawberry Milk & Cereal slime! What slime will you mix up? Simply dispense slime powder into the shaker cup. Then add a few drops of your choice of scented colorants. Add some water into the shaker cup…then shake for 30 seconds. Your slime is ready in 5 minutes! Mix in the pack of decorations… beads, fruit shapes, mini straws and more!\n Enjoy and share your sweet scent-sational slime creations! Your senses will explode with all great scents and slime decorations to squish, stretch, and swirl. It’s so fun to make and play! Includes Slime Station,  Slime Powder, 3 bottles of scented colorant, mini spoon, mixing tool,  7 Packs of Decorations, 3 mini straw decorations, 4 reusable mini Slime Shaker Containers, 1 Sticker Sheet,  and Instructions. Collect and make all the Slime'licious styles from So Slime DIY. Ages 6+. Made In China. Notice: Colors and styles of contents may vary. Conforms to ASTM D-4236. Do not put content near eyes or mouth. This product is not food and not to be used as food containers.  Do not eat or ingest contents. Wash hands after use. Contents contain colorants that may stain certain surfaces. Read all instructions before use."
+  },
+  "attributes": {
+    "material": "plastic, powder, paper, rubber",
+    "num_pieces": "23 pieces",
+    "whats_in_box": "Slime Station,  Slime Powder, 3 bottles of scented colorant, mini spoon, mixing tool,  7 Packs of Decorations, 3 mini straw decorations, 4 reusable mini Slime Shaker Containers, 1 Sticker Sheet,  and Instructions",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/71MRgAsypyL.jpg",
+      "https://m.media-amazon.com/images/I/81o2o47S8FL.jpg",
+      "https://m.media-amazon.com/images/I/71Ndxy2kpjL.jpg",
+      "https://m.media-amazon.com/images/I/71xIgtllBAL.jpg",
+      "https://m.media-amazon.com/images/I/81yVJ3HLLhL.jpg",
+      "https://m.media-amazon.com/images/I/71D6b+E66ZL.jpg",
+      "https://m.media-amazon.com/images/I/81eSKRudBiL.jpg",
+      "https://m.media-amazon.com/images/I/61omnX1XbAL.jpg",
+      "https://m.media-amazon.com/images/I/41nZGTWpe-L.jpg",
+      "https://m.media-amazon.com/images/I/61XtN9eINrL.jpg",
+      "https://m.media-amazon.com/images/I/81DMITis65L.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.44,
+      "weight_unit": "lbs",
+      "length": 13.38,
+      "length_unit": "in",
+      "width": 3.15,
+      "width_unit": "in",
+      "height": 12.25,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.44,
+      "weight_unit": "lbs",
+      "length": 13.38,
+      "length_unit": "in",
+      "width": 3.15,
+      "width_unit": "in",
+      "height": 12.25,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 19.7,
+      "length_unit": "in",
+      "width": 13.97,
+      "width_unit": "in",
+      "height": 13.39,
+      "height_unit": "in",
+      "weight": "9.9",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": "Yes",
+    "warranty_included": 0,
+    "warranty_desc": "No",
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

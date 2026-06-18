@@ -1,0 +1,122 @@
+{
+  "ds_number": "5530997",
+  "vendor": "CANAL TOYS",
+  "brand": "Photo Creator",
+  "vendor_item_number": "CLK058",
+  "product_name": "Real Mini Camera – Original Style Digital Keychain Camera",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850068897889"
+  },
+  "pricing": {
+    "drop_ship_cost": 16,
+    "wholesale_cost": 10.55,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 19.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "A trendy mini digital camera, ideal for capturing everyday moments with one click. Compact and colorful, it fits anywhere thanks to its miniature size and built-in key ring, perfect for hanging on a bag or a bunch of keys. Comes with a 1GB memory card, to keep photos and videos always within reach. Support SD card up to 64GB",
+      "Ultra-compact and ultra-light, this miniature camera is the perfect companion to capture every precious moment. Easy to put in a pocket or hang on a bag thanks to its integrated key ring, it impresses with its modern and colorful design. The perfect accessory to add a touch of style to everyday life, while capturing memories with originality wherever you are.",
+      "Original, Retro, Instant, Compact, Pro and Vintage. Discover 6 unique models!",
+      "Front Lens / 0.96 inch Color LCD Screen / 6 Frames and 8 Color Filters Included / Built-in Flash / Compatible Storage Support: 1 x 1GB Micro SD Card Included / Built-in Rechargeable Battery, USB-C Cable Included / Compatible with Computers, Laptops and Tablets with USB Port.",
+      "Contents: 1 Mini Digital Camera, 1 Keyring clip, 1 1GB Micro SD Card, 1 USB-C Charging Cable and user manual. Recommended for girls and boys aged 8 and up"
+    ],
+    "keywords": 0,
+    "description": "Hours of fun and creativity to discover among 6 models of ultra-trendy Mini'Cam! Ideal for capturing everyday moments, this mini digital camera allows you to customize photos and videos with 6 frames and 8 built-in color filters. Ultra-compact, it fits easily into a pocket or hangs on a bag thanks to its practical key ring. Comes with a 1GB micro-SD card to keep your creations always at hand, and simply transfer them to a computer, tablet or other device via the included USB-C cable. Developed in France, this device is designed for children from 8 years old, in compliance with European toy standards. Its ergonomic shape and intuitive buttons allow for easy grip, ideal for everyday use."
+  },
+  "attributes": {
+    "material": "plastic, metal",
+    "num_pieces": "6 pieces",
+    "whats_in_box": "1 Mini Digital Camera, 1 Keyring clip, 1 1GB Micro SD Card, 1 USB-C Charging Cable and user manual.",
+    "primary_color": "Turquoise",
+    "secondary_color": 0,
+    "min_age": 8,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/712V8kcQLBL.jpg",
+      "https://m.media-amazon.com/images/I/61l5fuA0VFL.jpg",
+      "https://m.media-amazon.com/images/I/71-s8JV5EuL.jpg",
+      "https://m.media-amazon.com/images/I/718hTM-rmVL.jpg",
+      "https://m.media-amazon.com/images/I/716LnagN48L.jpg",
+      "https://m.media-amazon.com/images/I/61g+L47cz5L.jpg",
+      "https://m.media-amazon.com/images/I/71OjLO7aNmL.jpg",
+      "https://m.media-amazon.com/images/I/71jg5j4HrlL.jpg",
+      "https://m.media-amazon.com/images/I/71PQOgxO+5L.jpg",
+      "https://m.media-amazon.com/images/I/81NEWv9+eVL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.16,
+      "weight_unit": "lbs",
+      "length": 5.31,
+      "length_unit": "in",
+      "width": 1.18,
+      "width_unit": "in",
+      "height": 7.87,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.16,
+      "weight_unit": "lbs",
+      "length": 5.31,
+      "length_unit": "in",
+      "width": 1.18,
+      "width_unit": "in",
+      "height": 7.87,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 8.18,
+      "length_unit": "in",
+      "width": 6.29,
+      "width_unit": "in",
+      "height": 9.01,
+      "height_unit": "in",
+      "weight": "2.5",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "Yes",
+    "batteries_included": "Yes",
+    "battery_cell_comp": 0,
+    "battery_type_qty": "Built in rechargable",
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

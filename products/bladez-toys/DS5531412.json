@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531412",
+  "vendor": "BLADEZ TOYS",
+  "brand": "BLADEZ",
+  "vendor_item_number": "HP85763",
+  "product_name": "Harry Potter Maker Kitz - Make Your Own Niffler",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "5060158857630"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 1.5,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 5.99
+  },
+  "sourcing": {
+    "fob_point": "Ningbo, CN",
+    "country_of_origin": "China",
+    "harmonized_code": 9503009990
+  },
+  "content": {
+    "bullets": [
+      "CREATE, BUILD AND DISPLAY - This Make Your Own kit allows you to build your own detailed model of Niffler from Fantastic Beasts! Once complete, the character can be displayed with pride!",
+      "ECO FRIENDLY - With the character made from high quality cardboard, this Creative Maker Kitz and it's packaging are entirely plastic free and 100% recyclable.",
+      "EASY TO MAKE - This Make Your Own kit is easy to complete requiring no glue or scissors making it a safe and fun activity for children to do independently or with an adult.",
+      "COLLECT THEM ALL - All the most iconic characters including Hedwig, Dobby and Buckbeak have been brought to life in this creative assortment!",
+      "OFFICIAL LICENSED HARRY POTTER TOY - This offically licensed character set makes a great gift or rainy day activity for any Harry Potter fans aged 6 and above."
+    ],
+    "keywords": 0,
+    "description": "Make Your Own Niffler from Fantastic Beasts with Maker Kitz! Made using sustainable materials, this set requires no glue or scissors and therefore is perfect for kids and adults alike. Also available in the Magical Creatures range are Hedwig, Buckbeak and Dobby from the best selling Harry Potter series."
+  },
+  "attributes": {
+    "material": "Cardboard",
+    "num_pieces": 1,
+    "whats_in_box": "1 x Make Your Own Character Kit, 1 x Instruction Sheet",
+    "primary_color": "Black",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "Yes",
+    "assembly_instructions": "N/A"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.112215158,
+      "weight_unit": "lbs",
+      "length": 5.511811023622047,
+      "length_unit": "in",
+      "width": 3.937007874015748,
+      "width_unit": "in",
+      "height": 5.31496062992126,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.42549166,
+      "weight_unit": "lbs",
+      "length": 1.574803149606299,
+      "length_unit": "in",
+      "width": 5.511811023622047,
+      "width_unit": "in",
+      "height": 10.236220472440944,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 5.3,
+      "length_unit": "in",
+      "width": 6.1,
+      "width_unit": "in",
+      "height": 18.9,
+      "height_unit": "in",
+      "weight": "2.9",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Pending",
+    "warranty_included": "No",
+    "warranty_desc": "12 Months",
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": "Closed Box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "bladez-toys"
+  }
+}

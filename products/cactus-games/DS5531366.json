@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531366",
+  "vendor": "Cactus Games",
+  "brand": "Operation",
+  "vendor_item_number": "CGD721",
+  "product_name": "Operation Noah's Ark Edition Game",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "830938007211"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 15,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 30
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "United States",
+    "harmonized_code": "9504.40.0000"
+  },
+  "content": {
+    "bullets": [
+      "Classic Themed: Combines the classic Noah's Ark story with the engaging gameplay of the Operation game.",
+      "Engaging Play: Promotes family bonding and fun through interactive gameplay.",
+      "Skill Development: Encourages the development of fine motor skills and hand-eye coordination.",
+      "Age Appropriateness: Designed for children aged 4 years and older.",
+      "Game Objective: Players help Noah load animals onto the ark while avoiding the thunderbolt."
+    ],
+    "keywords": "christian, bible, religious, game, historical, trivia",
+    "description": "Operation the classic children's favorite in a Noah's Ark Edition.  Help Noah rescue the animals before the flood.  Don't touch the side or your will trigger the thunderbolt"
+  },
+  "attributes": {
+    "material": "paper, cardboard, plastic",
+    "num_pieces": 0,
+    "whats_in_box": 0,
+    "primary_color": "multicolor",
+    "secondary_color": 0,
+    "min_age": 72,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "Yes",
+    "assembly_instructions": "Requires some adult assembly before play."
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.4,
+      "weight_unit": "lbs",
+      "length": 16,
+      "length_unit": "in",
+      "width": 10,
+      "width_unit": "in",
+      "height": 2,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.4,
+      "weight_unit": "lbs",
+      "length": 16,
+      "length_unit": "in",
+      "width": 10,
+      "width_unit": "in",
+      "height": 2,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 17,
+      "length_unit": "in",
+      "width": 8,
+      "width_unit": "in",
+      "height": 11,
+      "height_unit": "in",
+      "weight": 7,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": 0,
+    "warranty_included": "Yes",
+    "warranty_desc": "6 month manufactuer warranty",
+    "batteries_required": "Yes",
+    "batteries_included": "No",
+    "battery_cell_comp": "Alkaline",
+    "battery_type_qty": "4 x AAA Batteries",
+    "packaging_type": "Box",
+    "compliance_cert": "NOT REQUIRED",
+    "doc": "NOT REQUIRED",
+    "sds": "NOT REQUIRED",
+    "sds_url": "NOT REQUIRED",
+    "cpsia": "NOT REQUIRED",
+    "test_reports": "Dropbox",
+    "cpc": "Dropbox",
+    "product_pics": "Dropbox",
+    "instructions": "NOT REQUIRED",
+    "letter_of_compliance": "NOT REQUIRED"
+  },
+  "_meta": {
+    "source_file": "Cactus Games Setup Sheet Template Version 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 210,
+    "last_verified": null,
+    "vendor_slug": "cactus-games"
+  }
+}

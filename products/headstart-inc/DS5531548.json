@@ -1,0 +1,114 @@
+{
+  "ds_number": "5531548",
+  "vendor": "Headstart Inc",
+  "brand": "Mermaid Magic",
+  "vendor_item_number": 29677,
+  "product_name": "Mermaid Magic Accessory Set - Merlinda",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "840150296775"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 6,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 24.99
+  },
+  "sourcing": {
+    "fob_point": "Yantian",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.00.73"
+  },
+  "content": {
+    "bullets": [
+      "3 piece play set",
+      "Light and sound",
+      "Realistic character design",
+      "Wearable accessories",
+      "Creative play accessories"
+    ],
+    "keywords": "Mermaid, dress up, light and music",
+    "description": "Light up feature,necklace for child(3-6yrs),plays \"making waves\"song,button cell batteries"
+  },
+  "attributes": {
+    "material": "Plastic, nylon,board,button battery,hardware,bliser",
+    "num_pieces": 1,
+    "whats_in_box": "1 x necklace",
+    "primary_color": "Blue",
+    "secondary_color": "Gold",
+    "min_age": 36,
+    "max_age": 72,
+    "gender": "Unisex",
+    "assembly_required": "NO",
+    "assembly_instructions": "NO"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781116154/Headstart/Mermaid_Magic/29677_Mermaid_Magic_Accessory_Set_Merlinda/MM_Accessory_Set_2.png",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781116157/Headstart/Mermaid_Magic/29677_Mermaid_Magic_Accessory_Set_Merlinda/MM_Accessory_Set.png"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.415,
+      "weight_unit": "lbs",
+      "length": 2,
+      "length_unit": "in",
+      "width": 8.875,
+      "width_unit": "in",
+      "height": 10.25,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.287,
+      "weight_unit": "lbs",
+      "length": 13.5,
+      "length_unit": "in",
+      "width": 9.25,
+      "width_unit": "in",
+      "height": 10.875,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 13.5,
+      "length_unit": "in",
+      "width": 9.25,
+      "width_unit": "in",
+      "height": 10.875,
+      "height_unit": "in",
+      "weight": 2.49,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts;   packaging card has printed warning words",
+    "lead_phthalates": null,
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "Yes",
+    "batteries_included": "Yes",
+    "battery_cell_comp": null,
+    "battery_type_qty": "3 x 1.5V button battery",
+    "packaging_type": "Blister Pack",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Mermaid Magic New Item Setup Sheet Template Version 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 2061,
+    "last_verified": null,
+    "vendor_slug": "headstart-inc"
+  }
+}

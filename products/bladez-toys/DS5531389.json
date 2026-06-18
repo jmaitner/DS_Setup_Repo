@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531389",
+  "vendor": "BLADEZ TOYS",
+  "brand": "BLADEZ",
+  "vendor_item_number": "BTHW-PK2",
+  "product_name": "Hot Wheels Mini Maker Kitz Monster Trucks",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "5060158857388"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 1.2,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 3.99
+  },
+  "sourcing": {
+    "fob_point": "Yantian, CN",
+    "country_of_origin": "China",
+    "harmonized_code": 9503001000
+  },
+  "content": {
+    "bullets": [
+      "BUILD & RACE YOUR OWN MONSTER TRUCKS - With the Hot Wheels Monster Trucks Mini Maker Kitz, kids can build and customise their own mini monster trucks. Pop out the plastic parts, snap them together, and get ready to race with super-fast pull-back motor.",
+      "EASY SNAP-FIT ASSEMBLY - No scissors or glue required! This Hot Wheels Maker Kitz set is designed for easy assembly, making it perfect for kids aged 6-12.",
+      "TURBO PERFORMANCE – Each monster truck in this Hot Wheels kit is equipped with a robust pull-back motor for the ultimate stunt performance.",
+      "COLLECT & TRADE - With 16 different monster trucks to collect and build, this set offers endless fun and creativity. Kids can trade with friends and expand their collection, making it a perfect gift for young Hot Wheels enthusiasts.",
+      "PORTABLE FUN - Compact and lightweight, the Hot Wheels Monster Trucks Mini Maker Kitz is perfect for on-the-go play. Take it to friends' houses, on road trips, or simply enjoy building and racing at home.  instruction sheet."
+    ],
+    "keywords": 0,
+    "description": "Mini Maker Kitz are the Hot Wheels Monster Trucks YOU build! Assemble the snap-fit model kit style parts - add powerful pull-back motor and wheels and easy to build body shell - then customise with stickers! Build, Race & Collect Hot Wheels™ Maker Kitz!"
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": 1,
+    "whats_in_box": "1 x Monster Truck Body Panel Kit, 1 x Chassis, 2 x Sets of Wheels (1 x Pull Back Motor), 1 x Chassis Sticker Sheet",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "Yes",
+    "assembly_instructions": "As per Instruction Manual"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.07936631999999999,
+      "weight_unit": "lbs",
+      "length": 2.952755905511811,
+      "length_unit": "in",
+      "width": 2.1653543307086616,
+      "width_unit": "in",
+      "height": 2.3622047244094486,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.13,
+      "weight_unit": "lbs",
+      "length": 1.574803149606299,
+      "length_unit": "in",
+      "width": 4.330708661417323,
+      "width_unit": "in",
+      "height": 3.149606299212598,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 16,
+      "length": 7.7,
+      "length_unit": "in",
+      "width": 9.8,
+      "width_unit": "in",
+      "height": 7.5,
+      "height_unit": "in",
+      "weight": "2.9",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Compliant as of 11/11/24",
+    "warranty_included": "No",
+    "warranty_desc": "12 Months",
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": "Closed Box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "bladez-toys"
+  }
+}

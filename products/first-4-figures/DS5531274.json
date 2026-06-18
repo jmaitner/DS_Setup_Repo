@@ -1,0 +1,113 @@
+{
+  "ds_number": "5531274",
+  "vendor": "First 4 Figures",
+  "brand": "FiGGYZ",
+  "vendor_item_number": "FCONTE01",
+  "product_name": "FiGGYZ - Conker's Bad Fur Day - Tediz",
+  "identity": {
+    "id_type": "UPC,EAN",
+    "upc": "5061062272847"
+  },
+  "pricing": {
+    "drop_ship_cost": 11.19,
+    "wholesale_cost": 4.55,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 15.99
+  },
+  "sourcing": {
+    "fob_point": "China",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "FiGGYZ Pop Magnet",
+      "FiGGYZ Pop Magnet",
+      "FiGGYZ Pop Magnet",
+      "FiGGYZ Pop Magnet",
+      "FiGGYZ Pop Magnet"
+    ],
+    "keywords": 0,
+    "description": "*PENDING FINAL APPROVAL*"
+  },
+  "attributes": {
+    "material": "Metal, Magnet",
+    "num_pieces": 40,
+    "whats_in_box": "• A reversible metal display\n• A magnetised figure\n• Display Base\n• 3M Magnetic Dots",
+    "primary_color": 0,
+    "secondary_color": 0,
+    "min_age": 15,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": 0,
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://figgyz.com"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.29,
+      "weight_unit": "lbs",
+      "length": 2.76,
+      "length_unit": "in",
+      "width": 1.34,
+      "width_unit": "in",
+      "height": 4.33,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.33,
+      "weight_unit": "lbs",
+      "length": 3.54,
+      "length_unit": "in",
+      "width": 0.98,
+      "width_unit": "in",
+      "height": 7.36,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 40,
+      "length": 19.29,
+      "length_unit": "in",
+      "width": 14.57,
+      "width_unit": "in",
+      "height": 7.48,
+      "height_unit": "in",
+      "weight": 14.77,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "first-4-figures"
+  }
+}

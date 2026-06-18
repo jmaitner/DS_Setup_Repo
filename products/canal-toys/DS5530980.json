@@ -1,0 +1,123 @@
+{
+  "ds_number": "5530980",
+  "vendor": "CANAL TOYS",
+  "brand": "Airbrush Plush",
+  "vendor_item_number": "228349",
+  "product_name": "Airbrush Plush Koala – DIY Stuffed Animal Decorating Kit",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850041019505"
+  },
+  "pricing": {
+    "drop_ship_cost": 21.49,
+    "wholesale_cost": 14.36,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 29.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "Customize your own Koala plush",
+      "Use airbrush tool and included stencils to create designs",
+      "Comes with multiple airbrush makers",
+      "Wash your plush and start over!",
+      "Inlciudes everything you need for unique designs"
+    ],
+    "keywords": 0,
+    "description": "Customize your own adorable and soft plush Kola! Design and create your own multicolored plush with the battery-powered airbrush gun and stick-on stencils. The real airbrush gun makes it so easy and satisfying to create trendy and cute multicolored plushies! Use the airbrush gun to apply your favorite colors and create cool, seamless, color-blended effects! This super cute plush is your blank canvas. Explore your personal style and creativity by customizing over and over again! When you’re ready for a new design, simply wash off the old one and start over! This collectible plush looks brand new even after being washed, so the possibilities are endless. Redesign and update your plush with trendy and fun themes as your mood & style changes!"
+  },
+  "attributes": {
+    "material": "plush, ink, felt, plastic, paper",
+    "num_pieces": "6 pieces",
+    "whats_in_box": "1 plus, 1 airbrush tool, 4 markers",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/71CnWBLd7OL.jpg",
+      "https://m.media-amazon.com/images/I/8159KDqvbrL.jpg",
+      "https://m.media-amazon.com/images/I/71J3GatF88L.jpg",
+      "https://m.media-amazon.com/images/I/71e7G2XsjNL.jpg",
+      "https://m.media-amazon.com/images/I/81csI7WMIrL.jpg",
+      "https://m.media-amazon.com/images/I/71V7JiRH5gL.jpg",
+      "https://m.media-amazon.com/images/I/61Z48hqfb-L.jpg",
+      "https://m.media-amazon.com/images/I/617vAAiwPXL.jpg",
+      "https://m.media-amazon.com/images/I/71ARDHWRNrL.jpg",
+      "https://m.media-amazon.com/images/I/71xg-cAiKwL.jpg",
+      "https://m.media-amazon.com/images/I/71zSanBeaxL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.33,
+      "weight_unit": "lbs",
+      "length": 6.5,
+      "length_unit": "in",
+      "width": 4.5,
+      "width_unit": "in",
+      "height": 12.2,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.33,
+      "weight_unit": "lbs",
+      "length": 6.5,
+      "length_unit": "in",
+      "width": 4.5,
+      "width_unit": "in",
+      "height": 12.2,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 13.58,
+      "length_unit": "in",
+      "width": 9.65,
+      "width_unit": "in",
+      "height": 13,
+      "height_unit": "in",
+      "weight": "6.6",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "Yes",
+    "batteries_included": "No",
+    "battery_cell_comp": 0,
+    "battery_type_qty": "2 AA",
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

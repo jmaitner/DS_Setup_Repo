@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531525",
+  "vendor": "Headstart Inc",
+  "brand": "Disney Toddler",
+  "vendor_item_number": 25651,
+  "product_name": "Disney Toddler Winnie the Pooh Hunny Pot Shape Sorter",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "840150256519"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 6.42,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 22.99
+  },
+  "sourcing": {
+    "fob_point": "Shenzhen",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "Shape-sorting play that builds early learning skills",
+      "Includes 6 easy-grip blocks for sorting fun",
+      "Encourages problem solving, shapes and colour recognition",
+      "Supports hand-eye coordination and fine motor development",
+      "Part of the trusted Disney Toddler range – “Big fun for little ones”"
+    ],
+    "keywords": "shape sorter toy, toddler learning toy, winnie the pooh toy, baby shape sorter, educational toy toddler, fine motor skills toy, colour sorting toy, problem solving toy",
+    "description": "Bring big fun for little ones to learning play with the Disney Toddler Winnie the Pooh Hunny Pot Shape Sorter. Designed especially for toddlers, this charming hunny pot includes 6 easy-to-grasp shapes that little ones can sort and match, building early problem-solving skills through hands-on play. Featuring Winnie the Pooh and bright, engaging colours, this toy encourages free play while supporting shape and colour recognition, hand-eye coordination and fine motor development. Compatible with Shape ‘O Clock blocks, it expands play possibilities as toddlers grow. Part of the Disney Toddler range, created for gentle developmental play at every milestone, it’s a fun and trusted learning toy for home or on the go."
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": "4 pieces",
+    "whats_in_box": "9 xClocks，1 x Barrel",
+    "primary_color": "MISC, ORANGE",
+    "secondary_color": "BLUE",
+    "min_age": "6 M +",
+    "max_age": 120,
+    "gender": 0,
+    "assembly_required": "YES",
+    "assembly_instructions": "NEED TO ASSEMBLLY WHEN PLAY"
+  },
+  "images": {
+    "availability": "YES",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.7637,
+      "weight_unit": "lbs",
+      "length": 7.874,
+      "length_unit": "in",
+      "width": 6.2992,
+      "width_unit": "in",
+      "height": 7.4803,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.4409,
+      "weight_unit": "lbs",
+      "length": 5.5118,
+      "length_unit": "in",
+      "width": 3.937,
+      "width_unit": "in",
+      "height": 7.874,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 15.748,
+      "length_unit": "in",
+      "width": 8.7402,
+      "width_unit": "in",
+      "height": 13.622,
+      "height_unit": "in",
+      "weight": 7.9366,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "YES",
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": "NO",
+    "battery_cell_comp": "NO",
+    "battery_type_qty": "NO",
+    "packaging_type": "Blister tray",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "HeadStart Disney New Item Setup Sheet 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 2061,
+    "last_verified": null,
+    "vendor_slug": "headstart-inc"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "ds_number": "5530501",
+  "vendor": "CANAL TOYS",
+  "brand": "So Slime",
+  "vendor_item_number": "277216",
+  "product_name": "So Slime DIY Glow-in-the-Dark Lava Slime 5-Pack",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850033017694"
+  },
+  "pricing": {
+    "drop_ship_cost": 16.74,
+    "wholesale_cost": 11.93,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 24.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "Make your own glow in the dark lava  slime",
+      "reusable lamp storage container",
+      "Mix clear and glow slime with beads to create cool formations",
+      "Stretche and squish it",
+      "add in glittery decorations for cooler effect"
+    ],
+    "keywords": 0,
+    "description": "Make your own glow in the dark Lava Slime! Includes everything you need to make 5 lava lamp inspired slimes. Place one pack of clear slime, one pack of glow slime, and the special lava beads in the lava lamp container. Watch as it grows lava-like formations and glows in the dark! Remove it to stretch, squish, and play! Add glittery decorations to your slime for an even cooler effect. Place your slime back in the lava lamp container to store it for later. You can even use it as a trendy piece of glow in the dark room décor until you’re ready to play again"
+  },
+  "attributes": {
+    "material": "slime, plastic, paper",
+    "num_pieces": "15 pieces",
+    "whats_in_box": "5 pack of clear slime, 5 packs of glow in the dark slime, 3 packs of decorations, 1 pack of lava beads, 1 lava lamp container, instructions",
+    "primary_color": "Multi",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://i5.walmartimages.com/asr/a611f11c-36a6-4955-ac4e-d2aed8a7b8fd.b68d73c200db2a97cb0b46f54cef65d3.jpeg",
+      "https://i5.walmartimages.com/asr/151f2426-96e4-4ed6-9014-961c9d35ce32.657bdba13d14f6317b1eba4957c925c5.jpeg",
+      "https://i5.walmartimages.com/asr/f3a32071-3193-49b2-9127-511d1d12dc03.4b58f2a6639b13198a2875aa05023ce4.jpeg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 2.08,
+      "weight_unit": "lbs",
+      "length": 12,
+      "length_unit": "in",
+      "width": 2.56,
+      "width_unit": "in",
+      "height": 10.63,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 2.08,
+      "weight_unit": "lbs",
+      "length": 12,
+      "length_unit": "in",
+      "width": 2.56,
+      "width_unit": "in",
+      "height": 10.63,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 15.95,
+      "length_unit": "in",
+      "width": 12.6,
+      "width_unit": "in",
+      "height": 11.22,
+      "height_unit": "in",
+      "weight": 13.7,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

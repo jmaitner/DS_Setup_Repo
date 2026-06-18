@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531532",
+  "vendor": "Headstart Inc",
+  "brand": "Disney Toddler",
+  "vendor_item_number": 29515,
+  "product_name": "Disney Toddler Stitch Learning Bundle – Sensory Plush & Ring Stacker",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "840150295150"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 13.91,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 44.99
+  },
+  "sourcing": {
+    "fob_point": "Shanghai",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "Includes Stitch sensory plush and ring stacker for learning through play",
+      "Combines tactile sensory exploration with hands-on developmental play",
+      "Supports fine motor skills, problem solving, shapes and colour recognition",
+      "Features soft fabrics and heart mirror for sensory and emotional development",
+      "Part of the trusted Disney Toddler range – “Big fun for little ones”"
+    ],
+    "keywords": "stitch toy set, toddler learning toys bundle, sensory plush toy, ring stacker toy, baby learning toy set, fine motor skills toy, sensory toy toddler, toddler gift set",
+    "description": "Discover Stitch like never before with the Disney Toddler Stitch Learning Bundle. This engaging set includes a cuddly sensory Stitch plush and a colourful ring stacker, combining comforting play with hands-on learning. The plush features a variety of tactile fabrics and a heart mirror to support sensory exploration and early self-recognition, encouraging emotional development. The ring stacker introduces shapes, colours and sizes through stacking play, helping build coordination, dexterity and problem-solving skills. Designed for gentle developmental play at every milestone, this bundle offers the perfect balance of comfort and discovery. Part of the Disney Toddler range, it’s a fun and trusted gift that brings big fun for little ones."
+  },
+  "attributes": {
+    "material": "softboa",
+    "num_pieces": 2,
+    "whats_in_box": "2 x plush toy",
+    "primary_color": "oxford blue",
+    "secondary_color": "light blue",
+    "min_age": 36,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": "No"
+  },
+  "images": {
+    "availability": 0,
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781115929/Headstart/Disney/29515_Disney_Toddler_Stitch_Learning_Bundle_Sensory_Plush_Ring_Stacker/29515_Disney_Toddler_Stitch_Bundle_Plush_Ring_Stacker_IP_B.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781115935/Headstart/Disney/29515_Disney_Toddler_Stitch_Learning_Bundle_Sensory_Plush_Ring_Stacker/29515_Disney_Toddler_Stitch_Bundle_Plush_Ring_Stacker_IP_F.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781115938/Headstart/Disney/29515_Disney_Toddler_Stitch_Learning_Bundle_Sensory_Plush_Ring_Stacker/29515_Disney_Toddler_Stitch_Bundle_Plush_Ring_Stacker_IP_L.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781115942/Headstart/Disney/29515_Disney_Toddler_Stitch_Learning_Bundle_Sensory_Plush_Ring_Stacker/29515_Disney_Toddler_Stitch_Bundle_Plush_Ring_Stacker_IP_R.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781115944/Headstart/Disney/29515_Disney_Toddler_Stitch_Learning_Bundle_Sensory_Plush_Ring_Stacker/29515_Disney_Toddler_Stitch_Bundle_Plush_OOP_F.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781115948/Headstart/Disney/29515_Disney_Toddler_Stitch_Learning_Bundle_Sensory_Plush_Ring_Stacker/29515_Disney_Toddler_Stitch_Bundle_Ring_Stacker_OOP_F.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.65,
+      "weight_unit": "lbs",
+      "length": 4.33,
+      "length_unit": "in",
+      "width": 7,
+      "width_unit": "in",
+      "height": 10,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.45,
+      "weight_unit": "lbs",
+      "length": 6,
+      "length_unit": "in",
+      "width": 14.8,
+      "width_unit": "in",
+      "height": 13,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 30.7,
+      "length_unit": "in",
+      "width": 18.9,
+      "width_unit": "in",
+      "height": 13.78,
+      "height_unit": "in",
+      "weight": 12.79,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": "No",
+    "battery_cell_comp": 0,
+    "battery_type_qty": "No",
+    "packaging_type": "color box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "HeadStart Disney New Item Setup Sheet 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 2061,
+    "last_verified": null,
+    "vendor_slug": "headstart-inc"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531016",
+  "vendor": "First 4 Figures",
+  "brand": "First 4 Figures",
+  "vendor_item_number": "ACRISST",
+  "product_name": "Animal Crossing: New Horizons – Isabelle",
+  "identity": {
+    "id_type": "UPC,EAN",
+    "upc": "5060316626511"
+  },
+  "pricing": {
+    "drop_ship_cost": 52.49,
+    "wholesale_cost": 24.5,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 69.99
+  },
+  "sourcing": {
+    "fob_point": "China",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible"
+    ],
+    "keywords": 0,
+    "description": "The statue faithfully captures Isabelle's appearance, from her floppy ears to her ponytail. Every detail of Isabelle's attire, from the coral Nook Inc. aloha shirt to the white skirt, has been meticulously replicated. The highly detailed base is inspired by the Animal Crossing: New Horizons art style."
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": 3,
+    "whats_in_box": "• Animal Crossing: New Horizons – Isabelle painted PVC statue\n• Highly detailed base inspired by Animal Crossing: New Horizons\n• F4F Leaflet with 500 F4F reward points included",
+    "primary_color": "Yellow",
+    "secondary_color": 0,
+    "min_age": 15,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.46,
+      "weight_unit": "lbs",
+      "length": 5.1,
+      "length_unit": "in",
+      "width": 5.1,
+      "width_unit": "in",
+      "height": 8.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0,
+      "weight_unit": "lbs",
+      "length": 7.87,
+      "length_unit": "in",
+      "width": 7.48,
+      "width_unit": "in",
+      "height": 10.63,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 16.54,
+      "length_unit": "in",
+      "width": 15.75,
+      "width_unit": "in",
+      "height": 11.81,
+      "height_unit": "in",
+      "weight": 0,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "first-4-figures"
+  }
+}

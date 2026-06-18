@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531042",
+  "vendor": "First 4 Figures",
+  "brand": "First 4 Figures",
+  "vendor_item_number": "SNADST",
+  "product_name": "Sonic the Hedgehog - Sonic Adventure",
+  "identity": {
+    "id_type": "UPC,EAN",
+    "upc": "5060316626894"
+  },
+  "pricing": {
+    "drop_ship_cost": 67.49,
+    "wholesale_cost": 31.5,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 89.99
+  },
+  "sourcing": {
+    "fob_point": "China",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible"
+    ],
+    "keywords": 0,
+    "description": "Sonic the Hedgehog is the main character and hero of the Sonic Adventure video game. He is a blue anthropomorphic hedgehog known for his incredible speed and agility. In Sonic Adventure, Sonic must save the world from the evil Dr. Eggman, who plans to use a powerful creature called Chaos to destroy the world. Sonic's gameplay focuses on high-speed platforming, where he runs, jumps, and dashes through colorful environments. This highly detailed Sonic PVC faithfully captures Sonic's iconic pose in his Sonic Adventure appearance. Expertly sculpted, every detail of Sonic has been meticulously recreated, from the spikes on his head to the red and white shoes on hisfeet."
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": 4,
+    "whats_in_box": "• Sonic Adventure - Sonic the Hedgehog PVC painted statue\n• Highly detailed base inspired by the Sonic Adventure video game art style\n• F4F Leaflet with 500 F4F reward points included",
+    "primary_color": "Blue",
+    "secondary_color": 0,
+    "min_age": 15,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.72,
+      "weight_unit": "lbs",
+      "length": 6.3,
+      "length_unit": "in",
+      "width": 5.6,
+      "width_unit": "in",
+      "height": 8.3,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0,
+      "weight_unit": "lbs",
+      "length": 9.84,
+      "length_unit": "in",
+      "width": 9.06,
+      "width_unit": "in",
+      "height": 12.2,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 20.08,
+      "length_unit": "in",
+      "width": 18.5,
+      "width_unit": "in",
+      "height": 12.99,
+      "height_unit": "in",
+      "weight": 0,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "first-4-figures"
+  }
+}

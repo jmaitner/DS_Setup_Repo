@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531430",
+  "vendor": "Family Games America",
+  "brand": "Matchitecture",
+  "vendor_item_number": "MATCH6617",
+  "product_name": "MATCHITECTURE - ARC DE TRIOMPHE - 1750 PCS.",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "061404066177"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": null,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 34.99
+  },
+  "sourcing": {
+    "fob_point": "Montreal, QC",
+    "country_of_origin": "Canada",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "Construction kit",
+      "Cut and glue MICROBEAMS together",
+      "Easy to follow instruction and assembly plans.",
+      "Toy of the Year Award 2001 Belgium",
+      "New York 2003 Prix d'excellence Museum Tour Catalog"
+    ],
+    "keywords": 0,
+    "description": "MADE IN CANADA - Starting with a single MICROBEAM, you'll create amazing constructions. Matchitecture is an easy and exciting technique: You simply need to cut and glue MICROBEAMS together, according to the plans. The resulting pieces are then assembled to create a 3D model 11 x 6 x 9.5\" tall. CUT - GLUE - ASSEMBLE."
+  },
+  "attributes": {
+    "material": "Wood",
+    "num_pieces": 1760,
+    "whats_in_box": "1 assembly board with clear acetate sheet, 4 clips, 1 MICROBEAM cutter, 1,750 MICROBEAM pcs - 2 1/8 inch / 53 mm,  wood glue 0.35oz / 10.5 ml, 1 pair MICROBEAM tweezers, plans, instructions.",
+    "primary_color": "Dark Blue",
+    "secondary_color": "Brown",
+    "min_age": 14,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "Yes",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.4,
+      "weight_unit": "lbs",
+      "length": 11,
+      "length_unit": "in",
+      "width": 6,
+      "width_unit": "in",
+      "height": 9.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 2.84,
+      "weight_unit": "lbs",
+      "length": 2.99,
+      "length_unit": "in",
+      "width": 14.09,
+      "width_unit": "in",
+      "height": 9.72,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 14.57,
+      "length_unit": "in",
+      "width": 10.71,
+      "width_unit": "in",
+      "height": 13.46,
+      "height_unit": "in",
+      "weight": 12.06,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "No, Age group 14+",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Family Games America New Item Setup Sheet Template Version 2025-1-1.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "family-games-america"
+  }
+}

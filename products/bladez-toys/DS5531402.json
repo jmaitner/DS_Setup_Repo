@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531402",
+  "vendor": "BLADEZ TOYS",
+  "brand": "BLADEZ",
+  "vendor_item_number": "BT30045",
+  "product_name": "Bladez RPM R/C 1:20 Armoured Racer",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "5061051300452"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 6.3,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 22.99
+  },
+  "sourcing": {
+    "fob_point": "Yantian, CN",
+    "country_of_origin": "China",
+    "harmonized_code": 9503007590
+  },
+  "content": {
+    "bullets": [
+      "SUPER FAST - With speeds up to 15 km/h, this RPM Armoured Racer is the ultimate speed machine!",
+      "SUPER COOL - With a cool LED underglow and bright neon design, this slick RC is sure to stand out from the crowd!",
+      "SUPER STRONG - This racer comes with exo-skeleton bumpers to the front and rear protecting it from any bumps and crashes when out cruising!",
+      "REAL PERFORMANCE MACHINES - Bladez RPM perfectly blends high performance with style making it perfect for kids and adults alike!",
+      0
+    ],
+    "keywords": 0,
+    "description": "The 1:20 scale full control Bladez RPM Armoured Racer features an exo-skeleton bumper design, LED lights and real rubber tyres! Reaching speeds of up to 15km/h and rocking a bright neon design, it is a true real performance machine."
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": 1,
+    "whats_in_box": "1 x Radio Control Car, 1 x Handset Controller, 1 x Instruction Manual",
+    "primary_color": "Orange",
+    "secondary_color": 0,
+    "min_age": 3,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": "N/A"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.6481582799999999,
+      "weight_unit": "lbs",
+      "length": 9.05511811023622,
+      "length_unit": "in",
+      "width": 4.330708661417323,
+      "width_unit": "in",
+      "height": 2.3622047244094486,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.04498988,
+      "weight_unit": "lbs",
+      "length": 5.511811023622047,
+      "length_unit": "in",
+      "width": 11.811023622047244,
+      "width_unit": "in",
+      "height": 5.905511811023622,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 17.3,
+      "length_unit": "in",
+      "width": 13,
+      "width_unit": "in",
+      "height": 12.8,
+      "height_unit": "in",
+      "weight": "8.1",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Pending",
+    "warranty_included": "No",
+    "warranty_desc": "12 Months",
+    "batteries_required": "Yes",
+    "batteries_included": "No",
+    "battery_cell_comp": "Alkaline",
+    "battery_type_qty": "6x AA Batteries",
+    "packaging_type": "Open Box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "bladez-toys"
+  }
+}

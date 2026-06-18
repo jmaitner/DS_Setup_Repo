@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531036",
+  "vendor": "First 4 Figures",
+  "brand": "First 4 Figures",
+  "vendor_item_number": "OKAOWST",
+  "product_name": "Okami: Oki Wolf Form (Standard Edition)",
+  "identity": {
+    "id_type": "UPC,EAN",
+    "upc": "5060316623169"
+  },
+  "pricing": {
+    "drop_ship_cost": 74.99,
+    "wholesale_cost": 35,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 99.99
+  },
+  "sourcing": {
+    "fob_point": "China",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible",
+      "PVC Collectible"
+    ],
+    "keywords": 0,
+    "description": "Oki is a warrior from the Oina tribe, and this particular PVC statue is of him in his wolfform. When in his wolf form, Oki has a blue aura emanating from his chest, making him look even more fierce and powerful. And the cloud of smoke on the base makes the piece even more dynamic as if a trail was left behind as he jumps into battle."
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": 4,
+    "whats_in_box": "• Okami – Oki (Wolf Form) PVC painted statue\n• Highly detailed base inspired by the Okami art style\n• Glow in the dark blue flames\n• F4F leaflet with 500 F4F reward points included",
+    "primary_color": "Blue",
+    "secondary_color": 0,
+    "min_age": 15,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.9,
+      "weight_unit": "lbs",
+      "length": 11,
+      "length_unit": "in",
+      "width": 8,
+      "width_unit": "in",
+      "height": 8.4,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 2.43,
+      "weight_unit": "lbs",
+      "length": 11.81,
+      "length_unit": "in",
+      "width": 10.24,
+      "width_unit": "in",
+      "height": 12.01,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 24.21,
+      "length_unit": "in",
+      "width": 21.06,
+      "width_unit": "in",
+      "height": 12.8,
+      "height_unit": "in",
+      "weight": 12.57,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "first-4-figures"
+  }
+}

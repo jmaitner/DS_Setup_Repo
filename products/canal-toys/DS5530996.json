@@ -1,0 +1,121 @@
+{
+  "ds_number": "5530996",
+  "vendor": "CANAL TOYS",
+  "brand": "Photo Creator",
+  "vendor_item_number": "CLK055",
+  "product_name": "Photo Creator Instant Print Camera – Pink Edition",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850068897988"
+  },
+  "pricing": {
+    "drop_ship_cost": 55.99,
+    "wholesale_cost": 48.73,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 69.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "Take a picture of your friends, family, pets, travel and more to print instantly. This thermal paper printing is much more economical than traditional photo paper, you can take and print the photos without hestitation to keep them as souvenirs, gifts, or DIY projects. The color LCD display makes it easy to navigate menus, add frames and view photos. This kit allows you to print more than 250 photos.",
+      "In portrait, landscape or selfie mode thanks to the dual lens, you can also select from the many filters and frames to customize your photos. Then with one click, print them instantly in Black and White and create your own style by customizing with the included markers and decorative stickers",
+      "In addition to photo and instant printing, thanks to the interface provided, you can insert a microSD card (not included) and make videos, save your photos for reviewing them later or transfer them to share with family and friends",
+      "Easy to use, without ink: printing is done by thermal transfer and requires no drying time",
+      "Functions: 12 megapixel resolution, front and rear dual lenses, 200 DPI print quality, 2.4 inch color LCD screen, customizable with 4 filters and 22 frames. Compatible storage media: microSD card (not included). No need to have a microSD card to print the photos. Built-in 1000 mAh battery charges DC 5 V with the included USB cable. Compatible with computers, laptops, tablets with a USB port"
+    ],
+    "keywords": 0,
+    "description": "Hours of fun and creativity with this instant camera for kids! Take photos and print them instantly! Then customize them according to your desires with the markers and stickers included! Very easy to use, printing is done by thermal transfer: without ink and no drying time required. With one click, instantly print your photos in Black and White. Economical, the thermal paper rolls (guaranteed BPA-free) included in this kit allow you to give free rein to your creativity. You can take photos, customize and store memories. Print 250+ photos In portrait, landscape or selfie mode, you can also select different filters and frames"
+  },
+  "attributes": {
+    "material": "plastic, paper",
+    "num_pieces": "12 pieces",
+    "whats_in_box": "1camera, 1 USB charging cable, 1wrist strap, 4 rolls of thermal paper rolls (BPA-free), 4 markers, and 1 sticker sheet.",
+    "primary_color": "Pink",
+    "secondary_color": 0,
+    "min_age": 8,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/81TUwHb+EoL.jpg",
+      "https://m.media-amazon.com/images/I/81UfJHMddpL.jpg",
+      "https://m.media-amazon.com/images/I/81gFZFc8qlL.jpg",
+      "https://m.media-amazon.com/images/I/81490LTf5aL.jpg",
+      "https://m.media-amazon.com/images/I/81q000z0JeL.jpg",
+      "https://m.media-amazon.com/images/I/71DPnJfG9EL.jpg",
+      "https://m.media-amazon.com/images/I/71CcN19fyhL.jpg",
+      "https://m.media-amazon.com/images/I/71-gGaLkKIL.jpg",
+      "https://m.media-amazon.com/images/I/71wQQR9ebcL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.54,
+      "weight_unit": "lbs",
+      "length": 7.87,
+      "length_unit": "in",
+      "width": 2.36,
+      "width_unit": "in",
+      "height": 9.45,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.54,
+      "weight_unit": "lbs",
+      "length": 7.87,
+      "length_unit": "in",
+      "width": 2.36,
+      "width_unit": "in",
+      "height": 9.45,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 10.43,
+      "length_unit": "in",
+      "width": 10.03,
+      "width_unit": "in",
+      "height": 8.66,
+      "height_unit": "in",
+      "weight": 7.7,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "Yes",
+    "batteries_included": "Yes",
+    "battery_cell_comp": 0,
+    "battery_type_qty": "Built in rechargable",
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

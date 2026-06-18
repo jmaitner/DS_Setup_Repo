@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531550",
+  "vendor": "BLADEZ TOYS",
+  "brand": "BLADEZ",
+  "vendor_item_number": "HW30067",
+  "product_name": "Hot Wheels Monster Marker Set",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "5061051300674"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 19.99,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 5.6
+  },
+  "sourcing": {
+    "fob_point": "Ningbo, CN",
+    "country_of_origin": "China",
+    "harmonized_code": 9503007000
+  },
+  "content": {
+    "bullets": [
+      "UNLEASH CREATIVITY - This Hot Wheels Monster Trucks Mega Marker Set comes with 42 pens plus stickers and stampers, making it perfect for hours of creative fun!",
+      "GREAT GIFT - This extensive stationery and activities set makes a great Birthday or Christmas gift for any Hot Wheels fan with a bright colourful box and a helpful carry handle!",
+      "OFFICIAL LICENSED HOT WHEELS SET - This official art set comes with an exclusive Hot Wheels colouring book to keep young fans busy.",
+      "Includes: 42 x Pens, 2 x Card Cars, 2 x Ink Stampers, 1 x Ink Pad, 1 x Colouring Book, 4 x Sticker Sheets",
+      null
+    ],
+    "keywords": null,
+    "description": "Monster collection of Hot Wheels Monster Trucks markers for creative projects all in novelty Bone Shaker shaped carry case!"
+  },
+  "attributes": {
+    "material": "Paper, Plastic",
+    "num_pieces": 6,
+    "whats_in_box": "42 x Pens, 2 x Card Cars, 2 x Ink Stampers, 1 x Ink Pad, 1 x Colouring Book, 4 x Sticker Sheets",
+    "primary_color": "Multi",
+    "secondary_color": null,
+    "min_age": 3,
+    "max_age": null,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": "N/A"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.63,
+      "weight_unit": "lbs",
+      "length": 2.36,
+      "length_unit": "in",
+      "width": 19.88,
+      "width_unit": "in",
+      "height": 14.76,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.5,
+      "weight_unit": "lbs",
+      "length": 2.36,
+      "length_unit": "in",
+      "width": 19.88,
+      "width_unit": "in",
+      "height": 14.76,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 14.8,
+      "length_unit": "in",
+      "width": 20.5,
+      "width_unit": "in",
+      "height": 15.4,
+      "height_unit": "in",
+      "weight": 11.24,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Pending",
+    "warranty_included": "No",
+    "warranty_desc": "12 Months",
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": "Open Window Box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "bladez-toys"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "ds_number": "5531536",
+  "vendor": "Headstart Inc",
+  "brand": "Disney Toddler",
+  "vendor_item_number": 28723,
+  "product_name": "Disney Toddler Learn & Play Mickey Mouse Plush",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "840150287230"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 11.77,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 39.99
+  },
+  "sourcing": {
+    "fob_point": "Shanghai",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "Interactive buttons teach letters, numbers and body parts",
+      "Press ears, hands and feet to activate sounds and learning phrases",
+      "Multi-textured fabrics support sensory exploration and discovery",
+      "Encourages imagination, curiosity and early development skills",
+      "Part of the Disney Hooyay range – inspiring learning through play"
+    ],
+    "keywords": "mickey mouse plush toy, interactive plush toy, toddler learning toy, sensory plush toy, alphabet toy toddler, counting toy toddler, educational toy baby, talking plush toy",
+    "description": "Learn and play with Mickey Mouse! The Disney Toddler Learn & Play Mickey Plush is an interactive companion designed to support early learning through hands-on exploration. Press the buttons on Mickey’s ears, hands and feet to hear engaging phrases that introduce letters, numbers and body parts. Multi-textured materials provide both soft and firm sensory experiences, encouraging curiosity and tactile discovery. Designed for little hands, this cuddly plush combines comfort with interactive learning to support imagination and development at every milestone. Part of the Disney Hooyay Learn & Play range, it’s a fun and engaging way to bring learning to life – bringing big fun for little ones."
+  },
+  "attributes": {
+    "material": "Polyester",
+    "num_pieces": 1,
+    "whats_in_box": "Mickey*1",
+    "primary_color": 0,
+    "secondary_color": 0,
+    "min_age": 18,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": "NA"
+  },
+  "images": {
+    "availability": 0,
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781614864/Headstart/Updated/28723/28723_Learn_and_Play_Mickey_Plush_Lifestyle.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781614868/Headstart/Updated/28723/28723_Learn_and_Play_Mickey_Plush_Main.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.62,
+      "weight_unit": "lbs",
+      "length": 9.5,
+      "length_unit": "in",
+      "width": 5.5,
+      "width_unit": "in",
+      "height": 16,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.18,
+      "weight_unit": "lbs",
+      "length": 10.5,
+      "length_unit": "in",
+      "width": 4.75,
+      "width_unit": "in",
+      "height": 15.5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 21.9,
+      "length_unit": "in",
+      "width": 11.4,
+      "width_unit": "in",
+      "height": 16.7,
+      "height_unit": "in",
+      "weight": 6.67,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": 0,
+    "lead_phthalates": 0,
+    "warranty_included": 0,
+    "warranty_desc": 0,
+    "batteries_required": "Yes",
+    "batteries_included": "Yes",
+    "battery_cell_comp": 0,
+    "battery_type_qty": "2 x AAA Batteries",
+    "packaging_type": "color box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "HeadStart Disney New Item Setup Sheet 2026.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 2061,
+    "last_verified": null,
+    "vendor_slug": "headstart-inc"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "ds_number": "5531403",
+  "vendor": "BLADEZ TOYS",
+  "brand": "BLADEZ",
+  "vendor_item_number": "BT30092",
+  "product_name": "Bladez RPM R/C 1:10 Ultimate Racer",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "5061051300926"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 17.5,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 54.99
+  },
+  "sourcing": {
+    "fob_point": "Yantian, CN",
+    "country_of_origin": "China",
+    "harmonized_code": 9503007590
+  },
+  "content": {
+    "bullets": [
+      "SUPER FAST - With speeds up to 25 km/h, this RPM Ultimate Racer is the true speed machine!",
+      "HOURS OF FUN - With a run time of at least 30 mins and a rechargeable battery, this Ultimate Racer offers hours of fun!",
+      "SUPER STRONG - This racer comes with exo-skeleton bumpers to the front and rear protecting it from any bumps and crashes when out cruising!",
+      "SUPER COOL - With a cool LED glow around the wheels and bright neon design, this slick RC is sure to stand out from the crowd!",
+      null
+    ],
+    "keywords": 0,
+    "description": "The Bladez RPM 1:10 Ultimate Racer is an extra-large full control RC ultimate racer that has Exo-Guard Armour to protect it from even the most gnarly collisions! Reaching speeds of up to 25kmph, LED wheels and real rubber tyres, this is the ultimate real performance machine."
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": 1,
+    "whats_in_box": "1 x Radio Control Monster Truck, 1 x Handset Controller, 1 x Rechargeable Li-ion Battery, 1 x USB Charging Cable, 1 x Instruction Manual",
+    "primary_color": "Green",
+    "secondary_color": 0,
+    "min_age": 3,
+    "max_age": 0,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": "N/A"
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 2.2376892999999995,
+      "weight_unit": "lbs",
+      "length": 19.68503937007874,
+      "length_unit": "in",
+      "width": 7.874015748031496,
+      "width_unit": "in",
+      "height": 5.118110236220472,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 3.2738606999999993,
+      "weight_unit": "lbs",
+      "length": 9.448818897637794,
+      "length_unit": "in",
+      "width": 22.834645669291337,
+      "width_unit": "in",
+      "height": 7.480314960629921,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 29.1,
+      "length_unit": "in",
+      "width": 23.2,
+      "width_unit": "in",
+      "height": 15.4,
+      "height_unit": "in",
+      "weight": "24.",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Pending",
+    "warranty_included": "No",
+    "warranty_desc": "12 Months",
+    "batteries_required": "Yes",
+    "batteries_included": "Yes",
+    "battery_cell_comp": "1200mAh, 7.4V, 8.88Wh, Li-Ion\nAlkaline",
+    "battery_type_qty": "1x Rechargeable Li-ion (Included)\n2x AA (Not Included)",
+    "packaging_type": "Open Box",
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0,
+    "documents": [
+      {
+        "type": "FCC Test Report",
+        "url": "https://res.cloudinary.com/dbwtptwyf/raw/upload/v1779195897/bladez-toyz/2026/testing/BT30092/AJT240925046E-1_FCC_Part15C_BT30108_BT30092.pdf"
+      },
+      {
+        "type": "RF Exposure Test Report",
+        "url": "https://res.cloudinary.com/dbwtptwyf/raw/upload/v1779195898/bladez-toyz/2026/testing/BT30092/AJT240925046E-2_SRD_MPE_BT30108_BT30092.pdf"
+      },
+      {
+        "type": "ASTM Test Report",
+        "url": "https://res.cloudinary.com/dbwtptwyf/raw/upload/v1779195900/bladez-toyz/2026/testing/BT30092/AJT240926002_ASTM_%C2%B5%C2%A1%C3%BA%C2%B5%C2%A3%C2%BC_BT30108_BT30092.pdf"
+      },
+      {
+        "type": "SDS",
+        "url": "https://res.cloudinary.com/dbwtptwyf/raw/upload/v1779195901/bladez-toyz/2026/testing/BT30092/BT30092_BT30108_DSP25111026-5-_Li-ion_MSDS.pdf"
+      },
+      {
+        "type": "CPC",
+        "url": "https://res.cloudinary.com/dbwtptwyf/raw/upload/v1779195903/bladez-toyz/2026/testing/BT30092/BT30092_BT30108_US_CPC_Template.pdf"
+      },
+      {
+        "type": "Battery Test Report",
+        "url": "https://res.cloudinary.com/dbwtptwyf/raw/upload/v1779195905/bladez-toyz/2026/testing/BT30092/DXX-TC736994_BT30092_BT30108.pdf"
+      }
+    ]
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "bladez-toys"
+  }
+}

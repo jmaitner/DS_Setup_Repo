@@ -1,0 +1,122 @@
+{
+  "ds_number": "5530988",
+  "vendor": "CANAL TOYS",
+  "brand": "So Slime",
+  "vendor_item_number": "277295",
+  "product_name": "So Slime DIY Slime'spresso Café Slime Making Machine",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "850060743061"
+  },
+  "pricing": {
+    "drop_ship_cost": 21.49,
+    "wholesale_cost": 14.65,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 29.99
+  },
+  "sourcing": {
+    "fob_point": 0,
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0073"
+  },
+  "content": {
+    "bullets": [
+      "Open your own slime Café! Mix batches of slime for your friends and family, decorate your café cups, then serve up the fun",
+      "Brew a Cuppa’ Stretchy Slime! A brand-new way to make a batch of slime, the So Slime Slime’Licious Slime’Spresso machine mixes a perfect batch of slime every time",
+      "Mixing Slime Has never “Bean” So Much Fun! Pour the slime powder into a café container you’ve decorated yourself, press the handle to activate the electronic mixer, select and stir in your decorations, and “serve it up”.",
+      "So Much Slime! Kit includes everything you need to mix 10 batches of multi-colored slime as well as 5 bags of premade slime",
+      "Includes Slime’Spresso Machine, 10 bags of slime powder, 5 bags of pre-made slime, 8 bags of decorations, 3 slime containers, 1 recipe card, 3 mixing tools, and 1 decorative sticker sheet"
+    ],
+    "keywords": 0,
+    "description": "Order up! Open your very own slime café with the So Slime Slime’licious Slime’Spresso Machine!. Pour the slime powder into a café container you’ve decorated yourself, place it beneath the mixer, then press the handle forward to “brew” a perfect batch of slime every time! Then select and stir in decorations to create your own custom concoctions. Includes Slime’Spresso Machine, 10 bags of slime powder in 5 different colors, 5 bags of pre-made slime, 8 bags of decorations, 3 slime containers, 1 recipe card, 3 mixing tools, and 1 sticker sheet."
+  },
+  "attributes": {
+    "material": "plastic, slime, paper",
+    "num_pieces": "31 pieces",
+    "whats_in_box": "10 bags of slime powder, 5 bags premade slime, 8 bags of decorations, 3 mini slime containers, 1 recipe card, 3 mixing tools, 1 sticker sheet",
+    "primary_color": "multi",
+    "secondary_color": 0,
+    "min_age": 6,
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/81tI7uEIUCL.jpg",
+      "https://m.media-amazon.com/images/I/718PuwY-2JL.jpg",
+      "https://m.media-amazon.com/images/I/71jQqFRuGZL.jpg",
+      "https://m.media-amazon.com/images/I/71QzqjItGnL.jpg",
+      "https://m.media-amazon.com/images/I/811gS-ACg4L.jpg",
+      "https://m.media-amazon.com/images/I/71N4a+B77WL.jpg",
+      "https://m.media-amazon.com/images/I/71-99GP1ntL.jpg",
+      "https://m.media-amazon.com/images/I/71qRGHJdJ0L.jpg",
+      "https://m.media-amazon.com/images/I/71lwO2cxdoL.jpg",
+      "https://m.media-amazon.com/images/I/71Z2kmBL6eL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.9,
+      "weight_unit": "lbs",
+      "length": 13.39,
+      "length_unit": "in",
+      "width": 4.72,
+      "width_unit": "in",
+      "height": 10.63,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.9,
+      "weight_unit": "lbs",
+      "length": 13.39,
+      "length_unit": "in",
+      "width": 4.72,
+      "width_unit": "in",
+      "height": 10.63,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 18.83,
+      "length_unit": "in",
+      "width": 13.78,
+      "width_unit": "in",
+      "height": 11.42,
+      "height_unit": "in",
+      "weight": "8.9",
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": 0,
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "canal-toys"
+  }
+}

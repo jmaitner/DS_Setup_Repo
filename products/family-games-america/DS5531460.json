@@ -1,0 +1,111 @@
+{
+  "ds_number": "5531460",
+  "vendor": "Family Games America",
+  "brand": "MATHABLE",
+  "vendor_item_number": "FG0005002",
+  "product_name": "MATHABLE DOMINO",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "086453050021"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 12.5,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 24.99
+  },
+  "sourcing": {
+    "fob_point": "Montreal, QC",
+    "country_of_origin": "China",
+    "harmonized_code": "9504.90.6000"
+  },
+  "content": {
+    "bullets": [
+      "Makes Math even more fun!",
+      "Learning through laughter.",
+      "Great family game.",
+      "Eco Responsible",
+      "Quality components."
+    ],
+    "keywords": 0,
+    "description": "Say goodbye to domino dots and give a nod to numbers. It all adds up to fun no matter how you place your tiles. By replacing the dots with numbers, players must use basic math equations to achieve the highest score. Simple? Yes. Smart? Definitely. Fun? Totally!"
+  },
+  "attributes": {
+    "material": "Wood",
+    "num_pieces": 61,
+    "whats_in_box": "57 numbered domino tiles, 3 blank replacement domino, instructions.",
+    "primary_color": "Brown",
+    "secondary_color": 0,
+    "min_age": "9 +",
+    "max_age": 0,
+    "gender": 0,
+    "assembly_required": "No",
+    "assembly_instructions": 0
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.9,
+      "weight_unit": "lbs",
+      "length": 2,
+      "length_unit": "In",
+      "width": 1,
+      "width_unit": "In",
+      "height": 0.375,
+      "height_unit": "In"
+    },
+    "package": {
+      "weight": 0.99,
+      "weight_unit": "lbs",
+      "length": 1.97,
+      "length_unit": "In",
+      "width": 5.51,
+      "width_unit": "In",
+      "height": 7.48,
+      "height_unit": "In"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 11.61,
+      "length_unit": "in",
+      "width": 7.87,
+      "width_unit": "in",
+      "height": 7.09,
+      "height_unit": "in",
+      "weight": 6.5,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "N/A",
+    "lead_phthalates": 0,
+    "warranty_included": "No",
+    "warranty_desc": 0,
+    "batteries_required": "No",
+    "batteries_included": 0,
+    "battery_cell_comp": 0,
+    "battery_type_qty": 0,
+    "packaging_type": 0,
+    "compliance_cert": 0,
+    "doc": 0,
+    "sds": 0,
+    "sds_url": 0,
+    "cpsia": 0,
+    "test_reports": 0,
+    "cpc": 0,
+    "product_pics": 0,
+    "instructions": 0,
+    "letter_of_compliance": 0
+  },
+  "_meta": {
+    "source_file": "2nd_Family Games America_New Item Setup Sheet Template Version 2026 Games.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": null,
+    "last_verified": null,
+    "vendor_slug": "family-games-america"
+  }
+}
