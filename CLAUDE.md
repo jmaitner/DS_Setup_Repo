@@ -46,7 +46,8 @@ Images are **Cloudinary URLs**, never binary files in the repo.
 
 | Script | Purpose |
 |---|---|
-| `import_setup_sheet.py "<file.xlsx>"` | DS Only sheet → product JSONs. Non-destructive (skips existing unless `--update`). |
+| `import_setup_sheet.py "<file.xlsx>"` | DS Only sheet → product JSONs. Non-destructive (skips existing unless `--update`). Vendor auto-detected from path. |
+| `merge_urls.py "<urls.xlsx>"` | Fold image-URL or compliance-doc files into products by DS#. Non-destructive (reports conflicts). |
 | `validate.py` | The safety gate. Errors block merge; warnings are reported. `--strict` to fail on warnings. |
 | `export.py` | Product JSON → WMS + channel upload files. Reuses `ds_automation.py`. |
 | `build_index.py` | Regenerate `index/catalog.csv`. |
@@ -56,6 +57,9 @@ Images are **Cloudinary URLs**, never binary files in the repo.
 ---
 
 ## Standard workflows
+
+For the full vendor intake cadence (sheet → verify → images to Cloudinary → merge → PR),
+use `/onboard-vendor` — see `docs/INTAKE_WORKFLOW.md`.
 
 ### Add / import a setup sheet
 ```
