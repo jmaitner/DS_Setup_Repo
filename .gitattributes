@@ -1,0 +1,6 @@
+# Normalize line endings so the Linux CI and Windows clients agree.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.xlsx binary
+*.xlsm binary
