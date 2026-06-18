@@ -1,0 +1,33 @@
+name: Validate catalog
+
+# The safety gate. Runs on every Pull Request and push to main.
+# If validation fails, or the index is out of date, the PR cannot be merged.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install openpyxl
+
+      - name: Validate product data
+        run: python scripts/validate.py
+
+      - name: Check index is up to date
+        run: |
+          python scripts/build_index.py
+          if ! git diff --exit-code -- index/catalog.csv; then
+            echo "::error::index/catalog.csv is out of date. Run 'python scripts/build_index.py' and commit the result."
+            exit 1
+          fi

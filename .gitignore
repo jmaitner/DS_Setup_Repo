@@ -1,0 +1,31 @@
+# Export artifacts (disposable, regenerated on demand)
+out/
+*_new_product.xlsx
+*_supplier.xlsx
+*_uom.xlsx
+*_purchase_cost.xlsx
+*_goflow.csv
+*_walmart.xlsx
+*_tiktok.xlsx
+*_bestbuy.xlsx
+*_toysrus.xlsx
+*_target.csv
+*_ebay.csv
+*_shopify.xlsx
+
+# Raw setup sheets dropped in for import (the JSON is the source of truth, not the xlsx)
+/inbox/
+*.xlsx
+*.xlsm
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets — never commit
+.env
+*.key
+
+# OS
+.DS_Store
+Thumbs.db

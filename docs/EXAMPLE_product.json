@@ -1,0 +1,112 @@
+{
+  "ds_number": "90001",
+  "brand": "Bladez Toys",
+  "vendor_item_number": "BZ-100",
+  "product_name": "Test Rocket Racer",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "012345678905"
+  },
+  "pricing": {
+    "drop_ship_cost": 5.5,
+    "wholesale_cost": 6.25,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 24.99
+  },
+  "sourcing": {
+    "fob_point": null,
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Fast",
+      null,
+      null,
+      null,
+      null
+    ],
+    "keywords": null,
+    "description": "A fun rocket racer toy for kids."
+  },
+  "attributes": {
+    "material": null,
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": null,
+    "secondary_color": null,
+    "min_age": null,
+    "max_age": null,
+    "gender": null,
+    "assembly_required": null,
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": null,
+    "urls": [
+      "https://res.cloudinary.com/demo/image/upload/rocket.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "package": {
+      "weight": 1.2,
+      "weight_unit": null,
+      "length": 10,
+      "length_unit": null,
+      "width": 4,
+      "width_unit": null,
+      "height": 3,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 12,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null,
+      "weight": null,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": null,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "Bladez 2026 Setup TEST.xlsx",
+    "imported_at": "2026-06-18",
+    "supplier_id": 1514,
+    "last_verified": null,
+    "brand_slug": "bladez-toys"
+  }
+}

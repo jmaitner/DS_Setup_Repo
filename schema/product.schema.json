@@ -1,0 +1,166 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/jmaitner/DS_Setup_Repo/schema/product.schema.json",
+  "title": "DS Catalog Product",
+  "description": "One product from a DS setup sheet (DS Only tab, 81 fields). Source of truth for the catalog.",
+  "type": "object",
+  "required": ["ds_number", "brand", "product_name", "identity"],
+  "additionalProperties": false,
+  "properties": {
+    "ds_number": { "type": "string", "description": "DS item number. Primary key. Filename is DS<ds_number>.json." },
+    "brand": { "type": "string", "description": "Brand name. Determines the products/<brand-slug>/ folder." },
+    "vendor_item_number": { "type": ["string", "null"], "description": "Vendor's own SKU / item number." },
+    "product_name": { "type": "string" },
+
+    "identity": {
+      "type": "object",
+      "required": ["upc"],
+      "additionalProperties": false,
+      "properties": {
+        "id_type": { "type": ["string", "null"], "description": "UPC / EAN / GTIN" },
+        "upc": { "type": ["string", "null"], "description": "Barcode. Should be 12-14 digits." }
+      }
+    },
+
+    "pricing": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "drop_ship_cost": { "type": ["number", "string", "null"] },
+        "wholesale_cost": { "type": ["number", "string", "null"] },
+        "ds_cost_domestic": { "type": ["number", "string", "null"] },
+        "import_cost": { "type": ["number", "string", "null"] },
+        "msrp": { "type": ["number", "string", "null"] }
+      }
+    },
+
+    "sourcing": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "fob_point": { "type": ["string", "null"] },
+        "country_of_origin": { "type": ["string", "null"] },
+        "harmonized_code": { "type": ["string", "number", "null"] }
+      }
+    },
+
+    "content": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "bullets": { "type": "array", "items": { "type": ["string", "null"] }, "maxItems": 5 },
+        "keywords": { "type": ["string", "null"] },
+        "description": { "type": ["string", "null"] }
+      }
+    },
+
+    "attributes": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "material": { "type": ["string", "null"] },
+        "num_pieces": { "type": ["number", "string", "null"] },
+        "whats_in_box": { "type": ["string", "null"] },
+        "primary_color": { "type": ["string", "null"] },
+        "secondary_color": { "type": ["string", "null"] },
+        "min_age": { "type": ["number", "string", "null"] },
+        "max_age": { "type": ["number", "string", "null"] },
+        "gender": { "type": ["string", "null"] },
+        "assembly_required": { "type": ["string", "null"] },
+        "assembly_instructions": { "type": ["string", "null"] }
+      }
+    },
+
+    "images": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "availability": { "type": ["string", "null"] },
+        "urls": {
+          "type": "array",
+          "description": "Hosted image URLs (Cloudinary). Primary image is first.",
+          "items": { "type": "string" }
+        }
+      }
+    },
+
+    "dimensions": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "item": { "$ref": "#/$defs/dimBlock" },
+        "package": { "$ref": "#/$defs/dimBlock" },
+        "master_case": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "case_qty": { "type": ["number", "string", "null"] },
+            "length": { "type": ["number", "string", "null"] },
+            "length_unit": { "type": ["string", "null"] },
+            "width": { "type": ["number", "string", "null"] },
+            "width_unit": { "type": ["string", "null"] },
+            "height": { "type": ["number", "string", "null"] },
+            "height_unit": { "type": ["string", "null"] },
+            "weight": { "type": ["number", "string", "null"] },
+            "weight_unit": { "type": ["string", "null"] }
+          }
+        }
+      }
+    },
+
+    "compliance": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "choking_hazard": { "type": ["string", "null"] },
+        "lead_phthalates": { "type": ["string", "null"] },
+        "warranty_included": { "type": ["string", "null"] },
+        "warranty_desc": { "type": ["string", "null"] },
+        "batteries_required": { "type": ["string", "null"] },
+        "batteries_included": { "type": ["string", "null"] },
+        "battery_cell_comp": { "type": ["string", "null"] },
+        "battery_type_qty": { "type": ["string", "null"] },
+        "packaging_type": { "type": ["string", "null"] },
+        "compliance_cert": { "type": ["string", "null"] },
+        "doc": { "type": ["string", "null"] },
+        "sds": { "type": ["string", "null"] },
+        "sds_url": { "type": ["string", "null"] },
+        "cpsia": { "type": ["string", "null"] },
+        "test_reports": { "type": ["string", "null"] },
+        "cpc": { "type": ["string", "null"] },
+        "product_pics": { "type": ["string", "null"] },
+        "instructions": { "type": ["string", "null"] },
+        "letter_of_compliance": { "type": ["string", "null"] }
+      }
+    },
+
+    "_meta": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "source_file": { "type": ["string", "null"] },
+        "imported_at": { "type": ["string", "null"] },
+        "supplier_id": { "type": ["integer", "string", "null"] },
+        "brand_slug": { "type": ["string", "null"] },
+        "last_verified": { "type": ["string", "null"] }
+      }
+    }
+  },
+
+  "$defs": {
+    "dimBlock": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "weight": { "type": ["number", "string", "null"] },
+        "weight_unit": { "type": ["string", "null"] },
+        "length": { "type": ["number", "string", "null"] },
+        "length_unit": { "type": ["string", "null"] },
+        "width": { "type": ["number", "string", "null"] },
+        "width_unit": { "type": ["string", "null"] },
+        "height": { "type": ["number", "string", "null"] },
+        "height_unit": { "type": ["string", "null"] }
+      }
+    }
+  }
+}
