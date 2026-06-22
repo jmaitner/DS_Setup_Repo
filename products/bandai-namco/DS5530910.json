@@ -1,0 +1,116 @@
+{
+  "ds_number": "5530910",
+  "vendor": "Bandai Namco",
+  "brand": "Anime Heroes",
+  "vendor_item_number": "36967",
+  "product_name": "ANIME HEROES - Naruto - Sasuke Uchiha Taka ver. Action Figure",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557369675"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 15.393,
+    "ds_cost_domestic": 13.194,
+    "import_cost": null,
+    "msrp": 21.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Step into the world of Naruto - Sasuke Uchiha is a former member of team seven and rogue ninja of the Leaf Village. The newest Uchiha Sasuke Taka version AnimeHeroes action figure represents Sasuke wearing the Akatsuki robe from when he created \"Taka\".  Save the day with this Anime Heroes Uchiha Sasuke Taka version action figure.",
+      "Manga Inspired packaging – Each Anime Heroes line has manga inspired packaging and beautiful artwork on the front featuring the characters you know and love",
+      "Endless Play - Each figure come with 2 sets of interchangable hands, character specific accessories, and 20+ points of articulation to pose and play in endless ways",
+      "Collect them all - Bandai Namco Toys & Collectibles America has a full line-up of Naruto action figures for you to show off your fandom and collect your favorite characters",
+      "Impressive likeness – Each figure comes with detailed sculpt and true to show features that Anime Heroes action figures are known for",
+      "For ages 4 and up"
+    ],
+    "keywords": null,
+    "description": "Fans of one of the biggest anime's of all time, Naruto, can now bring home their favorite characters from the Anime Heroes 6.5-inch Naruto action figure line, by Bandai Namco Toys & Collectibles. Immerse yourself into the world of Naruto and recreate the biggest battles and missions with action figures that look exactly like their anime characters!"
+  },
+  "attributes": {
+    "material": "PVC/ ABS/ POLY",
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "4+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://m.media-amazon.com/images/I/81k7IPUvpSL._AC_UF894,1000_QL80_.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.09,
+      "weight_unit": null,
+      "length": 2,
+      "length_unit": null,
+      "width": 5,
+      "width_unit": null,
+      "height": 7,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 18.3,
+      "length_unit": null,
+      "width": 7.1,
+      "width_unit": null,
+      "height": 7.6,
+      "height_unit": null,
+      "weight": 4.5,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": null,
+    "batteries_required": "N",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "3.13.25 D5 Setup - Distribution Solutions.xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

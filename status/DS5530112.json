@@ -1,0 +1,98 @@
+{
+  "ds_number": "5530112",
+  "lifecycle": "active",
+  "lifecycle_note": null,
+  "channels": {
+    "amazon": {
+      "state": "not_listed",
+      "id": null,
+      "url": null,
+      "case_number": null,
+      "issue": null,
+      "notes": null,
+      "updated": null
+    },
+    "walmart_1p": {
+      "state": "not_listed",
+      "id": null,
+      "url": null,
+      "case_number": null,
+      "issue": null,
+      "notes": null,
+      "updated": null
+    },
+    "walmart_3p": {
+      "state": "not_listed",
+      "id": null,
+      "url": null,
+      "case_number": null,
+      "issue": null,
+      "notes": null,
+      "updated": null
+    },
+    "tiktok": {
+      "state": "not_listed",
+      "id": null,
+      "url": null,
+      "case_number": null,
+      "issue": null,
+      "notes": null,
+      "updated": null
+    },
+    "bestbuy": {
+      "state": "not_listed",
+      "id": null,
+      "url": null,
+      "case_number": null,
+      "issue": null,
+      "notes": null,
+      "updated": null
+    },
+    "nocnoc": {
+      "state": "not_listed",
+      "id": null,
+      "url": null,
+      "case_number": null,
+      "issue": null,
+      "notes": null,
+      "updated": null
+    },
+    "shopify_f2f": {
+      "state": "not_listed",
+      "id": null,
+      "url": null,
+      "case_number": null,
+      "issue": null,
+      "notes": null,
+      "updated": null
+    },
+    "toysrus": {
+      "state": "not_listed",
+      "id": null,
+      "url": null,
+      "case_number": null,
+      "issue": null,
+      "notes": null,
+      "updated": null
+    },
+    "ebay": {
+      "state": "not_listed",
+      "id": null,
+      "url": null,
+      "case_number": null,
+      "issue": null,
+      "notes": null,
+      "updated": null
+    },
+    "target_plus": {
+      "state": "not_listed",
+      "id": null,
+      "url": null,
+      "case_number": null,
+      "issue": null,
+      "notes": null,
+      "updated": null
+    }
+  },
+  "updated": "2026-06-22"
+}

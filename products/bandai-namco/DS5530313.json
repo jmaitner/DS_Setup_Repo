@@ -1,0 +1,115 @@
+{
+  "ds_number": "5530313",
+  "vendor": "Bandai Namco",
+  "brand": "Tamagotchi",
+  "vendor_item_number": "42886",
+  "product_name": "Tamagotchi Original - Sakura",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557428860"
+  },
+  "pricing": {
+    "drop_ship_cost": 16.1919,
+    "wholesale_cost": 15.49,
+    "ds_cost_domestic": 11.994,
+    "import_cost": null,
+    "msrp": 19.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "The Original digital pet you loved in 1997 is back with a retro flower shell! With original generation 2 programming, you feed it, clean up after it, take care of it and even discipline it if it's bothering you when it doesn't need you! Plus, you can play the Numbers game! How you take care of your Tamagotchi and how you do in the game, determines which Adult Tamagotchi you'll get! Includes the CR2032 battery and attaches to your bag so it goes everywhere! Ages 8+",
+      "Feed it, turn lights on/off, play with it, give it medicine, flush after it’s used the bathroom, check it’s health and discipline your Tamagotchi if he bothers you when he’s happy, fed and all cleaned up",
+      "Includes Number game where you have to guess whether the next number will be higher or lower",
+      "Pastel shell with cherry blossom leaves and blue 'Tamagotchi', frame and buttons, and original programming and characters",
+      "Ages 8+"
+    ],
+    "keywords": null,
+    "description": "The Original digital pet you loved in 1997 is back with a retro flower shell! With original generation 2 programming, you feed it, clean up after it, take care of it and even discipline it if it's bothering you when it doesn't need you! Plus, you can play the Numbers game! How you take care of your Tamagotchi and how you do in the game, determines which Adult Tamagotchi you'll get! Includes the CR2032 battery and attaches to your bag so it goes everywhere! Ages 8+"
+  },
+  "attributes": {
+    "material": "ABS/PC/SI",
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "8+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://i5.walmartimages.com/asr/a7116cc0-2554-4f9a-8912-6bf2c7880692.56a0241dbbbc48175b3093d76ecc9d15.jpeg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.3,
+      "weight_unit": null,
+      "length": 2.13,
+      "length_unit": null,
+      "width": 0.75,
+      "width_unit": null,
+      "height": 1.75,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 8,
+      "length": 1,
+      "length_unit": null,
+      "width": 5.5,
+      "width_unit": null,
+      "height": 7.75,
+      "height_unit": null,
+      "weight": 2.4,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": "No Warranty",
+    "batteries_required": "Y",
+    "batteries_included": "Y",
+    "battery_cell_comp": "Y",
+    "battery_type_qty": "CR2032 x1",
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "CSV: Z:\\Distribution Solutions Working Folder\\work\\Vendors\\Priority Vendors\\BANDAI NAMCO\\Setup Sheets\\2023\\9.25.23\\Copy of 9.1 DS7_SETUP_SHEET_2023 - Tamagotchi  Vital Hero.xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

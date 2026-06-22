@@ -1,0 +1,114 @@
+{
+  "ds_number": "5530717",
+  "vendor": "Bandai Namco",
+  "brand": "LIMIT BREAKER SERIES",
+  "vendor_item_number": "36739",
+  "product_name": "LIMIT BREAKER SERIES - Dragon Ball Super - Vegeta 12\" Action Figure",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557367398"
+  },
+  "pricing": {
+    "drop_ship_cost": 13.7619,
+    "wholesale_cost": 11.893,
+    "ds_cost_domestic": 10.194,
+    "import_cost": null,
+    "msrp": 16.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "The Universe of Dragon Ball gets a lot bigger with these 12-inch figures!",
+      "Inspired by the show and with the same quality deco as the 6.5-inch figures, the Dragon Ball Limit Breaker line is perfect for the rough and tumble action scenes, or for kids who are discovering the action packed world of Dragon Ball",
+      "Fans of all ages can enjoy their favorite characters from the show and relive the epic battles that we all know and love",
+      "Play with your favorite characters - each 12-inch figure comes with 5 points of articulation and endless fun. Durable, tough, and ready for action inside, or outside, these figures are great to play with and will last a long time in even the roughest conditions"
+    ],
+    "keywords": null,
+    "description": "The Universe of Dragon Ball gets a lot bigger with these 12-inch figures! Inspired by the show and with the same quality deco as the 6.5-inch figures, the Dragon Ball Limit Breaker line is perfect for the rough and tumble action scenes, or for kids who are discovering the action packed world of Dragon Ball. Fans of all ages can enjoy their favorite characters from the show and relive the epic battles that we all know and love. Play with your favorite characters - each 12-inch figure comes with 5 points of articulation and endless fun. Durable, tough, and ready for action inside, or outside, these figures are great to play with and will last a long time in even the roughest conditions."
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "4+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://i5.walmartimages.com/asr/682f54f4-2eae-4f7d-8824-cc6d24712f55.59c3d35e71a276f5cca5707c764197c2.jpeg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.82,
+      "weight_unit": null,
+      "length": 5,
+      "length_unit": null,
+      "width": 2,
+      "width_unit": null,
+      "height": 12,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 6,
+      "length_unit": null,
+      "width": 2.5,
+      "width_unit": null,
+      "height": 13,
+      "height_unit": null,
+      "weight": 3.28,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": null,
+    "batteries_required": "N",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "Copy of 4.23.24 DS7_SETUP_SHEET_2024 - Action Figures Limit Breaker.xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

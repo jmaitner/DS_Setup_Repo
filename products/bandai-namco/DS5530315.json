@@ -1,0 +1,119 @@
+{
+  "ds_number": "5530315",
+  "vendor": "Bandai Namco",
+  "brand": "Tamagotchi nano",
+  "vendor_item_number": "88841",
+  "product_name": "Tamagotchi nano x Jujutsu Kaisen - Itadori (Japanese Version)",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557888411"
+  },
+  "pricing": {
+    "drop_ship_cost": 20.2419,
+    "wholesale_cost": 17.493,
+    "ds_cost_domestic": 14.994,
+    "import_cost": null,
+    "msrp": 24.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Raise your own apprentice sorcerer with the Jujutsu Kaisen Tamagotchi​ nano",
+      "Depending how you raise them will determine which character you get to train​",
+      "Includes 3 mini-games for training:​ Ryomen Sukuna’s finger catch​, Put “the curse” to sleep​, and Training with the cursing tool​",
+      "Comes with 1 Jujutsu Kaisen Tamagotchi nano device with a chain so you can take it with you everywhere!​ Battery (2xLR44) included, age 8+",
+      "Japanese programming and packaging; English instructions available on Bandai.com",
+      "Ages 8+"
+    ],
+    "keywords": null,
+    "description": "Raise and train your own sorcerer with the Jujutsu Kaisen Tamagotchi. You can train students from Tokyo Jujutsu High, including Yuji Itadori, Megumi Fushiguro, and Nobara Kugisaki, and even Gojo-sensei! Feed them rice balls if they’re hungry or give them “kikufuku” - Gojo’s favorite sweets - when grumpy, and train them to master three mini-games! They will grow into different characters depending on how you raise them. In addition, Principal Yoruga, Iiri, and Ijichi will appear at certain periods of time. If you neglect to train your characters, the spirits will start to rejoice!"
+  },
+  "attributes": {
+    "material": "ABS/PC/SI",
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "8+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707049/Bandai/5530315_88841/88841_1.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707051/Bandai/5530315_88841/88841_2.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707053/Bandai/5530315_88841/88841_3.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707054/Bandai/5530315_88841/88841_4.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.13749999999999998,
+      "weight_unit": null,
+      "length": 1.18,
+      "length_unit": null,
+      "width": 0.98,
+      "width_unit": null,
+      "height": 1.57,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 12,
+      "length": 1.18,
+      "length_unit": null,
+      "width": 2.76,
+      "width_unit": null,
+      "height": 5.12,
+      "height_unit": null,
+      "weight": 1.65,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": "No Warranty",
+    "batteries_required": "Y",
+    "batteries_included": "Y",
+    "battery_cell_comp": "N",
+    "battery_type_qty": "LR44 x2",
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "CSV: Z:\\Distribution Solutions Working Folder\\work\\Vendors\\Priority Vendors\\BANDAI NAMCO\\Setup Sheets\\2023\\9.25.23\\Copy of 9.1 DS7_SETUP_SHEET_2023 - Tamagotchi  Vital Hero.xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

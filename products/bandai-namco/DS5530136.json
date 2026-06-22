@@ -1,0 +1,119 @@
+{
+  "ds_number": "5530136",
+  "vendor": "Bandai Namco",
+  "brand": "Vital Hero",
+  "vendor_item_number": "87802",
+  "product_name": "Vital Hero DIM Card Pack (Infinite Tide & Titan of Dust)",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557878023"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 13.993,
+    "ds_cost_domestic": 11.994,
+    "import_cost": null,
+    "msrp": 19.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "The \"INFINITE TIDE＆TITAN OF DUST Dim Card Set\" is one of three Dim Card sets available for Vital Hero",
+      "The \"INFINITE TIDE Dim Card\" contains an evolutionary route centered on Digital Monster Digimon that live in tide areas",
+      "The \"TITAN OF DUST Dim Card\" contains an evolutionary route centered on Digital Monster Digimon that live in desert areas",
+      "Store up to three Digital Monsters in your Vital Hero Band at once",
+      "Each Dim card has different attributes that will affect the character and help you win battles based on your opponent",
+      "Ages 8+"
+    ],
+    "keywords": null,
+    "description": "Vital Hero Dim Card Two Pack extends play for Vital Hero Band and allows you to train and collect more digital monsters. Raise, Train, Move More & Battle More!"
+  },
+  "attributes": {
+    "material": "PVC/BAS/EP",
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "8+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781706960/Bandai/5530136_87802/87800_87802_vh_dimcard2_p01_hires.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781706964/Bandai/5530136_87802/87800_87802_vh_dimcard2_p02_hires.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781706967/Bandai/5530136_87802/87800_87802_vh_dimcard2_p03_hires.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781706971/Bandai/5530136_87802/87800_87802_vh_dimcard2_p04_hires.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.25,
+      "weight_unit": null,
+      "length": 2.17,
+      "length_unit": null,
+      "width": 3.35,
+      "width_unit": null,
+      "height": 0.04,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 9,
+      "length": 6.5,
+      "length_unit": null,
+      "width": 6.1,
+      "width_unit": null,
+      "height": 10.4,
+      "height_unit": null,
+      "weight": 1.5,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": null,
+    "batteries_required": "N",
+    "batteries_included": null,
+    "battery_cell_comp": "N",
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "CSV: Z:\\Distribution Solutions Working Folder\\work\\Vendors\\Priority Vendors\\BANDAI NAMCO\\Setup Sheets\\2023\\8.17.23\\Bandai Wave 2 Setup Sheet.xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

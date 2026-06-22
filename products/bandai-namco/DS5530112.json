@@ -1,0 +1,118 @@
+{
+  "ds_number": "5530112",
+  "vendor": "Bandai Namco",
+  "brand": "Tamagotchi",
+  "vendor_item_number": "42941",
+  "product_name": "Tamagotchi - Original Tamagotchi - Pink Glitter (Updated Logo)",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557429416"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 13.993,
+    "ds_cost_domestic": 11.994,
+    "import_cost": null,
+    "msrp": 19.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "The Original Tamagotchi digital pet you loved in 1997 is back with the original generation 2 programming! Feed it, turn lights on/off, play with it, give it medicine, flush after it’s used the bathroom, check it’s health and discipline your Tamagotchi if he bothers you when he’s happy, fed and all cleaned up",
+      "Includes Number game where you have to guess whether the next number will be higher or lower!",
+      "Pink glitter shell with white 'Tamagotchi', frame, buttons and hearts, and generation 2 programming and characters, and updated logo",
+      "Raise your Tamagotchi from egg to child to Adult and how you take care of it will decide which of the 7 Adults you’ll get. Comes with 1 Tamagotchi on a chain to take with you everywhere!",
+      "Battery (CR2032) included. For Ages 8+"
+    ],
+    "keywords": null,
+    "description": "The Original digital pet you loved back in 1997 is back with a pink glitter shell, and now with updated branding!  With original generation 2 programming, you feed it, clean up after it, take care of it and even discipline it if it's bothering you when it doesn't need you!  Plus, you can play the Numbers game! How you take care of your Tamagotchi and how you do in the game, decides which Adult Tamagotchi you'll get!  Includes the CR2032 battery and attaches to your bag so it goes everywhere!  Ages 8+"
+  },
+  "attributes": {
+    "material": "PVC/ ABS/SI/PCBA",
+    "num_pieces": 1,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "8+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": null,
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781706850/Bandai/5530112_42941/42800_42941a.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781706853/Bandai/5530112_42941/42800_42941b.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781706855/Bandai/5530112_42941/42800_42941c.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781706859/Bandai/5530112_42941/42800_42941d.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.1,
+      "weight_unit": null,
+      "length": 0.75,
+      "length_unit": null,
+      "width": 1.75,
+      "width_unit": null,
+      "height": 2.13,
+      "height_unit": null
+    },
+    "package": {
+      "weight": 0.1,
+      "weight_unit": null,
+      "length": 1,
+      "length_unit": null,
+      "width": 5.5,
+      "width_unit": null,
+      "height": 7.5,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 8,
+      "length": 9.5,
+      "length_unit": null,
+      "width": 6.75,
+      "width_unit": null,
+      "height": 9.75,
+      "height_unit": null,
+      "weight": 2.4,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "Y",
+    "warranty_desc": "2 year warranty",
+    "batteries_required": "Y",
+    "batteries_included": "Y",
+    "battery_cell_comp": "N",
+    "battery_type_qty": "LR44 x2",
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "CSV: Z:\\Distribution Solutions Working Folder\\work\\Vendors\\Priority Vendors\\BANDAI NAMCO\\Setup Sheets\\2023\\5.18.23\\Copy of 5.18 DS_SETUP_SHEET_2023 - Tamagotchi.xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

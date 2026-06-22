@@ -1,0 +1,118 @@
+{
+  "ds_number": "5530471",
+  "vendor": "Bandai Namco",
+  "brand": "ANIME HEROES",
+  "vendor_item_number": "36965",
+  "product_name": "ANIME HEROES - Naruto Uzumaki - Jiraiya Action Figure",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557369651"
+  },
+  "pricing": {
+    "drop_ship_cost": 18.03,
+    "wholesale_cost": 15.393,
+    "ds_cost_domestic": 13.194,
+    "import_cost": null,
+    "msrp": 21.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Step into the world of Naruto - Jiraiya, is a talented and famous ninja known as the \"SANNIN \" the legendary three ninja of Leaf Village. He is the student of the Third Hokage, teacher of Minato and the person who taught Naruto Rasengan",
+      "Manga Inspired packaging - Each Anime Heroes line has manga inspired packaging and beautiful artwork on the front featuring the characters you know and love",
+      "Endless Play - Each 6.5\" figure come with 2 sets of interchangeable hands, character specific accessories, and 20+ points of articulation to pose and play in endless ways",
+      "Impressive likeness - Each figure comes with detailed sculpt and true to show features that Anime Heroes action figures are known for.",
+      "Collect them all - Bandai Namco Toys & Collectibles America has a full line-up of Naruto action figures for you to show off your fandom and collect your favorite characters"
+    ],
+    "keywords": null,
+    "description": "Fans of one of the biggest animes of all time, Naruto, can now bring home their favorite characters from the Anime Heroes 6.5-inch Naruto action figure line, by Bandai Namco Toys & Collectibles. Immerse yourself into the world of Naruto and recreate the biggest battles and missions with action figures that look exactly like their anime characters!"
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "4+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707017/Bandai/5530471_36965/36965_1.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707018/Bandai/5530471_36965/36965_2.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707020/Bandai/5530471_36965/36965_3.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707021/Bandai/5530471_36965/36965_4.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.5,
+      "weight_unit": null,
+      "length": 5,
+      "length_unit": null,
+      "width": 2,
+      "width_unit": null,
+      "height": 7,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 18.3,
+      "length_unit": null,
+      "width": 6.9,
+      "width_unit": null,
+      "height": 7.25,
+      "height_unit": null,
+      "weight": 3,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": null,
+    "batteries_required": "N",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "CSV: Z:\\Distribution Solutions Working Folder\\work\\Vendors\\Priority Vendors\\BANDAI NAMCO\\Setup Sheets\\2023\\11.8.23\\Copy of 11.6 DS5_SETUP_SHEET_2023 - Action Figures.xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

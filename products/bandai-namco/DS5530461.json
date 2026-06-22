@@ -1,0 +1,115 @@
+{
+  "ds_number": "5530461",
+  "vendor": "Bandai Namco",
+  "brand": "ANIME HEROES",
+  "vendor_item_number": "36932",
+  "product_name": "ANIME HEROES - One Piece - Roronoa Zoro Action Figure",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557369323"
+  },
+  "pricing": {
+    "drop_ship_cost": 18.03,
+    "wholesale_cost": 15.393,
+    "ds_cost_domestic": 13.194,
+    "import_cost": null,
+    "msrp": 21.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "Vietnam",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Bandai's Anime Heroes figure line now lets you step into the anime world of One Piece",
+      "Manga Inspired packaging - Each Anime Heroes line has manga inspired packaging and beautiful artwork on the front featuring the characters you know and love",
+      "Endless Play - Each 6.5\" figure come with 2 sets of interchangeable hands, character specific accessories, and 20+ points of articulation to pose and play in endless ways",
+      "Impressive likeness - Each figure comes with detailed sculpt and true to show features that Anime Heroes action figures are known for",
+      "Collect them all - Bandai Namco Toys & Collectibles America has a full line-up of One Piece action figures for you to show off your fandom and collect your favorite characters"
+    ],
+    "keywords": null,
+    "description": "Zoro is a former bounty hunter and 1st crew member of the Straw Hat Pirates. His dream is to become the greatest swordsman in the world. Zoro is also regarded as one of twelve pirates who are referred to as the \"Worst Generation\" with a bounty of 320,000,000. One Piece fans can now imagine the biggest battles and missions with the Anime Heroes 6.5-inch One Piece figures that have over 20+ points of articulation. Bandai's Anime Heroes have amazing features and decoration that incorporates the quality and realism anime fans love."
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "4+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://i5.walmartimages.com/asr/e37d1eae-e625-4d64-b18e-8749ff950c03.68c121fd9c3590ed492340e73a2121ad.jpeg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.5,
+      "weight_unit": null,
+      "length": 5,
+      "length_unit": null,
+      "width": 2,
+      "width_unit": null,
+      "height": 7,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 18.3,
+      "length_unit": null,
+      "width": 6.9,
+      "width_unit": null,
+      "height": 7.25,
+      "height_unit": null,
+      "weight": 3,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": null,
+    "batteries_required": "N",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "CSV: Z:\\Distribution Solutions Working Folder\\work\\Vendors\\Priority Vendors\\BANDAI NAMCO\\Setup Sheets\\2023\\11.8.23\\Copy of 11.6 DS5_SETUP_SHEET_2023 - Action Figures.xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

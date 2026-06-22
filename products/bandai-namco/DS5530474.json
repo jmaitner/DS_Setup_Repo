@@ -1,0 +1,118 @@
+{
+  "ds_number": "5530474",
+  "vendor": "Bandai Namco",
+  "brand": "Tamagotchi",
+  "vendor_item_number": "42974",
+  "product_name": "Tamagotchi Original - Neon Lights",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557429744"
+  },
+  "pricing": {
+    "drop_ship_cost": 16.39,
+    "wholesale_cost": 14,
+    "ds_cost_domestic": 12,
+    "import_cost": null,
+    "msrp": 19.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Includes Character game where you have to guess which way the Tamagotchi will move next",
+      "A purple shell with neon lights and 'Tamagotchi', dark pink frame, green buttons, and original programming and characters",
+      "Raise your Tamagotchi from egg to child to Adult and how you take care of it will decide which of the 7 Adults you’ll get. Comes with 1 Tamagotchi on a chain to take with you everywhere!",
+      "Battery (CR2032) included",
+      "For Ages 8+"
+    ],
+    "keywords": null,
+    "description": "The Original Tamagotchi digital pet you loved back in 1997 is back with the original programming! Feed it, turn lights on/off, play with it, give it medicine, flush after it’s used the bathroom, check it’s health and discipline your Tamagotchi if he bothers you when he’s happy, fed and all cleaned up"
+  },
+  "attributes": {
+    "material": "ABS/PC/SI",
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "8+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707166/Bandai/5530474_42974/42974_1.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707168/Bandai/5530474_42974/42974_10.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707169/Bandai/5530474_42974/42974_11.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707171/Bandai/5530474_42974/42974_12.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.3,
+      "weight_unit": null,
+      "length": 2.13,
+      "length_unit": null,
+      "width": 0.75,
+      "width_unit": null,
+      "height": 1.75,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 8,
+      "length": 1,
+      "length_unit": null,
+      "width": 5.5,
+      "width_unit": null,
+      "height": 7.75,
+      "height_unit": null,
+      "weight": 2.4,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": "No Warranty",
+    "batteries_required": "Y",
+    "batteries_included": "Y",
+    "battery_cell_comp": "Y",
+    "battery_type_qty": "CR2032 x1",
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "CSV: Z:\\Distribution Solutions Working Folder\\work\\Vendors\\Priority Vendors\\BANDAI NAMCO\\Setup Sheets\\2023\\11.8.23\\Copy of 11.6 DS7_SETUP_SHEET_2023 - Tamagotchi Fall23 Wave 2.xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "ds_number": "5530330",
+  "vendor": "Bandai Namco",
+  "brand": "Anime Heroes",
+  "vendor_item_number": "36963",
+  "product_name": "Anime Heroes - Naruto - Hatake Kakashi Fourth Great Ninja War Action Figure",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557369637"
+  },
+  "pricing": {
+    "drop_ship_cost": 16.1919,
+    "wholesale_cost": 13.993,
+    "ds_cost_domestic": 11.994,
+    "import_cost": null,
+    "msrp": 19.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Step into the world of Naruto - Kakashi Hatake AKA Kakashi of the Sharingan, is a talented and famous ninja of the Leaf Village. He is famous for copying over a thousand Jutsu. The newest version of Kakashi from the Anime Heroes Naruto action figure line is from the Fourth Great Ninja War, where he fought some powerful foes and lead a battalion",
+      "Manga Inspired packaging – Each Anime Heroes line has manga inspired packaging and beautiful artwork on the front featuring the characters you know and love",
+      "Endless Play - Each figure come with 2 sets of interchangeable hands, character specific accessories, and 16+ points of articulation to pose and play in endless ways",
+      "Collect them all - Bandai Namco Toys & Collectibles America has a full line-up of Naruto action figures for you to show off your fandom and collect your favorite characters",
+      "Impressive likeness – Each figure comes with detailed sculpt and true to show features that Anime Heroes action figures are known for",
+      "Ages 4+"
+    ],
+    "keywords": null,
+    "description": "Fans of one of the biggest anime's of all time, Naruto, can now bring home their favorite characters from the Anime Heroes 6.5-inch Naruto action figure line, by Bandai Namco Toys & Collectibles. Immerse yourself into the world of Naruto and recreate the biggest battles and missions with action figures that look exactly like their anime characters!"
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "4+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707106/Bandai/5530330_36963/36900_36963_ah_naruto_kakashi_4th_p01_hires.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707109/Bandai/5530330_36963/36900_36963_ah_naruto_kakashi_4th_p02_hires.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707111/Bandai/5530330_36963/36900_36963_ah_naruto_kakashi_4th_p03_hires.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707113/Bandai/5530330_36963/36900_36963_ah_naruto_kakashi_4th_p04_hires.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.5,
+      "weight_unit": null,
+      "length": 2,
+      "length_unit": null,
+      "width": 5,
+      "width_unit": null,
+      "height": 6.5,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 2,
+      "length_unit": null,
+      "width": 6,
+      "width_unit": null,
+      "height": 10,
+      "height_unit": null,
+      "weight": 3,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": null,
+    "batteries_required": "N",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "CSV: Z:\\Distribution Solutions Working Folder\\work\\Vendors\\Priority Vendors\\BANDAI NAMCO\\Setup Sheets\\2023\\9.25.23\\Copy of 9.1 DS5_SETUP_SHEET_2023 - Action Figures (002).xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

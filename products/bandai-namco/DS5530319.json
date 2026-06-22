@@ -1,0 +1,119 @@
+{
+  "ds_number": "5530319",
+  "vendor": "Bandai Namco",
+  "brand": "Vital Hero",
+  "vendor_item_number": "89471",
+  "product_name": "Vital Hero Batman - Interactive Band w/ Watch, Heart Rate, and Step Counter",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557894719"
+  },
+  "pricing": {
+    "drop_ship_cost": 52.6419,
+    "wholesale_cost": 45.49299999999999,
+    "ds_cost_domestic": 38.99399999999999,
+    "import_cost": null,
+    "msrp": 64.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Interactive wearable gamified band that lets you level up and battle with your superhero. The Vital Hero Batman band comes with one memory card with character to power up, and comes with one versus card to battle with friends",
+      "Complete Activity Missions such as running, shadow boxing, sit ups/crunches, and walking to earn trophies, increase your battle win rate, and power up your character. With a full-color LED screen, the Band is equipped with a step counter, heart rate vital function (not medically accurate), with time function, and adjustable band size",
+      "Players can encounter random battles by tapping their Vital Hero band onto NFC enabled devices, such as a smartphone or card readers. Battles are also prompted automatically after training missions are completed",
+      "* Includes a USB charging cable and a Vital Hero Memory card (VHM) to kickstart the player’s journey with the superhero",
+      "More ways to play using the App: 2-on-2 battle feature, battle with friends, or participate in Worldwide Tournaments (available on Android and iOS)",
+      "Ages 8+"
+    ],
+    "keywords": null,
+    "description": "Vital Hero Batman is an inter-ACTIVE band that shows progress as kids play, complete activity missions, and compete with friends through interacting with the character on this wearable device. Featuring a full-color LED display screen and built-in vital activity monitor, each band comes with a superhero that you can train through completing a range of missions, such as, shadow boxing, squatting, sprint challenges, walking, and more! Each mission and daily activity will level up your superhero, making them stronger, prompting you into battles, and provides endless fun in solo play or with friends. The built-in heartbeat and steps tracker are strictly in-game based values and are therefore not medically accurate."
+  },
+  "attributes": {
+    "material": "PVC/BAS/EP",
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "8+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707359/Bandai/5530319_89471/89470_89471_vitalhero_batman_band_01.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707362/Bandai/5530319_89471/89470_89471_vitalhero_batman_band_02.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707364/Bandai/5530319_89471/89470_89471_vitalhero_batman_band_05.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781707366/Bandai/5530319_89471/89470_89471_vitalhero_batman_band_p01.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.8,
+      "weight_unit": null,
+      "length": 8,
+      "length_unit": null,
+      "width": 1,
+      "width_unit": null,
+      "height": 0.75,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 2,
+      "length": 9.5,
+      "length_unit": null,
+      "width": 6,
+      "width_unit": null,
+      "height": 3.5,
+      "height_unit": null,
+      "weight": 1.6,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": "No Warranty",
+    "batteries_required": "Y",
+    "batteries_included": "Y",
+    "battery_cell_comp": "Y",
+    "battery_type_qty": "Lithium Polymer x1",
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "CSV: Z:\\Distribution Solutions Working Folder\\work\\Vendors\\Priority Vendors\\BANDAI NAMCO\\Setup Sheets\\2023\\9.25.23\\Copy of 9.1 DS7_SETUP_SHEET_2023 - Tamagotchi  Vital Hero.xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

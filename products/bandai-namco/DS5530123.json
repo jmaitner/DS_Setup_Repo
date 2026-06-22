@@ -1,0 +1,116 @@
+{
+  "ds_number": "5530123",
+  "vendor": "Bandai Namco",
+  "brand": "Anime Heroes",
+  "vendor_item_number": "36962",
+  "product_name": "Anime Heroes - Naruto - Uchiha Sasuke Rinnegan / Mangekyo Sharingan Action Figure",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557369620"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 13.993,
+    "ds_cost_domestic": 11.994,
+    "import_cost": null,
+    "msrp": 19.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Bandai's Anime Heroes figure line now lets you step into the anime world of Naruto. This Uchiha Sasuke Rinnegan / Mangekyo Sharingan version (Shippuden Version) figure captures the cold and determined demeanor of Sasuke with one of his most powerful attacks",
+      "Comes in premium packaging that is influenced by Japanese manga and art",
+      "The detailed and amazingly decorated 6.5-inch scale figure allows you to recreate Kakashi's Iconic moments with over 16 points of articulation. This figure is perfect for play and display",
+      "Each Anime Heroes figure comes with an additional two sets of switchable hands and character-specific accessories",
+      "Fans can look for more Anime Heroes Naruto series figures from Bandai (Each figure sold separately)",
+      "Ages 4+"
+    ],
+    "keywords": null,
+    "description": "\"Sasuke Uchiha a former member of team seven and rogue ninja of the Leaf Village. This version of Sasuke has his Rinnegan / Mangekyo Sharingan visible and a new face deco to accompany this strong chakra power. His only goal in life is to acquire the power needed to take revenge for his family's deaths.\n\nNaruto fans can now imagine the biggest battles and missions with the Anime Heroes 6.5-inch Naruto figures that have over 16 points of articulation. Bandai's Anime Heroes have amazing features and decoration that incorporates the quality and realism anime fans love. Believe it!\""
+  },
+  "attributes": {
+    "material": "PVC/ ABS",
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "4+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://i5.walmartimages.com/asr/e76751c3-492e-4c84-bd91-31edc6f56473.3227c6172169ec1899d49cf5fb38939a.jpeg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.09,
+      "weight_unit": null,
+      "length": 5,
+      "length_unit": null,
+      "width": 2,
+      "width_unit": null,
+      "height": 7,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 18.3,
+      "length_unit": null,
+      "width": 6.9,
+      "width_unit": null,
+      "height": 6.9,
+      "height_unit": null,
+      "weight": 2.6,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": null,
+    "batteries_required": "N",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "CSV: Z:\\Distribution Solutions Working Folder\\work\\Vendors\\Priority Vendors\\BANDAI NAMCO\\Setup Sheets\\2023\\5.18.23\\Copy of 5.18 DS_SETUP_SHEET_2023 - Anime Heroes.xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

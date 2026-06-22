@@ -1,0 +1,115 @@
+{
+  "ds_number": "5530133",
+  "vendor": "Bandai Namco",
+  "brand": "Dragon Ball Super",
+  "vendor_item_number": "36894",
+  "product_name": "Dragon Stars Beerus -Version 2 Action Figure",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557368944"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 13.993,
+    "ds_cost_domestic": 11.994,
+    "import_cost": null,
+    "msrp": 19.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "BANDAI’S DRAGON BALL SUPER STARS 6.5-INCH ACTION FIGURE: Fans, collectors and kids of all ages will be thrilled by this 6.5-inch scale as they bring the world of Dragon Ball Super into their own world",
+      "DESIGN INSPIRED BY POPULAR ANIME TV SERIES: Bandai’s Dragon Ball Super figures are so authentic and realistic you can recreate the epic battles and favorite moments from the TV show",
+      "ANIME INSPIRED PACKAGING: Figure comes packaged with impressive and cool Japanese inspired design",
+      "AMAZING ARTICULATION AND IMPRESSIVE DETAILS: The amazingly articulated 6.5-inch scale figure allows you to recreate your favorite character’s epic moments with impressive 16 points of articulation. This figure is perfect for both play and display",
+      "AWESOME ANIME INSPIRED ACCESSORIES: The Dragon Ball Super Dragon Stars figure comes with additional two sets of switchable hands and character-specific accessories making it an amazing addition to the world of Dragon Ball Super"
+    ],
+    "keywords": null,
+    "description": "Welcome the fierce battles of Dragon Ball into your world with these superior 6.5-inch Dragon Stars action figures. Finely crafted and intricately detailed with 16 points of articulation.  This is the highest order of quality, and as close as you can get to the real thing. You can be the star of your own Dragon Ball battles, inspired by the show and limited only by your imagination. One of the most powerful beings in all creation is Beerus- the God of destruction from Universe 7. He has a dislike for evil beings, yet he has no issue with using them, or anyone else for the matter- for his own purposes in his mission to keep balance and order in the universe."
+  },
+  "attributes": {
+    "material": "PVC/ABS",
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "6+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://i5.walmartimages.com/asr/14b79a59-5945-41c9-b59a-61559bf550ab.750f0dce0b5c8fc994e3f232cf215464.jpeg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.9,
+      "weight_unit": null,
+      "length": 4,
+      "length_unit": null,
+      "width": 1.8,
+      "width_unit": null,
+      "height": 7,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 9.5,
+      "length_unit": null,
+      "width": 6.75,
+      "width_unit": null,
+      "height": 9.75,
+      "height_unit": null,
+      "weight": 2.4,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": null,
+    "batteries_required": "N",
+    "batteries_included": null,
+    "battery_cell_comp": "N",
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "CSV: Z:\\Distribution Solutions Working Folder\\work\\Vendors\\Priority Vendors\\BANDAI NAMCO\\Setup Sheets\\2023\\5.18.23\\Copy of 5.18 DS_SETUP_SHEET_2023 - Dragon Ball Variety JM.xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

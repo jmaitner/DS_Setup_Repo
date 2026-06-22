@@ -1,0 +1,115 @@
+{
+  "ds_number": "5530915",
+  "vendor": "Bandai Namco",
+  "brand": "Anime Heroes",
+  "vendor_item_number": "36986",
+  "product_name": "ANIME HEROES - Jujutsu Kaisen - Gojo Satoru Hollow Purple Action Figure",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557369866"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 15.393,
+    "ds_cost_domestic": 13.194,
+    "import_cost": null,
+    "msrp": 21.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Fight curses and be in the action - Gojo is back! This time the blind fold is coming off and he’s letting his hair down. As the strongest sorcerer in the world, Gojo has access to Hollow Purple, which is a remarkably powerful secret technique that was achieved by awakening the true power of the Limitless during his rematch against Toji Fushiguro. It launches imaginary mass, which can deal destructive damage to any target",
+      "Manga Inspired packaging – Each Anime Heroes line has manga inspired packaging and beautiful artwork on the front featuring the characters you know and love",
+      "Endless Play - Each figure comes with 2 sets of interchangeable hands, character specific accessories, and 20+ points of articulation to pose and play in endless ways",
+      "Collect them all - Bandai Namco Toys & Collectibles America has a lineup of the most iconic Jujutsu Kaisen characters in the Anime Heroes Action Figure line. Perfect for you to show off your fandom and collect your favorite characters",
+      "For ages 4 and up"
+    ],
+    "keywords": null,
+    "description": "Join your favorite sorcerors of the Tokyo Jujutsu High, from Jujutsu Kaisen, and relive the amazing fight scenes, demon curses and award winning anime that took the world by storm. Anime Heroes Jujutsu Kaisen, by Bandai Namco Toys & Collectibles, brings you the most iconic characters from the show in a 6.5inch action figure."
+  },
+  "attributes": {
+    "material": "PVC/ ABS/ POLY",
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "4+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781709957/Bandai/5530915_36986/web_01.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.09,
+      "weight_unit": null,
+      "length": 5,
+      "length_unit": null,
+      "width": 2,
+      "width_unit": null,
+      "height": 7,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 18.3,
+      "length_unit": null,
+      "width": 7.13,
+      "width_unit": null,
+      "height": 7.63,
+      "height_unit": null,
+      "weight": 4.5,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": null,
+    "batteries_required": "N",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "3.13.25 D5 Setup - Distribution Solutions.xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

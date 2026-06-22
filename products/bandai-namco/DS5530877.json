@@ -1,0 +1,115 @@
+{
+  "ds_number": "5530877",
+  "vendor": "Bandai Namco",
+  "brand": "Tamagotchi",
+  "vendor_item_number": "43404",
+  "product_name": "Tamagotchi Connection - Clear Retro",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557434045"
+  },
+  "pricing": {
+    "drop_ship_cost": 24.59,
+    "wholesale_cost": null,
+    "ds_cost_domestic": 18,
+    "import_cost": null,
+    "msrp": 29.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "The Original Virtual Reality Pet with Connection Play! A new shell with a clear retro geometric pattern! Includes password for a WAFFLE for your character!",
+      "Tamagotchi Connection is an interactive virtual pet that grows differently depending on how well you take care of your Tamagotchi character. Play games with it, feed it food, and cure it when it is sick, and it will develop into a good companion!",
+      "Tamagotchi characters can connect with others to make friends, play games, and exchange gifts. Get married and raise generations of Tamagotchi characters.",
+      "Tamagotchi Connection has some exciting features. Nurture your Tamagotchi character and meet more than 50 characters. Play over 10 mini games to make your character happy or earn Gotchi Points. Collect more than 150 items. Buy new food and other items using Gotchi Points for your Tamagotchi character. Find passwords to unlock special items.",
+      "Battery (CR2032) included. For Ages 6+"
+    ],
+    "keywords": null,
+    "description": "<p><strong>The Original Virtual Reality Pet with Connection Play!</strong></p><p>With revamped programming from the nostalgic 2000s device, Tamagotchi Connection is back with a trendy clear retro shell! Raise an interactive virtual pet with characters that differs depending on how well you take care of them. Play games with it, feed it food, and cure it when it is sick, and it will develop into a good companion!</p><p>&nbsp;</p><p><strong>Tamagotchi Connection has some exciting features!</strong></p><ul><li>Nurture your Tamagotchi character and meet more than 50 characters!</li><li>Play over 10 mini games to make your character happy or earn Gotchi Points!</li><li>Collect more than 150 items!</li><li>Buy new food and other items using Gotchi Points for your Tamagotchi character.</li><li>Find passwords to unlock special items!</li></ul><p>&nbsp;</p><p><strong>Connect with Friends!</strong></p><p>Your Tamagotchi character can connect with others to make friends, play games, and exchange gifts! Get married and raise generations of Tamagotchi characters.</p><p>Battery (CR2032) included. Age 6+.</p>"
+  },
+  "attributes": {
+    "material": "ABS/PC/SI",
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "6+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781709945/Bandai/5530877_43404/web_01.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.3,
+      "weight_unit": null,
+      "length": 2.13,
+      "length_unit": null,
+      "width": 1.9,
+      "width_unit": null,
+      "height": 0.75,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 7.5,
+      "length_unit": null,
+      "width": 6.75,
+      "width_unit": null,
+      "height": 9.75,
+      "height_unit": null,
+      "weight": 1.8,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": "No Warranty",
+    "batteries_required": "Y",
+    "batteries_included": "Y",
+    "battery_cell_comp": "Y",
+    "battery_type_qty": "CR2032 x1",
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "DS5 Set Up Sheet Tamagotchi - 10-15-2024.xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

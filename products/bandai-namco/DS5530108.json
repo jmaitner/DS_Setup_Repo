@@ -1,0 +1,118 @@
+{
+  "ds_number": "5530108",
+  "vendor": "Bandai Namco",
+  "brand": "Tamagotchi",
+  "vendor_item_number": "88886",
+  "product_name": "Tamagotchi nano x Star Wars - Grogu Tamagotchi Blue ver. (88886)",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557888862"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 13.993,
+    "ds_cost_domestic": 11.994,
+    "import_cost": null,
+    "msrp": 19.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Take care of Grogu to change into one of 12 different appearances",
+      "Three mini-games including one game that changes depending on your play pattern with 10 possible options",
+      "Feed Grogu Squid Chowder and Macaron to nurture. If you feed Grogu too much Squid Chowder, the Squid will jump on him",
+      "Special guests come and visit every hour",
+      "Age grade: 8+. Battery included (2 x LR44). No Wi-Fi needed"
+    ],
+    "keywords": null,
+    "description": "The Star Wars Grogu Tamagotchi Nano brings the beloved character to the palm of your hand like never before"
+  },
+  "attributes": {
+    "material": "PVC/ ABS/SI/PCBA",
+    "num_pieces": null,
+    "whats_in_box": "Grogu Blue Electronic Pet",
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "8+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781706895/Bandai/5530108_88886/88885_88886_starwars_tamagotchi_grogu_blue_p01_hires3kx3k.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781706897/Bandai/5530108_88886/tamagotchi_nano_grogu_005.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781706899/Bandai/5530108_88886/tamagotchi_nano_grogu_006.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781706902/Bandai/5530108_88886/tamagotchi_nano_grogu_007.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.09,
+      "weight_unit": null,
+      "length": 0.98,
+      "length_unit": null,
+      "width": 1.18,
+      "width_unit": null,
+      "height": 1.57,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 8.5,
+      "length_unit": null,
+      "width": 4.84,
+      "width_unit": null,
+      "height": 8.58,
+      "height_unit": null,
+      "weight": 1.35,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": null,
+    "batteries_required": "Y",
+    "batteries_included": "Y",
+    "battery_cell_comp": "N",
+    "battery_type_qty": "LR44 x2",
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "CSV: Z:\\Distribution Solutions Working Folder\\work\\Vendors\\Priority Vendors\\BANDAI NAMCO\\Setup Sheets\\2023\\5.18.23\\Copy of 5.15.23 DS_SETUP_SHEET_2022 - Tama nano Star Wars.xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

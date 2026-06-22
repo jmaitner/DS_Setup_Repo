@@ -1,0 +1,116 @@
+{
+  "ds_number": "5530332",
+  "vendor": "Bandai Namco",
+  "brand": "Anime Heroes",
+  "vendor_item_number": "36934",
+  "product_name": "Anime Heroes - One Piece - Portgas D. Ace Action Figure",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557369347"
+  },
+  "pricing": {
+    "drop_ship_cost": 16.1919,
+    "wholesale_cost": 13.993,
+    "ds_cost_domestic": 11.994,
+    "import_cost": null,
+    "msrp": 19.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Bandai's Anime Heroes figure line now lets you step into the anime world of One Piece. This Ace figure captures the likeness of his little brother Luffy",
+      "Comes in premium packaging that is influenced by Japanese manga and art",
+      "The detailed and amazingly decorated 6.5-inch scale figure allows you to recreate Luffy’s iconic moments with over 16 points of articulation. This figure is perfect for play and display",
+      "Each Anime Heroes figure comes with an additional two sets of switchable hands and character-specific accessories",
+      "Fans can look for more Anime Heroes One Piece series figures from Bandai (Each figure sold separately)",
+      "Ages 4+"
+    ],
+    "keywords": null,
+    "description": "Nicknamed \"Fire Fist\" Ace, Portgas D. Ace is both a fictional character and tritagonist of the One Piece series. He was the adopted older brother of Luffy and Sabo, and son of the late King of the Pirates, Gol D. Roger"
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "4+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://i5.walmartimages.com/asr/b6712d97-e70e-4495-8872-68509b502902.b4a112dad37bd5503f97c117c8588554.jpeg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.5,
+      "weight_unit": null,
+      "length": 5,
+      "length_unit": null,
+      "width": 2,
+      "width_unit": null,
+      "height": 7,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 2,
+      "length_unit": null,
+      "width": 6,
+      "width_unit": null,
+      "height": 10,
+      "height_unit": null,
+      "weight": 3,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": null,
+    "batteries_required": "N",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "CSV: Z:\\Distribution Solutions Working Folder\\work\\Vendors\\Priority Vendors\\BANDAI NAMCO\\Setup Sheets\\2023\\9.25.23\\Copy of 9.1 DS5_SETUP_SHEET_2023 - Action Figures (002).xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}

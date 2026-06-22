@@ -1,0 +1,115 @@
+{
+  "ds_number": "5530920",
+  "vendor": "Bandai Namco",
+  "brand": "Anime Heroes",
+  "vendor_item_number": "37009",
+  "product_name": "ANIME HEROES - One Piece - Sabo Action Figure",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557370091"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 15.393,
+    "ds_cost_domestic": 13.194,
+    "import_cost": null,
+    "msrp": 21.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Set Sail with your favorite pirates - Sabo, brother of Ace and Luffy, and the Chief of Staff of the Revolutionary Army",
+      "He is recognized as the No. 2 of the entire organization, being directly after Dragon himself in terms of command",
+      "He ate the Mera-Mera no Mi (the devil fruit originally belonged to Ace), Sabo is capable of shooting out powerful pyrokinetic blasts and explosions",
+      "The figure comes with 2 sets of interchangeable hands, character specific accessories, and 20+ points of articulation to pose and play in endless ways",
+      "For Ages 4 and up"
+    ],
+    "keywords": null,
+    "description": "Set Sail with your favorite pirates - Sabo, brother of Ace and Luffy, and the Chief of Staff of the Revolutionary Army!\n\nHe is recognized as the No. 2 of the entire organization, being directly after Dragon himself in terms of command. He ate the Mera-Mera no Mi (the devil fruit originally belong to Ace), Sabo is capable of shooting out powerful pyrokinetic blasts and explosions. The figure comes with 2 sets of interchangeable hands, character specific accessories, and 20+ points of articulation to pose and play in endless ways!"
+  },
+  "attributes": {
+    "material": "PVC/ ABS/ POLY",
+    "num_pieces": null,
+    "whats_in_box": null,
+    "primary_color": "Multi",
+    "secondary_color": "Multi",
+    "min_age": "4+",
+    "max_age": null,
+    "gender": "Neutral",
+    "assembly_required": "N",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Y",
+    "urls": [
+      "https://m.media-amazon.com/images/I/81L4OrF038L._AC_UF350,350_QL80_.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.09,
+      "weight_unit": null,
+      "length": 5,
+      "length_unit": null,
+      "width": 2,
+      "width_unit": null,
+      "height": 7,
+      "height_unit": null
+    },
+    "package": {
+      "weight": null,
+      "weight_unit": null,
+      "length": null,
+      "length_unit": null,
+      "width": null,
+      "width_unit": null,
+      "height": null,
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 18.38,
+      "length_unit": null,
+      "width": 6.88,
+      "width_unit": null,
+      "height": 7.25,
+      "height_unit": null,
+      "weight": 4.5,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Y",
+    "lead_phthalates": null,
+    "warranty_included": "N",
+    "warranty_desc": null,
+    "batteries_required": "N",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": "Y",
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
+    "documents": []
+  },
+  "_meta": {
+    "source_file": "3.13.25 D5 Setup - Distribution Solutions.xlsx",
+    "source_sheet": "Master Setup Data",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1968,
+    "vendor_slug": "bandai-namco",
+    "last_verified": null
+  }
+}
