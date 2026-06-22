@@ -13,12 +13,13 @@
       "url": "https://www.amazon.com//dp/B000BKT5JG"
     },
     "walmart_1p": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "22840355",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://www.walmart.com/ip/22840355"
     },
     "walmart_3p": {
       "state": "not_listed",
