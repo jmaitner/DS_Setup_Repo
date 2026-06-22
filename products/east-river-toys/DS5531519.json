@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531519",
+  "vendor": "East River Toys",
+  "brand": "Lethal Chicken Games",
+  "vendor_item_number": "LCGDB001",
+  "product_name": "Dice Batter",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "659675508504"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 8.5,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 19.99
+  },
+  "sourcing": {
+    "fob_point": "Redondo Beach, CA",
+    "country_of_origin": "China",
+    "harmonized_code": "9504.90.6000"
+  },
+  "content": {
+    "bullets": [
+      "Fast, Interactive Gameplay – Roll, bump, and stir your way to 20 points in this quick, competitive dice game that's fun for kids and adults alike.",
+      "Unique Components – Includes a wooden spoon that doubles as a pen, a mixing bowl, cookie sheet cards, and colored dice designed to look like baking ingredients.",
+      "Perfect for Families – A top pick for family games, games for kids ages 8-13, and 4 player games that keep everyone engaged.",
+      "Travel-Friendly Fun – Compact size makes it great for travel games, family vacation, or classroom games that are easy to pack and play anywhere.",
+      "Gift-Ready & Hilarious – A great gift idea for birthdays, holidays, stocking stuffers, or anyone who loves funny games and fun kitchen gadgets."
+    ],
+    "keywords": null,
+    "description": "Learn how to play Dice Batter in 45 seconds! Roll, bump, and mix your way to 20 points in this fast, fun, baking-themed family dice game for 2–4 players."
+  },
+  "attributes": {
+    "material": "45% Paper, 45% Plastic, 10% Metal",
+    "num_pieces": 1,
+    "whats_in_box": "(28) Dice\n(20) Cooking Sheet Cards\n(1) Wooden Spoon\n(1) Metal Bowl with Lid\n(1) Pad of Paper\n(1) Instructions",
+    "primary_color": "Blue",
+    "secondary_color": "Pink",
+    "min_age": 4,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://i.imgur.com/lLD9oa0.jpeg",
+      "https://i.imgur.com/JnOjofW.jpeg",
+      "https://i.imgur.com/ZovfJCV.jpeg",
+      "https://i.imgur.com/MDjx4a1.jpeg",
+      "https://i.imgur.com/Ve6GWhT.jpeg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.04,
+      "weight_unit": "lbs",
+      "length": 4.25,
+      "length_unit": "in",
+      "width": 4.5,
+      "width_unit": "in",
+      "height": 8.75,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.04,
+      "weight_unit": "lbs",
+      "length": 4.25,
+      "length_unit": "in",
+      "width": 4.5,
+      "width_unit": "in",
+      "height": 8.75,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 9,
+      "length_unit": "in",
+      "width": 9.25,
+      "width_unit": "in",
+      "height": 13.4,
+      "height_unit": "in",
+      "weight": 7.28,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": null,
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": "Box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "ERT - New Item Setup Sheet 5-27-26v2.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": 2054,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "east-river-toys"
+  }
+}

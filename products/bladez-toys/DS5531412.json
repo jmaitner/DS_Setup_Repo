@@ -45,7 +45,10 @@
   },
   "images": {
     "availability": "Yes",
-    "urls": []
+    "urls": [
+      "https://m.media-amazon.com/images/I/91lrYSAJFXL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81+mG22cujL._AC_SL1500_.jpg"
+    ]
   },
   "dimensions": {
     "item": {

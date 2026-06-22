@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531006",
+  "vendor": "East River Toys",
+  "brand": "East River Toys",
+  "vendor_item_number": "APSTB1",
+  "product_name": "Spin The Bottle - Friends Edition",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "860013271015"
+  },
+  "pricing": {
+    "drop_ship_cost": 21,
+    "wholesale_cost": 10.75,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 25
+  },
+  "sourcing": {
+    "fob_point": "Valencia, CA",
+    "country_of_origin": "China",
+    "harmonized_code": "9504.90.6000"
+  },
+  "content": {
+    "bullets": [
+      "GAME CONTENTS: Includes a magic bottle and 3 unique card games, offering 10+ different party games for endless entertainment and variety",
+      "PLAYER REQUIREMENTS: Perfect for adult gatherings with 2 or more players, designed specifically for ages 17+ and above",
+      "FRIENDS EDITION: Special edition party game that brings friends together through interactive gameplay and social entertainment",
+      "VERSATILE GAMEPLAY: Features multiple game modes combining the classic bottle-spinning mechanic with engaging card-based challenges",
+      "PARTY ESSENTIAL: Compact and portable design makes it perfect for parties, game nights, and social gatherings"
+    ],
+    "keywords": null,
+    "description": "Get ready for an unforgettable game night with the Spin The Bottle Friends Edition Party Game! This adult party game brings a fresh twist to the classic bottle-spinning concept, packed with entertainment for groups of 2 or more players aged 17 and up. The set includes a specially designed magic bottle and three engaging card games, offering over 10 different party game variations to keep the fun going all night long. Perfect for breaking the ice at social gatherings, house parties, or casual get-togethers, this game combines classic entertainment with modern party game elements. The sleek black bottle design with blue accents comes in attractive packaging featuring a vibrant blue and pink color scheme. Whether you're hosting a party or looking for an entertaining addition to your game collection, this Friends Edition delivers hours of laughs and memorable moments. Simple to learn but endlessly entertaining, it's the perfect way to liven up any adult social gathering."
+  },
+  "attributes": {
+    "material": "40% paper, 60% plastic",
+    "num_pieces": 1,
+    "whats_in_box": "Magic Bottle, Bottle Cap Tokens, 3 card games",
+    "primary_color": "Blue",
+    "secondary_color": null,
+    "min_age": 17,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://imgur.com/a/j9bF4jI",
+      "https://imgur.com/a/aqh7qRW",
+      "https://imgur.com/a/PT0Dpwx",
+      "https://imgur.com/a/7jF000W",
+      "https://imgur.com/a/BA4s95d"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 2.5,
+      "weight_unit": "lbs",
+      "length": 3,
+      "length_unit": "in",
+      "width": 7.5,
+      "width_unit": "in",
+      "height": 10.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 2.5,
+      "weight_unit": "lbs",
+      "length": 3,
+      "length_unit": "in",
+      "width": 7.5,
+      "width_unit": "in",
+      "height": 10.5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": "8 x 18.5 x 11 inches",
+      "length_unit": "15.5 lbs",
+      "width": "No",
+      "width_unit": null,
+      "height": "No",
+      "height_unit": null,
+      "weight": "No",
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": null,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "ERT - New Item Setup Sheet 3-4-26.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": 2054,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "east-river-toys"
+  }
+}

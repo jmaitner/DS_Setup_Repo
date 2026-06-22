@@ -45,7 +45,10 @@
   },
   "images": {
     "availability": "Yes",
-    "urls": []
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582935/bladez-toyz/2026/HP30002/HP30002_Pack_2025.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582937/bladez-toyz/2026/HP30002/HP30002_Product.jpg"
+    ]
   },
   "dimensions": {
     "item": {

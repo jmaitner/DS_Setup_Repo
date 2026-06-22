@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531494",
+  "vendor": "KSM Toys",
+  "brand": "ksmtoys",
+  "vendor_item_number": "B09HLBRD5T    B52240",
+  "product_name": "Classic Multicolor CHORAL musical Spinning Tin Top Toy from KsmToys by Bolz. The Buzzing Hum Gets Louder As The Top Spins Faster. 18M+",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "727431734945"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 5.56,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 24.95
+  },
+  "sourcing": {
+    "fob_point": "Burlington, ON",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "IMPROVES FINE MOTOR SKILLS: No batteries needed; this toy encourages children to manipulate the speed of the spinning top which trains your child’s fine motor skills.",
+      "SUBTLE HUMMING TUNE: As it spins, Choral Multi Color Spinning Top Toy makes a light humming melody that gets louder the faster it spins.",
+      "PERFECT FOR ALL AGES: At 9-Inch tall and 9-Inch wide, it is the perfect size for the tiny hands of a toddler.",
+      "EASY TO USE: Simply grip the red tip and twist to start the spinning, the soft plastic gripper base keeps it in place, so it will not mark surfaces.",
+      "HIGH-QUALITY TIN: Made with high quality tin and plastic, this spinning top toy is durable and built to last."
+    ],
+    "keywords": "Classic train steam engine spinning metal tin top Maro bolz house of marbles vibe toy multicolored 70s toy game school eco-friendly imagination.Real Action and Sounds when the top spins.",
+    "description": "BOLZ is continuing the great tradition of German toy production. The spinning tops, music boxes and drums in nostalgic tin are all crafted with attention to detail in a tradition going back to 1880.BOLZ products unite high demands in terms of tradition & quality with contemporary colors and attractive motives for children. The current, varied licensed articles also provide endless hours of fun. Suitable for children of18 months and older. BOLZ is one of the OLDEST toy brand in the world. The cute tin spinning tops open up fascinating worlds of color and sound for children of 18 months and older. When the top is spun, the child-friendly motives blur into a sea of colors and shapes. The polyphonic melodies quickly captivate children. BOLZ –a fascinating world of play without limits. High-quality tin toys from a brand with a long tradition Reeds create polyphonic spinning top sounds Stable thanks to suction attachment Spinning tops made of metal & wooden handle, base plastic suction cup"
+  },
+  "attributes": {
+    "material": "Tin",
+    "num_pieces": 1,
+    "whats_in_box": "Toy Spinning Top",
+    "primary_color": "Blue",
+    "secondary_color": "Red",
+    "min_age": 36,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/71zAdS3dHsL.jpg",
+      "https://m.media-amazon.com/images/I/71SsHteNwrL.jpg",
+      "https://m.media-amazon.com/images/I/61+pB-GDAsL._AC_SY606_.jpg",
+      "https://m.media-amazon.com/images/I/61orLW+6VhL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/216qS5ZhvcL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.5997,
+      "weight_unit": "lbs",
+      "length": 7.5,
+      "length_unit": "inch",
+      "width": 7.5,
+      "width_unit": "inch",
+      "height": 7.5,
+      "height_unit": "inch"
+    },
+    "package": {
+      "weight": 0.8,
+      "weight_unit": "lbs",
+      "length": 7.5,
+      "length_unit": "inch",
+      "width": 7.5,
+      "width_unit": "inch",
+      "height": 7.5,
+      "height_unit": "inch"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 15,
+      "length_unit": "in",
+      "width": 7.5,
+      "width_unit": "in",
+      "height": 22.5,
+      "height_unit": "in",
+      "weight": 8,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: CHOKING HAZARD--Small parts. Not intended for children under 3 yrs",
+    "lead_phthalates": "no_warning_applicable",
+    "warranty_included": "Yes",
+    "warranty_desc": "1 year warranty against manufacturer defects",
+    "batteries_required": "No",
+    "batteries_included": "No",
+    "battery_cell_comp": "No",
+    "battery_type_qty": "No",
+    "packaging_type": "display box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2026 DS KsmToys Online Data.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": null,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "ksm-toys"
+  }
+}

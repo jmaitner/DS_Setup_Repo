@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531012",
+  "vendor": "East River Toys",
+  "brand": "East River Toys",
+  "vendor_item_number": "HGPG2",
+  "product_name": "Love Hotel Manager Card Game – Humorous Facility Strategy Game for Adults 2–4 Players Osaka-Themed Unique Party Game Experience",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "674498116651"
+  },
+  "pricing": {
+    "drop_ship_cost": 21,
+    "wholesale_cost": 10,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 25
+  },
+  "sourcing": {
+    "fob_point": "Valencia, CA",
+    "country_of_origin": "China",
+    "harmonized_code": "9504.90.6000"
+  },
+  "content": {
+    "bullets": [
+      "Immerse yourself in the world of Ichien San, the uncrowned queen of local Tekiya who is evolving from food stand business to love hotel business.",
+      "Modernise and build Osaka's largest and hottest Love Hotel chain by cleverly acting as a facility manager.",
+      "A in' fun card game for 2-4 hardcore facility managers aged plus/minus 37 years.",
+      "Experience a unique gaming experience with a humorous approach and an engaging backstory.",
+      "Join the world of Ichien San, the uncrowned queen of local Tekiya who evolves from food stand business to love hotel business."
+    ],
+    "keywords": null,
+    "description": "Do yer remember Ichien-San? Dead right, the one from the Yatai stall of the Tekiya by the temple in the park!\n\nFirst she proper booted the opposition up the arse then went on to become Top Dog of the local Tekiya.\n\nAnyhow she's moving on from the Greasy Spoon lark now and with her business cred she's mooching into the Love Hotel game and wants to crack it bigtime.\n\n The old fashioned Love Hotel joints look knackered mate. Dodgy, worn out furniture, no-one's bothering with 'em anymore. Scruffy dives, they give everyone a bad name and leave the managers skint. Ichien-San knows the score mate, she's gonna blow it all out and build the biggest mega Love Hotel chain in Osaka.\n\nFor that, she needs you lot, the best managers out there, no problem! You can expect top dosh, mega bonuses and fab perks, at least that's the idea. 'cause you lot are the legit movers and shakers in this game! You're the crew that cleans, hustles and busts a gut in the shadows, keepin' the joints up and runnin. You're out of sight yet every room's got your unique stamp. The smartest mover who proper sorts things out can pack the rooms out with punters. That'll bring in not just the dosh but also the respect you crave from Ichien-San."
+  },
+  "attributes": {
+    "material": "100% paper",
+    "num_pieces": 1,
+    "whats_in_box": "100 Cards (5 Love Hotel Floors, 60 Cleaning Orders, 5x Turnaround, 10x Stress, 10x Cancellation, 10x P.O.R.N.)\n1 Facility manager\n1 Game instruction",
+    "primary_color": "brown",
+    "secondary_color": null,
+    "min_age": 17,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://i.imgur.com/mOvckEh.jpeg",
+      "https://imgur.com/a/HyRmeXv",
+      "https://imgur.com/a/4lyuZVm",
+      "https://imgur.com/a/j2NAlas",
+      "https://imgur.com/a/RGcR0nH"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.83,
+      "weight_unit": "lbs",
+      "length": 2,
+      "length_unit": "in",
+      "width": 6,
+      "width_unit": "in",
+      "height": 5.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.83,
+      "weight_unit": "lbs",
+      "length": 2,
+      "length_unit": "in",
+      "width": 6,
+      "width_unit": "in",
+      "height": 5.5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": "12.5 x 6.5 x 6 inches",
+      "length_unit": "11.25 lbs",
+      "width": "No",
+      "width_unit": null,
+      "height": "No",
+      "height_unit": null,
+      "weight": "No",
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": null,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "ERT - New Item Setup Sheet 3-4-26.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": 2054,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "east-river-toys"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531512",
+  "vendor": "KSM Toys",
+  "brand": "ksmtoys",
+  "vendor_item_number": "L 4215",
+  "product_name": "LENA Eco Active Cement Mixer Toy Truck for Kids, Easy Grab Handle and Flip Open Cab, Super Sturdy Construction for Sanbox or indoor Action",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "727431734617"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 5.85,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 24.95
+  },
+  "sourcing": {
+    "fob_point": "Burlington, ON",
+    "country_of_origin": "Czechia",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "SAFE AND ENVIRONMENT FRIENDLY: Lena ECO Active toys are eco friendly products. Made of high quality food grade resin and wooden mix that biodegrades in soil. Lena toys are rigorously tested to meet and exceed required safety regulations.",
+      "CHILD DEVELOPMENT: Our toy trucks earned numerous awards for safety and play value. Lena's Eco friendly green toy Cement Mixer Truck is recognised as a development tool to that helps your child in improvement and progress of gross motor, fine motor and social skills. Encourage your child to pretend play using their imagination.",
+      "ROBUST DESIGN: Galvanized steel axles, best and safest quality raw materials and UV protection to prevent fading of colors make this toy equally suitable for indoor, outdoor, sandbox play or as a beach toy. This toy meets nursery and daycare quality and durability standards",
+      "EASY TO CLEAN AND MAINTAIN: We recommend use of water or mild soap to clean this toy. This toy is dishwasher safe",
+      "RECOMMENDED AGE: Our toy garbage trucks for boys and girls are specially designed for children age 3+ as they have a realistic look and functionality. Children love realistic-looking toys because they observe real trucks and heavy machinery daily."
+    ],
+    "keywords": "cement mixer eco trucks toy frendly toddler toys for digger sandbox yellow play big kids boys and trailer construction green toddlers 1 year old small ram mini infant pretend cars sets girls front loader backhoe safe outdoor friendly sand vehicles",
+    "description": "At KSMTOYS we want to keep our planet clean and healthy. We make our toys using high quality, food-grade resin and we do not promote the use of electronic features in our toys. Our products are designed with a decrease in plastic consumption in mind. The resin we use is infused with an environmentally friendly additive that helps it to disintegrate into the soil. It is also treated with UV filters to prevent fading of colors. Lena Toys are durable, child-friendly, and absolutely safe. All our vehicles are fully equipped with easy grab handles and off-road wheels with freewheeling chassis, making them easy to push over any terrain and feature an easy flip open cabin with space for a small driver. Vehicles are suitable for indoor and outdoor use. Lena Active Vehicles make superb educational toys for toddlers and preschool-age children and are safe for institutional use. Our toys will increase your child’s creativity, helping stimulate their imagination while encouraging hand-eye coordination and encourage group play, helping your child to effectively learn and develop their social and communication skills. Most importantly, Lena Active Vehicles will provide children with hours of dirt pile and sandbox fun, digging, loading, hauling, and lifting! Collect all 5 Lena Active Toys and have loads of fun! Our Eco Active Range consists of: The Active Front Loader is the groups’ heavy lifter with a double grip handle, moving lift container and flip open cabin. The Active Dump Truck has a push lever, flip open cabin and swing back container that makes the mechanical dumping action fun and super easy. The Active Excavator has grab handles, a moving digger arm and a rotating chassis that makes scooping and digging fun and easy. Recommended for ages 2+ Made in Czech Republic, EU. We offer a 3-year extended warranty."
+  },
+  "attributes": {
+    "material": "Plastic (Polyethylene)",
+    "num_pieces": 2,
+    "whats_in_box": "1 Toy Truck",
+    "primary_color": "Yellow",
+    "secondary_color": "Black",
+    "min_age": 36,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/61Pv4FXJM3L.jpg",
+      "https://m.media-amazon.com/images/I/71pYyJkULxL.jpg",
+      "https://m.media-amazon.com/images/I/61Tvq2U7dgL.jpg",
+      "https://m.media-amazon.com/images/I/61QUVncluQL.jpg",
+      "https://m.media-amazon.com/images/I/61r0G5UdPPL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.3007,
+      "weight_unit": "lbs",
+      "length": 12,
+      "length_unit": "inch",
+      "width": 5.5,
+      "width_unit": "inch",
+      "height": 7.5,
+      "height_unit": "inch"
+    },
+    "package": {
+      "weight": 1,
+      "weight_unit": "lbs",
+      "length": 12,
+      "length_unit": "inch",
+      "width": 5.5,
+      "width_unit": "inch",
+      "height": 7.5,
+      "height_unit": "inch"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 24.5,
+      "length_unit": "in",
+      "width": 7,
+      "width_unit": "in",
+      "height": 23,
+      "height_unit": "in",
+      "weight": 9,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: CHOKING HAZARD--Small parts. Not intended for children under 3 yrs",
+    "lead_phthalates": "no_warning_applicable",
+    "warranty_included": "Yes",
+    "warranty_desc": "1 year warranty against manufacturer defects",
+    "batteries_required": "No",
+    "batteries_included": "No",
+    "battery_cell_comp": "No",
+    "battery_type_qty": "No",
+    "packaging_type": "display box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2026 DS KsmToys Online Data.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": null,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "ksm-toys"
+  }
+}

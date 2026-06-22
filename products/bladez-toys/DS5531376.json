@@ -45,7 +45,12 @@
   },
   "images": {
     "availability": "Yes",
-    "urls": []
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777583277/bladez-toyz/2026/BTHW-H01/BTHW_H01_Crash%20Proof.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777583279/bladez-toyz/2026/BTHW-H01/BTHW_H01_Easy%20to%20Fly.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777583281/bladez-toyz/2026/BTHW-H01/BTHW_H01_LED%20Light.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777583283/bladez-toyz/2026/BTHW-H01/BTHW_H01_Lifestyle.jpg"
+    ]
   },
   "dimensions": {
     "item": {

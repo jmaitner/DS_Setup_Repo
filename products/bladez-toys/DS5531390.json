@@ -45,7 +45,12 @@
   },
   "images": {
     "availability": "Yes",
-    "urls": []
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777583456/bladez-toyz/2026/BTHW-PK2-3/BTHWPK2_Action.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777583458/bladez-toyz/2026/BTHW-PK2-3/BTHWPK2_Collection.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777583460/bladez-toyz/2026/BTHW-PK2-3/BTHWPK2_Pack.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777583463/bladez-toyz/2026/BTHW-PK2-3/BTHWPK2_Pack_11092025.png"
+    ]
   },
   "dimensions": {
     "item": {

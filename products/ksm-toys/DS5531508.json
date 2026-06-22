@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531508",
+  "vendor": "KSM Toys",
+  "brand": "ksmtoys",
+  "vendor_item_number": "L 4614",
+  "product_name": "Lena ACTROS Toy Garbage Truck for 3 Year Old Boys and Girls Realistic Trash Waste Management Garbage bin Orange and Silver, 1:15 Scale Model",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "727431734402"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 15.1,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 49.99
+  },
+  "sourcing": {
+    "fob_point": "Burlington, ON",
+    "country_of_origin": "Czechia",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "REALISTIC FEATURES AND FUNCTIONALITY: The product is a licensed Mercedes ACTROS garbage truck in a scale of 1:15. All features and movements of this Toy Truck mimic the movements of the real thing! Back loading trash dumpster has 4 wheels for easy movement of the trash, back doors fully swing open just like the real garbage truck. To offload your garbage unlock the bottom and swing the trailer back so the trash can easily offload.",
+      "INDOOR OR OUTDOOR PLAY: Use this garbage truck inside or outside as this toy can easily transport different materials such as paper, wood chips, sand or gravel to replicate \"garbage\". Lena garbage truck size is 20x10x12\" or 52x25x32cm.",
+      "ROBUST DESIGN: Our waste management toy truck has 3 steel axles and wide tires for easy movement on uneven surfaces, UV protection to prevent the colors from fading and plastic from becoming brittle. 3 year guarantee as our toys are durable enough to survive play in classrooms, daycares and as montessori toys for toddlers. We use prime PE resin for all our toys as this increases durability and lifespan of our toys trucks. Our materials will not snap or crack",
+      "EDUCATIONAL VALUE: Stimulates imagination while encouraging hand-eye coordination, fine and gross motor skills and communication. Teach your toddler about the importance of recycling and waste management as our green toys promote respect for the environment. Look for other Lena toy trucks for boys age 1, 2 or 3 from our toy assortment and complete your collection of Eco toys",
+      "RECOMMENDED AGE: Our toy garbage trucks for boys and girls are especially designed for children age 3+ because of the toys realistic look and functionality. Small children love realistic looking toys because they observe real trucks and heavy machinery daily in their neighborhood."
+    ],
+    "keywords": "Truck garbage recycle trash orange recycling toy lena powerful toys for boys kids gigantic mini pack plastic toddlers vehicles construction huge durable bins rubbish lorry realistic-year-old girls",
+    "description": "At Lena we want to keep our planet clean and healthy. We make our toys using high quality, food grade resin and we do not promote the use of electronic features in our toys. Our products are designed with a decrease in plastic consumption in mind. The resin we use is infused with an environmentally friendly additive that helps it to disintegrate into the soil. It is also treated with UV filters to prevent fading ofcolours. Lena Toys are durable, child-friendly and absolutely safe. All our vehicles are fully equipped with off-road wheels with freewheeling chassis, making them easy to push over any terrain. This front loader truck can lift and lower items and is even strong enough to be used as a ride on toy! Suitable for indoor and outdoor use. Lena Vehicles make superb educational toys for toddlers and preschool age children and are safe for institutional use. Our toys will increase your child’s creativity, helping stimulate their imagination while encouraging hand-eye coordination and encourage group play, helping your child to effectively learn and develop their social and communication skills. Most importantly, Lena Vehicles will provide children with hours of dirt pile and sandbox fun, digging, loading, hauling and lifting! Recommended for ages 3+ Made in Czech Republic, EU We offer a 3 year extended warranty."
+  },
+  "attributes": {
+    "material": "Plastic (Polyethylene)",
+    "num_pieces": 2,
+    "whats_in_box": "1 Toy Truck, 1 Toy Dumpster",
+    "primary_color": "Orange",
+    "secondary_color": "Black",
+    "min_age": 36,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/61lD9xgxOqL.jpg",
+      "https://m.media-amazon.com/images/I/71PGWB91E4L.jpg",
+      "https://m.media-amazon.com/images/I/61JUmuevCnL.jpg",
+      "https://m.media-amazon.com/images/I/71ni+OQgguL.jpg",
+      "https://m.media-amazon.com/images/I/71QQlPENe3L.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 3.8801,
+      "weight_unit": "lbs",
+      "length": 21.5,
+      "length_unit": "inch",
+      "width": 8,
+      "width_unit": "inch",
+      "height": 10.5,
+      "height_unit": "inch"
+    },
+    "package": {
+      "weight": 4,
+      "weight_unit": "lbs",
+      "length": 21.5,
+      "length_unit": "inch",
+      "width": 8,
+      "width_unit": "inch",
+      "height": "1-.5",
+      "height_unit": "inch"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 21.5,
+      "length_unit": "in",
+      "width": 16,
+      "width_unit": "in",
+      "height": 21,
+      "height_unit": "in",
+      "weight": 15,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: CHOKING HAZARD--Small parts. Not intended for children under 3 yrs",
+    "lead_phthalates": "no_warning_applicable",
+    "warranty_included": "Yes",
+    "warranty_desc": "1 year warranty against manufacturer defects",
+    "batteries_required": "No",
+    "batteries_included": "No",
+    "battery_cell_comp": "No",
+    "battery_type_qty": "No",
+    "packaging_type": "display box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2026 DS KsmToys Online Data.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": null,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "ksm-toys"
+  }
+}

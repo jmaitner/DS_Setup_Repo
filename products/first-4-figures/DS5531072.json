@@ -45,7 +45,16 @@
   },
   "images": {
     "availability": "Yes",
-    "urls": []
+    "urls": [
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life5_1763015463.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/dd4f6ff1-bb15-4cd9-859b-ad41665e521a.png",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/2af67804-aaa4-4a9c-a88f-cef168d130a6.png",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life1_1754543690.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life2_1754543696.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life3_1754543702.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life4_1754543707.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/FZ-Box-007-Dark_Magician_Girl.png"
+    ]
   },
   "dimensions": {
     "item": {

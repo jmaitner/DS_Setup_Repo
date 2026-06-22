@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531523",
+  "vendor": "East River Toys",
+  "brand": "Lethal Chicken Games",
+  "vendor_item_number": "LCGLPLP001",
+  "product_name": "Little Pig Little Pig",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "659675505114"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 15,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 34.99
+  },
+  "sourcing": {
+    "fob_point": "Redondo Beach, CA",
+    "country_of_origin": "China",
+    "harmonized_code": "9504.90.6000"
+  },
+  "content": {
+    "bullets": [
+      "Strategic Family Fun: A light yet tactical board game for ages 8+, where players gather resources, construct homes, and navigate challenges.",
+      "Build & Bluff: Combines dice rolling and movement cards, challenging players to build hay, wood, and brick houses before rivals or the Big Bad Wolf intervene.",
+      "Interactive Gameplay: Utilizes multi-function cards for movement or combat, and dice rolls for material collection or summoning the Big Bad Wolf.",
+      "Charming Design: Features adorable pig miniatures, modular board tiles, and immersive artwork, bringing the fairy tale theme to life.",
+      "Engaging Game Night: Designed for 2-4 players with 30-45 minutes of gameplay, making it ideal for group play, kids, and parents."
+    ],
+    "keywords": null,
+    "description": "Step into a whimsical world of clever pigs, crumbling houses, and the dreaded Big Bad Wolf! Little Pig Little Pig is a light strategy board game that challenges 2–4 players (ages 8 and up) to gather resources, build houses, and outwit their opponents before the wolf huffs and puffs them down. Perfect for family game night, this beautifully illustrated board game for kids 8+ combines dice rolling, resource management, and tactical movement on a modular board filled with surprises. Build houses of hay, wood, and brick, but beware—players can battle, bluff, and even summon the wolf to sabotage your plans! Whether you're looking for fun board games for families, unique kids games, or something new to add to your camping games or group games rotation, Little Pig Little Pig is a tale of strategy, charm, and a little mischief in every turn!"
+  },
+  "attributes": {
+    "material": "95% Paper, 5% Plastic",
+    "num_pieces": 1,
+    "whats_in_box": "(42) Tiles\n(24) Cards\n(1) Wooden Dice\n(4) Cutout Pigs\n(1) Cutout Wolf\n(162) Tokens",
+    "primary_color": "Brown",
+    "secondary_color": "Green",
+    "min_age": 8,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://i.imgur.com/5N0odBD.jpeg",
+      "https://i.imgur.com/htErWZC.jpeg",
+      "https://i.imgur.com/AUsLbG8.jpeg",
+      "https://i.imgur.com/yCFsVA8.jpeg",
+      "https://i.imgur.com/EDraSux.jpeg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 2.19,
+      "weight_unit": "lbs",
+      "length": 2.875,
+      "length_unit": "in",
+      "width": 10.6,
+      "width_unit": "in",
+      "height": 11.25,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 2.19,
+      "weight_unit": "lbs",
+      "length": 2.875,
+      "length_unit": "in",
+      "width": 10.6,
+      "width_unit": "in",
+      "height": 11.25,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 9.25,
+      "length_unit": "in",
+      "width": 21.85,
+      "width_unit": "in",
+      "height": 12.2,
+      "height_unit": "in",
+      "weight": 15.34,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": null,
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": "Box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "ERT - New Item Setup Sheet 5-27-26v2.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": 2054,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "east-river-toys"
+  }
+}

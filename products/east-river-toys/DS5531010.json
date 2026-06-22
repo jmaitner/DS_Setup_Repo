@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531010",
+  "vendor": "East River Toys",
+  "brand": "East River Toys",
+  "vendor_item_number": "HGPG1",
+  "product_name": "Catch Me Aho! Strategic Card Game – Tokyo-Inspired Cat & Mouse Game for Adults & Teens 2–6 Players Ages 16+ 20-Minute Play Time",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "674498118082"
+  },
+  "pricing": {
+    "drop_ship_cost": 21,
+    "wholesale_cost": 10,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 25
+  },
+  "sourcing": {
+    "fob_point": "Valencia, CA",
+    "country_of_origin": "China",
+    "harmonized_code": "9504.90.6000"
+  },
+  "content": {
+    "bullets": [
+      "PERFECT FOR GAME NIGHTS: Short playing time of 20 minutes and pure excitement - perfect for adults and teenagers looking for fun and challenge.",
+      "FOR STRATEGER AND REACTION: Play through the routes of the characters in your head and grab the right tiles. Concentration and speed are required",
+      "TOKYO-INSPIRED DESIGN: Immerse yourself in the world of Bōsōzoku speed tribes in Japan of the 80s. Ideal for fans of original board games.",
+      "STRATEGY AND SKILL: Ideal for anyone who enjoys brain games, clever gameplay and some competition – whoever wins in the end decides the mind and pace!",
+      "Crisp social game: \"Catch me ! Aho!\" is a clever card game for 2-6 players aged 16 and over. Perfect for friends, family and game nights."
+    ],
+    "keywords": null,
+    "description": "A mind melting game of cat-and-mouse in the streets of Tokyo.\n\n1982, somewhere in Chiba. The glittering speed tribes of Bōsōzoku and Sukeban rule the streets with an iron fist. The coppers are forced to put in tons of extra shifts in order to uphold the fragile façade of order. Each night, a relentless game of cat-and-mouse plays out on the gritty asphalt, where both sides pounce without warning.\n\nYou are the Bōsōzoku, and you will want to think ahead and mentally rehearse the routes you and the coppers will take. The next clash is inevitable; it’s only a matter of when and where chaos will erupt. If you can answer these questions with speed and precision, you’ve practically guaranteed your triumph, reducing police vehicles to nothing but worthless heaps of twisted metal fit for the scrapyard. Watch out, though! Succumb to tunnel vision, and you bleed out your life essence – and slowly but surely disappear into the depths of insignificance …"
+  },
+  "attributes": {
+    "material": "80% paper, 20% wood",
+    "num_pieces": 1,
+    "whats_in_box": "1 city ring (6-piece puzzle plan)\n90 cards (15x each with values 1 to 6)\n1 Bosozoku figure\n1 police figure\n2 dice\n15 tiles (6x Where, 6x When, 1x Vicious Circle, 2x Markers)\n1 Game instruction",
+    "primary_color": "brown",
+    "secondary_color": null,
+    "min_age": 16,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://i.imgur.com/mwTH33F.jpeg",
+      "https://imgur.com/a/3qvXcP9",
+      "https://imgur.com/a/10uaMTL",
+      "https://imgur.com/a/h2eRak5",
+      "https://imgur.com/a/KkzUQjb"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.83,
+      "weight_unit": "lbs",
+      "length": 2,
+      "length_unit": "in",
+      "width": 6,
+      "width_unit": "in",
+      "height": 5.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.83,
+      "weight_unit": "lbs",
+      "length": 2,
+      "length_unit": "in",
+      "width": 6,
+      "width_unit": "in",
+      "height": 5.5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": "12.5 x 6.5 x 6 inches",
+      "length_unit": "11.25 lbs",
+      "width": "No",
+      "width_unit": null,
+      "height": "No",
+      "height_unit": null,
+      "weight": "No",
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": null,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "ERT - New Item Setup Sheet 3-4-26.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": 2054,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "east-river-toys"
+  }
+}

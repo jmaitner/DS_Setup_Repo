@@ -45,7 +45,16 @@
   },
   "images": {
     "availability": "Yes",
-    "urls": []
+    "urls": [
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life5_1763015451.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/f50c8c23-de6c-417a-83c7-698fbc1c2e70.png",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/e912ef23-448e-4680-889c-edcb15f47a3a.png",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life1_1754543690_892109e9-3190-4331-bd49-bd292095ca97.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life2_1754543696_de303362-c066-478e-b067-34741a76aa03.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life3_1754543702_d3167d9d-28f7-4899-accd-f8754f7c9187.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life4_1754543707_45042b66-e5cc-416c-8e3a-6bb41e06657c.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/FZ-Box-084-Blue_Eyes_White_Dragon.png"
+    ]
   },
   "dimensions": {
     "item": {

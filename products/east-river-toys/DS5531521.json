@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531521",
+  "vendor": "East River Toys",
+  "brand": "Lethal Chicken Games",
+  "vendor_item_number": "LCGTT001",
+  "product_name": "Tortilla Takedown",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "659675508214"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 10.75,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 24.99
+  },
+  "sourcing": {
+    "fob_point": "Redondo Beach, CA",
+    "country_of_origin": "China",
+    "harmonized_code": "9504.90.6000"
+  },
+  "content": {
+    "bullets": [
+      "Wrestling-Themed Card Game for 3–4 Players – Slam, block, and pin your way to victory in this wildly fun luchador tabletop game.",
+      "Outrageous Mexican Food Fighters – Play as wild cards like the Taquito Twins and Espectro Elote in the ultimate food war showdown.",
+      "Perfect for Game Night or Parties – A hit with families, teens, and couples looking for fresh, funny games to spice up the evening.",
+      "Great for Travel or Camping Games – Portable, compact, and full of personality. Toss it in your bag for summer games, sleepovers, or road trips.",
+      "Unique Gift Idea – Ideal gamer gift or 6–8 year old birthday boy gift, plus a clever pick for graduation games, tween girl gifts, and joke-loving friends."
+    ],
+    "keywords": null,
+    "description": "Tortilla Takedown is a fast, funny card game of combos, counters, and churro-fueled chaos. Slam your friends, survive the pin count, and claim the champion’s belt!"
+  },
+  "attributes": {
+    "material": "90% Paper, 10% Plastic",
+    "num_pieces": 1,
+    "whats_in_box": "(25) Punchboard Tiles\n(4) Churrometers\n(1) Championship Belt\n(1) Awesome Bag\n(70) Cards\n(1) Instructions",
+    "primary_color": "Red",
+    "secondary_color": "Yellow",
+    "min_age": 8,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://i.imgur.com/rVeW1Yj.jpeg",
+      "https://i.imgur.com/DDVbfLa.jpeg",
+      "https://i.imgur.com/TrnTK5B.jpeg",
+      "https://i.imgur.com/fzTK4cI.jpeg",
+      "https://i.imgur.com/9TXpNWV.jpeg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.01,
+      "weight_unit": "lbs",
+      "length": 1.75,
+      "length_unit": "in",
+      "width": 6,
+      "width_unit": "in",
+      "height": 7.9,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.01,
+      "weight_unit": "lbs",
+      "length": 1.75,
+      "length_unit": "in",
+      "width": 6,
+      "width_unit": "in",
+      "height": 7.9,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 12,
+      "length": 11.22,
+      "length_unit": "in",
+      "width": 12.6,
+      "width_unit": "in",
+      "height": 8.66,
+      "height_unit": "in",
+      "weight": 12.74,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": null,
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": "Box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "ERT - New Item Setup Sheet 5-27-26v2.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": 2054,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "east-river-toys"
+  }
+}

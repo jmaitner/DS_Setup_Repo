@@ -45,7 +45,16 @@
   },
   "images": {
     "availability": "Yes",
-    "urls": []
+    "urls": [
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life5_1763015537.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/a46ae47e-596d-4e86-a6fe-0e23f65ec1e3.png",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/d135923e-f6cb-46f3-a335-c5f5553d13bd.png",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life1_1754543713_c5c55134-40ab-4d4e-90ec-c7c597d726f3.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life2_1754543718_8b9a9a01-241d-40d8-a6b2-a01cb46f4373.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life3_1754543723_ffdfcea9-3fb1-4051-a1fa-72729c64d77f.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life4_1754543729_6b28e73a-9589-42ce-b91a-59d8cc5ebffc.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/FZ-Box-108-Red_Eyes_Black_Dragon.png"
+    ]
   },
   "dimensions": {
     "item": {

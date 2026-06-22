@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531506",
+  "vendor": "KSM Toys",
+  "brand": "ksmtoys",
+  "vendor_item_number": "B08ZC945N8    L4211",
+  "product_name": "Lena Eco Active Excavator Toy Truck | Kids Digger Excavator for Indoor and Outdoor Play | BPA and Phthalates Free Food Grade Resin and Environmental Friendly Construction Vehicle Toy (Yellow)(11x8x6)",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "754495800125"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 5.13,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 24.95
+  },
+  "sourcing": {
+    "fob_point": "Burlington, ON",
+    "country_of_origin": "Czechia",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "DURABLE AND STURDY EXCAVATOR TRUCK: This excavator toy large is built for hauling and loading jobs. This sturdy toy excavator for kids has a moving digger arm, flip open cabin, and a rotating chassis.",
+      "REALISTIC TRUCK TOY: These tough kids excavators are built for real play and do not break easily and are realistic. it’s just like being on a real construction site.",
+      "GREAT OUTDOOR AND INDOOR TOYS: These sandbox trucks are perfect for both outdoor and indoor play for kids, These construction vehicles are ideal toddler toys",
+      "SAFE AND QUALITY: Our excavator toy for toddlers is made up of high-quality food-grade resin and wooden using environmentally friendly materials and does not contain BPA or phthalates to ensure endless hours of fun and safe for your child. We recommend the use of water or mild soap to clean this toy. This toy is dishwasher safe",
+      "NO BATTERIES REQUIRED: Great birthday gift for any kid, take out of the box and ready to play no battery needed"
+    ],
+    "keywords": "excavator toy kids for green toys construction outdoor sandbox sand trucks digger eco frendly pretend cars sets truck boys girls play yellow toddler freewheel safe set vehicles plastic mower dumper front loader backhoe baby diecast toddlers jumbo plush",
+    "description": "At ksmtoys we want to keep our planet clean and healthy. We make our toys using high quality, food-grade resin and we do not promote the use of electronic features in our toys. Our products are designed with a decrease in plastic consumption in mind. The resin we use is infused with an environmentally friendly additive that helps it to disintegrate into the soil. It is also treated with UV filters to prevent fading of colors. Lena Toys are durable, child-friendly, and absolutely safe. All our vehicles are fully equipped with easy grab handles and off-road wheels with wheeling chassis, making them easy to push over any terrain and feature an easy flip open cabin with space for a small driver. Vehicles are suitable for indoor and outdoor use. Lena Active Vehicles make superb educational toys for toddlers and preschool-age children and are safe for institutional use. Our toys will increase your child’s creativity, helping stimulate their imagination while encouraging hand-eye coordination and encourage group play, helping your child to effectively learn and develop their social and communication skills. Most importantly, Lena Active Vehicles will provide children with hours of dirt pile and sandbox fun, digging, loading, hauling, and lifting! Collect all 3 Lena Active Toys and have loads of fun! Our Eco Active Range consists of: The Active Front Loader is the groups’ heavy lifter with a double grip handle, moving lift container and flip open cabin. The Active Dump Truck has a push lever, flip open cabin and swing back container that makes the mechanical dumping action fun and super easy. The Active Excavator has grab handles, a moving digger arm and a rotating chassis that makes scooping and digging fun and easy. Recommended for ages 2+ Made in Czech Republic, EU. We offer a 3-year extended ."
+  },
+  "attributes": {
+    "material": "Plastic (Polyethylene)",
+    "num_pieces": 1,
+    "whats_in_box": "1 Toy Truck",
+    "primary_color": "Yellow",
+    "secondary_color": "Black",
+    "min_age": 24,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/71AnHsFoigL.jpg",
+      "https://m.media-amazon.com/images/I/71K+WZ7g9bL.jpg",
+      "https://m.media-amazon.com/images/I/916yfu1uSIL.jpg",
+      "https://m.media-amazon.com/images/I/910JCFWN8bL.jpg",
+      "https://m.media-amazon.com/images/I/71QQlPENe3L.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.97,
+      "weight_unit": "lbs",
+      "length": 14,
+      "length_unit": "inch",
+      "width": 6,
+      "width_unit": "inch",
+      "height": 8,
+      "height_unit": "inch"
+    },
+    "package": {
+      "weight": 1,
+      "weight_unit": "lbs",
+      "length": 14.5,
+      "length_unit": "inch",
+      "width": 6,
+      "width_unit": "inch",
+      "height": 8,
+      "height_unit": "inch"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 15.5,
+      "length_unit": "in",
+      "width": 15.5,
+      "width_unit": "in",
+      "height": 16,
+      "height_unit": "in",
+      "weight": 8,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: CHOKING HAZARD--Small parts. Not intended for children under 3 yrs",
+    "lead_phthalates": "no_warning_applicable",
+    "warranty_included": "Yes",
+    "warranty_desc": "1 year warranty against manufacturer defects",
+    "batteries_required": "No",
+    "batteries_included": "No",
+    "battery_cell_comp": "No",
+    "battery_type_qty": "No",
+    "packaging_type": "display box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2026 DS KsmToys Online Data.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": null,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "ksm-toys"
+  }
+}

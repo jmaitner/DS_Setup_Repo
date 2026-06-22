@@ -1,0 +1,118 @@
+{
+  "ds_number": "5529928",
+  "vendor": "KSM Toys",
+  "brand": "ksmtoys",
+  "vendor_item_number": "B09XRG5WP6   RE0123",
+  "product_name": "Toy Instruments Set Trumpet, Saxophone and Clarient with Standard Keys in Perfect Pitch are Easy and intuitive to Create Real Music. Instruments Measures 16 inches in Length.",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "727431736925"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 12.65,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 49.95
+  },
+  "sourcing": {
+    "fob_point": "Burlington, ON",
+    "country_of_origin": "Spain",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "TOY Instrument Set consists of Toy Clarinet, Saxophone, and Trumpet with standard keys in perfect pitch that are easy and intuitive to use while creating genuine music. Instrument measures 16 inches in length.",
+      "START PLAYING TODAY! These musical instruments are the perfect toy instruments to get your child playing! With standard keys that produce real sound. Toy Instruments are READY to play straight out of the box.",
+      "LEARN HOW TO PLAY! Your children will quickly learn to play their first songs with these wind instruments! Watch their faces glow as they develop their music skills.",
+      "MADE IN SPAIN from premium prime plastic BPA-free resin in a shiny silver finish. Our instrument will remain in perfect pitch as we use real trumpet springs to prevent keyhole air leakage.",
+      "MAKES A GREAT GIFT Perfect gift for an aspiring music lover! Ages 3+. Comes in a beautiful box."
+    ],
+    "keywords": "Trumpet toy kids for ages play 5-9 baby toddler plastic that works 3-5 children click and clarinet saxophone horn instrument little large mini music toys 2-year-old realistic small musical instruments first",
+    "description": "At KsmToys we have put so much effort into introducing this incredible new musical instrument line we are so proud of! Here's why you should encourage your child to play a musical instrument: Research has found that learning music facilitates learning other subjects and enhances skills children inevitably use in other areas. A study by E. Glenn Schellenberg at the University of Toronto at Mississauga, as published in a 2004 issue of Psychological Science, found an increase in the child's IQ. Research indicates the brain of a musician, even a young one, works differently than that of a nonmusician. Children involved in music have significantly more growth of neural activity than people not in music training. \" When you're a musician, and you're playing an instrument, you have to be using more of your brain,\" says Dr. Eric Rasmussen of The Johns Hopkins University. Research has also found a causal link between music and spatial intelligence. Understanding music can help children visualize elements that should go together as they would do when solving a math problem. And most importantly, MUSIC JUST MAKES YOU HAPPY!"
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": 3,
+    "whats_in_box": "Toy trumpet, Toy  Saxophone, Toy Clarinet",
+    "primary_color": "Silver",
+    "secondary_color": "Black",
+    "min_age": 36,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/910veUvbsML.jpg",
+      "https://m.media-amazon.com/images/I/A1oqE2UHp1L.jpg",
+      "https://m.media-amazon.com/images/I/71uDFNQJ8cL.jpg",
+      "https://m.https://m.media-amazon.com/images/I/71uDFNQJ8cL.jpgmedia-amazon.com/images/I/71uDFNQJ8cL.jpg",
+      "https://m.media-amazon.com/images/I/819iucsWm7L.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.1508,
+      "weight_unit": "lbs",
+      "length": 16,
+      "length_unit": "inch",
+      "width": 8,
+      "width_unit": "inch",
+      "height": 5,
+      "height_unit": "inch"
+    },
+    "package": {
+      "weight": 1,
+      "weight_unit": "lbs",
+      "length": 16,
+      "length_unit": "inch",
+      "width": 8,
+      "width_unit": "inch",
+      "height": 5,
+      "height_unit": "inch"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 18.5,
+      "length_unit": "in",
+      "width": 14,
+      "width_unit": "in",
+      "height": 7.5,
+      "height_unit": "in",
+      "weight": 12,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: CHOKING HAZARD--Small parts. Not intended for children under 3 yrs",
+    "lead_phthalates": "no_warning_applicable",
+    "warranty_included": "Yes",
+    "warranty_desc": "1 year agains all defects in manufacuring and or materials",
+    "batteries_required": "No",
+    "batteries_included": "No",
+    "battery_cell_comp": "No",
+    "battery_type_qty": "No",
+    "packaging_type": "display box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2026 DS KsmToys Online Data.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": null,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "ksm-toys"
+  }
+}

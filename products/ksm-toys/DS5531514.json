@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531514",
+  "vendor": "KSM Toys",
+  "brand": "Grip & Tricks",
+  "vendor_item_number": "B07KFR4ZWK   ET XS-14",
+  "product_name": "Grip & Tricks Mini Pro Skate Park X-TREM Rider Shop Set | Mini Skatepark for Fingers with Halfpipe Ramp & Skateboard Toys Set | Finger Toys BMX for Xtreme Sports Tricks & Stunts | (Multicolored)",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "754495801948"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 16.4,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 49.95
+  },
+  "sourcing": {
+    "fob_point": "Burlington, ON",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "COMPLETE MINI SKATE PARK SET – Bring the skatepark home with the Grip & Tricks X-TREM Rider Shop Set, featuring ramps and mini finger toys for action-packed indoor play.",
+      "MULTI-SPORT FINGER TOYS INCLUDED – Comes with a fun mix of finger skateboard, scooter, BMX, inline skates, and ramp pieces so kids can create their own trick combinations.",
+      "PERFECT FOR TRICKS & STUNTS – Designed for grinding, jumping, sliding, and practicing creative fingerboard-style tricks just like an Xtreme sports rider.",
+      "CUSTOMIZABLE RIDER SHOP FUN – Kids can build, arrange, and customize their mini skatepark layout for fresh challenges, imaginative play, and endless trick possibilities.",
+      "MANUAL PLAY, NO BATTERIES NEEDED – A compact, multicoloured indoor toy set made for hands-on play, helping encourage creativity, coordination, and active imagination."
+    ],
+    "keywords": "finger skateboard, finger skatepark, mini skatepark, finger toys, mini skateboard toy, skateboard ramp toy, fingerboard ramp, fingerboard skatepark, halfpipe ramp toy, stunt ramp toy, mini ramp set, toy skate park, BMX finger toy, finger BMX bike, finger scooter toy, finger inline skates, extreme sports toys, Xtreme sports toy, trick toys, stunt toys, skateboard toys for kids, ramp toys for kids, boys toy skatepark, indoor play toys, mini sports toys, collectible finger toys, pretend play skatepark, action sports toys, portable skatepark toy, small hand toys, coordination toys, creative play toys, birthday gift for kids, party gift toys, multicolor toy set",
+    "description": "Discover an exciting range of finger toys with Grip&Tricks Mini Pro! Our collection includes miniature versions of scooters, skateboards, snowboards, skis, inline roller skates, BMX bikes, and ramps, all designed with durable PVC and die-cast trucks that allow you to grind on any surface. Our sets come complete with extra wheels, trucks, stickers, and miniature screwdrivers so you can customize and switch up your finger toy to your heart's content. Don't forget to explore our other Grip and Tricks Mini Pro products like BMX bikes, scooters, snowboards, and in-line skates to build your very own private stunt skate park! We take safety seriously, which is why all of our products undergo rigorous quality inspections and meet CE EN and ASTM toy safety standards, as well as comply with the product safety regulations established by the Consumer Product Safety Commission (CPSC). Our sets even include finger pants, so you can look like you have miniature legs as you perform thrilling tricks with our toys. Designed to comfortably fit kids' fingers, our toys offer limitless opportunities for creativity and hours of playtime. Join our family and discover a world of fun with Grip&Tricks Mini Pro!"
+  },
+  "attributes": {
+    "material": "Metal, Plastic",
+    "num_pieces": 22,
+    "whats_in_box": "1 halfpipe with rails, 1 Board Display, 1 Finger rollerblades, Finger pants, longboard, pennyboard, BMX, Scooter, Box of tools, extra wheels, stickers",
+    "primary_color": "Black",
+    "secondary_color": "Grey",
+    "min_age": 36,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/6194XtzyadL.jpg",
+      "https://m.media-amazon.com/images/I/919fdpLKXAL.jpg",
+      "https://m.media-amazon.com/images/I/61LRACvw86L.jpg",
+      "https://m.media-amazon.com/images/I/81V5gEpSuYL.jpg",
+      "https://m.media-amazon.com/images/I/919zTLVIJOL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.6755,
+      "weight_unit": "lbs",
+      "length": 13,
+      "length_unit": "inch",
+      "width": 6.5,
+      "width_unit": "inch",
+      "height": 10.5,
+      "height_unit": "inch"
+    },
+    "package": {
+      "weight": 1.5,
+      "weight_unit": "lbs",
+      "length": 13,
+      "length_unit": "inch",
+      "width": 6.5,
+      "width_unit": "inch",
+      "height": 10.5,
+      "height_unit": "inch"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 19.5,
+      "length_unit": "in",
+      "width": 14,
+      "width_unit": "in",
+      "height": 22,
+      "height_unit": "in",
+      "weight": 19,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: CHOKING HAZARD--Small parts. Not intended for children under 3 yrs",
+    "lead_phthalates": "no_warning_applicable",
+    "warranty_included": "Yes",
+    "warranty_desc": "1 year warranty against manufacturer defects",
+    "batteries_required": "No",
+    "batteries_included": "No",
+    "battery_cell_comp": "No",
+    "battery_type_qty": "No",
+    "packaging_type": "display box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2026 DS KsmToys Online Data.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": null,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "ksm-toys"
+  }
+}

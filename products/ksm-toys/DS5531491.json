@@ -1,0 +1,117 @@
+{
+  "ds_number": "5531491",
+  "vendor": "KSM Toys",
+  "brand": "Lena",
+  "vendor_item_number": "B007JTFMX0   B22120",
+  "product_name": "Lena 52120 tin Toys Panorama Ø19 cm, Plastic Humming, Classical Pump Mechanism, Musical Locomotive, Stand, Spinning top for Children from 18 Months, Colourful",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "4006942130399"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 12.65,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 49.95
+  },
+  "sourcing": {
+    "fob_point": "Burlington, ON",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "IMPROVES FINE MOTOR SKILLS: Encourages children to pump the spinning top and watch and hear the train roar along its track.",
+      "EXCITING TRAIN SOUNDS: As it spins, the Train Spinning Top Toy makes CHOO CHOO train sounds. Hear the railway crossing sound and see the crossing opening and closing as the train zooms around and around.",
+      "PERFECT FOR ALL AGES: Scaled for small hands: perfectly sized so it's easy to grasp, grab, hold, and whirl.",
+      "EASY TO USE: Simply grip the handle and twist to start the spinning, The soft plastic suction cup base keeps it in place so it won’t mark surfaces.",
+      "HIGH-QUALITY: Made from high-quality plastics and tin from verified sources, this classic spinning top is durable and built to last."
+    ],
+    "keywords": "Classic train steam engine spinning metal tin top Maro bolz house of marbles vibe toy multicolored 70s toy game school eco-friendly imagination.Real Action and Sounds when the top spins.",
+    "description": "Our tops originate from the German tradition of BOLZ toys. The spinning tops, music boxes, and drums in the nostalgic tin are all crafted with attention to detail in a tradition going back to 1880. KsmToys spinning tops unite high demands in terms of tradition & quality with contemporary colors and attractive motives for children and provide endless hours of fun. Our designs are one of the OLDEST toy styles in the world. The cute tin spinning tops open up fascinating worlds of color and sound for children 18 months and older. When the top is spun, the child-friendly motives blur into a sea of colors and shapes. The polyphonic melodies quickly captivate children. BOLZ tradition and KsmToys Spinning Tops create a fascinating world of play without limits."
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": 1,
+    "whats_in_box": "Toy Spinning Top",
+    "primary_color": "Red",
+    "secondary_color": null,
+    "min_age": 36,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/81Z74VWxRcL.jpg",
+      "https://m.media-amazon.com/images/I/81Wf8jCjTkL.jpg",
+      "https://m.media-amazon.com/images/I/61jrCK5FU8L.jpg",
+      "https://m.media-amazon.com/images/I/51Gsz3HZIdL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 2.1605,
+      "weight_unit": "lbs",
+      "length": 9.5,
+      "length_unit": "inch",
+      "width": 8,
+      "width_unit": "inch",
+      "height": 8,
+      "height_unit": "inch"
+    },
+    "package": {
+      "weight": 1,
+      "weight_unit": "lbs",
+      "length": 9.5,
+      "length_unit": "inch",
+      "width": 8,
+      "width_unit": "inch",
+      "height": 8,
+      "height_unit": "inch"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 19,
+      "length_unit": "in",
+      "width": 8,
+      "width_unit": "in",
+      "height": 24,
+      "height_unit": "in",
+      "weight": 10,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: CHOKING HAZARD--Small parts. Not intended for children under 3 yrs",
+    "lead_phthalates": "no_warning_applicable",
+    "warranty_included": "Yes",
+    "warranty_desc": "1 year warranty against manufacturer defects",
+    "batteries_required": "Yes",
+    "batteries_included": "yes",
+    "battery_cell_comp": "Alkaline",
+    "battery_type_qty": "2 x AA Batteries",
+    "packaging_type": "display box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2026 DS KsmToys Online Data.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": null,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "ksm-toys"
+  }
+}

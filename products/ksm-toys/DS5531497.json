@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531497",
+  "vendor": "KSM Toys",
+  "brand": "ksmtoys",
+  "vendor_item_number": "B09HLC1MG8   B52304",
+  "product_name": "Classic Music Box Spinning Tin Top Toy from KsmToys by Bolz. The Funny Buzzing Hum Gets Louder As The Top Spins Faster, 7.5\" x 7.5\" x 7.5\" Ages 18 m+",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "727431734877"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 3.52,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 21.95
+  },
+  "sourcing": {
+    "fob_point": "Burlington, ON",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "IMPROVES FINE MOTOR SKILLS: No batteries needed; this toy encourages children to manipulate the speed of the spinning top which trains your child’s fine motor skills",
+      "SUBTLE HUMMING TUNE: As it spins, Musical Box Spinning Top Toy makes a light humming melody that gets louder the faster it spins.",
+      "PERFECT FOR ALL AGES: At 6-Inch tall and 6-Inch wide, it is the perfect size for the tiny hands of a toddler.",
+      "EASY TO USE: Simply grip the red tip and twist to start the spinning, the soft plastic gripper base keeps it in place, so it will not mark surfaces.",
+      "HIGH-QUALITY TIN: Made with high quality tin and plastic, this spinning top toy is durable and built to last."
+    ],
+    "keywords": "Classic train steam engine spinning metal tin top vibe toy \"Bolz Playbox Music Spinning Top Toy for Children, The Funny Buzzing Hum Gets Louder As The Top Spins Faster, So Durable \"",
+    "description": "Our tops originate from the German tradition of BOLZ toys. The spinning tops, music boxes, and drums in the nostalgic tin are all crafted with attention to detail in a tradition going back to 1880. KsmToys spinning tops unite high demands in terms of tradition & quality with contemporary colors and attractive motives for children and provide endless hours of fun. Our designs are one of the OLDEST toy styles in the world. The cute tin spinning tops open up fascinating worlds of color and sound for children 18 months and older. When the top is spun, the child-friendly motives blur into a sea of colors and shapes. The polyphonic melodies quickly captivate children. BOLZ tradition and KsmToys Spinning Tops create a fascinating world of play without limits."
+  },
+  "attributes": {
+    "material": "Tin",
+    "num_pieces": 1,
+    "whats_in_box": "Toy Spinning Top",
+    "primary_color": "White",
+    "secondary_color": "Red",
+    "min_age": 36,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/71XRrXcTXCL.jpg",
+      "https://m.media-amazon.com/images/I/51IppUiN8ZL.jpg",
+      "https://m.media-amazon.com/images/I/71PHazeGzrL.jpg",
+      "https://m.media-amazon.com/images/I/51eguQRo+BL.jpg",
+      "https://m.media-amazon.com/images/I/81DyWkcVtEL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.6393,
+      "weight_unit": "lbs",
+      "length": 7.5,
+      "length_unit": "inch",
+      "width": 7.5,
+      "width_unit": "inch",
+      "height": 7.5,
+      "height_unit": "inch"
+    },
+    "package": {
+      "weight": 0.8,
+      "weight_unit": "lbs",
+      "length": 7.5,
+      "length_unit": "inch",
+      "width": 7.5,
+      "width_unit": "inch",
+      "height": 7.5,
+      "height_unit": "inch"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 15,
+      "length_unit": "in",
+      "width": 7.5,
+      "width_unit": "in",
+      "height": 22.5,
+      "height_unit": "in",
+      "weight": 7,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: CHOKING HAZARD--Small parts. Not intended for children under 3 yrs",
+    "lead_phthalates": "no_warning_applicable",
+    "warranty_included": "Yes",
+    "warranty_desc": "1 year warranty against manufacturer defects",
+    "batteries_required": "No",
+    "batteries_included": "No",
+    "battery_cell_comp": "No",
+    "battery_type_qty": "No",
+    "packaging_type": "display box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2026 DS KsmToys Online Data.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": null,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "ksm-toys"
+  }
+}

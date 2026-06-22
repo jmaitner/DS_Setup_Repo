@@ -45,7 +45,12 @@
   },
   "images": {
     "availability": "Yes",
-    "urls": []
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582874/bladez-toyz/2026/BTHW-M11/BTHWM11_Pack_Front.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582876/bladez-toyz/2026/BTHW-M11/BTHWM11_Product_All%20Cars.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582879/bladez-toyz/2026/BTHW-M11/BTHWM11_Product_Rodger%20Dodger.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582883/bladez-toyz/2026/BTHW-M11/BTHWM11_Product_Supervan.jpg"
+    ]
   },
   "dimensions": {
     "item": {

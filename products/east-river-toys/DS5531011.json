@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531011",
+  "vendor": "East River Toys",
+  "brand": "East River Toys",
+  "vendor_item_number": "HGPG3",
+  "product_name": "Dan Dan Dan Reaction Card Game – Tekiya-Inspired Analog Showdown Game 2–4 Players Ages 14+ Includes Limited Edition Pendant",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "674498119126"
+  },
+  "pricing": {
+    "drop_ship_cost": 21,
+    "wholesale_cost": 10,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 25
+  },
+  "sourcing": {
+    "fob_point": "Valencia, CA",
+    "country_of_origin": "China",
+    "harmonized_code": "9504.90.6000"
+  },
+  "content": {
+    "bullets": [
+      "UNIQUE GAMEPLAY Immerse yourself in the world of Tekiya and experience a captivating analog reaction ball game for 2 to 4 players aged 14 and up.",
+      "Contents: The game contains 174 ball cards, a toy figure (bullerist), a game instructions in German and English (French and Spanish digitally available via QR code), a limited edition revenge fish pendant and a hand-signed postcard limited for this game.",
+      "ABSTRUSE SPECIAL CARDS - Light up the fire with a variety of special cards that provide surprises and laughs and keep the fun along.",
+      "Game information: suitable for players aged 14 and up, with a playing time of about 20 minutes per round and for 2-4 players",
+      "An analogue Darwinian reaction ball game."
+    ],
+    "keywords": null,
+    "description": "Ichien san of the kakigori stall claims to make the best shaved ice, while all the other guys merely hawk inferior crap. Man, that means trouble! Anyone who publicly puts himself above the others is breaking law and order. No Tekiya will ignore that.\nBut should you make a snitch out of yourself at the Oyabun and in the worst case lose your finger, Yubitsume style? No way! Breaking taboos is something you only do among yourselves – in an ominous corner of the park. And then, then, then it‘s dan ... dan ... dan (ダンダンダン)!! Which in our simple translation means „Bang, bang, bang!“. Here’s the good thing: Whoever survives the shootout of the gun toting brawlers will have a few more food stalls in the near future.\n \nQuickly and in turn, you turn over cards from your own stack and place them face up in the centre of the table. There, a full arsenal\nof handguns accumulates. Every time a loaded gun is pointed at two of you with its grip and barrel, a shootout takes place. If you are shot – or make a mistake beforehand – you are punished and must take all the cards from the centre of the table. You grease the police with the top card, the rest go face down under your stack. Then you continue the game by turning over a new card. And on it goes... The first player who has no cards left, wins the game.\n\nIn addition, various abstruse special cards fuel future game rounds and keep the game challenging. What more could you wish for?"
+  },
+  "attributes": {
+    "material": "100% paper",
+    "num_pieces": 1,
+    "whats_in_box": "174 action cards: 84 standard cards , 80 special cards and 10 relating instruction cards\n1 Copper\nGame instructions",
+    "primary_color": "brown",
+    "secondary_color": null,
+    "min_age": 14,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://i.imgur.com/xZ7Tfku.jpeg",
+      "https://imgur.com/a/xKwIXqx",
+      "https://imgur.com/a/50ohGYt",
+      "https://imgur.com/a/R7JCWhY",
+      "https://imgur.com/a/9Jhb0Xx"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.83,
+      "weight_unit": "lbs",
+      "length": 2,
+      "length_unit": "in",
+      "width": 6,
+      "width_unit": "in",
+      "height": 5.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.83,
+      "weight_unit": "lbs",
+      "length": 2,
+      "length_unit": "in",
+      "width": 6,
+      "width_unit": "in",
+      "height": 5.5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": "12.5 x 6.5 x 6 inches",
+      "length_unit": "11.25 lbs",
+      "width": "No",
+      "width_unit": null,
+      "height": "No",
+      "height_unit": null,
+      "weight": "No",
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": null,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "ERT - New Item Setup Sheet 3-4-26.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": 2054,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "east-river-toys"
+  }
+}

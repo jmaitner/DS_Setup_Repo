@@ -45,7 +45,12 @@
   },
   "images": {
     "availability": "Yes",
-    "urls": []
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582751/bladez-toyz/2026/BTHP-C09/BTHPC09_Lifestyle.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582754/bladez-toyz/2026/BTHP-C09/BTHPC09_Lifestyle_2.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582756/bladez-toyz/2026/BTHP-C09/BTHPC09_Pack.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582758/bladez-toyz/2026/BTHP-C09/BTHPC09_Pack_Front.jpg"
+    ]
   },
   "dimensions": {
     "item": {

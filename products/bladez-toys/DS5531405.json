@@ -45,7 +45,12 @@
   },
   "images": {
     "availability": "Yes",
-    "urls": []
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582667/bladez-toyz/2026/BT30029/BT30029_B_Action.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582669/bladez-toyz/2026/BT30029/BT30029_B_Pack.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582671/bladez-toyz/2026/BT30029/BT30029_B_Prodict_2.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582673/bladez-toyz/2026/BT30029/BT30029_B_Product_1.jpg"
+    ]
   },
   "dimensions": {
     "item": {

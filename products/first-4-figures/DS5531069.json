@@ -45,7 +45,16 @@
   },
   "images": {
     "availability": "Yes",
-    "urls": []
+    "urls": [
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life5_1763015476.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/b26d8c8b-c19c-4ca6-8707-4ff8f9303119.png",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/8021f8b4-ab7e-4788-bf7e-4d56da89d8d6.png",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life1_1754543690_439b427b-5d79-4d8f-80bb-470d0985a8ed.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life2_1754543696_3b609297-afd0-4b68-94db-9e89009bed12.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life3_1754543702_6ff808a2-0898-4fb8-88f9-f60ae5d8ad64.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/life4_1754543707_d551c153-5242-4275-8ba3-a10fc7f44bbf.jpg",
+      "https://cdn.shopify.com/s/files/1/0705/3656/0883/files/FZ-Box-006-Dark_Magician.png"
+    ]
   },
   "dimensions": {
     "item": {

@@ -1,0 +1,112 @@
+{
+  "ds_number": "5531518",
+  "vendor": "KSM Toys",
+  "brand": "Grip & Tricks",
+  "vendor_item_number": "B012OG8CYI     ET RAMP-BOX",
+  "product_name": "RAMPS FOR FINGER SKATE - FUNBOX AND STAIRS - Fingerboard - Penny Board : Dimensions: 28 X 12 X 10 cm",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "3701055401411"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 8.7,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 29.95
+  },
+  "sourcing": {
+    "fob_point": "Burlington, ON",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "COMPLETE MINI SKATE PARK SET – Bring the skatepark home with the Grip & Tricks X-FUNBOX Set, featuring ramps and mini finger toys for action-packed indoor play.",
+      "Set includes a ramp, staircase with rails and skateboard complete with extra wheels, stickers and tools to customize your board with new colorways and designs!",
+      "Encourages young children to think creatively and improves fine motor skills. Also develops social skills while playing with friends!",
+      "FINGER TOYS FOR FUN: You can put the cute mini pants on your fingers and play the bicycle with your fingers, which will be very interesting; Whether at home or outdoors, you can use this finger scooter set as you wish without worrying about being hurt.",
+      "Recommended for skateboard enthusiasts ages 3+"
+    ],
+    "keywords": "finger skateboard skate ramp set fingerboard rails skatepark scooter mini board accesories park rail bowl skateboards boarding shoes ramps boxes half pipe bmx toys bike scooters grip fingerset teenager pro tricks starter professional real staircase",
+    "description": "Grip & Tricks Mini Pro\n\nBuild your own mini skatepark and start landing big tricks at your fingertips. This set includes a ramp, staircase with rails, and a mini skateboard, giving kids everything they need to ride, grind, and customize like a true pro.\n\nThe mini boards are built with strong PVC and die-cast trucks for durable stunt play, while the included extra wheels, trucks, stickers, and installation tools let you switch up your setup and personalize your ride. Pair it with other Grip & Tricks Mini Pro sets, including scooters, BMX bikes, snowboards, and inline skates, to create your own private stunt park.\n\nAll Grip & Tricks products undergo safety and quality inspections and meet CE, EN, and ASTM toy safety standards, in accordance with Consumer Product Safety Commission guidelines."
+  },
+  "attributes": {
+    "material": "Metal, Plastic",
+    "num_pieces": 12,
+    "whats_in_box": "full set",
+    "primary_color": "gray",
+    "secondary_color": "multicolor",
+    "min_age": 36,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "yes",
+    "urls": []
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.6614,
+      "weight_unit": "lbs",
+      "length": 11,
+      "length_unit": "inch",
+      "width": 5,
+      "width_unit": "inch",
+      "height": 4,
+      "height_unit": "inch"
+    },
+    "package": {
+      "weight": 1,
+      "weight_unit": "lbs",
+      "length": 12,
+      "length_unit": "inch",
+      "width": 24,
+      "width_unit": "inch",
+      "height": 10,
+      "height_unit": "inch"
+    },
+    "master_case": {
+      "case_qty": 12,
+      "length": 19.5,
+      "length_unit": "in",
+      "width": 11,
+      "width_unit": "in",
+      "height": 18,
+      "height_unit": "in",
+      "weight": 14,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: CHOKING HAZARD--Small parts. Not intended for children under 3 yrs",
+    "lead_phthalates": "no_warning_applicable",
+    "warranty_included": "Yes",
+    "warranty_desc": "2 year warranty against manufacturer defects",
+    "batteries_required": "No",
+    "batteries_included": "No",
+    "battery_cell_comp": "No",
+    "battery_type_qty": "No",
+    "packaging_type": "display box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2026 DS KsmToys Online Data.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": null,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "ksm-toys"
+  }
+}

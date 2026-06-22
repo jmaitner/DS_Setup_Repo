@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531507",
+  "vendor": "KSM Toys",
+  "brand": "ksmtoys",
+  "vendor_item_number": "L 4610",
+  "product_name": "Ksmtoys Lena Licensed MercedesACTROS Dump Truck, Red, Silver and Black, 1:15 Scale Model",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "727431734365"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 13.5,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 49.99
+  },
+  "sourcing": {
+    "fob_point": "Burlington, ON",
+    "country_of_origin": "Czechia",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "REALISTIC FEATURES & FUNCTIONALITY: The product is a licensed 1:15 scale modelof the real Mercedes-Benz Artros Dump Truck",
+      "PLAY FEATURES: Transport cargo such as sand, dirt and gravel and unload with the flip up truck bed",
+      "ROBUST DESIGN: Galvanized steel axles and UV protection to prevent fading",
+      "EDUCATIONAL VALUE: Stimulates imagination while encouraging hand-eye coordination",
+      "AGE RECOMMENDATION: Recommended for ages 3+"
+    ],
+    "keywords": "truck dump toy toys red boys trucks for girls large play vehicle construction eco free dumper monster toddler lena safe green vehicles infant indoor outdoor phthalate bpa friendly model big giant black silver sand mini 3 year old",
+    "description": "At Lena we want to keep our planet clean and healthy. We make our toys using high quality, food grade resin and we do not promote the use of electronic features in our toys. Our products are designed with a decrease in plastic consumption in mind. The resin we use is infused with an environmentally friendly additive that helps it to disintegrate into the soil. It is also treated with UV filters to prevent fading ofcolours. Lena Toys are durable, child-friendly and absolutely safe. All our vehicles are fully equipped with off-road wheels with freewheeling chassis, making them easy to push over any terrain. This front loader truck can lift and lower items and is even strong enough to be used as a ride on toy! Suitable for indoor and outdoor use. Lena Vehicles make superb educational toys for toddlers and preschool age children and are safe for institutional use. Our toys will increase your child’s creativity, helping stimulate their imagination while encouraging hand-eye coordination and encourage group play, helping your child to effectively learn and develop their social and communication skills. Most importantly, Lena Vehicles will provide children with hours of dirt pile and sandbox fun, digging, loading, hauling and lifting! Recommended for ages 3+ Made in Czech Republic, EU We offer a 3 year extended warranty."
+  },
+  "attributes": {
+    "material": "Plastic (Polyethylene)",
+    "num_pieces": 1,
+    "whats_in_box": "1 Toy Truck",
+    "primary_color": "Red",
+    "secondary_color": "Grey",
+    "min_age": 36,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/61opnPwJd7L.jpg",
+      "https://m.media-amazon.com/images/I/71dLKPkjW8L.jpg",
+      "https://m.media-amazon.com/images/I/6143l3o02gL.jpg",
+      "https://m.media-amazon.com/images/I/61TAr9HD1tL.jpg",
+      "https://m.media-amazon.com/images/I/81JMg8jFXWL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 3.8801,
+      "weight_unit": "lbs",
+      "length": 19.5,
+      "length_unit": "inch",
+      "width": 8,
+      "width_unit": "inch",
+      "height": 9.5,
+      "height_unit": "inch"
+    },
+    "package": {
+      "weight": 4,
+      "weight_unit": "lbs",
+      "length": 19.5,
+      "length_unit": "inch",
+      "width": 8,
+      "width_unit": "inch",
+      "height": 9.5,
+      "height_unit": "inch"
+    },
+    "master_case": {
+      "case_qty": 2,
+      "length": 20,
+      "length_unit": "in",
+      "width": 16,
+      "width_unit": "in",
+      "height": 20,
+      "height_unit": "in",
+      "weight": 15,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: CHOKING HAZARD--Small parts. Not intended for children under 3 yrs",
+    "lead_phthalates": "no_warning_applicable",
+    "warranty_included": "Yes",
+    "warranty_desc": "1 year warranty against manufacturer defects",
+    "batteries_required": "No",
+    "batteries_included": "No",
+    "battery_cell_comp": "No",
+    "battery_type_qty": "No",
+    "packaging_type": "display box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2026 DS KsmToys Online Data.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": null,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "ksm-toys"
+  }
+}

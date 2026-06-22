@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531520",
+  "vendor": "East River Toys",
+  "brand": "Lethal Chicken Games",
+  "vendor_item_number": "LCGWUYB001",
+  "product_name": "What's Under Your Bed?",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "659675511672"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 5,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 11.99
+  },
+  "sourcing": {
+    "fob_point": "Redondo Beach, CA",
+    "country_of_origin": "China",
+    "harmonized_code": "9504.90.6000"
+  },
+  "content": {
+    "bullets": [
+      "Hilarious Matching: Enjoy a monster matching game with stacking and stealing mechanics that keeps players engaged and on edge.",
+      "Versatile Entertainment: Perfect for Halloween parties, family game nights, or any occasion requiring a creepy and fun card game.",
+      "Portable Design: This compact and travel-friendly card game fits easily in a bag, making it ideal for camping, road trips, or car games.",
+      "Engaging Gameplay: Features easy-to-learn rules that keep kids, teens, and adults entertained with fast rounds and sneaky strategy.",
+      "Premium Packaging: Comes in premium packaging with a pullout drawer, satin tab, embossed details, and a glossy logo for enhanced enjoyment."
+    ],
+    "keywords": null,
+    "description": "Dive into the monster madness with the Lethal Chicken Games What's Under Your Bed? Card Game! This hilarious matching game challenges players to build the biggest pile of creepy creatures by playing cards that match the monsters on the table. With simple rules, fast rounds, and a bit of sneaky strategy, it's the perfect addition to your next game night, family gathering, or camping trip. Compact and travel-friendly, this monster-themed card game is great for kids, teens, and adults alike, delivering big fun without breaking the bank. Whether you're at home or on the go, get ready for monstrous laughs and unpredictable, take-that-style gameplay that will keep everyone on the edge of their seats."
+  },
+  "attributes": {
+    "material": "95% Paper, 5% Polyester",
+    "num_pieces": 1,
+    "whats_in_box": "(2) Instruction Cards\n(2) Monster Stickers\n(84) Cards",
+    "primary_color": "Purple",
+    "secondary_color": "Blue",
+    "min_age": 4,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://i.imgur.com/i8g3U5P.jpeg",
+      "https://i.imgur.com/FqDy5Ir.jpeg",
+      "https://i.imgur.com/tVWc0Jw.jpeg",
+      "https://i.imgur.com/KnjNpMk.jpeg",
+      "https://i.imgur.com/SKSUhLM.jpeg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.43,
+      "weight_unit": "lbs",
+      "length": 1.45,
+      "length_unit": "in",
+      "width": 2.875,
+      "width_unit": "in",
+      "height": 3.9,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.43,
+      "weight_unit": "lbs",
+      "length": 1.45,
+      "length_unit": "in",
+      "width": 2.875,
+      "width_unit": "in",
+      "height": 3.9,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 24,
+      "length": 8.66,
+      "length_unit": "in",
+      "width": 12,
+      "width_unit": "in",
+      "height": 4.13,
+      "height_unit": "in",
+      "weight": 10.45,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": null,
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": "Box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "ERT - New Item Setup Sheet 5-27-26v2.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": 2054,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "east-river-toys"
+  }
+}

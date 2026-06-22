@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531502",
+  "vendor": "KSM Toys",
+  "brand": "ksmtoys",
+  "vendor_item_number": "B08Z4GLJBR   402221",
+  "product_name": "Toylet Potty Training Toilet with Comfy Potty Training Seat Cover, Tank Storage & Paper Roll Holder is A Training Potty for Girls & Boys - Potty Chair (BLUE) by KsmToys",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "727431734310"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 9.96,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 39.95
+  },
+  "sourcing": {
+    "fob_point": "Burlington, ON",
+    "country_of_origin": "Turkiye",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "Potty / toilet training reflects major milestone in child's development. Several baby books first year discuss and help parents with this topic. With this in mind we developed safe and easy to use training potty for kids of age 18m+. ToyLet training potty takes less than 2 minutes to set up comes equipped with sound module to congratulate your toddler for job well done, storage for baby wipes and holder for personal roll of paper",
+      "Tank of the toilet is a neat storage for your baby wipes or book you can read to your toddler while doing thier job. There is NO need for step stool, baby chair or potty training seat as the ToyLet is perfectly designed for the height of your toddler and is inclusive of all you need. Your child will feel excited and proud to sit on this adult like looking toilet and will progress quickly out of diapers or training pants.",
+      "Removable seat of the ToyLet is designed to be a bowl and a potty seat at the same time. While you take time to congratulate your baby for a job well done, use lid cover to stop any smells escaping. Give hugs and make your boy or a girl proud so they want to do this again and again. Potty training your toddler with ToyLet is easier and will feel more natural than use of squatty potty as it’s look, feel and design resembles a real toilet / potty.",
+      "Front of the potty seat has integrated splash protection for the boys. ToyLet is easy to stow away & a great travel system to use while teaching your baby potty training. Always be happy, positive, take time when potty training your toddler as this is the first major step in their life towards being big boys and girls",
+      "ToyLet potty training system is designed and produced in Europe for toddlers 18m +. ToyLet is the only training potty to incorporate seat cover to make potty training smell free experience. No additional baby items or toddler chair is required as ToyLet has all your child needs in potty training"
+    ],
+    "keywords": "Potty toilet training seat baby kids toddler for portable chair comfy travel my fist squatty with girls trainer bum boy girl potties toddlers 1-year-old 2 years toilets babies practicing",
+    "description": "The ToyLet Training Toilet Potty helps make potty training feel natural by giving toddlers a mini toilet that looks and feels like the real thing. Designed for toddlers 18 months and older, it features a comfortable removable seat, lid/cover to help reduce odours, integrated splash protection, storage space for wipes or small books, and a toilet-paper roll holder. The included sound module congratulates your child after use, helping make potty training more positive and encouraging. Compact, easy to set up, and toddler-height, ToyLet provides an all-in-one potty training system without the need for a separate step stool, potty seat, or toddler chair."
+  },
+  "attributes": {
+    "material": "Plastic (Polyethylene)",
+    "num_pieces": 4,
+    "whats_in_box": "1 Toy Potty",
+    "primary_color": "Blue",
+    "secondary_color": null,
+    "min_age": 6,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "Yes",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/71i654ZLJcL.jpg",
+      "https://m.media-amazon.com/images/I/71Zr7YV5s+L.jpg",
+      "https://m.media-amazon.com/images/I/51nX6bcgFxL.jpg",
+      "https://m.media-amazon.com/images/I/51MJppcIiJL.jpg",
+      "https://m.media-amazon.com/images/I/51vxD6oY+AL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 3.3069,
+      "weight_unit": "lbs",
+      "length": 18.5,
+      "length_unit": "inch",
+      "width": 11,
+      "width_unit": "inch",
+      "height": 8.5,
+      "height_unit": "inch"
+    },
+    "package": {
+      "weight": 6,
+      "weight_unit": "lbs",
+      "length": 18.5,
+      "length_unit": "inch",
+      "width": 11,
+      "width_unit": "inch",
+      "height": 8.5,
+      "height_unit": "inch"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 22.5,
+      "length_unit": "in",
+      "width": 18,
+      "width_unit": "in",
+      "height": 19.5,
+      "height_unit": "in",
+      "weight": 22,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: CHOKING HAZARD--Small parts. Not intended for children under 3 yrs",
+    "lead_phthalates": "no_warning_applicable",
+    "warranty_included": "Yes",
+    "warranty_desc": "1 year warranty against manufacturer defects",
+    "batteries_required": "Yes",
+    "batteries_included": "Yes",
+    "battery_cell_comp": "No",
+    "battery_type_qty": "No",
+    "packaging_type": "display box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2026 DS KsmToys Online Data.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": null,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "ksm-toys"
+  }
+}

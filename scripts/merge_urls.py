@@ -62,7 +62,7 @@ def find_header_row(ws, max_scan=12):
     for r in range(1, min(max_scan, ws.max_row) + 1):
         for c in range(1, ws.max_column + 1):
             val = ws.cell(r, c).value
-            if isinstance(val, str) and val.strip().lower() in ("ds number", "ds#", "ds number "):
+            if isinstance(val, str) and val.strip().lower() in ("ds number", "ds#", "shop sku"):
                 return r
     return None
 
@@ -79,15 +79,20 @@ def main():
     if not os.path.isfile(path):
         sys.exit(f"ERROR: file not found -> {path}")
 
-    wb = load_workbook(path, data_only=True, read_only=True)
+    wb = load_workbook(path, data_only=True)  # not read_only: we do random cell access
     ws = wb[wb.sheetnames[0]]
     hdr_row = find_header_row(ws)
     if not hdr_row:
-        sys.exit("ERROR: could not find a 'DS Number' header row in the first sheet.")
+        sys.exit("ERROR: could not find a 'DS Number' / 'Shop SKU' header row in the first sheet.")
 
     headers = {c: (ws.cell(hdr_row, c).value or "") for c in range(1, ws.max_column + 1)}
-    ds_col = next((c for c, h in headers.items() if str(h).strip().lower() in ("ds number", "ds#")), None)
-    img_cols = [c for c, h in headers.items() if str(h).strip().lower().startswith("image url")]
+    # key column: DS# (our sheets) or Shop SKU (Best Buy / Mirakl export, which = our DS#)
+    ds_col = next((c for c, h in headers.items()
+                   if str(h).strip().lower() in ("ds number", "ds#", "shop sku")), None)
+    # image columns: our "Image URL N" OR Best Buy zoom columns (Front_Zoom, Alt_View_Zoom_1, ...)
+    img_cols = [c for c, h in headers.items()
+                if str(h).strip().lower().startswith("image url")
+                or str(h).strip().lower().endswith("_zoom")]
     doc_type_cols = {}  # doc index -> type col
     doc_url_cols = {}   # doc index -> url col
     for c, h in headers.items():

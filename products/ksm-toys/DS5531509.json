@@ -1,0 +1,117 @@
+{
+  "ds_number": "5531509",
+  "vendor": "KSM Toys",
+  "brand": "lena",
+  "vendor_item_number": "L 4616",
+  "product_name": "Lena 4616 Worxx articulated tipper Volvo A25G, dump truck made of ABS plastic with rubber tyres and steel axles, construction vehicle with articulated steering, toy dumper for children from 3 years, truck yellow, black",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "4006942880300"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 15.1,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 24.95
+  },
+  "sourcing": {
+    "fob_point": "Burlington, ON",
+    "country_of_origin": "Czechia",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "Worxx articulated tipper from Lena with all-terrain wheel suspension, 3 galvanised steel axles and rotating and tilting steering, for maximum fun",
+      "Toy vehicle as a detailed model of the Volvo A25G in yellow and black, with 6 wheels and tilting cargo compartment, so every child becomes a proud dumper driver",
+      "Products from the Lena Worxx range are made of ABS plastic, have rubber tyres, galvanised axles made of steel and are delivered in a colourful display box",
+      "The toy is suitable for boys and girls from 36 months and is TÜV certified according to ID 38607 - safety and tested for harmful substances",
+      "Lena Worxx articulated tipper box, box contents: toy vehicle, colours: yellow, black, dimensions: 57.5 x 21.5 x 21.2 cm, weight: 1195 g, item no. : 4616, EAN: 4006942880300, Brand Lena"
+    ],
+    "keywords": "Truck garbage recycle trash orange recycling toy lena powerful toys for boys kids gigantic mini pack plastic toddlers vehicles construction huge durable bins rubbish lorry realistic-year-old girls",
+    "description": "Full control - the Lena Worxx articulated tipper in use  Made for real construction site feeling\nThe Lena Worxx articulated tipper impresses in the terrain - whether gravel, sand or soil. The powerful design and realistic construction make it an eye-catcher on any outdoor construction site.   Stable in play - equipped with galvanised steel axles\nReliability counts on the children's construction site: With its galvanised steel axles, the Lena Worxx articulated tipper also masters rough applications in the garden. Perfect for small construction managers with big ideas."
+  },
+  "attributes": {
+    "material": "Plastic (Polyethylene)",
+    "num_pieces": 1,
+    "whats_in_box": "1 Toy Truck",
+    "primary_color": "Yellow",
+    "secondary_color": "Black",
+    "min_age": 36,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/61uu-pVGddL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61GmFlmgJ-L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61hmCzI3NGL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81dZPl2953L._AC_SL1500_.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 3.8801,
+      "weight_unit": "lbs",
+      "length": 23,
+      "length_unit": "inch",
+      "width": 8,
+      "width_unit": "inch",
+      "height": 9,
+      "height_unit": "inch"
+    },
+    "package": {
+      "weight": 4,
+      "weight_unit": "lbs",
+      "length": 23,
+      "length_unit": "inch",
+      "width": 8,
+      "width_unit": "inch",
+      "height": 8,
+      "height_unit": "inch"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 23,
+      "length_unit": "in",
+      "width": 16,
+      "width_unit": "in",
+      "height": 19,
+      "height_unit": "in",
+      "weight": 15,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: CHOKING HAZARD--Small parts. Not intended for children under 3 yrs",
+    "lead_phthalates": "no_warning_applicable",
+    "warranty_included": "Yes",
+    "warranty_desc": "1 year warranty against manufacturer defects",
+    "batteries_required": "No",
+    "batteries_included": "No",
+    "battery_cell_comp": "No",
+    "battery_type_qty": "No",
+    "packaging_type": "display box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2026 DS KsmToys Online Data.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": null,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "ksm-toys"
+  }
+}

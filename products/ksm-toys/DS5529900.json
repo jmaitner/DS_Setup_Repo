@@ -1,0 +1,118 @@
+{
+  "ds_number": "5529900",
+  "vendor": "KSM Toys",
+  "brand": "Lena",
+  "vendor_item_number": "B0041WGLTW   L2166",
+  "product_name": "Lena Ksmtoys Construction Toys Powerful Giants Toy Garbage Truck with Garbage and Recycle Bin and Dumpster in Yellow and Black Toys for Boys or Girls Age 3+",
+  "identity": {
+    "id_type": "EAN",
+    "upc": "4006942721702"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 20.29,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 89.99
+  },
+  "sourcing": {
+    "fob_point": "Burlington, ON",
+    "country_of_origin": "Czechia",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "REALISTIC FEATURES AND FUNCTIONALITY: All features/movements of this Toy Garbage Truck mimic the movements of the real thing! It comes with a garbage bin and dumpster both with closing lids so you can transport toys and other materials as \"garbage\" around the playroom or outside! Ultrarealistic body and cab with driver's seats, it features a dumpster loader in the back and a bin loader on the side for all sorts of fun. It can also be used as a ride-on toy and can support the weight of adults!",
+      "INDOOR OR OUTDOOR PLAY: Use this garbage truck inside or outside as it can easily transport and dump different construction materials and toys around the \"jobsite\". The truck was designed for any environment and can be used in the snow, the sandbox, the dirt or at the beach with water!",
+      "ROBUST DESIGN: Our toy dump truck has 2 6mm steel axles and wide tires for easy movement on uneven surfaces, UV protection to prevent the colors from fading, and plastic from becoming brittle. We offer a 3-year guarantee on these toy truck's as our toys are durable enough to survive to play in classrooms, daycares and as Montessori school toys for toddlers. We use prime PE resin for all our toys as this increases the durability and lifespan of our toy trucks.",
+      "EDUCATIONAL VALUE: Stimulates imagination while encouraging hand-eye coordination, fine and gross motor skills, and communication. Look for other Lena toy trucks for boys age 1, 2, or 3 from our toy assortment and complete your collection of Lena trucks. Our materials will not snap, crack or become brittle in the extreme cold/saltwater.",
+      "RECOMMENDED AGE: Our toy garbage trucks for boys and girls are specially designed for children age 3+ as they have a realistic look and functionality. Children love realistic-looking toys because they observe real trucks and heavy machinery daily."
+    ],
+    "keywords": "truck garbage toy toys for recycle trash boys kids little giant trucks pack mini gigantic people orange recycling toddler cans container monster blaze blue vacuum blippi christmas juguetes para niños de 3 años 3 years old vehicle",
+    "description": "At Lena, we want to keep our planet clean and healthy.\n\nWe make our toys using high-quality, food-grade resin, and we do not promote the use of electronic features in our toy trucks. Our products are designed with reduced plastic consumption in mind. The resin we use is infused with an environmentally friendly additive that helps it disintegrate into the soil. It is also treated with UV filters to help prevent colour fading.\n\nLena toys are durable, child-friendly, and absolutely safe.\n\nAll of our toy vehicles are fully equipped with off-road wheels and freewheeling chassis, making them easy to push over any terrain. This excavator can be used to transport soil, sand, and gravel, and is perfect for pairing with a bulldozer, tractor, garbage truck, or dump truck for hours of play. Suitable for indoor and outdoor use.\n\nLena toy trucks and vehicles make superb educational toys for toddlers and preschool-aged children and are safe for institutional use. Our toys help increase children’s creativity, stimulate their imagination, encourage hand-eye coordination, and promote group play, helping children develop their social and communication skills. Most importantly, Lena vehicles provide children with hours of dirt pile and sandbox fun, including digging, loading, hauling, and lifting.\n\nRecommended for ages 2+.\n\nMade in the Czech Republic, EU.\n\nIncludes a 3-year extended warranty."
+  },
+  "attributes": {
+    "material": "Plastic (Polyethylene and polypropylene)",
+    "num_pieces": 3,
+    "whats_in_box": "Toy Grabage Truck, Toy Garbage Can, Toy Dumpster",
+    "primary_color": "Orange",
+    "secondary_color": "Black",
+    "min_age": 36,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/71xkPQPMTgL.jpg",
+      "https://m.media-amazon.com/images/I/719fX2hv1cL.jpg",
+      "https://m.media-amazon.com/images/I/71vnxHNef6L.jpg",
+      "https://m.media-amazon.com/images/I/71mmhZpZRkL.jpg",
+      "https://m.media-amazon.com/images/I/71emfsezjOL.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 8.9001,
+      "weight_unit": "lbs",
+      "length": 28,
+      "length_unit": "inch",
+      "width": 11,
+      "width_unit": "inch",
+      "height": 14,
+      "height_unit": "inch"
+    },
+    "package": {
+      "weight": 8,
+      "weight_unit": "lbs",
+      "length": 28,
+      "length_unit": "inch",
+      "width": 11,
+      "width_unit": "inch",
+      "height": 14,
+      "height_unit": "inch"
+    },
+    "master_case": {
+      "case_qty": 2,
+      "length": 28.5,
+      "length_unit": "in",
+      "width": 22.67,
+      "width_unit": "in",
+      "height": 16,
+      "height_unit": "in",
+      "weight": 25,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: CHOKING HAZARD--Small parts. Not intended for children under 3 yrs",
+    "lead_phthalates": "no_warning_applicable",
+    "warranty_included": "Yes",
+    "warranty_desc": "1 year warranty against manufacturer defects",
+    "batteries_required": "No",
+    "batteries_included": "No",
+    "battery_cell_comp": "No",
+    "battery_type_qty": "No",
+    "packaging_type": "display box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2026 DS KsmToys Online Data.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": null,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "ksm-toys"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531522",
+  "vendor": "East River Toys",
+  "brand": "Lethal Chicken Games",
+  "vendor_item_number": "LCGWTF002",
+  "product_name": "What The Film?",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "600171294422"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 10.75,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 24.99
+  },
+  "sourcing": {
+    "fob_point": "Redondo Beach, CA",
+    "country_of_origin": "China",
+    "harmonized_code": "9504.90.6000"
+  },
+  "content": {
+    "bullets": [
+      "Engaging Gameplay: What The Film?! is a family-friendly party game for 3 to 8 players, offering 30-60 minutes of easy-to-learn card game fun where players design and pitch movies.",
+      "Creative Mechanics: Players combine one ACTOR, one PLOT, and one SET card to create a movie, fostering creativity and serving as an idea generator and improv activity.",
+      "Interactive Pitching: Participants pitch their movie creations, and others vote for the best, with \"Industry cards\" allowing for strategic backstabbing and point manipulation.",
+      "Authentic Design: Written by Hollywood professionals, the game features authentic terminology and scenarios, providing a genuine showbiz experience.",
+      "Award Recognition: A Toy of the Year Finalist, the game includes over 200 pieces of individual artwork, enhancing the visual appeal and overall experience."
+    ],
+    "keywords": null,
+    "description": "Toy of the Year Finalist, What The Film?! is a fun party game where you get to come up with crazy movie ideas based on the hand you're dealt.The world is full of wannabe writers, actors, and filmakers. You are no different from the group or are you? Choose from a handful of cards and elaborate on your three strongest cards. Combine one ACTOR, one PLOT and one SET card to make your movie the best one at the table. Pitch your movie and everyone votes for their favorite. (And no, you can't vote for yourself.) But look out, there are Industry cards to turn the game upside down. So don't get too cocky, it could come back to bite you. Do you backstab your way to glory or are you the creative beacon at the table? The choice is yours.Twist Gaming says, \"I was laughing like a hyena the entire time. I'd definitely play this before Cards Against Humanity.\" Toy of the Year Finalist with over 200 pieces of individual artwork."
+  },
+  "attributes": {
+    "material": "95% Paper, 5% Plastic",
+    "num_pieces": 1,
+    "whats_in_box": "(100) Illustrated Actor Cards\n(100) Plot Cards\n(100) Illustrated Set Cards\n(100) Industry Cards\n(1) Rulebook\n(11) Award Tokens\n(1) First Player Token",
+    "primary_color": "White",
+    "secondary_color": "Black",
+    "min_age": 12,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://i.imgur.com/SrHXlwE.jpeg",
+      "https://i.imgur.com/3glS62h.jpeg",
+      "https://i.imgur.com/CY15oAO.jpeg",
+      "https://i.imgur.com/6bxCuZx.jpeg",
+      "https://i.imgur.com/hufF2aZ.jpeg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 1.94,
+      "weight_unit": "lbs",
+      "length": 1.75,
+      "length_unit": "in",
+      "width": 5.75,
+      "width_unit": "in",
+      "height": 8.7,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1.94,
+      "weight_unit": "lbs",
+      "length": 1.75,
+      "length_unit": "in",
+      "width": 5.75,
+      "width_unit": "in",
+      "height": 8.7,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 8.5,
+      "length_unit": "in",
+      "width": 7,
+      "width_unit": "in",
+      "height": 9,
+      "height_unit": "in",
+      "weight": 8.1,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": null,
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": "Box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "ERT - New Item Setup Sheet 5-27-26v2.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": 2054,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "east-river-toys"
+  }
+}

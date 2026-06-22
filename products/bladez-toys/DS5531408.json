@@ -45,7 +45,12 @@
   },
   "images": {
     "availability": "Yes",
-    "urls": []
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582769/bladez-toyz/2026/BTHP-C14/BTHPC14_Build.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582771/bladez-toyz/2026/BTHP-C14/BTHPC14_Lifestyle.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582774/bladez-toyz/2026/BTHP-C14/BTHPC14_Lights.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1777582775/bladez-toyz/2026/BTHP-C14/BTHPC14_Pack.jpg"
+    ]
   },
   "dimensions": {
     "item": {

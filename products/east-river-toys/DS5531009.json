@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531009",
+  "vendor": "East River Toys",
+  "brand": "East River Toys",
+  "vendor_item_number": "HGFG1",
+  "product_name": "Ramen Chef Memory Card Game – Japanese-Themed Flip & Match Game for Families 2–4 Players Ages 8+ 20-Minute Play Time",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "674498120030"
+  },
+  "pricing": {
+    "drop_ship_cost": 21,
+    "wholesale_cost": 10,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 25
+  },
+  "sourcing": {
+    "fob_point": "Valencia, CA",
+    "country_of_origin": "China",
+    "harmonized_code": "9504.90.6000"
+  },
+  "content": {
+    "bullets": [
+      "Clever game concept: \"Ramen Chef\" is a flip memo variant in which you collect ingredients for your ramen soup. Concentration and skill are required - a real challenge!",
+      "Design lovers pay attention: \"Ramen Chef\" combines fun with creative design, inspired by Japanese culture. Ideal for adults, families and design enthusiasts.",
+      "Contents of the game: contains 28 double-sided ingredient cards, 14 bonus cards, 4 double-sided figures, 4 menu cards, 1 pair of chopsticks and a game instructions in German and English.",
+      "Fun for all age groups: Recommended from 8 years, with a playing time of about 20 minutes. Suitable for 2-4 players.",
+      "Fun for all age groups: Recommended from 8 years, with a playing time of about 20 minutes. Suitable for 2-4 players."
+    ],
+    "keywords": null,
+    "description": "Become the ramen king in Tokyo! Fight for ingredients and customers in a tough business. Your weapon is your memory - so scrape together all your concentration and become the super soup man. It is aimed at adults or families who have fun with new game ideas, as well as design lovers who love and appreciate the unique signature of Heldbergs Games.\n\nRamen — for some, it is a brutally delicious noodle soup originally from Japan. For its makers, ramen is the center of an intensely brutal fight in a mega-market. In the metropolis of Tokyo, cooks compete fiercely for the best ingredients so they can satisfy their customers' needs and desires.\n\nIn Ramen Chef, you are at the forefront of this battle. Play as one of up to four chefs who run their soup business with sophistication and brains in order to become Tokyo's greatest ramen chef. Your greatest weapon? Your smart head!\n\nRamen Chef features a literal flip of a classic memory game. You are trying to match ingredients from a 3x3 grid, and collect ingredients that match a secret objective. However, all of the ingredient tiles are double-sided, meaning you need to remember both sides of the tiles in front of you. On your turn, you must verbally state the ingredient you see BEFORE you flip, then flip the tile to reveal the opposite side. If after the second flip, your two tiles (on their opposite sides) now match, you are able to collect one of those tiles for your restaurant and work towards fulfilling your secret objective tile. The player with the most tiles — both ingredients and completed objective tiles— wins.\n\nBut be careful! If the opposites sides of your target tiles do not match, you collect nothing, and may leave a combination of tiles that your opponent can now use instead. Surprisingly tactical and shockingly difficult for only nine tiles, Ramen Chef is sure to leave you questioning your memory abilities and hungry for ramen!"
+  },
+  "attributes": {
+    "material": "90% paper, 10% wood",
+    "num_pieces": 1,
+    "whats_in_box": "28 double-sided ingredient cards\n4 stylish chef meeples\n4 menu cards\n1 pair of chopsticks\nGame Instructions",
+    "primary_color": "brown",
+    "secondary_color": null,
+    "min_age": 8,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://i.imgur.com/jcwoNC3.png",
+      "https://imgur.com/a/shrWYCo",
+      "https://imgur.com/a/RgssQLW",
+      "https://imgur.com/a/CHAv7NE",
+      "https://imgur.com/a/E1aE3fZ"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 2,
+      "weight_unit": "lbs",
+      "length": 2,
+      "length_unit": "in",
+      "width": 8.75,
+      "width_unit": "in",
+      "height": 8.25,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 2,
+      "weight_unit": "lbs",
+      "length": 2,
+      "length_unit": "in",
+      "width": 8.75,
+      "width_unit": "in",
+      "height": 8.25,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": "9.25 x 12.5 x 8.75 inches",
+      "length_unit": "12.25 lbs",
+      "width": "No",
+      "width_unit": null,
+      "height": "No",
+      "height_unit": null,
+      "weight": "No",
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": null,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "ERT - New Item Setup Sheet 3-4-26.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": 2054,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "east-river-toys"
+  }
+}

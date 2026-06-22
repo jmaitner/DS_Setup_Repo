@@ -1,0 +1,118 @@
+{
+  "ds_number": "5529914",
+  "vendor": "KSM Toys",
+  "brand": "Grip & Tricks",
+  "vendor_item_number": "B012OIPQEK ET RAMPQUAT",
+  "product_name": "RAMPS for Finger Skate - Halfpipe Slider with 1 Fingerboard - Dimensions: 28 X 12 X 10 cm by Grip&Tricks",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "3419750000548"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 8.7,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 29.95
+  },
+  "sourcing": {
+    "fob_point": "Burlington, ON",
+    "country_of_origin": "China",
+    "harmonized_code": "9503.00.0090"
+  },
+  "content": {
+    "bullets": [
+      "The Grip&Tricks Fingerboard Park 2 Ramps Set is a very complete finger skate park to practice finger tricks at home or outside. Whatever if you are a beginner or a professional rider, perform crazy tricks and learn new ones! Day or night, no matter the weather, play with your awesome finger toys in this finger skate park and become a Grip&Tricks Spirit Rider! With your favorite Grip and Tricks finger toy (fingerscooter, finger BMX, finger skates, inline finger skates), get out of your comfort zone, dude!",
+      "Check out these amazing ramps that allow all transition and flat tricks! Nails a nollie tre flip with your favorite Grip and Tricks finger toy (fingerscooter, finger BMX, finger skates, inline finger skates).",
+      "He rides all the finger skate parks around with his very cool Grip&Tricks Finger Pant. Have a look on his favorite tricks and get the street rider style, just like SKER G.",
+      "FINGER TOYS FOR FUN: You can put the cute mini pants on your fingers and play the bicycle with your fingers, which will be very interesting; Whether at home or outdoors, you can use this finger scooter set as you wish without worrying about being hurt.",
+      "Recommended for skateboard enthusiasts ages 3+"
+    ],
+    "keywords": "finger skateboard skate ramp set fingerboard rails skatepark scooter mini board accesories park rail bowl skateboards boarding shoes ramps boxes half pipe bmx toys bike scooters grip fingerset teenager pro tricks starter professional real staircase",
+    "description": "Grip & Tricks Mini Pro\n\nBuild your own mini skatepark and start landing big tricks at your fingertips. This set includes a ramp, staircase with rails, and a mini skateboard, giving kids everything they need to ride, grind, and customize like a true pro.\n\nThe mini boards are built with strong PVC and die-cast trucks for durable stunt play, while the included extra wheels, trucks, stickers, and installation tools let you switch up your setup and personalize your ride. Pair it with other Grip & Tricks Mini Pro sets, including scooters, BMX bikes, snowboards, and inline skates, to create your own private stunt park.\n\nAll Grip & Tricks products undergo safety and quality inspections and meet CE, EN, and ASTM toy safety standards, in accordance with Consumer Product Safety Commission guidelines."
+  },
+  "attributes": {
+    "material": "Metal, Plastic",
+    "num_pieces": 12,
+    "whats_in_box": "full set",
+    "primary_color": "gray",
+    "secondary_color": "multicolor",
+    "min_age": 36,
+    "max_age": 120,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/71U4zWWuGSL._AC_SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61RJ1N3MiJL._AC_SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/61vOVCYlVqL._AC_SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/71rF4iE8+7L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/8130SzsyUUL._AC_SL1500_.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.6614,
+      "weight_unit": "lbs",
+      "length": 11,
+      "length_unit": "inch",
+      "width": 5,
+      "width_unit": "inch",
+      "height": 4,
+      "height_unit": "inch"
+    },
+    "package": {
+      "weight": 1,
+      "weight_unit": "lbs",
+      "length": 12,
+      "length_unit": "inch",
+      "width": 24,
+      "width_unit": "inch",
+      "height": 10,
+      "height_unit": "inch"
+    },
+    "master_case": {
+      "case_qty": 12,
+      "length": 19.5,
+      "length_unit": "in",
+      "width": 11,
+      "width_unit": "in",
+      "height": 18,
+      "height_unit": "in",
+      "weight": 14,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: CHOKING HAZARD--Small parts. Not intended for children under 3 yrs",
+    "lead_phthalates": "no_warning_applicable",
+    "warranty_included": "Yes",
+    "warranty_desc": "3 year warranty against manufacturer defects",
+    "batteries_required": "No",
+    "batteries_included": "No",
+    "battery_cell_comp": "No",
+    "battery_type_qty": "No",
+    "packaging_type": "display box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 2026 DS KsmToys Online Data.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": null,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "ksm-toys"
+  }
+}

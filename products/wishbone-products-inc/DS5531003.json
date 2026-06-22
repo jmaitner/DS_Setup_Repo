@@ -1,0 +1,114 @@
+{
+  "ds_number": "5531003",
+  "vendor": "Wishbone Products Inc",
+  "brand": "BUBBLE BONANZA",
+  "vendor_item_number": "B12",
+  "product_name": "Lil Squeezers  with 3.5 ounces solution - Brown Bear",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "660845103900"
+  },
+  "pricing": {
+    "drop_ship_cost": 8.49,
+    "wholesale_cost": 3,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 9.99
+  },
+  "sourcing": {
+    "fob_point": "PEMBINA,ND",
+    "country_of_origin": "CHINA",
+    "harmonized_code": "9503.00.80"
+  },
+  "content": {
+    "bullets": [
+      null,
+      "PERFECT PARTY FAVORS — Make your next birthday party unforgettable with an adorable little bubble blower that blows mini bubbles. Start a bubble party with these animal toys! Party favors for kids ages 3-8, 3-year-old girl birthday gifts, 3-8 year old boy birthday gift.",
+      "SENSORY TOYS — Lil’ Squeezers Bubbles Wands are great for little ones first learning to play with bubbles. Fine motor skills toys for 1–2-year-old and toddlers. Bubbles are a fun way to relax, focus, and find calm. Sensory toys for kids ages 3 4 5 6 7.",
+      "INDOOR OR OUTDOOR TOYS FOR TODDLERS — Watch your child delight in making their lil’ Squeezer come to life as it blows cute mini bubbles. Perfect bubble toy for little hands and for first learning to play with bubbles. Must have summer toys, outdoor kids toys to have fun with beach toys, summer toys, and playing in the backyard!",
+      "Safe Bubbles - All our products are 100% non-toxic, made using the premium ingredients making long-lasting super colorful bubbles. Safe for people and pets, and the environment. Great bubble toy for kids and toddlers ages 3 and up"
+    ],
+    "keywords": null,
+    "description": "Lil’ Squeezers Bubble Wands — Summer Toys, Cute Stuff, Bubble Wand, Outdoor Toys For Kids Ages 4-7, Bath Toys, Collect All: Monkey, Bear, Blowfish + Includes 3.5oz Bottle Of Premium Bubble Solution. BUBBLE WANDS FOR KIDS — Take Puffy the blowfish on an undersea adventure, swing into action with Cheeky the monkey, or bring your bubbles roaring to life with lil’ Cody the bubble bear. Make mini bubbles with adorable little bubble blower, cute bath toys, toddler bath toys, and for bubble bath kids. Perfect for little ones first learning to play with bubbles. Suitable for kids of all ages."
+  },
+  "attributes": {
+    "material": "Plastic; Bubble solution",
+    "num_pieces": 2,
+    "whats_in_box": "1 Animal Character; 1 Bottle of Bubble Solution 3.5oz",
+    "primary_color": null,
+    "secondary_color": null,
+    "min_age": "3+",
+    "max_age": 0,
+    "gender": null,
+    "assembly_required": null,
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": null,
+    "urls": [
+      "https://www.wishboneinc.ca/cdn/shop/files/02-B12-Lil_Squeezers-Brown-Bear-and-bottle.jpg?v=1746045525&width=600"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.34,
+      "weight_unit": "0.34",
+      "length": 3.65,
+      "length_unit": "in",
+      "width": 5.75,
+      "width_unit": "in",
+      "height": 3.75,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.34,
+      "weight_unit": "3.65",
+      "length": "in",
+      "length_unit": "5.75",
+      "width": "in",
+      "width_unit": "3.75",
+      "height": "in",
+      "height_unit": null
+    },
+    "master_case": {
+      "case_qty": 18,
+      "length": "18.11x11.97x8.07",
+      "length_unit": "9.89 lbs",
+      "width": 0,
+      "width_unit": null,
+      "height": 0,
+      "height_unit": null,
+      "weight": 0,
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": null,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "Wishbone - New Item Setup Sheet Template Version 2026.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": 2044,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "wishbone-products-inc"
+  }
+}

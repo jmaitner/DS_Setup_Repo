@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531008",
+  "vendor": "East River Toys",
+  "brand": "East River Toys",
+  "vendor_item_number": "HGFG2",
+  "product_name": "Little Tokyo Wobbly Wooden Stacking Game – Tokyo-Themed Figures Including Maneki-Neko, Kaiju & Sumo Two-Tower Strategy Game for Family Game Night",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "860013271077"
+  },
+  "pricing": {
+    "drop_ship_cost": 21,
+    "wholesale_cost": 11,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 25
+  },
+  "sourcing": {
+    "fob_point": "Valencia, CA",
+    "country_of_origin": "China",
+    "harmonized_code": "9504.90.6000"
+  },
+  "content": {
+    "bullets": [
+      "Wobbly Stacking Fun with a Twist\nBuild not one but two unstable towers at the same time, choosing each piece carefully—every move can make the game easier for you or harder for your opponent.",
+      "Iconic Tokyo-Themed Wooden Pieces\nStack charming, chunky wooden figures inspired by Tokyo culture, including Maneki-neko, Kaiju, sumo wrestlers, and more.",
+      "Skill, Balance & Strategy Combined\nIt’s not just steady hands—smart piece selection and placement can leave rivals struggling with the heaviest and trickiest pieces.",
+      "Multiple Ways to Play\nFeatures competitive and solo-friendly play modes, making it perfect for quick games, casual play, or entertaining guests.",
+      "Play, Display, Enjoy\nThe beautifully designed wooden charms double as decorative pieces when the game isn’t in play—ideal for shelves, desks, or coffee tables."
+    ],
+    "keywords": null,
+    "description": "A wobbly stacking game with extra twist\n\nThe waving cat Maneki-neko, the angry Kaiju, the fat ass of the sumo wrestler - stack them all into a crazy tower. And see that your friends don't know how to get their Shinkansen in place. What if nobody has time for a match? Then you play for yourself. Or you can decorate your apartment with the iconic figures.\n\nYou've never seen a stacking game with charm like this! Filled with chunky wooden charms featuring the joys of Tokyo, this stacking game challenges players to build two wobbly towers at the same time. Choosing which piece to place next is critical as it may leave your opponent with some of the hardest (and heaviest) pieces for the top of the stack. \n\nIn addition to two unique modes of play, you may enjoy keeping these charms as decorations in between games."
+  },
+  "attributes": {
+    "material": "90% wood, 10% paper",
+    "num_pieces": 1,
+    "whats_in_box": "30 beautiful illustrated wooden pieces in Feel Good Size. Colorful on one side, Black and White on the other\nGame instructions",
+    "primary_color": "brown",
+    "secondary_color": null,
+    "min_age": 6,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://i.imgur.com/8u8tzBk.jpeg",
+      "https://imgur.com/a/vs1kDL7",
+      "https://imgur.com/a/G6mCHde",
+      "https://imgur.com/a/PRqE4NM",
+      "https://imgur.com/a/ru7RyQ0"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 2,
+      "weight_unit": "lbs",
+      "length": 2,
+      "length_unit": "in",
+      "width": 8.75,
+      "width_unit": "in",
+      "height": 8.25,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 2,
+      "weight_unit": "lbs",
+      "length": 2,
+      "length_unit": "in",
+      "width": 8.75,
+      "width_unit": "in",
+      "height": 8.25,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": "9.25 x 12.5 x 8.75 inches",
+      "length_unit": "12.25 lbs",
+      "width": "No",
+      "width_unit": null,
+      "height": "No",
+      "height_unit": null,
+      "weight": "No",
+      "weight_unit": null
+    }
+  },
+  "compliance": {
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": null,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "ERT - New Item Setup Sheet 3-4-26.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": 2054,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "east-river-toys"
+  }
+}

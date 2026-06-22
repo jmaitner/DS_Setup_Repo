@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531524",
+  "vendor": "East River Toys",
+  "brand": "East River Toys",
+  "vendor_item_number": "WHKG1",
+  "product_name": "Weather Hunters The Game",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "860013271107"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 12,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 24.99
+  },
+  "sourcing": {
+    "fob_point": "Valencia, CA",
+    "country_of_origin": "China",
+    "harmonized_code": "9504.90.6000"
+  },
+  "content": {
+    "bullets": [
+      "CHASE THE STORM, WIN THE GAME – Become a real weather explorer in Weather Hunters! Travel across the map tracking tornadoes, hurricanes, blizzards, and more while completing exciting weather missions and challenges.",
+      "FUN & EDUCATIONAL FAMILY GAME – Learn fascinating facts about weather, climate, and natural disasters while playing. Perfect for kids, teens, families, classrooms, and game nights that mix fun with STEM learning.",
+      "FAST-PACED STRATEGY & ADVENTURE – Use strategy, quick thinking, and a little luck to collect weather tools, predict storms, and outsmart other players on your path to becoming the ultimate Weather Hunter.",
+      "PERFECT FOR FAMILY GAME NIGHT – Designed for 2–6 players, Weather Hunters is easy to learn, engaging for all ages, and packed with replay value that keeps every game feeling different and exciting.",
+      "GREAT GIFT FOR KIDS & WEATHER FANS – A unique board game gift for boys, girls, families, science lovers, teachers, and anyone fascinated by storms, forecasting, and extreme weather adventures."
+    ],
+    "keywords": null,
+    "description": "In Weather Hunters™: The Game, young explorers team up to travel through the seasons and learn all about our planet’s wild, wacky, and wonderful weather patterns! From the icy chills of winter to the steamy rain of spring, players work together to collect high-tech weather gadgets like a thermometer, compass, and amemometer—tools every weather hunter needs. But be quick! Storms are brewing, and only teamwork and quick thinking can save the day."
+  },
+  "attributes": {
+    "material": "90% Paper, 10% Wood",
+    "num_pieces": 1,
+    "whats_in_box": "(1) Gameboard\n(8) Character pieces that are the paler's mover\n(16) Weather Alert Cards\n(200 Weather Trivia Cards\n(4) Weather Gadget Tokens\n(1) Instruction Sheet",
+    "primary_color": "Green",
+    "secondary_color": "Blue",
+    "min_age": 5,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://i.imgur.com/nMpEK47.jpeg",
+      "https://i.imgur.com/E54jS8F.jpeg",
+      "https://i.imgur.com/AtbgEq3.jpeg",
+      "https://i.imgur.com/tiyJiZA.jpeg",
+      "https://i.imgur.com/kiIRfww.jpeg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 2,
+      "weight_unit": "lbs",
+      "length": 2.5,
+      "length_unit": "in",
+      "width": 10.5,
+      "width_unit": "in",
+      "height": 10.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 2,
+      "weight_unit": "lbs",
+      "length": 2.5,
+      "length_unit": "in",
+      "width": 10.5,
+      "width_unit": "in",
+      "height": 10.5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 15.5,
+      "length_unit": "in",
+      "width": 11,
+      "width_unit": "in",
+      "height": 11,
+      "height_unit": "in",
+      "weight": 12.5,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes",
+    "lead_phthalates": null,
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": "Box",
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "ERT - New Item Setup Sheet 5-27-26v2.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": 2054,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "east-river-toys"
+  }
+}
