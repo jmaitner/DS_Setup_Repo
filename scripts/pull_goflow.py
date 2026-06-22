@@ -41,6 +41,9 @@ from status_lib import (CHANNELS, new_status_doc, load_status, save_status,
 # the subdomain matches the portal, e.g. portal distributionsolutions.goflow.com).
 BASE = (os.environ.get("GOFLOW_BASE_URL") or "https://distributionsolutions.api.goflow.com").rstrip("/")
 KEY = os.environ.get("GOFLOW_KEY", "")
+# /v1/listings and /v1/stores are "beta" endpoints: GoFlow requires an X-Beta-Contact email
+# header to confirm opt-in (otherwise 422).
+BETA_CONTACT = os.environ.get("GOFLOW_BETA_CONTACT") or "jackson.maitner@thedistributionsolutions.com"
 
 # GoFlow store.channel  ->  our channel key. Only the channels we track; others ignored.
 CHANNEL_MAP = {
@@ -69,6 +72,7 @@ def api_get(url):
     req = urllib.request.Request(url, headers={
         "Authorization": f"Bearer {KEY}",
         "Accept": "application/json",
+        "X-Beta-Contact": BETA_CONTACT,
     })
     try:
         with urllib.request.urlopen(req, timeout=60) as r:

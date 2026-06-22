@@ -30,6 +30,7 @@ jobs:
         env:
           GOFLOW_KEY: ${{ secrets.GOFLOW_KEY }}
           GOFLOW_BASE_URL: https://distributionsolutions.api.goflow.com
+          GOFLOW_BETA_CONTACT: jackson.maitner@thedistributionsolutions.com
         run: python scripts/pull_goflow.py
 
       - name: Validate + rebuild index & dashboard
