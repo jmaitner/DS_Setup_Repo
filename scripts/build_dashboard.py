@@ -29,11 +29,22 @@ for _stream in (sys.stdout, sys.stderr):
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from status_lib import CHANNELS
+from ds_schema import brand_slug
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PRODUCTS_DIR = os.path.join(REPO_ROOT, "products")
 STATUS_DIR = os.path.join(REPO_ROOT, "status")
+RULES_PATH = os.path.join(REPO_ROOT, "config", "channel_rules.json")
 OUT = os.path.join(REPO_ROOT, "site", "index.html")
+
+
+def load_na_rules():
+    """vendor-slug -> [channels we intentionally don't sell on] (rendered N/A)."""
+    try:
+        with open(RULES_PATH, encoding="utf-8") as f:
+            return (json.load(f) or {}).get("not_applicable", {})
+    except FileNotFoundError:
+        return {}
 
 
 def build_records():
@@ -60,6 +71,7 @@ def build_records():
         records.append({
             "ds": ds,
             "vendor": p.get("vendor") or "",
+            "vslug": brand_slug(p.get("vendor")),
             "brand": p.get("brand") or "",
             "name": p.get("product_name") or "",
             "upc": ident.get("upc") or "",
@@ -91,6 +103,7 @@ def main():
     html = (TEMPLATE
             .replace("__DATA__", json.dumps(records, ensure_ascii=False, default=str))
             .replace("__CHANNELS__", json.dumps(CHANNELS, ensure_ascii=False))
+            .replace("__NA_RULES__", json.dumps(load_na_rules(), ensure_ascii=False))
             .replace("__GENERATED__", date.today().isoformat())
             .replace("__COUNT__", str(len(records))))
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
@@ -192,6 +205,14 @@ TEMPLATE = r"""<!DOCTYPE html>
 <script>
 const DATA = __DATA__;
 const CHANNELS = __CHANNELS__;
+const NA_RULES = __NA_RULES__;   // vendor-slug -> [channels we don't sell on]
+// Returns a reason string if (channel k) is N/A for item d, else null.
+function naInfo(k, c, d){
+  if((NA_RULES[d.vslug]||[]).includes(k)) return CHANNELS[k]+': not applicable for '+d.vendor;
+  if(k==='walmart_3p' && d.channels.walmart_1p && d.channels.walmart_1p.state==='live' && c.state==='not_listed')
+    return 'Walmart 3P: not needed (listed on Walmart 1P)';
+  return null;
+}
 const STATES = ["live","error","suppressed","pending","setup_in_progress","planned","discontinued","not_listed"];
 const cssVar = s => getComputedStyle(document.body).getPropertyValue('--'+s) || '#888';
 let view = "catalog";
@@ -248,18 +269,18 @@ function render(){
       <td class="muted">${esc(d.ds)}</td><td class="nm" title="${esc(d.name)}">${esc(d.name)}</td>
       <td>${esc(d.vendor)}</td><td><span class="badge lc-${d.lifecycle}">${d.lifecycle}</span></td>
       ${Object.keys(CHANNELS).map(k=>{const c=d.channels[k];
-        const cov=(k==='walmart_3p' && d.channels.walmart_1p && d.channels.walmart_1p.state==='live' && c.state==='not_listed');
-        const tip=cov?'Walmart 3P: not needed (listed on Walmart 1P)'
-          :`${CHANNELS[k]}: ${c.state}`+(c.id?` · ${c.id}`:'')+(c.case?` · case ${c.case}`:'')+(c.issue?` · ${c.issue}`:'');
-        return `<td><span class="chip${cov?' na':''}" style="background:${cov?'transparent':cssVar(c.state)}" title="${esc(tip)}"></span></td>`;}).join('')}
+        const na=naInfo(k,c,d);
+        const tip=na||(`${CHANNELS[k]}: ${c.state}`+(c.id?` · ${c.id}`:'')+(c.case?` · case ${c.case}`:'')+(c.issue?` · ${c.issue}`:''));
+        return `<td><span class="chip${na?' na':''}" style="background:${na?'transparent':cssVar(c.state)}" title="${esc(tip)}"></span></td>`;}).join('')}
     </tr>`).join('');
   }
 }
 
 function openDrawer(d){
   const ch = Object.keys(CHANNELS).map(k=>{const c=d.channels[k];
-    const cov=(k==='walmart_3p' && d.channels.walmart_1p && d.channels.walmart_1p.state==='live' && c.state==='not_listed');
-    if(cov) return `<div class="chiplbl"><span class="chip na"></span>${esc(CHANNELS[k])}: <span class="muted">not needed (on Walmart 1P)</span></div>`;
+    const na=naInfo(k,c,d);
+    if(na){const label=(NA_RULES[d.vslug]||[]).includes(k)?'not applicable':'not needed (on Walmart 1P)';
+      return `<div class="chiplbl"><span class="chip na"></span>${esc(CHANNELS[k])}: <span class="muted">${label}</span></div>`;}
     return `<div class="chiplbl"><span class="chip" style="background:${cssVar(c.state)}"></span>${esc(CHANNELS[k])}: ${c.state.replace(/_/g,' ')}`
       +(c.id?(c.url?` · <a href="${esc(c.url)}" target="_blank">${esc(c.id)}</a>`:` · <span class="muted">${esc(c.id)}</span>`):'')
       +(c.case?` · case ${esc(c.case)}`:'')

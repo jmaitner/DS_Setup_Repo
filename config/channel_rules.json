@@ -1,0 +1,7 @@
+{
+  "_comment": "Channels we intentionally DO NOT sell on, per vendor-slug. The dashboard renders these as a dashed 'N/A' instead of a not-listed gap. Edit this list as coverage changes.",
+  "not_applicable": {
+    "east-river-toys": ["amazon"],
+    "cactus-games": ["amazon", "ebay"]
+  }
+}
