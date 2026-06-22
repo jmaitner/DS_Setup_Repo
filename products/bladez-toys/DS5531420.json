@@ -18,7 +18,7 @@
   "sourcing": {
     "fob_point": "Ningbo, CN",
     "country_of_origin": "China",
-    "harmonized_code": 9503009990
+    "harmonized_code": "9503009990"
   },
   "content": {
     "bullets": [
@@ -28,7 +28,7 @@
       "COLLECT THEM ALL - All the most iconic characters including Niffler, Hedwig and Buckbeak have been brought to life in this creative assortment!",
       "OFFICIAL LICENSED HARRY POTTER TOY - This offically licensed character set makes a great gift or rainy day activity for any Harry Potter fans aged 6 and above."
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Make Your Own Dobby from Harry Potter with Maker Kitz! Made using sustainable materials, this set requires no glue or scissors and therefore is perfect for kids and adults alike. Also available in the Magical Creatures range are Buckbeak and Hedwig from the best selling Harry Potter series and Niffler from Fantastic Beasts."
   },
   "attributes": {
@@ -36,7 +36,7 @@
     "num_pieces": 1,
     "whats_in_box": "1 x Make Your Own Character Kit, 1 x Instruction Sheet",
     "primary_color": "Multi",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 6,
     "max_age": 0,
     "gender": "Unisex",
@@ -86,26 +86,27 @@
     "warranty_included": "No",
     "warranty_desc": "12 Months",
     "batteries_required": "No",
-    "batteries_included": 0,
-    "battery_cell_comp": 0,
-    "battery_type_qty": 0,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
     "packaging_type": "Closed Box",
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "bladez-toys"
   }
 }

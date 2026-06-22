@@ -18,7 +18,7 @@
   "sourcing": {
     "fob_point": "Yantian, CN",
     "country_of_origin": "China",
-    "harmonized_code": 9503007590
+    "harmonized_code": "9503007590"
   },
   "content": {
     "bullets": [
@@ -26,9 +26,9 @@
       "STEM ACTIVITY - This STEM set is great for child development - teaching problem solving and improving hand eye coordination and dexterity in a fun and engaging way!",
       "DESIGNED FOR LITTLE HANDS - The jumbo sized pieces make this set super easy for younger children to enjoy.",
       "OFFICIAL LICENSED HOT WHEELS TOY - The perfect playset for all young Hot Wheels fans, kids will love racing the Bone Speeder around this bright and colourful track!",
-      0
+      null
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Connect and play with the Hot Wheels Track Playset and motorised Bone Speeder! Build the track using the 6 colourful jumbo tile pieces and watch your vehicle race around and around! Keep changing the route by rearranging the tiles and build up to 50 different track combinations. The motorised vehicle will also run on any flat surface so if it goes off track it doesn't stop the fun. This STEM set is great for child development, problem solving and coordination and the perfect playset for all young Hot Wheels fans."
   },
   "attributes": {
@@ -36,7 +36,7 @@
     "num_pieces": 7,
     "whats_in_box": "1 x Motorised Vehicle, 6 x Jumbo Puzzle Pieces",
     "primary_color": "Multi",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 36,
     "max_age": 0,
     "gender": "Unisex",
@@ -90,16 +90,16 @@
     "battery_cell_comp": "Alkaline",
     "battery_type_qty": "1x AAA Battery",
     "packaging_type": "Window Box",
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
     "documents": [
       {
         "type": "ASTM Test Report",
@@ -113,9 +113,10 @@
   },
   "_meta": {
     "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "bladez-toys"
   }
 }

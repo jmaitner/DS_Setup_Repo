@@ -23,7 +23,7 @@ CLAUDE.md                                Rules Claude follows when working here.
    ```
    git clone https://github.com/jmaitner/DS_Setup_Repo
    cd DS_Setup_Repo
-   pip install openpyxl
+   pip install -r requirements.txt
    claude
    ```
 2. **Ask Claude** things like:

@@ -22,13 +22,13 @@
   },
   "content": {
     "bullets": [
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible"
+      "Officially licensed Zelda: Breath of the Wild collectible statue — Urbosa, Collector's Edition",
+      "Dynamic mid-twirl pose with skirt and hair flowing freely",
+      "Base features the Sheikah Eye symbol, consistent with the Breath of the Wild lineup",
+      "Two LED light-up modes: Static (steady blue glow) and Animated (pulsating blue glow)",
+      "High-quality painted PVC construction"
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Urbosa is brought to life with stunning detail in this high-quality PVC statue. Her dynamic pose makes her appear in mid-twirl, with her skirt and hair flowing free. The base’s design features the Sheikah Eye symbol, consistent with the other statues in the First 4 Figures The Legend of Zelda : Breath of the Wild lineup.\nThe Collector’s Edition of this statue has two (2) light-up LED modes (Static and Animated) in the base. When activated, the Sheikah Eye symbol will glow a brilliant blue: steadily on in Static mode and pulsating in Animated mode."
   },
   "attributes": {
@@ -36,12 +36,12 @@
     "num_pieces": 4,
     "whats_in_box": "• Exquisitely detailed PVC statue of Urbosa with pose inspired by official artwork\n• Highly detailed base featuring the Sheikah Eye symbol.\n• Two (2) Light-up LED modes (Static and Animated) for the base\n• F4F Leaflet with 500 F4F reward points included",
     "primary_color": "Brown",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 15,
     "max_age": 0,
-    "gender": 0,
+    "gender": null,
     "assembly_required": "No",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "Yes",
@@ -76,36 +76,37 @@
       "width_unit": "in",
       "height": 14.76,
       "height_unit": "in",
-      "weight": 0,
+      "weight": 13.67,
       "weight_unit": "lbs"
     }
   },
   "compliance": {
-    "choking_hazard": 0,
-    "lead_phthalates": 0,
-    "warranty_included": 0,
-    "warranty_desc": 0,
-    "batteries_required": 0,
-    "batteries_included": 0,
-    "battery_cell_comp": 0,
-    "battery_type_qty": 0,
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": null,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "Move Forward Items",
     "vendor_slug": "first-4-figures"
   }
 }

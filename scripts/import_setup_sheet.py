@@ -76,6 +76,8 @@ def main():
                     help="Overwrite existing product files instead of skipping them")
     ap.add_argument("--dry-run", action="store_true",
                     help="Show what would happen without writing files")
+    ap.add_argument("--sheet", help="Which tab to read. Default: 'Move Forward Items' if "
+                                    "present (the curated carry-forward list), else 'DS Only'.")
     args = ap.parse_args()
 
     path = args.xlsx.strip().strip('"').strip("'")
@@ -90,9 +92,18 @@ def main():
 
     print(f"Opening: {os.path.basename(path)}")
     wb = load_workbook(path, data_only=True)
-    if "DS Only" not in wb.sheetnames:
-        sys.exit("ERROR: sheet 'DS Only' not found - is this the 2026 template?")
-    ws = wb["DS Only"]
+    if args.sheet:
+        sheet_name = args.sheet
+    elif "Move Forward Items" in wb.sheetnames:
+        sheet_name = "Move Forward Items"
+    elif "DS Only" in wb.sheetnames:
+        sheet_name = "DS Only"
+    else:
+        sys.exit("ERROR: no 'Move Forward Items' or 'DS Only' sheet - is this the 2026 template?")
+    if sheet_name not in wb.sheetnames:
+        sys.exit(f"ERROR: sheet '{sheet_name}' not found. Tabs: {wb.sheetnames}")
+    print(f"Reading sheet: '{sheet_name}'")
+    ws = wb[sheet_name]
 
     supplier_id = read_supplier_id(ws)
     source_file = os.path.basename(path)
@@ -108,6 +119,7 @@ def main():
         prod = sheet_row_to_product(ws, row)
         prod["vendor"] = vendor
         prod["_meta"]["source_file"] = source_file
+        prod["_meta"]["source_sheet"] = sheet_name
         prod["_meta"]["imported_at"] = today
         prod["_meta"]["supplier_id"] = supplier_id
         prod["_meta"]["vendor_slug"] = slug

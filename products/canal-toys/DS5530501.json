@@ -16,7 +16,7 @@
     "msrp": 24.99
   },
   "sourcing": {
-    "fob_point": 0,
+    "fob_point": null,
     "country_of_origin": "China",
     "harmonized_code": "9503.00.0073"
   },
@@ -28,7 +28,7 @@
       "Stretche and squish it",
       "add in glittery decorations for cooler effect"
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Make your own glow in the dark Lava Slime! Includes everything you need to make 5 lava lamp inspired slimes. Place one pack of clear slime, one pack of glow slime, and the special lava beads in the lava lamp container. Watch as it grows lava-like formations and glows in the dark! Remove it to stretch, squish, and play! Add glittery decorations to your slime for an even cooler effect. Place your slime back in the lava lamp container to store it for later. You can even use it as a trendy piece of glow in the dark room décor until you’re ready to play again"
   },
   "attributes": {
@@ -36,12 +36,12 @@
     "num_pieces": "15 pieces",
     "whats_in_box": "5 pack of clear slime, 5 packs of glow in the dark slime, 3 packs of decorations, 1 pack of lava beads, 1 lava lamp container, instructions",
     "primary_color": "Multi",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 6,
     "max_age": 0,
-    "gender": 0,
+    "gender": null,
     "assembly_required": "No",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "Yes",
@@ -86,30 +86,31 @@
   },
   "compliance": {
     "choking_hazard": "Yes",
-    "lead_phthalates": 0,
+    "lead_phthalates": null,
     "warranty_included": "No",
-    "warranty_desc": 0,
+    "warranty_desc": null,
     "batteries_required": "No",
-    "batteries_included": 0,
-    "battery_cell_comp": 0,
-    "battery_type_qty": 0,
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "canal-toys"
   }
 }

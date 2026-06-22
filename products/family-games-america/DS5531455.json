@@ -28,7 +28,7 @@
       "Eco Responsible",
       "Appeals to all ages."
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Increase the number of moves you make per round in this game of multiplied moves. Create 4 in a row to win. It's a mesmerizing strategy game of multiplied moves."
   },
   "attributes": {
@@ -36,12 +36,12 @@
     "num_pieces": 18,
     "whats_in_box": "One 8 x 8 x 1.5 inch wooden playing board, 16 wood/metal spheres, 1 counter, instructions.",
     "primary_color": "Brown",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": "8 +",
     "max_age": 0,
-    "gender": 0,
+    "gender": null,
     "assembly_required": "No",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "Yes",
@@ -82,30 +82,31 @@
   },
   "compliance": {
     "choking_hazard": "N/A",
-    "lead_phthalates": 0,
+    "lead_phthalates": null,
     "warranty_included": "No",
-    "warranty_desc": 0,
+    "warranty_desc": null,
     "batteries_required": "No",
-    "batteries_included": 0,
-    "battery_cell_comp": 0,
-    "battery_type_qty": 0,
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "2nd_Family Games America_New Item Setup Sheet Template Version 2026 Games.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "family-games-america"
   }
 }

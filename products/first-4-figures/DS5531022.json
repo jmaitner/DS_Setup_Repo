@@ -22,13 +22,13 @@
   },
   "content": {
     "bullets": [
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible"
+      "Officially licensed Darkstalkers collectible statue — Player 2 variant",
+      "Highly detailed base inspired by Morrigan's stage, Deserted Chateau",
+      "Base features rock formations, a coffin, purple puddle, skulls, and candles from the game's background",
+      "Alternate Player 2 color variant of the Morrigan Aensland design",
+      "High-quality painted PVC construction"
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "The design of the base comes from Morrigan's stage in the game, Deserted Chateau. In the foreground and background of the stage are numerous rock formations as if players were fighting in a cave. As for the coffin, the purple puddle, the skulls, and the candles on the base, these are details that can also be found in the background of Deserted Chateau. The coffin is resting on the left-most part of the stage, and to the right is a body of purple liquid lit by candles with skulls and bones floating.The design of the base comes from Morrigan's stage in the game, Deserted Chateau. In the foreground and background of the stage are numerous rock formations as if players were fighting in a cave. As for the coffin, the purple puddle, the skulls, and the candles on the base, these are details that can also be found in the background of Deserted Chateau. The coffin is resting on the left-most part of the stage, and to the right is a body of purple liquid lit by candles with skulls and bones floating."
   },
   "attributes": {
@@ -36,12 +36,12 @@
     "num_pieces": 2,
     "whats_in_box": "• Darkstalkers – Morrigan Aensland PVC painted statue (Player 2 variant)\n• Highly detailed base inspired by the Darkstalkers art style",
     "primary_color": "Grey",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 15,
     "max_age": 0,
-    "gender": 0,
+    "gender": null,
     "assembly_required": "No",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "Yes",
@@ -76,36 +76,37 @@
       "width_unit": "in",
       "height": 12.2,
       "height_unit": "in",
-      "weight": 0,
+      "weight": 13.43,
       "weight_unit": "lbs"
     }
   },
   "compliance": {
-    "choking_hazard": 0,
-    "lead_phthalates": 0,
-    "warranty_included": 0,
-    "warranty_desc": 0,
-    "batteries_required": 0,
-    "batteries_included": 0,
-    "battery_cell_comp": 0,
-    "battery_type_qty": 0,
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": null,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "Move Forward Items",
     "vendor_slug": "first-4-figures"
   }
 }

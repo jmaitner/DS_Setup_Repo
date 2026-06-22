@@ -56,6 +56,21 @@ def _price(value):
         return None  # placeholder text (x, n/a, tbd, ...) -> no price
 
 
+def _text(value):
+    """
+    Normalise a TEXT cell to a string or None. Numbers in a text field are template
+    artifacts: a bare 0 means "empty" -> None; other numbers become their string form
+    (e.g. a numeric vendor item 25651 -> '25651', harmonized code 9503007590 -> '...').
+    """
+    if value is None:
+        return None
+    if isinstance(value, (int, float)):
+        if value == 0:
+            return None
+        return str(value).rstrip("0").rstrip(".") if isinstance(value, float) else str(value)
+    return value  # already a cleaned, stripped string
+
+
 def brand_slug(brand):
     """'First4 Figures' -> 'first4-figures'.  Used for folder names."""
     if not brand:
@@ -78,7 +93,12 @@ def sheet_row_to_product(ws, row):
     Captures ALL 81 template columns for full fidelity.
     """
     def g(col):
+        """Raw cleaned value (for numeric fields)."""
         return _clean(ws.cell(row=row, column=col).value)
+
+    def t(col):
+        """Cleaned TEXT value: numbers coerced, bare 0 -> None."""
+        return _text(_clean(ws.cell(row=row, column=col).value))
 
     image_urls = [g(c) for c in (
         DS.IMAGE_URL_1, DS.IMAGE_URL_2, DS.IMAGE_URL_3,
@@ -90,13 +110,13 @@ def sheet_row_to_product(ws, row):
     return {
         "ds_number": str(g(DS.DS_NUMBER)) if g(DS.DS_NUMBER) is not None else None,
         "vendor": None,  # set by the importer from the file path; folder is keyed on this
-        "brand": g(DS.BRAND),  # marketing brand from col 9 (e.g. "Disney Toddler")
-        "vendor_item_number": g(DS.VENDOR_ITEM_NUMBER),
-        "product_name": g(DS.PRODUCT_NAME),
+        "brand": t(DS.BRAND),  # marketing brand from col 9 (e.g. "Disney Toddler")
+        "vendor_item_number": t(DS.VENDOR_ITEM_NUMBER),
+        "product_name": t(DS.PRODUCT_NAME),
 
         "identity": {
-            "id_type": g(DS.ID_TYPE),
-            "upc": str(g(DS.UPC)) if g(DS.UPC) is not None else None,
+            "id_type": t(DS.ID_TYPE),
+            "upc": str(g(DS.UPC)) if g(DS.UPC) not in (None, 0) else None,
         },
 
         "pricing": {
@@ -108,80 +128,80 @@ def sheet_row_to_product(ws, row):
         },
 
         "sourcing": {
-            "fob_point": g(DS.FOB_POINT),
-            "country_of_origin": g(DS.COUNTRY_OF_ORIGIN),
-            "harmonized_code": g(DS.HARMONIZED_CODE),
+            "fob_point": t(DS.FOB_POINT),
+            "country_of_origin": t(DS.COUNTRY_OF_ORIGIN),
+            "harmonized_code": t(DS.HARMONIZED_CODE),
         },
 
         "content": {
             "bullets": [
-                g(DS.BULLET_1), g(DS.BULLET_2), g(DS.BULLET_3),
-                g(DS.BULLET_4), g(DS.BULLET_5),
+                t(DS.BULLET_1), t(DS.BULLET_2), t(DS.BULLET_3),
+                t(DS.BULLET_4), t(DS.BULLET_5),
             ],
-            "keywords": g(DS.KEYWORDS),
-            "description": g(DS.DESCRIPTION),
+            "keywords": t(DS.KEYWORDS),
+            "description": t(DS.DESCRIPTION),
         },
 
         "attributes": {
-            "material": g(DS.MATERIAL),
+            "material": t(DS.MATERIAL),
             "num_pieces": g(DS.NUM_PIECES),
-            "whats_in_box": g(DS.WHATS_IN_BOX),
-            "primary_color": g(DS.PRIMARY_COLOR),
-            "secondary_color": g(DS.SECONDARY_COLOR),
+            "whats_in_box": t(DS.WHATS_IN_BOX),
+            "primary_color": t(DS.PRIMARY_COLOR),
+            "secondary_color": t(DS.SECONDARY_COLOR),
             "min_age": g(DS.MIN_AGE),
             "max_age": g(DS.MAX_AGE),
-            "gender": g(DS.GENDER),
-            "assembly_required": g(DS.ASSEMBLY_REQUIRED),
-            "assembly_instructions": g(DS.ASSEMBLY_INSTRUCTIONS),
+            "gender": t(DS.GENDER),
+            "assembly_required": t(DS.ASSEMBLY_REQUIRED),
+            "assembly_instructions": t(DS.ASSEMBLY_INSTRUCTIONS),
         },
 
         "images": {
-            "availability": g(DS.IMAGE_AVAILABILITY),
+            "availability": t(DS.IMAGE_AVAILABILITY),
             "urls": image_urls,
         },
 
         "dimensions": {
             "item": {
-                "weight": g(DS.ITEM_WEIGHT), "weight_unit": g(DS.ITEM_WEIGHT_UNIT),
-                "length": g(DS.ITEM_LENGTH), "length_unit": g(DS.ITEM_LENGTH_UNIT),
-                "width": g(DS.ITEM_WIDTH), "width_unit": g(DS.ITEM_WIDTH_UNIT),
-                "height": g(DS.ITEM_HEIGHT), "height_unit": g(DS.ITEM_HEIGHT_UNIT),
+                "weight": g(DS.ITEM_WEIGHT), "weight_unit": t(DS.ITEM_WEIGHT_UNIT),
+                "length": g(DS.ITEM_LENGTH), "length_unit": t(DS.ITEM_LENGTH_UNIT),
+                "width": g(DS.ITEM_WIDTH), "width_unit": t(DS.ITEM_WIDTH_UNIT),
+                "height": g(DS.ITEM_HEIGHT), "height_unit": t(DS.ITEM_HEIGHT_UNIT),
             },
             "package": {
-                "weight": g(DS.PKG_WEIGHT), "weight_unit": g(DS.PKG_WEIGHT_UNIT),
-                "length": g(DS.PKG_LENGTH), "length_unit": g(DS.PKG_LENGTH_UNIT),
-                "width": g(DS.PKG_WIDTH), "width_unit": g(DS.PKG_WIDTH_UNIT),
-                "height": g(DS.PKG_HEIGHT), "height_unit": g(DS.PKG_HEIGHT_UNIT),
+                "weight": g(DS.PKG_WEIGHT), "weight_unit": t(DS.PKG_WEIGHT_UNIT),
+                "length": g(DS.PKG_LENGTH), "length_unit": t(DS.PKG_LENGTH_UNIT),
+                "width": g(DS.PKG_WIDTH), "width_unit": t(DS.PKG_WIDTH_UNIT),
+                "height": g(DS.PKG_HEIGHT), "height_unit": t(DS.PKG_HEIGHT_UNIT),
             },
             "master_case": {
                 "case_qty": g(DS.CASE_QTY),
-                "length": g(DS.MC_LENGTH), "length_unit": g(DS.MC_LENGTH_UNIT),
-                "width": g(DS.MC_WIDTH), "width_unit": g(DS.MC_WIDTH_UNIT),
-                "height": g(DS.MC_HEIGHT), "height_unit": g(DS.MC_HEIGHT_UNIT),
-                "weight": g(DS.MC_WEIGHT), "weight_unit": g(DS.MC_WEIGHT_UNIT),
+                "length": g(DS.MC_LENGTH), "length_unit": t(DS.MC_LENGTH_UNIT),
+                "width": g(DS.MC_WIDTH), "width_unit": t(DS.MC_WIDTH_UNIT),
+                "height": g(DS.MC_HEIGHT), "height_unit": t(DS.MC_HEIGHT_UNIT),
+                "weight": g(DS.MC_WEIGHT), "weight_unit": t(DS.MC_WEIGHT_UNIT),
             },
         },
 
         "compliance": {
-            "choking_hazard": g(DS.CHOKING_HAZARD),
-            "lead_phthalates": g(DS.LEAD_PHTHALATES),
-            "warranty_included": g(DS.WARRANTY_INCLUDED),
-            "warranty_desc": g(DS.WARRANTY_DESC),
-            "batteries_required": g(DS.BATTERIES_REQUIRED),
-            "batteries_included": g(DS.BATTERIES_INCLUDED),
-            "battery_cell_comp": g(DS.BATTERY_CELL_COMP),
-            "battery_type_qty": g(DS.BATTERY_TYPE_QTY),
-            "packaging_type": g(DS.PACKAGING_TYPE),
-            "compliance_cert": g(DS.COMPLIANCE_CERT),
-            "doc": g(DS.DOC),
-            "sds": g(DS.SDS),
-            "sds_url": g(DS.SDS_URL),
-            "cpsia": g(DS.CPSIA),
-            "test_reports": g(DS.TEST_REPORTS),
-            "cpc": g(DS.CPC),
-            "product_pics": g(DS.PRODUCT_PICS),
-            "instructions": g(DS.INSTRUCTIONS),
-            "letter_of_compliance": g(DS.LETTER_OF_COMPLIANCE),
+            "choking_hazard": t(DS.CHOKING_HAZARD),
+            "lead_phthalates": t(DS.LEAD_PHTHALATES),
+            "warranty_included": t(DS.WARRANTY_INCLUDED),
+            "warranty_desc": t(DS.WARRANTY_DESC),
+            "batteries_required": t(DS.BATTERIES_REQUIRED),
+            "batteries_included": t(DS.BATTERIES_INCLUDED),
+            "battery_cell_comp": t(DS.BATTERY_CELL_COMP),
+            "battery_type_qty": t(DS.BATTERY_TYPE_QTY),
+            "packaging_type": t(DS.PACKAGING_TYPE),
+            "compliance_cert": t(DS.COMPLIANCE_CERT),
+            "doc": t(DS.DOC),
+            "sds": t(DS.SDS),
+            "sds_url": t(DS.SDS_URL),
+            "cpsia": t(DS.CPSIA),
+            "test_reports": t(DS.TEST_REPORTS),
+            "cpc": t(DS.CPC),
+            "product_pics": t(DS.PRODUCT_PICS),
+            "instructions": t(DS.INSTRUCTIONS),
+            "letter_of_compliance": t(DS.LETTER_OF_COMPLIANCE),
         },
 
         "_meta": {

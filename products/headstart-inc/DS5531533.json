@@ -2,7 +2,7 @@
   "ds_number": "5531533",
   "vendor": "Headstart Inc",
   "brand": "Disney Toddler",
-  "vendor_item_number": 30123,
+  "vendor_item_number": "30123",
   "product_name": "Toy Story Push N Play Vehicles",
   "identity": {
     "id_type": "UPC",
@@ -82,7 +82,7 @@
   },
   "compliance": {
     "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
-    "lead_phthalates": 0,
+    "lead_phthalates": null,
     "warranty_included": "Yes",
     "warranty_desc": "1 year manufacturer warranty",
     "batteries_required": "No",
@@ -103,9 +103,10 @@
   },
   "_meta": {
     "source_file": "HeadStart Disney New Item Setup Sheet 2026.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": 2061,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "headstart-inc"
   }
 }

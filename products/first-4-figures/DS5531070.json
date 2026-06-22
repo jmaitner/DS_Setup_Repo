@@ -22,13 +22,13 @@
   },
   "content": {
     "bullets": [
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible"
+      "Officially licensed Yu-Gi-Oh! collectible statue — Dark Magician, Purple Variant",
+      "Inspired by Dark Magician's iconic summoning pose from the anime — ready for battle stance",
+      "Wielding the Magician's Rod, poised to cast Dark Magic Attack",
+      "Smoke on base emphasizes a fresh summoning; Ancient Egyptian environment with hieroglyphic details",
+      "Comes in a collector's box with F4F leaflet and 500 reward points"
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "The statue's concept is inspired by one of Dark Magician's iconic summoning poses in the anime, where he's in this \"ready for action\" stance with the Dark Magical Circle in the background. He has his left arm stretched out and is wielding the Magician's Rod in his right hand, ready to cast his signature spell: Dark Magic Attack. The smoke on the base adds emphasis that Dark Magician has been newly summoned onto the battlefield. Since Dark Magician's origin story dates back to Ancient Egyptian times, we decided to design the base to reflect this aspect of Dark Magician, from the sandy and rocky environment atop the base to the hieroglyphic patterns on the side."
   },
   "attributes": {
@@ -36,12 +36,12 @@
     "num_pieces": 4,
     "whats_in_box": "• Yu-Gi-Oh! – Dark Magician (Purple or Blue colour variant)\n• Highly detailed PVC base inspired by the Yu-Gi-Oh! art style\n• Collector’s Box & F4F Leaflet with 500 F4F reward points included",
     "primary_color": "Purple",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 15,
     "max_age": 0,
-    "gender": 0,
+    "gender": null,
     "assembly_required": "No",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "Yes",
@@ -81,31 +81,32 @@
     }
   },
   "compliance": {
-    "choking_hazard": 0,
-    "lead_phthalates": 0,
-    "warranty_included": 0,
-    "warranty_desc": 0,
-    "batteries_required": 0,
-    "batteries_included": 0,
-    "battery_cell_comp": 0,
-    "battery_type_qty": 0,
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": null,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "Move Forward Items",
     "vendor_slug": "first-4-figures"
   }
 }

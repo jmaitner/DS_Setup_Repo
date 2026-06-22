@@ -2,7 +2,7 @@
   "ds_number": "5531545",
   "vendor": "Headstart Inc",
   "brand": "Mermaid Magic",
-  "vendor_item_number": 28149,
+  "vendor_item_number": "28149",
   "product_name": "Mermaid Magic  9\" Warrior Transformation Doll  - Sasha",
   "identity": {
     "id_type": "UPC",
@@ -102,18 +102,19 @@
     "doc": null,
     "sds": null,
     "sds_url": null,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "Mermaid Magic New Item Setup Sheet Template Version 2026.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": 2061,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "headstart-inc"
   }
 }

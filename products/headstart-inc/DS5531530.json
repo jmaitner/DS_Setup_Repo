@@ -2,7 +2,7 @@
   "ds_number": "5531530",
   "vendor": "Headstart Inc",
   "brand": "Disney Toddler",
-  "vendor_item_number": 26927,
+  "vendor_item_number": "26927",
   "product_name": "Disney Toddler Stitch Ring Stacker",
   "identity": {
     "id_type": "UPC",
@@ -44,7 +44,7 @@
     "assembly_instructions": "No"
   },
   "images": {
-    "availability": 0,
+    "availability": null,
     "urls": [
       "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781614848/Headstart/Updated/26927/26927_Stitch_Ring_Stacker_Main.jpg",
       "https://res.cloudinary.com/dbwtptwyf/image/upload/v1781614849/Headstart/Updated/26927/26927_Stitch_Ring_Stacker_render.jpg",
@@ -85,31 +85,32 @@
     }
   },
   "compliance": {
-    "choking_hazard": 0,
-    "lead_phthalates": 0,
-    "warranty_included": 0,
-    "warranty_desc": 0,
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
     "batteries_required": "No",
     "batteries_included": "No",
-    "battery_cell_comp": 0,
+    "battery_cell_comp": null,
     "battery_type_qty": "No",
     "packaging_type": "color box",
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "HeadStart Disney New Item Setup Sheet 2026.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": 2061,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "headstart-inc"
   }
 }

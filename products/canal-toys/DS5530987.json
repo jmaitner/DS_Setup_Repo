@@ -16,7 +16,7 @@
     "msrp": 24.99
   },
   "sourcing": {
-    "fob_point": 0,
+    "fob_point": null,
     "country_of_origin": "China",
     "harmonized_code": "9503.00.0073"
   },
@@ -28,7 +28,7 @@
       "Add some water into the shaker cup…then shake for 30 seconds. Your slime is ready in 5 minutes! Mix in the pack of decorations… beads, fruit shapes, mini straws and more",
       "Your slime is ready in 5 minutes! Mix in the pack of decorations… beads, fruit shapes, mini straws and more"
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Mix your own scented slimes with this Slime'licious Slime Station! This set makes up to 16 scented mini slimes! Slime'licious slimes are so fresh and SMELLICIOUS! This slime making workstation makes it  so fun and easy to mix up your own custom food-inspired mini slimes without a mess. Create your own scented slime recipes!  Includes everything you need…just add water! No glue required. Slime Station includes 4 mini parfait style slime shakers and slime powder you can make popcorn slime, grape slime, chocolate slime, bubble gum slime  or even Strawberry Milk & Cereal slime! What slime will you mix up? Simply dispense slime powder into the shaker cup. Then add a few drops of your choice of scented colorants. Add some water into the shaker cup…then shake for 30 seconds. Your slime is ready in 5 minutes! Mix in the pack of decorations… beads, fruit shapes, mini straws and more!\n Enjoy and share your sweet scent-sational slime creations! Your senses will explode with all great scents and slime decorations to squish, stretch, and swirl. It’s so fun to make and play! Includes Slime Station,  Slime Powder, 3 bottles of scented colorant, mini spoon, mixing tool,  7 Packs of Decorations, 3 mini straw decorations, 4 reusable mini Slime Shaker Containers, 1 Sticker Sheet,  and Instructions. Collect and make all the Slime'licious styles from So Slime DIY. Ages 6+. Made In China. Notice: Colors and styles of contents may vary. Conforms to ASTM D-4236. Do not put content near eyes or mouth. This product is not food and not to be used as food containers.  Do not eat or ingest contents. Wash hands after use. Contents contain colorants that may stain certain surfaces. Read all instructions before use."
   },
   "attributes": {
@@ -36,12 +36,12 @@
     "num_pieces": "23 pieces",
     "whats_in_box": "Slime Station,  Slime Powder, 3 bottles of scented colorant, mini spoon, mixing tool,  7 Packs of Decorations, 3 mini straw decorations, 4 reusable mini Slime Shaker Containers, 1 Sticker Sheet,  and Instructions",
     "primary_color": "Multi",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 6,
     "max_age": 0,
-    "gender": 0,
+    "gender": null,
     "assembly_required": "No",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "Yes",
@@ -95,29 +95,30 @@
   "compliance": {
     "choking_hazard": "Yes",
     "lead_phthalates": "Yes",
-    "warranty_included": 0,
+    "warranty_included": null,
     "warranty_desc": "No",
-    "batteries_required": 0,
-    "batteries_included": 0,
-    "battery_cell_comp": 0,
-    "battery_type_qty": 0,
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "batteries_required": null,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "canal-toys"
   }
 }

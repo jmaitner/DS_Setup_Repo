@@ -22,26 +22,26 @@
   },
   "content": {
     "bullets": [
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible"
+      "Officially licensed Zelda: Breath of the Wild collectible statue — Link, Standard Edition",
+      "Depicts Link awakening from a 100-year sleep in the Shrine of Resurrection",
+      "Inspired by the official Breath of the Wild artwork and story of Link's journey across Hyrule",
+      "Link must defeat Calamity Ganon, who has been sealed in Hyrule Castle for a century",
+      "High-quality painted PVC construction"
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "There was once a disaster that became known as 'calamity'. And hyrule kingdom collapsed. This is a story of 100 years after 'calamity'. Link, as the main character, wakes up from a long sleep in the underground ruin. Then he hears a mysterious voice. And following that, he steps into the wild land.\n“Link is suddenly woken from his one hundred year sleep inside the Shrine of Resurrection of the Great Plateau, and guided by a mysterious female voice through the ruins of Hyrule. He learns from an Old Man that a being called Calamity Ganon had appeared one hundred years earlier and destroyed much of Hyrule before being sealed away in Hyrule Castle. It is later revealed that this Old Man is Rhoam Bosphoramus Hyrule, the last King of Hyrule, in spirit form. Although Ganon was trapped, his power continues to grow from inside the castle, and Link must defeat him before he breaks free and destroys the rest of Hyrule. He must do this by unlocking memories of his past, which are revealed over time....”"
   },
   "attributes": {
     "material": "PVC",
     "num_pieces": 6,
-    "whats_in_box": 0,
+    "whats_in_box": null,
     "primary_color": "Blue",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 15,
     "max_age": 0,
-    "gender": 0,
+    "gender": null,
     "assembly_required": "No",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "Yes",
@@ -81,31 +81,32 @@
     }
   },
   "compliance": {
-    "choking_hazard": 0,
-    "lead_phthalates": 0,
-    "warranty_included": 0,
-    "warranty_desc": 0,
-    "batteries_required": 0,
-    "batteries_included": 0,
-    "battery_cell_comp": 0,
-    "battery_type_qty": 0,
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": null,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "Move Forward Items",
     "vendor_slug": "first-4-figures"
   }
 }

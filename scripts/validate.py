@@ -42,9 +42,27 @@ from ds_schema import brand_slug
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PRODUCTS_DIR = os.path.join(REPO_ROOT, "products")
+SCHEMA_PATH = os.path.join(REPO_ROOT, "schema", "product.schema.json")
 
 NUMERIC_PRICE_FIELDS = ("drop_ship_cost", "wholesale_cost",
                         "ds_cost_domestic", "import_cost", "msrp")
+
+
+def load_schema_validator():
+    """Return a jsonschema validator for product.schema.json, or None if unavailable."""
+    try:
+        from jsonschema import Draft7Validator
+    except ImportError:
+        print("NOTE: jsonschema not installed - skipping schema checks "
+              "(run: pip install -r requirements.txt). Rule checks still run.\n")
+        return None
+    try:
+        with open(SCHEMA_PATH, encoding="utf-8") as f:
+            schema = json.load(f)
+        return Draft7Validator(schema)
+    except Exception as e:
+        print(f"NOTE: could not load schema ({e}) - skipping schema checks.\n")
+        return None
 
 
 def is_number(v):
@@ -68,6 +86,7 @@ def main():
     files = sorted(glob.glob(os.path.join(PRODUCTS_DIR, "**", "*.json"), recursive=True))
     errors, warnings = [], []
     ds_seen, upc_seen = {}, {}
+    validator = load_schema_validator()
 
     if not files:
         print("No product files found under products/. Nothing to validate.")
@@ -81,6 +100,12 @@ def main():
         except Exception as e:
             errors.append(f"{rel}: invalid JSON - {e}")
             continue
+
+        # ── schema conformance (structure / types / unknown fields) ──
+        if validator is not None:
+            for err in validator.iter_errors(p):
+                loc = ".".join(str(x) for x in err.absolute_path) or "(root)"
+                errors.append(f"{rel}: schema [{loc}] {err.message}")
 
         ds = str(p.get("ds_number") or "").strip()
         vendor = p.get("vendor")

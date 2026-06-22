@@ -22,13 +22,13 @@
   },
   "content": {
     "bullets": [
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible"
+      "Officially licensed Luigi's Mansion 3 collectible statue — Standard Edition",
+      "Features Luigi equipped with his ghost-defending weapon, the Poltergust G-00",
+      "Standard base with carpet design inspired by Luigi's Mansion",
+      "Comes in a collector's box with F4F leaflet and 500 reward points",
+      "High-quality painted PVC construction, approximately 9 inches tall"
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "The Standard Edition of this statue comes with Luigi wearing his ghost defending weapon the Poltergust G-00."
   },
   "attributes": {
@@ -36,12 +36,12 @@
     "num_pieces": 4,
     "whats_in_box": "• Luigi's Mansion 3 - Luigi 9\" PVC Painted statue\n• Standard base with carpet design\n• Poltergust G-00\n• Collectors Box\n• F4F Leaflet with 500 F4F reward points included",
     "primary_color": "Green",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 15,
     "max_age": 0,
-    "gender": 0,
+    "gender": null,
     "assembly_required": "No",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "Yes",
@@ -70,42 +70,43 @@
     },
     "master_case": {
       "case_qty": 4,
-      "length": 0,
+      "length": 15.75,
       "length_unit": "in",
-      "width": 0,
+      "width": 15.75,
       "width_unit": "in",
-      "height": 0,
+      "height": 11.61,
       "height_unit": "in",
-      "weight": 0,
+      "weight": 10.47,
       "weight_unit": "lbs"
     }
   },
   "compliance": {
-    "choking_hazard": 0,
-    "lead_phthalates": 0,
-    "warranty_included": 0,
-    "warranty_desc": 0,
-    "batteries_required": 0,
-    "batteries_included": 0,
-    "battery_cell_comp": 0,
-    "battery_type_qty": 0,
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": null,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "Move Forward Items",
     "vendor_slug": "first-4-figures"
   }
 }

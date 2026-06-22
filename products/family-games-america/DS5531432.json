@@ -28,7 +28,7 @@
       "Toy of the Year Award 2001 Belgium",
       "New York 2003 Prix d'excellence Museum Tour Catalog"
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "MADE IN CANADA - Starting with a single MICROBEAM, you'll create amazing constructions. Matchitecture is an easy and exciting technique: You simply need to cut and glue MICROBEAMS together, according to the plans. The resulting pieces are then assembled to create a detailed Tower of Pisa measuring 12 x 9.5 x 24” / 30 x 24 x 59cm tall. CUT - GLUE - ASSEMBLE."
   },
   "attributes": {
@@ -39,9 +39,9 @@
     "secondary_color": "Brown",
     "min_age": 14,
     "max_age": 0,
-    "gender": 0,
+    "gender": null,
     "assembly_required": "Yes",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "Yes",
@@ -82,30 +82,31 @@
   },
   "compliance": {
     "choking_hazard": "No, Age group 14+",
-    "lead_phthalates": 0,
+    "lead_phthalates": null,
     "warranty_included": "No",
-    "warranty_desc": 0,
+    "warranty_desc": null,
     "batteries_required": "No",
-    "batteries_included": 0,
-    "battery_cell_comp": 0,
-    "battery_type_qty": 0,
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "Family Games America New Item Setup Sheet Template Version 2025-1-1.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "family-games-america"
   }
 }

@@ -41,7 +41,7 @@
     "max_age": 0,
     "gender": "Unisex",
     "assembly_required": "no",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "yes",
@@ -82,7 +82,7 @@
   },
   "compliance": {
     "choking_hazard": "WARNING: THIS PRODUCT CONTAINS A COIN/BUTTON BATTERY: If swallowed, coin/button batteries can cause severe or fatal injuries within 2 hours.  If you think batteries may have been swallowed or placed inside any part of the body, seek immediate medical attention. KEEP COIN/BUTTON BATTERIES OUR OF REACH OF CHILDREN.",
-    "lead_phthalates": 0,
+    "lead_phthalates": null,
     "warranty_included": "Yes",
     "warranty_desc": "6 month manufactuer warranty",
     "batteries_required": "Yes",
@@ -103,9 +103,10 @@
   },
   "_meta": {
     "source_file": "Cactus Games Setup Sheet Template Version 2026.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": 210,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "cactus-games"
   }
 }

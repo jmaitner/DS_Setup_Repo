@@ -16,7 +16,7 @@
     "msrp": 19.99
   },
   "sourcing": {
-    "fob_point": 0,
+    "fob_point": null,
     "country_of_origin": "China",
     "harmonized_code": "9503.00.0073"
   },
@@ -28,7 +28,7 @@
       "Front Lens / 0.96 inch Color LCD Screen / 6 Frames and 8 Color Filters Included / Built-in Flash / Compatible Storage Support: 1 x 1GB Micro SD Card Included / Built-in Rechargeable Battery, USB-C Cable Included / Compatible with Computers, Laptops and Tablets with USB Port.",
       "1 Mini Digital Camera, 1 Keyring clip, 1 1GB Micro SD Card, Beads, 1 USB-C Charging Cable and user manual"
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Ideal for capturing everyday moments, this mini digital camera allows you to customize photos and videos with 6 frames and 8 built-in color filters. Ultra-compact, it fits easily into a pocket or hangs on a bag thanks to its practical key ring. Comes with a 1GB micro-SD card to keep your creations always at hand, and simply transfer them to a computer, tablet or other device via the included USB-C cable. Developed in France, this device is designed for children from 8 years old, in compliance with European toy standards. Its ergonomic shape and intuitive buttons allow for easy grip, ideal for everyday use"
   },
   "attributes": {
@@ -36,12 +36,12 @@
     "num_pieces": "7 pieces",
     "whats_in_box": "1 Mini Digital Camera, 1 Keyring clip, 1 1GB Micro SD Card, Beads, 1 USB-C Charging Cable and user manual",
     "primary_color": "Multi",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 8,
     "max_age": 0,
-    "gender": 0,
+    "gender": null,
     "assembly_required": "No",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "Yes",
@@ -93,30 +93,31 @@
   },
   "compliance": {
     "choking_hazard": "Yes",
-    "lead_phthalates": 0,
+    "lead_phthalates": null,
     "warranty_included": "No",
-    "warranty_desc": 0,
+    "warranty_desc": null,
     "batteries_required": "Yes",
     "batteries_included": "Yes",
-    "battery_cell_comp": 0,
+    "battery_cell_comp": null,
     "battery_type_qty": "Built in rechargable",
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "canal-toys"
   }
 }

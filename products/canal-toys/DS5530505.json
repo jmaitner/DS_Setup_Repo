@@ -16,7 +16,7 @@
     "msrp": 29.99
   },
   "sourcing": {
-    "fob_point": 0,
+    "fob_point": null,
     "country_of_origin": "China",
     "harmonized_code": "9503.00.0073"
   },
@@ -28,7 +28,7 @@
       "Pair the green screen with your favorite editing app to create unique backgrounds Share your content on your favorite apps like TikTok, YouTube, and Instagram to be the next big influencer",
       "360 rotating light and phone holder to capture you on the move"
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Create your own exciting 360° videos like your favorite influencers with the Studio_Creator 360°Video Maker Kit. 360 rotating light and phone holder to capture you on the move. The motion tracking base and app enables both the light and camera to follow you up to 360 degrees. 10” multi-color LED Ring Light with USB power cord and controller, smartphone holder, adjustable tripod stand, green screen, manual with QR code for free tracking app download. Record hands-free video on the move! Perfect for preforming, demos, tricks, challenges, dance, vlogging and more. Use the controller to select between 18 different light and color modes plus 10 adjustable brightness levels. Controller included to easily switch between color modes and create the perfect lighting for your videos. Pair the green screen with your favorite editing app to create unique backgrounds Share your content on your favorite apps like TikTok, YouTube, and Instagram to be the next big influencer.Adjustable phone holder and tripod . White and color light modes for great beauty lighting or colorful vibes"
   },
   "attributes": {
@@ -36,10 +36,10 @@
     "num_pieces": "4 pieces",
     "whats_in_box": "1 ring light, 1 tripod, 1 green screen, 1 remote",
     "primary_color": "Multi",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 8,
     "max_age": 0,
-    "gender": 0,
+    "gender": null,
     "assembly_required": "Yes",
     "assembly_instructions": "Attach ring light to tripod"
   },
@@ -92,30 +92,31 @@
   },
   "compliance": {
     "choking_hazard": "Yes",
-    "lead_phthalates": 0,
+    "lead_phthalates": null,
     "warranty_included": "No",
-    "warranty_desc": 0,
+    "warranty_desc": null,
     "batteries_required": "Yes",
     "batteries_included": "No",
-    "battery_cell_comp": 0,
+    "battery_cell_comp": null,
     "battery_type_qty": "3 AA",
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "canal-toys"
   }
 }

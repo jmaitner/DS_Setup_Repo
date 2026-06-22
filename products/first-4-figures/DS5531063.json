@@ -22,13 +22,13 @@
   },
   "content": {
     "bullets": [
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible",
-      "PVC Collectible"
+      "Officially licensed Zelda: Majora's Mask collectible statue — Collector's Edition",
+      "Wall mountable via a slot at the back for versatile display options",
+      "Eyes feature two LED modes (static and pulsing) activated by motion sensor",
+      "Base also features two LED modes: static white light and animated cycling through five colors",
+      "Same textured details and vibrant colors as the best-selling life-size resin replica"
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Similar to the best-selling life-size resin replica, this PVC version also features the same textured details and vibrant colors the mask is known for. Moreover, due to its smaller scale, we are now able to make this piece wall mountable via a slot at the back.\nThe Collector's Edition also has two LED modes for the eyes: static and pulsing. What sets this PVC apart, however, is the ability to switch between these two modes through motion sensor! And, speaking of LED, the base for the Collector's Edition also has two LED modes: static, which emits white light, and animated, which cycles through five different colors (white, red, yellow, blue, and green)."
   },
   "attributes": {
@@ -36,12 +36,12 @@
     "num_pieces": 4,
     "whats_in_box": "• The Legend of Zelda : Majora's Mask – Majora's Mask PVC painted statue\n• Wall mountable\n• Eyes with two (2) LED functions and motion sensor feature\n• Base with two (2) LED functions\n• F4F Leaflet with 500 F4F reward points included",
     "primary_color": "Red",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 15,
     "max_age": 0,
-    "gender": 0,
+    "gender": null,
     "assembly_required": "No",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "Yes",
@@ -69,43 +69,44 @@
       "height_unit": "in"
     },
     "master_case": {
-      "case_qty": 0,
-      "length": 0,
+      "case_qty": 4,
+      "length": 12.19,
       "length_unit": "in",
-      "width": 0,
+      "width": 14.17,
       "width_unit": "in",
-      "height": 0,
+      "height": 12,
       "height_unit": "in",
-      "weight": 0,
+      "weight": 10.8,
       "weight_unit": "lbs"
     }
   },
   "compliance": {
-    "choking_hazard": 0,
-    "lead_phthalates": 0,
-    "warranty_included": 0,
-    "warranty_desc": 0,
-    "batteries_required": 0,
-    "batteries_included": 0,
-    "battery_cell_comp": 0,
-    "battery_type_qty": 0,
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": null,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "V2 First4figures New Item Setup Sheet Template Version 2025.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "Move Forward Items",
     "vendor_slug": "first-4-figures"
   }
 }

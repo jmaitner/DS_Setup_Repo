@@ -16,7 +16,7 @@
     "msrp": 14.99
   },
   "sourcing": {
-    "fob_point": 0,
+    "fob_point": null,
     "country_of_origin": "China",
     "harmonized_code": "9503.00.0073"
   },
@@ -28,7 +28,7 @@
       "Place your design in the included base to add some light and style to your space",
       "Includes color-coded butterfly and unicorn toppers, 1300+ gems in 8 vibrant colors, diamond pen, wax, gem tray, and light-up base!"
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Let your unique style shine with a dazzling, light-up lamp you bedazzle all by yourself! Peel the plastic to reveal the sticky surface, then use the diamond pen to place sparkling gems following the colorful patterns on the unicorn and butterfly toppers. Place your design in the included base to add some light and style to your space; when you’re ready for a change, just swap the topper on the base! Includes butterfly and unicorn designs, 1300 gems in 8 vibrant colors, diamond pen, wax, gem tray, and light-up base."
   },
   "attributes": {
@@ -36,12 +36,12 @@
     "num_pieces": 0,
     "whats_in_box": "1 color coded butterfly topper , 1 color coded unicorn topper, 1300+ gems, 1 diamond pen, wax, 1 gem tray, 1 light up base",
     "primary_color": "Multi",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 6,
     "max_age": 0,
-    "gender": 0,
+    "gender": null,
     "assembly_required": "No",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "Yes",
@@ -93,30 +93,31 @@
   },
   "compliance": {
     "choking_hazard": "yes",
-    "lead_phthalates": 0,
+    "lead_phthalates": null,
     "warranty_included": "No",
-    "warranty_desc": 0,
+    "warranty_desc": null,
     "batteries_required": "Yes",
     "batteries_included": "No",
-    "battery_cell_comp": 0,
-    "battery_type_qty": 0,
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "canal-toys"
   }
 }

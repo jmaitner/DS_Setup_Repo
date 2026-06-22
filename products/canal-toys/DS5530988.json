@@ -16,7 +16,7 @@
     "msrp": 29.99
   },
   "sourcing": {
-    "fob_point": 0,
+    "fob_point": null,
     "country_of_origin": "China",
     "harmonized_code": "9503.00.0073"
   },
@@ -28,7 +28,7 @@
       "So Much Slime! Kit includes everything you need to mix 10 batches of multi-colored slime as well as 5 bags of premade slime",
       "Includes Slime’Spresso Machine, 10 bags of slime powder, 5 bags of pre-made slime, 8 bags of decorations, 3 slime containers, 1 recipe card, 3 mixing tools, and 1 decorative sticker sheet"
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Order up! Open your very own slime café with the So Slime Slime’licious Slime’Spresso Machine!. Pour the slime powder into a café container you’ve decorated yourself, place it beneath the mixer, then press the handle forward to “brew” a perfect batch of slime every time! Then select and stir in decorations to create your own custom concoctions. Includes Slime’Spresso Machine, 10 bags of slime powder in 5 different colors, 5 bags of pre-made slime, 8 bags of decorations, 3 slime containers, 1 recipe card, 3 mixing tools, and 1 sticker sheet."
   },
   "attributes": {
@@ -36,12 +36,12 @@
     "num_pieces": "31 pieces",
     "whats_in_box": "10 bags of slime powder, 5 bags premade slime, 8 bags of decorations, 3 mini slime containers, 1 recipe card, 3 mixing tools, 1 sticker sheet",
     "primary_color": "multi",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 6,
     "max_age": 0,
-    "gender": 0,
+    "gender": null,
     "assembly_required": "No",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "Yes",
@@ -93,30 +93,31 @@
   },
   "compliance": {
     "choking_hazard": "Yes",
-    "lead_phthalates": 0,
+    "lead_phthalates": null,
     "warranty_included": "No",
-    "warranty_desc": 0,
-    "batteries_required": 0,
-    "batteries_included": 0,
-    "battery_cell_comp": 0,
-    "battery_type_qty": 0,
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "warranty_desc": null,
+    "batteries_required": null,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "canal-toys"
   }
 }

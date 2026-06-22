@@ -16,7 +16,7 @@
     "msrp": 24.99
   },
   "sourcing": {
-    "fob_point": 0,
+    "fob_point": null,
     "country_of_origin": "China",
     "harmonized_code": "9503.00.0073"
   },
@@ -26,9 +26,9 @@
       "Children will have fun customizing their squishy plush kitty toy using the 3 felt-tip airbrush markers, electronic Airbrush sprayer, stencils, and hair accessories included. Bead, braid, and style the hair with the comb and hair beading set",
       "Includes hairdryer shaped airbrush tool is easy to use to make all your colorful creations. Requires 2 x AA / LR6 batteries (not included).",
       "Suitable for children 6+: non-toxic ink with special fast-drying formula and marker tip fitted to Airbrush Plush brand airbrush spray tool",
-      0
+      null
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Airbrush Plush now has “Hair’iffic” hairstyling fun! Transform your Hair’iffic Squishy plush kitty toy into a real work of art! Use the electronic airbrush tool, markers, and stencils, give it a unique and colorful look. Have fun styling its hair with the hair clips, comb and beads. Simply wash and dry to start a new colorful style. The stencil designs have sticker back to stay in place on your plush character while airbrushing. Simply peel off and reposition to repeat shapes and create patterns. Both stencils and masking shapes are included. Reuse stencils over and over. It’s so soft and squishy. Collect all of the Airbrush Plush styles!"
   },
   "attributes": {
@@ -36,12 +36,12 @@
     "num_pieces": "7 pieces",
     "whats_in_box": "1 plush, 3 markers, 1 airbrush sprayer, stencil sheet, hair accessories,",
     "primary_color": "Multi",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 6,
     "max_age": 0,
-    "gender": 0,
+    "gender": null,
     "assembly_required": "No",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "Yes",
@@ -93,30 +93,31 @@
   },
   "compliance": {
     "choking_hazard": "Yes",
-    "lead_phthalates": 0,
+    "lead_phthalates": null,
     "warranty_included": "No",
-    "warranty_desc": 0,
+    "warranty_desc": null,
     "batteries_required": "Yes",
     "batteries_included": "No",
-    "battery_cell_comp": 0,
+    "battery_cell_comp": null,
     "battery_type_qty": "2 AA",
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "canal-toys"
   }
 }

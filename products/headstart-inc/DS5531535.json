@@ -2,7 +2,7 @@
   "ds_number": "5531535",
   "vendor": "Headstart Inc",
   "brand": "Disney Toddler",
-  "vendor_item_number": 28721,
+  "vendor_item_number": "28721",
   "product_name": "Disney Toddler Mickey Mouse Shape O’Clock Learning Toy",
   "identity": {
     "id_type": "UPC",
@@ -86,30 +86,31 @@
   },
   "compliance": {
     "choking_hazard": "/",
-    "lead_phthalates": 0,
+    "lead_phthalates": null,
     "warranty_included": "No",
-    "warranty_desc": 0,
+    "warranty_desc": null,
     "batteries_required": "No",
     "batteries_included": "no",
     "battery_cell_comp": "/",
     "battery_type_qty": "/",
     "packaging_type": "Window opening box",
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "HeadStart Disney New Item Setup Sheet 2026.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": 2061,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "headstart-inc"
   }
 }

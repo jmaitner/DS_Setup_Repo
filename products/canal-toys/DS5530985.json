@@ -16,7 +16,7 @@
     "msrp": 24.99
   },
   "sourcing": {
-    "fob_point": 0,
+    "fob_point": null,
     "country_of_origin": "China",
     "harmonized_code": "9503.00.0073"
   },
@@ -28,7 +28,7 @@
       "Stick It! Follow the specified numbers to add colorful gems to the included diamond posters and stickers!",
       "Includes portable art studio with sliding, light-up, LED drawing board, and divided storage compartments; 3500+ gems in 13 vibrant colors, diamond pen, gem storage container, and gem tray; 6 markers and 1 double-tip felt pen; 4 drawing sheets; 4 poster sheets; 3 diamond posters; and 2 sticker sheets. Requires 3 AAA batteries (not included)."
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Let your creativity shine anytime, anywhere, with the portable 3-in-1 Style 4 Ever Diamond Art Studio! Draw your own designs or trace a template on the light-up LED drawing board, then add some sparkle with the diamond gems or follow the number patterns to create your own diamond art posters and stickers! Perfectly portable for creativity on the go, the Diamond Art studio includes divided storage compartments to hold all tools and papers. Includes portable art studio with sliding, light-up, LED drawing board, and divided storage compartments; 3500+ gems in 13 vibrant colors, diamond pen, gem storage container, and gem tray; 6 markers and 1 double-tip felt pen, 4 drawing sheets; 4 poster sheets; 3 diamond posters; and 2 sticker sheets"
   },
   "attributes": {
@@ -36,12 +36,12 @@
     "num_pieces": 0,
     "whats_in_box": "1 Portable art studio, 1 LED drawing board with divided strorage compartments. 3500+ gems, diamond pen, gem storage container, 1 gem tray, 5 markers, 1 felt pen, 4 drawing sheets, 4 poster sheets, 3 diamond posters, 2 stickers sheets",
     "primary_color": "Multi",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 6,
     "max_age": 0,
-    "gender": 0,
+    "gender": null,
     "assembly_required": "No",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "Yes",
@@ -93,30 +93,31 @@
   },
   "compliance": {
     "choking_hazard": "Yes",
-    "lead_phthalates": 0,
+    "lead_phthalates": null,
     "warranty_included": "No",
-    "warranty_desc": 0,
+    "warranty_desc": null,
     "batteries_required": "Yes",
     "batteries_included": "no",
-    "battery_cell_comp": 0,
+    "battery_cell_comp": null,
     "battery_type_qty": "3 AAA",
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "canal-toys"
   }
 }

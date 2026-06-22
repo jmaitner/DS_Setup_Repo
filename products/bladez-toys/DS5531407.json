@@ -18,17 +18,17 @@
   "sourcing": {
     "fob_point": "Ningbo, CN",
     "country_of_origin": "China",
-    "harmonized_code": 9503007000
+    "harmonized_code": "9503007000"
   },
   "content": {
     "bullets": [
       "GET CRAFTY - This Harry Potter themed Mini Activity Set includes over 150 pieces so your fan can stick, draw, stamp and create. With pens, stampers, stickers and much more, this set provides plenty of crafting fun!",
       "PERSONALISABLE STORAGE - This themed craft set even comes with a customisable quidditch pen holder for keeping all your stationery tidy!",
       "OFFICIAL LICENSED HARRY POTTER SET - This official art set provides all Harry Potter fans the chance to craft with accessories from all four houses - Gryffindor, Slytherin, Ravenclaw and Hufflepuff!",
-      0,
-      0
+      null,
+      null
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Let your imagination run wild with the Harry Potter activity set! Colour in the Quidditch grandstands in your teams of choice and add the stickers to make pen holders. Use the ink stampers to add the finishing touches to your artwork!"
   },
   "attributes": {
@@ -36,7 +36,7 @@
     "num_pieces": 150,
     "whats_in_box": "150+ pieces including Sticker Rolls, Quidditch Colour-In Pen Holder, Colouring Sheets, Mini Felt Tip Pens, Ink Stampers and Ink Pad",
     "primary_color": "Multi",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 6,
     "max_age": 0,
     "gender": "Unisex",
@@ -86,20 +86,20 @@
     "warranty_included": "No",
     "warranty_desc": "12 Months",
     "batteries_required": "No",
-    "batteries_included": 0,
-    "battery_cell_comp": 0,
-    "battery_type_qty": 0,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
     "packaging_type": "Window Box",
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null,
     "documents": [
       {
         "type": "ASTM Test Report",
@@ -113,9 +113,10 @@
   },
   "_meta": {
     "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "bladez-toys"
   }
 }

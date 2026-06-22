@@ -16,7 +16,7 @@
     "msrp": 24.99
   },
   "sourcing": {
-    "fob_point": 0,
+    "fob_point": null,
     "country_of_origin": "China",
     "harmonized_code": "9503.00.0073"
   },
@@ -28,7 +28,7 @@
       "imply pour one slime powder, confetti stars, and water into the mixer",
       "Which 4 creepy and/or squishy surprises figures will you get?"
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Make your own creepy slime with a surprise! This Slime Factory makes it fun and easy to create custom slime. Combine bold and neon slime colors, confetti stars, and creepy surprise figurines to for the coolest slime around.\nIncludes everything you need…just add water! No glue required. Includes assorted neon and bold slime powder colors...orange, red, blue, green, yellow, and black. Simply pour one slime powder, confetti stars, and water into the mixer. Mix well and then add a surprise figurine. Which 4 creepy and/or squishy surprises figures will you get?! Styles and colors will vary. \nIncludes 1 Mixer, 1 Workstation, 10 Slime Powder Packs, 6 Styles of Confetti, 3 Shaker Containers, 1 sticker sheet, 4 surprise figures, 1 stir stick, 1 mini funnel, and instructions.\nAges 6+\nMade In China\nNotice: Colors and styles of contents may vary. Conforms to ASTM D-4236. Do not put content near eyes or mouth. Do not eat or ingest contents. Wash hands after use. Contents contain colorants that may stain certain surfaces. Read all instructions before use."
   },
   "attributes": {
@@ -36,12 +36,12 @@
     "num_pieces": "29 pieces",
     "whats_in_box": "1 Mixer, 1 Workstation, 10 Slime Powder Packs, 6 Styles of Confetti, 3 Shaker Containers, 1 sticker sheet, 4 surprise figures, 1 stir stick, 1 mini funnel, and instruction",
     "primary_color": "Multi",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 6,
     "max_age": 0,
     "gender": "Unisex",
     "assembly_required": "No",
-    "assembly_instructions": 0
+    "assembly_instructions": null
   },
   "images": {
     "availability": "Yes",
@@ -88,28 +88,29 @@
     "choking_hazard": "Yes",
     "lead_phthalates": "Yes",
     "warranty_included": "No",
-    "warranty_desc": 0,
+    "warranty_desc": null,
     "batteries_required": "No",
-    "batteries_included": 0,
-    "battery_cell_comp": 0,
-    "battery_type_qty": 0,
-    "packaging_type": 0,
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "Canal Toys New Item Setup Sheet Template Version 2025 3.25.26.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "canal-toys"
   }
 }

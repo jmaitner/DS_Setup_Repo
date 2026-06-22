@@ -18,7 +18,7 @@
   "sourcing": {
     "fob_point": "Yantian, CN",
     "country_of_origin": "China",
-    "harmonized_code": 9503009990
+    "harmonized_code": "9503009990"
   },
   "content": {
     "bullets": [
@@ -28,7 +28,7 @@
       "STEM ACTIVITY - This easy to build kit has 50 pieces and is great for teaching kids 8 years and above some of the basic principals of STEM.",
       "OFFICIAL LICENSED HARRY POTTER TOY - This official Harry Potter Make Your Own Hogwarts is the perfect gift for any Harry Potter fan!"
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Make your own detailed model of Harry Potter’s iconic school with the Maker Kitz range! Assemble the flat parts then add LEDs to bring the model to life and recreate the atmosphere of Hogwarts at night! Also available from Maker Kitz Make Your Own kits is the iconic Knight Bus and the beloved Weasley family home."
   },
   "attributes": {
@@ -36,7 +36,7 @@
     "num_pieces": 2,
     "whats_in_box": "1 x Build Kit, 6 x LED Lights, 1 x Instruction Manual",
     "primary_color": "Multi",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 8,
     "max_age": 0,
     "gender": "Unisex",
@@ -90,22 +90,23 @@
     "battery_cell_comp": "Alkaline",
     "battery_type_qty": "2x AA Batteries",
     "packaging_type": "Closed Box",
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "bladez-toys"
   }
 }

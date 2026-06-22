@@ -46,7 +46,7 @@ Images are **Cloudinary URLs**, never binary files in the repo.
 
 | Script | Purpose |
 |---|---|
-| `import_setup_sheet.py "<file.xlsx>"` | DS Only sheet → product JSONs. Non-destructive (skips existing unless `--update`). Vendor auto-detected from path. |
+| `import_setup_sheet.py "<file.xlsx>"` | Sheet → product JSONs. Reads **Move Forward Items** tab if present (the curated carry-forward list), else **DS Only**; `--sheet` to force. Non-destructive (skips existing unless `--update`). Vendor auto-detected from path. |
 | `merge_urls.py "<urls.xlsx>"` | Fold image-URL or compliance-doc files into products by DS#. Non-destructive (reports conflicts). |
 | `validate.py` | The safety gate. Errors block merge; warnings are reported. `--strict` to fail on warnings. |
 | `export.py` | Product JSON → WMS + channel upload files. Reuses `ds_automation.py`. |

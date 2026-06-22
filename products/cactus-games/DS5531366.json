@@ -16,7 +16,7 @@
     "msrp": 30
   },
   "sourcing": {
-    "fob_point": 0,
+    "fob_point": null,
     "country_of_origin": "United States",
     "harmonized_code": "9504.40.0000"
   },
@@ -34,9 +34,9 @@
   "attributes": {
     "material": "paper, cardboard, plastic",
     "num_pieces": 0,
-    "whats_in_box": 0,
+    "whats_in_box": null,
     "primary_color": "multicolor",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 72,
     "max_age": 0,
     "gender": "Unisex",
@@ -82,7 +82,7 @@
   },
   "compliance": {
     "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
-    "lead_phthalates": 0,
+    "lead_phthalates": null,
     "warranty_included": "Yes",
     "warranty_desc": "6 month manufactuer warranty",
     "batteries_required": "Yes",
@@ -103,9 +103,10 @@
   },
   "_meta": {
     "source_file": "Cactus Games Setup Sheet Template Version 2026.xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": 210,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "cactus-games"
   }
 }

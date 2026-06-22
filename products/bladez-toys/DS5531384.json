@@ -18,7 +18,7 @@
   "sourcing": {
     "fob_point": "Yantian, CN",
     "country_of_origin": "China",
-    "harmonized_code": 9503001000
+    "harmonized_code": "9503001000"
   },
   "content": {
     "bullets": [
@@ -28,7 +28,7 @@
       "EASY TO BUILD - This custom kit is easy to build requiring no glue or scissors making it a safe and fun activity for children to do independently or with an adult. It is also recognised as having some STEM learning benefits!",
       "ECO FRIENDLY - With the car body made entirely from recyclable material and the packaging doubling up as a stunt ramp that you can also decorate, this is a great eco friendly toy!"
     ],
-    "keywords": 0,
+    "keywords": null,
     "description": "Maker Kitz are the Hot Wheels™ cars YOU build - pop out the pre-cut plastic panels and assemble the tough snap-fit parts! Add power with turbo pull-back motors - then use the pens included to create YOUR unique custom design! The assembled car is tough enough to race, even perform jumps using the card launch ramp provided! Build, Race & Collect Hot Wheels™ Maker Kitz!"
   },
   "attributes": {
@@ -36,7 +36,7 @@
     "num_pieces": 12,
     "whats_in_box": "1 x Car Body Panel Kit, 1 x Van Body Panel Kit, 4 x Sets of Wheels with Pull Back Motor, 5 x Coloured Pens, 1 x Cardboard Stunt Ramp, 2 x Instruction Manuals",
     "primary_color": "White",
-    "secondary_color": 0,
+    "secondary_color": null,
     "min_age": 6,
     "max_age": 0,
     "gender": "Unisex",
@@ -86,26 +86,27 @@
     "warranty_included": "No",
     "warranty_desc": "12 Months",
     "batteries_required": "No",
-    "batteries_included": 0,
-    "battery_cell_comp": 0,
-    "battery_type_qty": 0,
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
     "packaging_type": "Open Window Box",
-    "compliance_cert": 0,
-    "doc": 0,
-    "sds": 0,
-    "sds_url": 0,
-    "cpsia": 0,
-    "test_reports": 0,
-    "cpc": 0,
-    "product_pics": 0,
-    "instructions": 0,
-    "letter_of_compliance": 0
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
   },
   "_meta": {
     "source_file": "New Item Setup Sheet 2025 - Bladez Toyz (January 2026).xlsx",
-    "imported_at": "2026-06-18",
+    "imported_at": "2026-06-22",
     "supplier_id": null,
     "last_verified": null,
+    "source_sheet": "DS Only",
     "vendor_slug": "bladez-toys"
   }
 }
