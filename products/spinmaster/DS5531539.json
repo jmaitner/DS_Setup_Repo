@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531539",
+  "vendor": "Spinmaster",
+  "brand": "4D Build",
+  "vendor_item_number": "6070865",
+  "product_name": "4D Build, Star Wars Jabba’s Palace 3D Model Kit, Star Wars Collectibles & Desk Décor, Adult Puzzles, Building Toys, 3D Puzzles for Adults & Teens, 340 Pieces, Gift Ideas for Ages 12 & Up",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "681147030466"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 31.03,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 109.99
+  },
+  "sourcing": {
+    "fob_point": null,
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Detailed Replica: Embark on an epic building adventure with this film-accurate Star Wars 3D puzzle. Jabba’s Palace adult puzzle includes all the details fans love, including rancor & palace interior",
+      "Easy To Assemble: You get 22 cardstock sheets with 340 intricate durable punch-out pieces, glue & simple instructions to complete this satisfying craft challenge. No extra tools required",
+      "Designed For Display: An authentic addition to your 3D puzzles collection, ideal for room decor, office decor & shelf decor. The Star Wars Jabba’s Palace model kit measures 18.7”x14.7”x15.4.”",
+      "More Star Wars Collectibles: Shop the whole 4D Build Star Wars collection to build your own epic puzzle collection, including Imperial At-At, Grogu, Death Star, Millennium Falcon, Mandalorian & more",
+      "Find Your Fandom: Find more 3D puzzles for adults as gifts for him, gifts for teens, gifts for men, & gifts for any fan of Marvel, Lord of the Rings, GOT, HOTD, Star Wars, Batman, Harry Potter & more"
+    ],
+    "keywords": "4D Build, Star Wars Jabba’s Palace 3D Model Kit, Star Wars Collectibles & Desk Décor, Adult Puzzles, Building Toys, 3D Puzzles for Adults & Teens, 340 Pieces, for Ages 12 & Up",
+    "description": "Bring one of the most iconic locations in the outer rim to life right on your shelf! The 4D Build Star Wars Jabba’s Palace 3D Model Kit offers fans and collectors a satisfyingly detailed, film-accurate replica of the Hutt crimelord's infamous Tatooine stronghold. Perfect for display, this premium cardstock puzzle features intricate interior details, including the main audience chamber and the menacing Rancor pit below."
+  },
+  "attributes": {
+    "material": "Paper",
+    "num_pieces": 340,
+    "whats_in_box": "Includes: 22 Cardstock Puzzle Sheets, Glue, Punch Tool, Instructions",
+    "primary_color": "Brown",
+    "secondary_color": null,
+    "min_age": 12,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "Yes",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/81QNSqiHAQL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81uSmczDbRL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81AEXU-uHkL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81LEPkuA0HL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91K7hywy8JL._AC_SL1500_.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 6,
+      "weight_unit": "lbs",
+      "length": 18.7,
+      "length_unit": "in",
+      "width": 14.7,
+      "width_unit": "in",
+      "height": 15.4,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 6,
+      "weight_unit": "lbs",
+      "length": 17,
+      "length_unit": "in",
+      "width": 4,
+      "width_unit": "in",
+      "height": 10.5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 2,
+      "length": 17.68,
+      "length_unit": "in",
+      "width": 8.78,
+      "width_unit": "in",
+      "height": 11.58,
+      "height_unit": "in",
+      "weight": 12.11,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": "No",
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "Spinmaster New Item Setup Sheet Template Version 2026.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1368,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "spinmaster"
+  }
+}

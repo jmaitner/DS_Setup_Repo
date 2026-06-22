@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531538",
+  "vendor": "Spinmaster",
+  "brand": "DREAMWORKS GABBY'S DOLLHOUSE",
+  "vendor_item_number": "6071385",
+  "product_name": "DREAMWORKS GABBY'S DOLLHOUSE, 14 Pc Celebration Dollhouse, 25-Inches Tall, with Toy Figures, Doll House Furniture & 10 Sounds, Kids Toys for Girls & Boys Ages 3+",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "681147039797"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 37.5,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 99.99
+  },
+  "sourcing": {
+    "fob_point": null,
+    "country_of_origin": "Vietnam",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "CAT-TASTIC INTERACTIVE FEATURES: Standing 25-inches tall, ride the Cat-A-Vator to explore 6 rooms, flip the roof to reveal a hidden attic & push a button to hear 10 sounds and phrases from the show",
+      "MEOW-MAZING DOLLHOUSE FURNITURE: Includes super-cute doll house accessories like a Balloon Arch, a Kitty-Themed Toilet, a Bathroom Sink, a Chair, a Bed, a Buffet Table, a Piano/DJ Table, a Gift Bag",
+      "REVEAL 2 SURPRISE TOYS: Unbox two Dollhouse Deliveries, just like Gabby does in the show, to uncover 2 mystery accessories—a toy cake and a trophy—perfect for enhancing your pretend play adventures",
+      "BUILD A DOLLHOUSE WORLD: With everything from themed rooms and dollhouse furniture to toy figures and playsets, create a doll house world to help kids develop their imagination through pretend play",
+      "COLLECT THEM ALL: Gabbys Dollhouse toys for kids are great preschool toys & gifts for kids that love playing with dolls and accessories, surprise toys, stuffed animals, jigsaw puzzles & board games"
+    ],
+    "keywords": "DREAMWORKS GABBY'S DOLLHOUSE, 14 Pc Celebration Dollhouse, 25-Inches Tall, with Toy Figures, Doll House Furniture & 10 Sounds, Kids Toys for Girls & Boys Ages 3+",
+    "description": "Bring the magic of the hit Netflix series home with the ultimate Gabby’s Celebration Dollhouse! Standing an impressive 25 inches tall, this vibrant, rainbow-themed playset opens up a world of imaginative play for preschoolers and fans of the show. With 6 detailed rooms, a rooftop play area, interactive sound effects, and a functioning elevator, your little one will enjoy hours of cat-tastic adventures alongside Gabby and her friends."
+  },
+  "attributes": {
+    "material": "Plastic",
+    "num_pieces": 14,
+    "whats_in_box": "1 Dollhouse, 1 Gabby Figure, 10 Accessories, 2 Dollhouse Delivery Boxes, 1 Sticker Sheet",
+    "primary_color": "Blue",
+    "secondary_color": null,
+    "min_age": 3,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "Yes",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/81you006USL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81avUGlZj7L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81XY0uw+AhL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91ecvTu5T7L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81JX0o11lsL._AC_SL1500_.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 7.4,
+      "weight_unit": "lbs",
+      "length": 9.3,
+      "length_unit": "in",
+      "width": 20.3,
+      "width_unit": "in",
+      "height": 25,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 7.48,
+      "weight_unit": "lbs",
+      "length": 22.13,
+      "length_unit": "in",
+      "width": 5.38,
+      "width_unit": "in",
+      "height": 17.13,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 1,
+      "length": 22.13,
+      "length_unit": "in",
+      "width": 5.38,
+      "width_unit": "in",
+      "height": 17.13,
+      "height_unit": "in",
+      "weight": 7.48,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": "Yes",
+    "batteries_included": "No",
+    "battery_cell_comp": "Alkaline",
+    "battery_type_qty": "3xAAA",
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "Spinmaster New Item Setup Sheet Template Version 2026.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1368,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "spinmaster"
+  }
+}

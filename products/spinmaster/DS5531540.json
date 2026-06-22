@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531540",
+  "vendor": "Spinmaster",
+  "brand": "4D Build",
+  "vendor_item_number": "6068733",
+  "product_name": "4D Build, Harry Potter Deluxe Hogwarts Castle 3D Model Kit with Tower & Great Hall, Harry Potter Collectibles & Desk Decor, Building Toys, 384 Pieces, 3D Puzzles, Gift Ideas for Ages 12 & Up",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "778988505083"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 31,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 65.99
+  },
+  "sourcing": {
+    "fob_point": null,
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Detailed Replica: Embark on a magical adventure with a film-accurate Harry Potter decor piece. This 4D Build Deluxe Hogwarts Castle is over 2ft. wide- including the Astronomy Tower & Great Hall",
+      "Easy To Assemble: You get 20 sheets with 384 durable punch-out pieces & instructions to complete this craft challenge. No glue or tools required",
+      "Designed For Display: An authentic addition to your 3D puzzles building toys collection- ideal for room decor, office decor, desk decor, & Harry Potter gifts. This Harry Potter puzzle measures 24.3 in x 18.9 in x 12.4 in (61.8 cm x 48 cm x 31.4 cm)",
+      "More Harry Potter Collectibles: Shop the whole 4D Build Harry Potter collection to build your own magical puzzle collection, including Diagon Alley, Hedwig, Hermoine, Ron, Hogwarts Castle & more",
+      "Find Your Fandom: Find more 3D puzzles for adults as gifts for him, gifts for teens, gifts for men, & gifts for any fan of Marvel, Lord of the Rings, GOT, HOTD, Star Wars, Batman, Harry Potter & more"
+    ],
+    "keywords": "4D Build Hogwarts Castle Deluxe 3D Puzzle Harry Potter model kit 384 pcs Spin Master desk decor adult building toys architecture paper craft wizarding world collectibles teen gift room holiday decoration shelf",
+    "description": "For the Harry Potter fan- this 4D Build Deluxe Hogwarts Castle with Astronomy Tower & Great Hall is beckoning to be displayed on your shelf. Embark on a magical adventure with our movie-quality Harry Potter merchandise piece that is over 2ft. wide. This model kit toy is massive. You get 20 puzzle sheets with 384 pieces and easy-assemble instructions. No puzzle glue or tools required. The castle measures 24.3 in x 18.9 in x 12.4 in (61.8 cm x 48 cm x 31.4 cm). Perfect for your home- shelf decor, bedroom decor, game room decor, or as Harry Potter birthday decorations- display your castle with pride. For new young fans of the Wizarding World- this puzzle makes the perfect present for any teen boys gift ideas. And for original fans of the Harry Potter books set, it is the ideal adult toy, as well. 4D Build makes fantastic birthday gifts for men and gifts for him. Also hobbies for adults, model building kits, and 3d puzzles for kids, and models for adults to build. Whether you love the Harry Potter books, Hogwarts Legacy, or Harry Potter wands – this 4D Build Hogwarts puzzle is for you. Check out our other toy building sets for more Harry Potter toys. Get out your Harry Potter wand for some enchanted fun and start building."
+  },
+  "attributes": {
+    "material": "Paper",
+    "num_pieces": 384,
+    "whats_in_box": "20 3D Puzzle Sheets, Instructions",
+    "primary_color": "Brown",
+    "secondary_color": null,
+    "min_age": 12,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "Yes",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": "Yes",
+    "urls": [
+      "https://m.media-amazon.com/images/I/91NN9ImUFVL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91aT6dQ9emL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91dFtEVoyxL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91e+tp9lLaL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91EAcdd90HL._AC_SL1500_.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 3.65,
+      "weight_unit": "lbs",
+      "length": 24.3,
+      "length_unit": "in",
+      "width": 18.9,
+      "width_unit": "in",
+      "height": 12.4,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 3.65,
+      "weight_unit": "lbs",
+      "length": 17,
+      "length_unit": "in",
+      "width": 2.6,
+      "width_unit": "in",
+      "height": 11,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 2,
+      "length": 17.32,
+      "length_unit": "in",
+      "width": 5.35,
+      "width_unit": "in",
+      "height": 11.02,
+      "height_unit": "in",
+      "weight": 7.4,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": null,
+    "lead_phthalates": null,
+    "warranty_included": null,
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": "No",
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "Spinmaster New Item Setup Sheet Template Version 2026.xlsx",
+    "imported_at": "2026-06-22",
+    "supplier_id": 1368,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "spinmaster"
+  }
+}
