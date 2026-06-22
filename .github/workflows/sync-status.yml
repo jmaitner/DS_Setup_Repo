@@ -1,0 +1,58 @@
+name: Sync channel status (GoFlow)
+
+# Pulls per-channel listing status from GoFlow twice a week, rebuilds the index +
+# dashboard, and opens a PR with the changes for review. Run manually any time via
+# "Run workflow". Requires repo secret GOFLOW_KEY.
+
+on:
+  schedule:
+    - cron: "0 13 * * 2,5"   # Tue & Fri 13:00 UTC (~8am ET)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Pull channel status from GoFlow
+        env:
+          GOFLOW_KEY: ${{ secrets.GOFLOW_KEY }}
+          GOFLOW_BASE_URL: https://distributionsolutions.goflow.com
+        run: python scripts/pull_goflow.py
+
+      - name: Validate + rebuild index & dashboard
+        run: |
+          python scripts/validate.py
+          python scripts/build_index.py
+          python scripts/build_dashboard.py
+
+      - name: Open a PR if anything changed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No status changes this run."; exit 0
+          fi
+          STAMP=$(date -u +%Y-%m-%d)
+          BR="status/goflow-sync-$(date -u +%Y%m%d-%H%M)"
+          git config user.name "goflow-sync[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BR"
+          git add -A
+          git commit -m "Channel status sync from GoFlow ($STAMP)"
+          git push -u origin "$BR"
+          gh pr create --title "Channel status sync from GoFlow ($STAMP)" \
+            --body "Automated 2x/week pull of per-channel listing status from GoFlow. Validated in-job. Review the channel state changes, then merge to update the dashboard." \
+            --base main --head "$BR"

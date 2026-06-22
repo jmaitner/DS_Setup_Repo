@@ -44,6 +44,7 @@
                    "live", "error", "suppressed", "discontinued"]
         },
         "id": { "type": ["string", "null"], "description": "ASIN / item id / listing id" },
+        "url": { "type": ["string", "null"], "description": "Direct link to the listing" },
         "case_number": { "type": ["string", "null"] },
         "issue": { "type": ["string", "null"] },
         "notes": { "type": ["string", "null"] },

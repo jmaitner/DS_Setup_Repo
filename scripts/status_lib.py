@@ -51,6 +51,7 @@ def channel_default():
     return {
         "state": "not_listed",
         "id": None,            # ASIN / item id / listing id on that channel
+        "url": None,           # direct link to the listing (from GoFlow store_page_url)
         "case_number": None,   # Amazon/Walmart support case #
         "issue": None,         # short description of current error/blocker
         "notes": None,

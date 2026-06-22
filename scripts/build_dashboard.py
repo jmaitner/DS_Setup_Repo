@@ -77,6 +77,7 @@ def build_records():
             "channels": {c: {
                 "state": (chans.get(c) or {}).get("state", "not_listed"),
                 "id": (chans.get(c) or {}).get("id"),
+                "url": (chans.get(c) or {}).get("url"),
                 "case": (chans.get(c) or {}).get("case_number"),
                 "issue": (chans.get(c) or {}).get("issue"),
                 "notes": (chans.get(c) or {}).get("notes"),
@@ -255,7 +256,7 @@ function render(){
 function openDrawer(d){
   const ch = Object.keys(CHANNELS).map(k=>{const c=d.channels[k];
     return `<div class="chiplbl"><span class="chip" style="background:${cssVar(c.state)}"></span>${esc(CHANNELS[k])}: ${c.state.replace(/_/g,' ')}`
-      +(c.id?` · <span class="muted">${esc(c.id)}</span>`:'')
+      +(c.id?(c.url?` · <a href="${esc(c.url)}" target="_blank">${esc(c.id)}</a>`:` · <span class="muted">${esc(c.id)}</span>`):'')
       +(c.case?` · case ${esc(c.case)}`:'')
       +(c.issue?` · <span style="color:var(--error)">${esc(c.issue)}</span>`:'')+`</div>`;}).join('');
   dcontent.innerHTML=`<div class="dh"><h2>${esc(d.name)}</h2>
