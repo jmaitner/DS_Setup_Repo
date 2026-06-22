@@ -39,7 +39,7 @@ jobs:
           python scripts/build_index.py
           python scripts/build_dashboard.py
 
-      - name: Open a PR if anything changed
+      - name: Open + auto-merge a PR if anything changed
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -54,6 +54,11 @@ jobs:
           git add -A
           git commit -m "Channel status sync from GoFlow ($STAMP)"
           git push -u origin "$BR"
-          gh pr create --title "Channel status sync from GoFlow ($STAMP)" \
-            --body "Automated 2x/week pull of per-channel listing status from GoFlow. Validated in-job. Review the channel state changes, then merge to update the dashboard." \
-            --base main --head "$BR"
+          PR_URL=$(gh pr create --title "Channel status sync from GoFlow ($STAMP)" \
+            --body "Automated GoFlow status pull. Validated in-job (validate.py passed before this PR was created), then auto-merged. This PR is the audit trail of channel state changes." \
+            --base main --head "$BR")
+          echo "Opened $PR_URL"
+          # Validation already passed in-job, so merge immediately (retry once for mergeability lag).
+          gh pr merge "$PR_URL" --squash --delete-branch \
+            || (echo "retrying merge..."; sleep 12; gh pr merge "$PR_URL" --squash --delete-branch)
+          echo "Merged -> Cloudflare will redeploy the dashboard from main."
