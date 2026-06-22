@@ -41,6 +41,7 @@ def main():
     ap.add_argument("--channel", choices=list(CHANNELS))
     ap.add_argument("--state", choices=CHANNEL_STATES)
     ap.add_argument("--id", dest="listing_id")
+    ap.add_argument("--url", dest="listing_url")
     ap.add_argument("--case", dest="case_number")
     ap.add_argument("--issue")
     ap.add_argument("--notes")
@@ -48,9 +49,9 @@ def main():
 
     if not args.lifecycle and not args.channel:
         sys.exit("Nothing to do: pass --lifecycle and/or --channel (with field flags).")
-    if args.channel and not any([args.state, args.listing_id, args.case_number,
-                                 args.issue, args.notes]):
-        sys.exit("--channel given but no field to set (--state/--id/--case/--issue/--notes).")
+    if args.channel and not any([args.state, args.listing_id, args.listing_url,
+                                 args.case_number, args.issue, args.notes]):
+        sys.exit("--channel given but no field to set (--state/--id/--url/--case/--issue/--notes).")
 
     today = date.today().isoformat()
     for ds in args.ds:
@@ -66,6 +67,7 @@ def main():
             ch = doc["channels"].setdefault(args.channel, {})
             if args.state:        ch["state"] = args.state
             if args.listing_id:   ch["id"] = args.listing_id
+            if args.listing_url:  ch["url"] = args.listing_url
             if args.case_number:  ch["case_number"] = args.case_number
             if args.issue:        ch["issue"] = args.issue
             if args.notes:        ch["notes"] = args.notes
