@@ -28,12 +28,13 @@
       "updated": null
     },
     "tiktok": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "1732404534631436618",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": null
     },
     "bestbuy": {
       "state": "not_listed",
@@ -52,12 +53,13 @@
       "updated": null
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "45189723914263",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://nerrc4-1t.myshopify.com/products/harry-potter-creative-maker-kitz-make-your-own-light-up-weasley-burrow"
     },
     "toysrus": {
       "state": "not_listed",
@@ -76,12 +78,13 @@
       "updated": null
     },
     "target_plus": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "1011326524",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://www.target.com/p/-/-/A-1011326524"
     }
   },
   "updated": "2026-06-22"

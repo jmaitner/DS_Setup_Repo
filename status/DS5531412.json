@@ -4,12 +4,13 @@
   "lifecycle_note": null,
   "channels": {
     "amazon": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "5531412",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://www.amazon.com//dp/B0CW951ZX2"
     },
     "walmart_1p": {
       "state": "not_listed",
@@ -28,12 +29,13 @@
       "updated": null
     },
     "tiktok": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "1732404535564996938",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": null
     },
     "bestbuy": {
       "state": "not_listed",
@@ -52,12 +54,13 @@
       "updated": null
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "45189752586263",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://nerrc4-1t.myshopify.com/products/harry-potter-maker-kitz-make-your-own-niffler"
     },
     "toysrus": {
       "state": "not_listed",
@@ -76,12 +79,13 @@
       "updated": null
     },
     "target_plus": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "1011617208",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://www.target.com/p/-/-/A-1011617208"
     }
   },
   "updated": "2026-06-22"

@@ -28,20 +28,22 @@
       "updated": null
     },
     "tiktok": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "1732384534648754506",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": null
     },
     "bestbuy": {
-      "state": "not_listed",
-      "id": null,
+      "state": "pending",
+      "id": "6067263",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": null
     },
     "nocnoc": {
       "state": "not_listed",
@@ -68,20 +70,22 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "306917824553",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://www.ebay.com/itm/Smartivity-Food-Body-Nutrition-STEAM-3D-Model-Interactive-Building-Game-/306917824553"
     },
     "target_plus": {
-      "state": "not_listed",
-      "id": null,
+      "state": "pending",
+      "id": "1011323193",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://www.target.com/p/-/-/A-1011323193"
     }
   },
   "updated": "2026-06-22"

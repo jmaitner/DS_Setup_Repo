@@ -52,12 +52,13 @@
       "updated": null
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "45189759139863",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://nerrc4-1t.myshopify.com/products/lena-52120-tin-toys-panorama-19-cm-plastic-humming-classical-pump-mechanism-musi"
     },
     "toysrus": {
       "state": "not_listed",
@@ -76,12 +77,13 @@
       "updated": null
     },
     "target_plus": {
-      "state": "not_listed",
-      "id": null,
+      "state": "pending",
+      "id": "1011861677",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://www.target.com/p/-/-/A-1011861677"
     }
   },
   "updated": "2026-06-22"

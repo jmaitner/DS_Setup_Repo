@@ -4,12 +4,13 @@
   "lifecycle_note": null,
   "channels": {
     "amazon": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "5530989",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://www.amazon.com//dp/B0CW283H4N"
     },
     "walmart_1p": {
       "state": "not_listed",
@@ -44,20 +45,22 @@
       "updated": null
     },
     "nocnoc": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "5530989",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": null
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "45189754748951",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://nerrc4-1t.myshopify.com/products/paw-patrol-instand-camera"
     },
     "toysrus": {
       "state": "not_listed",
@@ -68,20 +71,22 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "306868720670",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://www.ebay.com/itm/Paw-Patrol-Instant-Print-Camera-for-Kids-/306868720670"
     },
     "target_plus": {
-      "state": "not_listed",
-      "id": null,
+      "state": "pending",
+      "id": "1011407635",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://www.target.com/p/-/-/A-1011407635"
     }
   },
   "updated": "2026-06-22"

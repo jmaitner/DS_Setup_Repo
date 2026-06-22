@@ -28,20 +28,22 @@
       "updated": null
     },
     "tiktok": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "1732399865277288778",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": null
     },
     "bestbuy": {
-      "state": "not_listed",
-      "id": null,
+      "state": "pending",
+      "id": "5272944",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": null
     },
     "nocnoc": {
       "state": "not_listed",
@@ -52,12 +54,13 @@
       "updated": null
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "45189566136343",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://nerrc4-1t.myshopify.com/products/figgyz-castlevania-shanoa"
     },
     "toysrus": {
       "state": "not_listed",
@@ -68,20 +71,22 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "306965992079",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://www.ebay.com/itm/FiGGYZ-Castlevania-Shanoa-/306965992079"
     },
     "target_plus": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "1011704620",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://www.target.com/p/-/-/A-1011704620"
     }
   },
   "updated": "2026-06-22"

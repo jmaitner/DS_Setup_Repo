@@ -44,20 +44,22 @@
       "updated": null
     },
     "nocnoc": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "5529914",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": null
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "45189693997079",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://nerrc4-1t.myshopify.com/products/grip-and-tricks-ramps-for-finger-skate-quaterpipe-fingerboard-penny-board-dimens"
     },
     "toysrus": {
       "state": "not_listed",
@@ -77,11 +79,12 @@
     },
     "target_plus": {
       "state": "not_listed",
-      "id": null,
+      "id": "1006709814",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://www.target.com/p/-/-/A-1006709814"
     }
   },
   "updated": "2026-06-22"

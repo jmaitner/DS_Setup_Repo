@@ -4,12 +4,13 @@
   "lifecycle_note": null,
   "channels": {
     "amazon": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "5529320",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://www.amazon.com//dp/B08SQB61BB"
     },
     "walmart_1p": {
       "state": "not_listed",
@@ -28,36 +29,40 @@
       "updated": null
     },
     "tiktok": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "1732384476162265418",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": null
     },
     "bestbuy": {
-      "state": "not_listed",
-      "id": null,
+      "state": "pending",
+      "id": "5818464",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": null
     },
     "nocnoc": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "5529320",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": null
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "45189655101463",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://nerrc4-1t.myshopify.com/products/studio-creator-v2"
     },
     "toysrus": {
       "state": "not_listed",
@@ -68,20 +73,22 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "306868720668",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://www.ebay.com/itm/Studio-Creator-V2-Video-Maker-Kit-with-LED-Ring-Light-Green-Screen-/306868720668"
     },
     "target_plus": {
-      "state": "not_listed",
-      "id": null,
+      "state": "pending",
+      "id": "1011617321",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://www.target.com/p/-/-/A-1011617321"
     }
   },
   "updated": "2026-06-22"

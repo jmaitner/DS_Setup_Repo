@@ -52,12 +52,13 @@
       "updated": null
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "45189758189591",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": "https://nerrc4-1t.myshopify.com/products/ramps-for-finger-skate-funbox-and-stairs-fingerboard-penny-board-dimensions-28-x"
     },
     "toysrus": {
       "state": "not_listed",
@@ -76,12 +77,13 @@
       "updated": null
     },
     "target_plus": {
-      "state": "not_listed",
-      "id": null,
+      "state": "pending",
+      "id": "1012119133",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-22",
+      "url": null
     }
   },
   "updated": "2026-06-22"
