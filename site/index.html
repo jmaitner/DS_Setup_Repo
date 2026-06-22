@@ -40,6 +40,7 @@
   .lc-dropped{background:rgba(239,68,68,.16);color:var(--error)}
   .chips{display:flex;gap:3px;flex-wrap:nowrap}
   .chip{width:15px;height:15px;border-radius:3px;display:inline-block;cursor:help}
+  .chip.na{background:transparent!important;border:1.5px dashed var(--muted)}
   .chiprow{display:flex;gap:6px;flex-wrap:wrap;margin-top:4px}
   .chiplbl{display:flex;align-items:center;gap:5px;font-size:11px;color:var(--muted);background:var(--panel2);border:1px solid var(--line);border-radius:5px;padding:3px 7px}
   .legend{display:flex;gap:12px;flex-wrap:wrap;color:var(--muted);font-size:11px;align-items:center}
@@ -145,14 +146,18 @@ function render(){
       <td class="muted">${esc(d.ds)}</td><td class="nm" title="${esc(d.name)}">${esc(d.name)}</td>
       <td>${esc(d.vendor)}</td><td><span class="badge lc-${d.lifecycle}">${d.lifecycle}</span></td>
       ${Object.keys(CHANNELS).map(k=>{const c=d.channels[k];
-        const tip=`${CHANNELS[k]}: ${c.state}`+(c.id?` · ${c.id}`:'')+(c.case?` · case ${c.case}`:'')+(c.issue?` · ${c.issue}`:'');
-        return `<td><span class="chip" style="background:${cssVar(c.state)}" title="${esc(tip)}"></span></td>`;}).join('')}
+        const cov=(k==='walmart_3p' && d.channels.walmart_1p && d.channels.walmart_1p.state==='live' && c.state==='not_listed');
+        const tip=cov?'Walmart 3P: not needed (listed on Walmart 1P)'
+          :`${CHANNELS[k]}: ${c.state}`+(c.id?` · ${c.id}`:'')+(c.case?` · case ${c.case}`:'')+(c.issue?` · ${c.issue}`:'');
+        return `<td><span class="chip${cov?' na':''}" style="background:${cov?'transparent':cssVar(c.state)}" title="${esc(tip)}"></span></td>`;}).join('')}
     </tr>`).join('');
   }
 }
 
 function openDrawer(d){
   const ch = Object.keys(CHANNELS).map(k=>{const c=d.channels[k];
+    const cov=(k==='walmart_3p' && d.channels.walmart_1p && d.channels.walmart_1p.state==='live' && c.state==='not_listed');
+    if(cov) return `<div class="chiplbl"><span class="chip na"></span>${esc(CHANNELS[k])}: <span class="muted">not needed (on Walmart 1P)</span></div>`;
     return `<div class="chiplbl"><span class="chip" style="background:${cssVar(c.state)}"></span>${esc(CHANNELS[k])}: ${c.state.replace(/_/g,' ')}`
       +(c.id?(c.url?` · <a href="${esc(c.url)}" target="_blank">${esc(c.id)}</a>`:` · <span class="muted">${esc(c.id)}</span>`):'')
       +(c.case?` · case ${esc(c.case)}`:'')
