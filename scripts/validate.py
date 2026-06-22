@@ -171,8 +171,40 @@ def main():
             if not str(u).lower().startswith(("http://", "https://")):
                 warnings.append(f"{rel}: image URL not http(s): {u!r}")
 
+    # ── status layer (status/DS#####.json) ──
+    status_files = sorted(glob.glob(os.path.join(REPO_ROOT, "status", "*.json")))
+    status_validator = None
+    status_schema_path = os.path.join(REPO_ROOT, "schema", "status.schema.json")
+    if status_files and validator is not None and os.path.exists(status_schema_path):
+        try:
+            from jsonschema import Draft7Validator
+            with open(status_schema_path, encoding="utf-8") as f:
+                status_validator = Draft7Validator(json.load(f))
+        except Exception as e:
+            print(f"NOTE: could not load status schema ({e}).\n")
+
+    for path in status_files:
+        rel = os.path.relpath(path, REPO_ROOT)
+        try:
+            with open(path, encoding="utf-8") as f:
+                s = json.load(f)
+        except Exception as e:
+            errors.append(f"{rel}: invalid JSON - {e}")
+            continue
+        if status_validator is not None:
+            for err in status_validator.iter_errors(s):
+                loc = ".".join(str(x) for x in err.absolute_path) or "(root)"
+                errors.append(f"{rel}: status schema [{loc}] {err.message}")
+        sds = str(s.get("ds_number") or "").strip()
+        exp_name = f"DS{sds}.json"
+        if sds and os.path.basename(path) != exp_name:
+            errors.append(f"{rel}: filename should be {exp_name}")
+        if sds and ds_seen and sds not in ds_seen:
+            errors.append(f"{rel}: status for DS{sds} but no such product in catalog")
+
     # ── report ──
-    print(f"Validated {len(files)} product file(s).\n")
+    print(f"Validated {len(files)} product file(s)"
+          + (f" and {len(status_files)} status file(s)" if status_files else "") + ".\n")
     if warnings:
         print(f"WARNINGS ({len(warnings)}):")
         for w in warnings:

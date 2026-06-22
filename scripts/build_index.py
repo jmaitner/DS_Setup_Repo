@@ -76,6 +76,40 @@ def main():
         w.writerows([["" if v is None else v for v in r] for r in rows])
 
     print(f"Wrote {len(rows)} row(s) -> {os.path.relpath(INDEX_PATH, REPO_ROOT)}")
+    build_status_index(rows)
+
+
+def build_status_index(product_rows):
+    """Emit index/status.csv: one row per status file, a column per channel state."""
+    status_files = sorted(glob.glob(os.path.join(REPO_ROOT, "status", "*.json")))
+    if not status_files:
+        return
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from status_lib import CHANNELS
+
+    # ds -> (vendor, name) from the product rows we just built
+    meta = {str(r[2]): (r[0], r[4]) for r in product_rows}
+    cols = ["DS#", "Vendor", "Product Name", "Lifecycle"] + \
+           [CHANNELS[c] for c in CHANNELS] + ["Open Cases", "Channels Live"]
+    out = []
+    for path in status_files:
+        with open(path, encoding="utf-8") as f:
+            s = json.load(f)
+        ds = str(s.get("ds_number") or "")
+        vendor, name = meta.get(ds, ("", ""))
+        chans = s.get("channels") or {}
+        states = [(chans.get(c) or {}).get("state", "") for c in CHANNELS]
+        cases = sum(1 for c in CHANNELS if (chans.get(c) or {}).get("case_number"))
+        live = sum(1 for st in states if st == "live")
+        out.append([ds, vendor, name, s.get("lifecycle", "")] + states + [cases, live])
+
+    out.sort(key=lambda r: (str(r[1]).lower(), str(r[0])))
+    path = os.path.join(REPO_ROOT, "index", "status.csv")
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(cols)
+        w.writerows([["" if v is None else v for v in r] for r in out])
+    print(f"Wrote {len(out)} row(s) -> {os.path.relpath(path, REPO_ROOT)}")
 
 
 if __name__ == "__main__":

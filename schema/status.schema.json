@@ -1,0 +1,54 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/jmaitner/DS_Setup_Repo/schema/status.schema.json",
+  "title": "DS Channel Status",
+  "description": "Per-item lifecycle + per-channel setup status. Lives in status/DS#####.json, keyed by DS number, separate from product data.",
+  "type": "object",
+  "required": ["ds_number", "lifecycle", "channels"],
+  "additionalProperties": false,
+  "properties": {
+    "ds_number": { "type": "string", "description": "Join key to products/<vendor>/DS<ds_number>.json" },
+    "lifecycle": {
+      "type": "string",
+      "enum": ["active", "planned", "on_hold", "discontinued", "dropped"]
+    },
+    "lifecycle_note": { "type": ["string", "null"] },
+    "channels": {
+      "type": "object",
+      "required": ["amazon", "walmart_1p", "walmart_3p", "tiktok", "bestbuy",
+                   "nocnoc", "shopify_f2f", "toysrus", "ebay", "target_plus"],
+      "additionalProperties": false,
+      "properties": {
+        "amazon":      { "$ref": "#/$defs/channel" },
+        "walmart_1p":  { "$ref": "#/$defs/channel" },
+        "walmart_3p":  { "$ref": "#/$defs/channel" },
+        "tiktok":      { "$ref": "#/$defs/channel" },
+        "bestbuy":     { "$ref": "#/$defs/channel" },
+        "nocnoc":      { "$ref": "#/$defs/channel" },
+        "shopify_f2f": { "$ref": "#/$defs/channel" },
+        "toysrus":     { "$ref": "#/$defs/channel" },
+        "ebay":        { "$ref": "#/$defs/channel" },
+        "target_plus": { "$ref": "#/$defs/channel" }
+      }
+    },
+    "updated": { "type": ["string", "null"] }
+  },
+  "$defs": {
+    "channel": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "state": {
+          "type": "string",
+          "enum": ["not_listed", "planned", "setup_in_progress", "pending",
+                   "live", "error", "suppressed", "discontinued"]
+        },
+        "id": { "type": ["string", "null"], "description": "ASIN / item id / listing id" },
+        "case_number": { "type": ["string", "null"] },
+        "issue": { "type": ["string", "null"] },
+        "notes": { "type": ["string", "null"] },
+        "updated": { "type": ["string", "null"] }
+      }
+    }
+  }
+}

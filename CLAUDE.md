@@ -40,6 +40,13 @@ the per-product marketing brand and can differ.
 
 Images are **Cloudinary URLs**, never binary files in the repo.
 
+**Two layers, joined by DS#.** Product *data* lives in `products/` (above). Channel *status*
+— lifecycle (active/discontinued/…) and per-channel setup state (live/error/not_listed/…),
+case numbers, listing ids, issues — lives separately in `status/DS#####.json`, keyed by DS#.
+They change for different reasons; never mix them. See `docs/STATUS_LAYER.md`. Channels:
+Amazon, Walmart 1P, Walmart 3P, TikTok, Best Buy, NocNoc, Shopify (Face2FaceFun), Toys R Us,
+eBay, Target Plus.
+
 ---
 
 ## The scripts (all under `scripts/`)
@@ -50,8 +57,11 @@ Images are **Cloudinary URLs**, never binary files in the repo.
 | `merge_urls.py "<urls.xlsx>"` | Fold image-URL or compliance-doc files into products by DS#. Non-destructive (reports conflicts). |
 | `validate.py` | The safety gate. Errors block merge; warnings are reported. `--strict` to fail on warnings. |
 | `export.py` | Product JSON → WMS + channel upload files. Reuses `ds_automation.py`. |
-| `build_index.py` | Regenerate `index/catalog.csv`. |
+| `build_index.py` | Regenerate `index/catalog.csv` and `index/status.csv`. |
 | `set_supplier.py <vendor-slug> <id>` | Stamp Apprise supplier ID onto a vendor's products (sheets with blank B3). `--list` shows current IDs. |
+| `init_status.py` | Create a `status/DS#####.json` for every product missing one (all channels `not_listed`). |
+| `update_status.py <DS#> ...` | Edit lifecycle / a channel's state, case#, listing id, issue. |
+| `ingest_status.py "<report.xlsx>" --channel <ch>` | Bulk-update one channel's status from a channel export/error report (match by DS#/SKU/id). |
 | `ds_automation.py` | Vendored transformer (the 5 WMS + 7 channel generators). Single source of the column map. |
 | `ds_schema.py` | Conversion between sheet rows, product JSON, and the transformer's dict. |
 
