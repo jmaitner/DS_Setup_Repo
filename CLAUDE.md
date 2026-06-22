@@ -62,6 +62,7 @@ eBay, Target Plus.
 | `init_status.py` | Create a `status/DS#####.json` for every product missing one (all channels `not_listed`). |
 | `update_status.py <DS#> ...` | Edit lifecycle / a channel's state, case#, listing id, issue. |
 | `ingest_status.py "<report.xlsx>" --channel <ch>` | Bulk-update one channel's status from a channel export/error report (match by DS#/SKU/id). |
+| `build_dashboard.py` | Regenerate `site/index.html` — a self-contained visual dashboard (catalog + status + detail). Open in a browser or host `site/`. Rerun after data/status changes. |
 | `ds_automation.py` | Vendored transformer (the 5 WMS + 7 channel generators). Single source of the column map. |
 | `ds_schema.py` | Conversion between sheet rows, product JSON, and the transformer's dict. |
 

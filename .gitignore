@@ -29,3 +29,7 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Browser-automation / screenshot scratch
+.playwright-mcp/
+dash-*.png
