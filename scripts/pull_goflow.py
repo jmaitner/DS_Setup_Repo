@@ -37,7 +37,9 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from status_lib import (CHANNELS, new_status_doc, load_status, save_status,
                         catalog_ds_numbers)
 
-BASE = (os.environ.get("GOFLOW_BASE_URL") or "https://distributionsolutions.goflow.com").rstrip("/")
+# API host pattern is https://{subdomain}.api.goflow.com/v1/... (note the '.api.' infix;
+# the subdomain matches the portal, e.g. portal distributionsolutions.goflow.com).
+BASE = (os.environ.get("GOFLOW_BASE_URL") or "https://distributionsolutions.api.goflow.com").rstrip("/")
 KEY = os.environ.get("GOFLOW_KEY", "")
 
 # GoFlow store.channel  ->  our channel key. Only the channels we track; others ignored.

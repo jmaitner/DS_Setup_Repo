@@ -29,7 +29,7 @@ jobs:
       - name: Pull channel status from GoFlow
         env:
           GOFLOW_KEY: ${{ secrets.GOFLOW_KEY }}
-          GOFLOW_BASE_URL: https://distributionsolutions.goflow.com
+          GOFLOW_BASE_URL: https://distributionsolutions.api.goflow.com
         run: python scripts/pull_goflow.py
 
       - name: Validate + rebuild index & dashboard
