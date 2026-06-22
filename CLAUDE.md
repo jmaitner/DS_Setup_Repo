@@ -51,6 +51,7 @@ Images are **Cloudinary URLs**, never binary files in the repo.
 | `validate.py` | The safety gate. Errors block merge; warnings are reported. `--strict` to fail on warnings. |
 | `export.py` | Product JSON → WMS + channel upload files. Reuses `ds_automation.py`. |
 | `build_index.py` | Regenerate `index/catalog.csv`. |
+| `set_supplier.py <vendor-slug> <id>` | Stamp Apprise supplier ID onto a vendor's products (sheets with blank B3). `--list` shows current IDs. |
 | `ds_automation.py` | Vendored transformer (the 5 WMS + 7 channel generators). Single source of the column map. |
 | `ds_schema.py` | Conversion between sheet rows, product JSON, and the transformer's dict. |
 
