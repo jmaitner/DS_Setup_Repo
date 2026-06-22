@@ -23,6 +23,7 @@ import argparse
 import json
 import os
 import sys
+import time
 import urllib.parse
 import urllib.request
 from datetime import date
@@ -66,7 +67,7 @@ STATE_MAP = {"active": "live", "in_review": "pending", "inactive": "not_listed"}
 RANK = {"live": 3, "pending": 2, "not_listed": 1}
 
 
-def api_get(url):
+def api_get(url, _tries=0):
     if not url.startswith("http"):
         url = BASE + ("" if url.startswith("/") else "/") + url
     req = urllib.request.Request(url, headers={
@@ -78,8 +79,17 @@ def api_get(url):
         with urllib.request.urlopen(req, timeout=60) as r:
             return json.loads(r.read().decode("utf-8"))
     except urllib.error.HTTPError as e:
-        body = e.read().decode("utf-8", "replace")[:300]
-        sys.exit(f"ERROR: GoFlow {e.code} on {url}\n  {body}\n"
+        body = e.read().decode("utf-8", "replace")
+        # GoFlow rate-limits: honor retry_after_seconds and retry (don't fail the sync).
+        if e.code == 429 and _tries < 30:
+            try:
+                wait = float(json.loads(body).get("retry_after_seconds"))
+            except Exception:
+                wait = float(e.headers.get("Retry-After") or 30)
+            print(f"  rate-limited; waiting {wait:.0f}s ...", flush=True)
+            time.sleep(wait + 1)
+            return api_get(url, _tries + 1)
+        sys.exit(f"ERROR: GoFlow {e.code} on {url}\n  {body[:300]}\n"
                  f"  (check GOFLOW_KEY / that auth is a Bearer token)")
     except Exception as e:
         sys.exit(f"ERROR: request failed on {url}: {e}")
@@ -107,6 +117,8 @@ def iter_listings(limit=None):
             if limit and n >= limit:
                 return
         url = data.get("next")
+        if url:
+            time.sleep(1.0)  # be polite to GoFlow's rate limiter between pages
 
 
 def main():
