@@ -22,6 +22,7 @@ Usage (env: GOFLOW_KEY required):
 import argparse
 import json
 import os
+import re
 import sys
 import time
 import urllib.parse
@@ -60,6 +61,27 @@ CHANNEL_MAP = {
     "ebay": "ebay",
     "target_plus_marketplace": "target_plus",
 }
+
+# Some channels have MULTIPLE connected stores (we run two Shopify stores; only the
+# Face2FaceFun one is "ours"). Restrict those channels to the store whose name matches.
+SHOPIFY_STORE = os.environ.get("GOFLOW_SHOPIFY_STORE") or "Face2FaceFun"
+
+
+def _norm(s):
+    return re.sub(r"[^a-z0-9]", "", (s or "").lower())
+
+
+def map_store(channel, name):
+    """GoFlow (channel, store name) -> our channel key, or None to ignore."""
+    our = CHANNEL_MAP.get(channel)
+    if our is None:
+        return None
+    if channel == "shopify":
+        want = _norm(SHOPIFY_STORE)
+        if want and want not in _norm(name):
+            return None  # a different Shopify store, not Face2FaceFun
+    return our
+
 
 # GoFlow listing.status  ->  our channel state. 'unknown' => leave existing state alone.
 STATE_MAP = {"active": "live", "in_review": "pending", "inactive": "not_listed"}
@@ -101,7 +123,7 @@ def get_stores():
     for s in data.get("data", []):
         gch = s.get("channel")
         stores[s.get("id")] = {
-            "channel": gch, "our": CHANNEL_MAP.get(gch),
+            "channel": gch, "our": map_store(gch, s.get("name")),
             "name": s.get("name"), "status": s.get("status"),
         }
     return stores
@@ -137,7 +159,7 @@ def main():
     print(f"\nConnected stores: {len(stores)}  (tracked channels: {len(tracked)})")
     for sid, s in sorted(stores.items(), key=lambda kv: str(kv[1]['channel'])):
         mark = f"-> {s['our']}" if s["our"] else "(not tracked)"
-        print(f"  [{s['status']}] {s['channel']}  {mark}")
+        print(f"  [{s['status']}] {s['channel']:24} {str(s['name'] or ''):28} {mark}")
     present = sorted({s["our"] for s in tracked.values()})
     missing = [c for c in CHANNELS if c not in present]
     print(f"\nOur channels covered by GoFlow: {present}")
@@ -155,7 +177,7 @@ def main():
         seen_listings += 1
         ds = str((li.get("product") or {}).get("item_number") or "").strip()
         store = li.get("store") or {}
-        our = CHANNEL_MAP.get(store.get("channel"))
+        our = map_store(store.get("channel"), store.get("name"))
         if not our:
             continue
         gstatus = li.get("status")
