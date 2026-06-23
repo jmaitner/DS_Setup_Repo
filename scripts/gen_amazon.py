@@ -52,11 +52,23 @@ AMAZON_FIELDS = [
     "quantity", "main_image_url", "other_image_url1", "other_image_url2",
     "other_image_url3", "other_image_url4", "bullet_point1", "bullet_point2",
     "bullet_point3", "bullet_point4", "bullet_point5", "product_description",
-    "recommended_browse_nodes", "color_name", "material_type", "age_range_description",
+    "recommended_browse_nodes", "color_name", "material_type", "number_of_pieces",
+    "age_range_description",
     "country_of_origin", "are_batteries_required", "item_weight",
     "item_weight_unit_of_measure", "item_length", "item_width", "item_height",
     "item_length_unit_of_measure", "condition_type",
 ]
+
+
+def clean_pieces(v):
+    """Pull an integer piece-count out of values like 6, '6 pieces', 'Example: 13 pieces'."""
+    if v is None:
+        return ""
+    if isinstance(v, (int, float)):
+        return int(v)
+    import re
+    m = re.search(r"\d+", str(v))
+    return int(m.group()) if m else ""
 
 
 def amazon_category(name):
@@ -115,6 +127,7 @@ def row_for(prod):
         "recommended_browse_nodes": amazon_category(prod.get("product_name")),
         "color_name": a.get("primary_color"),
         "material_type": a.get("material"),
+        "number_of_pieces": clean_pieces(a.get("num_pieces")),
         "age_range_description": " - ".join(str(x) for x in (a.get("min_age"), a.get("max_age")) if x),
         "country_of_origin": src.get("country_of_origin"),
         "are_batteries_required": comp.get("batteries_required"),
