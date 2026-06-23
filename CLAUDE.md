@@ -57,6 +57,7 @@ eBay, Target Plus.
 | `merge_urls.py "<urls.xlsx>"` | Fold image-URL or compliance-doc files into products by DS#. Non-destructive (reports conflicts). |
 | `validate.py` | The safety gate. Errors block merge; warnings are reported. `--strict` to fail on warnings. |
 | `export.py` | Product JSON → WMS + channel upload files. Reuses `ds_automation.py`. |
+| `gen_amazon.py --vendor <name>` | Amazon flat-file from catalog. Generic field names by default; `--template <Amazon Toys template.xlsx>` fills Amazon's own category template. Skips discontinued; adds category recommendation. |
 | `build_index.py` | Regenerate `index/catalog.csv` and `index/status.csv`. |
 | `set_supplier.py <vendor-slug> <id>` | Stamp Apprise supplier ID onto a vendor's products (sheets with blank B3). `--list` shows current IDs. |
 | `init_status.py` | Create a `status/DS#####.json` for every product missing one (all channels `not_listed`). |
