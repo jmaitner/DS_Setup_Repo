@@ -40,13 +40,13 @@
       "updated": null
     },
     "bestbuy": {
-      "state": "not_listed",
-      "id": null,
+      "state": "pending",
+      "id": "2846189",
       "url": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "nocnoc": {
       "state": "not_listed",
@@ -58,13 +58,13 @@
       "updated": null
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
-      "url": null,
+      "state": "live",
+      "id": "45189670567959",
+      "url": "https://nerrc4-1t.myshopify.com/products/tamagotchi-original-tamagotchi-pink-glitter-updated-logo",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "toysrus": {
       "state": "not_listed",
@@ -76,23 +76,23 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
-      "url": null,
+      "state": "live",
+      "id": "306573273724",
+      "url": "https://www.ebay.com/itm/Tamagotchi-Original-Tamagotchi-Pink-Glitter-Updated-Logo--/306573273724",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "target_plus": {
-      "state": "not_listed",
-      "id": null,
-      "url": null,
+      "state": "pending",
+      "id": "1005332051",
+      "url": "https://www.target.com/p/-/-/A-1005332051",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-06-23"
 }

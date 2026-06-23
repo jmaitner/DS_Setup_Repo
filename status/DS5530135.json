@@ -49,22 +49,22 @@
       "updated": null
     },
     "nocnoc": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "5530135",
       "url": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
-      "url": null,
+      "state": "live",
+      "id": "45170635931671",
+      "url": "https://nerrc4-1t.myshopify.com/products/vital-hero-digimon-black",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "toysrus": {
       "state": "not_listed",
@@ -76,13 +76,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
-      "url": null,
+      "state": "live",
+      "id": "306577421669",
+      "url": "https://www.ebay.com/itm/Vital-Hero-Digimon-Black-/306577421669",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "target_plus": {
       "state": "not_listed",
@@ -94,5 +94,5 @@
       "updated": null
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-06-23"
 }

@@ -31,40 +31,40 @@
       "updated": null
     },
     "tiktok": {
-      "state": "not_listed",
-      "id": null,
+      "state": "pending",
+      "id": "1731926558153347402",
       "url": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "bestbuy": {
-      "state": "not_listed",
-      "id": null,
+      "state": "pending",
+      "id": "2846180",
       "url": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "nocnoc": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "5530461",
       "url": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
-      "url": null,
+      "state": "live",
+      "id": "45189663621143",
+      "url": "https://nerrc4-1t.myshopify.com/products/anime-heroes-roronoa-zoro-action-figure",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "toysrus": {
       "state": "not_listed",
@@ -76,23 +76,23 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
-      "url": null,
+      "state": "live",
+      "id": "306573287565",
+      "url": "https://www.ebay.com/itm/ANIME-HEROES-One-Piece-Roronoa-Zoro-Action-Figure-/306573287565",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "target_plus": {
-      "state": "not_listed",
-      "id": null,
-      "url": null,
+      "state": "pending",
+      "id": "1005679514",
+      "url": "https://www.target.com/p/-/-/A-1005679514",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-06-23"
 }

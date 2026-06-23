@@ -31,40 +31,40 @@
       "updated": null
     },
     "tiktok": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "1731926556255621450",
       "url": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "bestbuy": {
-      "state": "not_listed",
-      "id": null,
+      "state": "pending",
+      "id": "2848338",
       "url": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "nocnoc": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "5530471",
       "url": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
-      "url": null,
+      "state": "live",
+      "id": "45189701697559",
+      "url": "https://nerrc4-1t.myshopify.com/products/one-piece-jiraiya-action-figure",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "toysrus": {
       "state": "not_listed",
@@ -76,13 +76,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
-      "url": null,
+      "state": "live",
+      "id": "306573287577",
+      "url": "https://www.ebay.com/itm/ANIME-HEROES-Naruto-Uzumaki-Jiraiya-Action-Figure-/306573287577",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "target_plus": {
       "state": "not_listed",
@@ -94,5 +94,5 @@
       "updated": null
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-06-23"
 }

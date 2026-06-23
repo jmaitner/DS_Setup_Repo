@@ -40,31 +40,31 @@
       "updated": null
     },
     "bestbuy": {
-      "state": "not_listed",
-      "id": null,
+      "state": "pending",
+      "id": "2846185",
       "url": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "nocnoc": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "5530919",
       "url": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
-      "url": null,
+      "state": "live",
+      "id": "45170621218839",
+      "url": "https://nerrc4-1t.myshopify.com/products/roronoa-zoro-three-sword-style-one-piece-anime-heroes-65-figure",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "toysrus": {
       "state": "not_listed",
@@ -76,23 +76,23 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
-      "url": null,
+      "state": "live",
+      "id": "306573287554",
+      "url": "https://www.ebay.com/itm/ANIME-HEROES-One-Piece-Roronoa-Zoro-Three-Sword-Style-Action-Figure-/306573287554",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "target_plus": {
-      "state": "not_listed",
+      "state": "pending",
       "id": null,
       "url": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-06-23"
 }

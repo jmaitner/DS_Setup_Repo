@@ -49,22 +49,22 @@
       "updated": null
     },
     "nocnoc": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "5530319",
       "url": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
-      "url": null,
+      "state": "live",
+      "id": "45170628067351",
+      "url": "https://nerrc4-1t.myshopify.com/products/vital-hero-batman-interactive-band-w-watch-heart-rate-and-step-counter",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "toysrus": {
       "state": "not_listed",
@@ -85,14 +85,14 @@
       "updated": null
     },
     "target_plus": {
-      "state": "not_listed",
-      "id": null,
-      "url": null,
+      "state": "pending",
+      "id": "1006709782",
+      "url": "https://www.target.com/p/-/-/A-1006709782",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-06-23"
 }

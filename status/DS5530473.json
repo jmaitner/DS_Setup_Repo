@@ -58,13 +58,13 @@
       "updated": null
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
-      "url": null,
+      "state": "live",
+      "id": "45189622267927",
+      "url": "https://nerrc4-1t.myshopify.com/products/bandai-namco-tamagotchi-pastel-marble",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     },
     "toysrus": {
       "state": "not_listed",
@@ -85,14 +85,14 @@
       "updated": null
     },
     "target_plus": {
-      "state": "not_listed",
-      "id": null,
-      "url": null,
+      "state": "pending",
+      "id": "1005681722",
+      "url": "https://www.target.com/p/-/-/A-1005681722",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-23"
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-06-23"
 }
