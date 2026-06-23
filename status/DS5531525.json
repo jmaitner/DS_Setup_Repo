@@ -1,7 +1,7 @@
 {
   "ds_number": "5531525",
-  "lifecycle": "active",
-  "lifecycle_note": null,
+  "lifecycle": "discontinued",
+  "lifecycle_note": "No product images available - not listing",
   "channels": {
     "amazon": {
       "state": "not_listed",
@@ -85,5 +85,5 @@
       "updated": null
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-06-23"
 }
