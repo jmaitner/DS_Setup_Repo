@@ -1,0 +1,22 @@
+{
+  "id": "walmart-werCs-flags",
+  "source": "compliance",
+  "case_number": null,
+  "title": "WERCSmart flags blocking items (not applicable / flagged accidentally)",
+  "description": null,
+  "status": "open",
+  "tags": [
+    "compliance",
+    "werCs",
+    "walmart"
+  ],
+  "brand": null,
+  "linked_ds": [],
+  "email_link": null,
+  "email_id": null,
+  "opened": "2026-06-24",
+  "updated": "2026-06-24",
+  "owner": null,
+  "notes": null,
+  "_meta": {}
+}

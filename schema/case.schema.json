@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/jmaitner/DS_Setup_Repo/schema/case.schema.json",
+  "title": "DS Case / Issue",
+  "description": "One case or issue (channel support case, vendor/compliance thread, etc.), attributed to items/brands. Lives in cases/<id>.json. Cross-links to items by DS# and to per-item channel status by case_number.",
+  "type": "object",
+  "required": ["id", "source", "title", "status"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "description": "Stable id. Use the channel case/ticket number when available (e.g. 'amazon-20917568511'), else an email-derived slug." },
+    "source": { "type": "string", "description": "Where it came from: amazon, walmart_1p, walmart_3p, target_plus, bestbuy, tiktok, nocnoc, toysrus, ebay, shopify_f2f, vendor, compliance, internal, other." },
+    "case_number": { "type": ["string", "null"], "description": "The channel's own case/ticket number, if any." },
+    "title": { "type": "string" },
+    "description": { "type": ["string", "null"] },
+    "status": { "type": "string", "enum": ["needs_review", "open", "pending", "resolved", "closed"] },
+    "tags": { "type": "array", "items": { "type": "string" }, "description": "Issue + product tags, e.g. compliance, pricing, werCs, safety-docs, listing, returns, inventory." },
+    "brand": { "type": ["string", "null"], "description": "Vendor/brand if this is brand-level." },
+    "linked_ds": { "type": "array", "items": { "type": "string" }, "description": "DS#s this case affects (many-to-many)." },
+    "email_link": { "type": ["string", "null"] },
+    "email_id": { "type": ["string", "null"], "description": "internetMessageId, for de-duplication on re-scan." },
+    "opened": { "type": ["string", "null"] },
+    "updated": { "type": ["string", "null"] },
+    "owner": { "type": ["string", "null"] },
+    "notes": { "type": ["string", "null"] },
+    "_meta": { "type": "object", "additionalProperties": true }
+  }
+}

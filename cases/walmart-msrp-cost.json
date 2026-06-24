@@ -1,0 +1,20 @@
+{
+  "id": "walmart-msrp-cost",
+  "source": "walmart_1p",
+  "case_number": null,
+  "title": "Can't update MSRP/cost - missing Walmart item numbers",
+  "description": "Couldn't find Walmart item numbers to update cost/MSRP. NOTE: item ids since loaded from wmitemids file.",
+  "status": "open",
+  "tags": [
+    "pricing"
+  ],
+  "brand": null,
+  "linked_ds": [],
+  "email_link": null,
+  "email_id": null,
+  "opened": "2026-06-24",
+  "updated": "2026-06-24",
+  "owner": null,
+  "notes": null,
+  "_meta": {}
+}

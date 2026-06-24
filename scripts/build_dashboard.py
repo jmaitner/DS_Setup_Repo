@@ -47,6 +47,17 @@ def load_na_rules():
         return {}
 
 
+def load_cases():
+    out = []
+    for p in sorted(glob.glob(os.path.join(REPO_ROOT, "cases", "*.json"))):
+        with open(p, encoding="utf-8") as f:
+            c = json.load(f)
+        out.append({k: c.get(k) for k in ("id", "source", "case_number", "title",
+                    "description", "status", "tags", "brand", "linked_ds",
+                    "email_link", "opened", "updated")})
+    return out
+
+
 def build_records():
     status = {}
     for p in glob.glob(os.path.join(STATUS_DIR, "*.json")):
@@ -104,6 +115,7 @@ def main():
             .replace("__DATA__", json.dumps(records, ensure_ascii=False, default=str))
             .replace("__CHANNELS__", json.dumps(CHANNELS, ensure_ascii=False))
             .replace("__NA_RULES__", json.dumps(load_na_rules(), ensure_ascii=False))
+            .replace("__CASES__", json.dumps(load_cases(), ensure_ascii=False, default=str))
             .replace("__GENERATED__", date.today().isoformat())
             .replace("__COUNT__", str(len(records))))
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
@@ -153,6 +165,12 @@ TEMPLATE = r"""<!DOCTYPE html>
   .lc-on_hold{background:rgba(234,179,8,.18);color:var(--setup_in_progress)}
   .lc-planned{background:rgba(56,189,248,.16);color:var(--pending)}
   .lc-dropped{background:rgba(239,68,68,.16);color:var(--error)}
+  .cs-open{background:rgba(239,68,68,.18);color:#fca5a5}
+  .cs-pending{background:rgba(234,179,8,.18);color:var(--setup_in_progress)}
+  .cs-needs_review{background:rgba(56,189,248,.16);color:var(--pending)}
+  .cs-resolved{background:rgba(34,197,94,.18);color:var(--live)}
+  .cs-closed{background:rgba(75,85,99,.3);color:#cbd5e1}
+  .tag{display:inline-block;background:var(--panel2);border:1px solid var(--line);border-radius:4px;padding:1px 6px;font-size:10px;margin:1px}
   .chips{display:flex;gap:3px;flex-wrap:nowrap}
   .chip{width:15px;height:15px;border-radius:3px;display:inline-block;cursor:help}
   .chip.na{background:transparent!important;border:1.5px dashed var(--muted)}
@@ -190,7 +208,7 @@ TEMPLATE = r"""<!DOCTYPE html>
   <select id="lifecycle"><option value="">All lifecycle</option></select>
   <select id="channel"><option value="">Any channel</option></select>
   <select id="cstate"><option value="">Any state</option></select>
-  <span class="seg"><button data-view="catalog" class="on">Catalog</button><button data-view="status">Status</button></span>
+  <span class="seg"><button data-view="catalog" class="on">Catalog</button><button data-view="status">Status</button><button data-view="cases">Cases</button></span>
   <span class="legend" id="legend"></span>
 </div>
 <table>
@@ -206,6 +224,7 @@ TEMPLATE = r"""<!DOCTYPE html>
 const DATA = __DATA__;
 const CHANNELS = __CHANNELS__;
 const NA_RULES = __NA_RULES__;   // vendor-slug -> [channels we don't sell on]
+const CASES = __CASES__;
 // Returns a reason string if (channel k) is N/A for item d, else null.
 function naInfo(k, c, d){
   if((NA_RULES[d.vslug]||[]).includes(k)) return CHANNELS[k]+': not applicable for '+d.vendor;
@@ -244,7 +263,28 @@ function filtered(){
   });
 }
 
+function renderCases(){
+  const q=document.getElementById('q').value.toLowerCase().trim();
+  const order={needs_review:0,open:1,pending:2,resolved:3,closed:4};
+  let cs=CASES.slice().sort((a,b)=>(order[a.status]??9)-(order[b.status]??9));
+  if(q) cs=cs.filter(c=>((c.id+' '+c.title+' '+(c.tags||[]).join(' ')+' '+(c.brand||'')+' '+c.source+' '+c.status+' '+(c.linked_ds||[]).join(' ')+' '+(c.case_number||'')).toLowerCase().includes(q)));
+  const openN=CASES.filter(c=>['open','needs_review','pending'].includes(c.status)).length;
+  stats.innerHTML=`<span><b>${CASES.length}</b> cases</span><span><b style="color:var(--error)">${openN}</b> open</span><span>showing <b>${cs.length}</b></span>`;
+  document.getElementById('empty').style.display = cs.length?'none':'block';
+  thead.innerHTML='<tr><th>Status</th><th>Source</th><th>Case #</th><th>Title</th><th>Tags</th><th>Brand</th><th>Items</th><th>Email</th></tr>';
+  tbody.innerHTML=cs.map(c=>`<tr>
+    <td><span class="badge cs-${c.status}">${c.status.replace(/_/g,' ')}</span></td>
+    <td class="muted">${esc(c.source)}</td>
+    <td class="muted">${esc(c.case_number||'')}</td>
+    <td class="nm" title="${esc(c.description||c.title)}">${esc(c.title)}</td>
+    <td>${(c.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</td>
+    <td>${esc(c.brand||'')}</td>
+    <td class="muted">${(c.linked_ds||[]).join(', ')||'—'}</td>
+    <td>${c.email_link?`<a href="${esc(c.email_link)}" target="_blank">open</a>`:''}</td></tr>`).join('');
+}
+
 function render(){
+  if(view==='cases') return renderCases();
   const rows=filtered();
   document.getElementById('empty').style.display = rows.length?'none':'block';
   const liveTot = DATA.reduce((a,d)=>a+Object.values(d.channels).filter(c=>c.state==='live').length,0);

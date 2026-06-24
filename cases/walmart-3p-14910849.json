@@ -1,0 +1,21 @@
+{
+  "id": "walmart-3p-14910849",
+  "source": "walmart_3p",
+  "case_number": "14910849",
+  "title": "Bandai items not showing active inventory",
+  "description": null,
+  "status": "resolved",
+  "tags": [
+    "inventory",
+    "compliance"
+  ],
+  "brand": "Bandai Namco",
+  "linked_ds": [],
+  "email_link": null,
+  "email_id": null,
+  "opened": "2026-06-24",
+  "updated": "2026-06-24",
+  "owner": null,
+  "notes": null,
+  "_meta": {}
+}

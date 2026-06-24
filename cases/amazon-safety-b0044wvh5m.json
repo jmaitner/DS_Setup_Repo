@@ -1,0 +1,22 @@
+{
+  "id": "amazon-safety-b0044wvh5m",
+  "source": "amazon",
+  "case_number": null,
+  "title": "Safety docs required to reactivate listing (ASIN B0044WVH5M)",
+  "description": "Amazon deactivated a children's toy listing (ASIN B0044WVH5M) pending CPSIA/compliance documentation.",
+  "status": "open",
+  "tags": [
+    "compliance",
+    "safety-docs",
+    "listing"
+  ],
+  "brand": null,
+  "linked_ds": [],
+  "email_link": null,
+  "email_id": null,
+  "opened": "2026-06-24",
+  "updated": "2026-06-24",
+  "owner": null,
+  "notes": null,
+  "_meta": {}
+}

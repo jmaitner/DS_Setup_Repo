@@ -1,0 +1,22 @@
+{
+  "id": "compliance-canal-target-werCs",
+  "source": "compliance",
+  "case_number": null,
+  "title": "Target WERCs registration via Canal (WPSID 1915052) - accepted",
+  "description": null,
+  "status": "resolved",
+  "tags": [
+    "compliance",
+    "werCs",
+    "target"
+  ],
+  "brand": "Canal Toys",
+  "linked_ds": [],
+  "email_link": null,
+  "email_id": null,
+  "opened": "2026-06-24",
+  "updated": "2026-06-24",
+  "owner": null,
+  "notes": null,
+  "_meta": {}
+}

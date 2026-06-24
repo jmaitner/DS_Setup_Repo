@@ -202,9 +202,43 @@ def main():
         if sds and ds_seen and sds not in ds_seen:
             errors.append(f"{rel}: status for DS{sds} but no such product in catalog")
 
+    # ── cases layer (cases/*.json) ──
+    case_files = sorted(glob.glob(os.path.join(REPO_ROOT, "cases", "*.json")))
+    case_validator = None
+    case_schema_path = os.path.join(REPO_ROOT, "schema", "case.schema.json")
+    if case_files and validator is not None and os.path.exists(case_schema_path):
+        try:
+            from jsonschema import Draft7Validator
+            with open(case_schema_path, encoding="utf-8") as f:
+                case_validator = Draft7Validator(json.load(f))
+        except Exception as e:
+            print(f"NOTE: could not load case schema ({e}).\n")
+    for path in case_files:
+        rel = os.path.relpath(path, REPO_ROOT)
+        try:
+            with open(path, encoding="utf-8") as f:
+                c = json.load(f)
+        except Exception as e:
+            errors.append(f"{rel}: invalid JSON - {e}")
+            continue
+        if case_validator is not None:
+            for err in case_validator.iter_errors(c):
+                loc = ".".join(str(x) for x in err.absolute_path) or "(root)"
+                errors.append(f"{rel}: case schema [{loc}] {err.message}")
+        cid = str(c.get("id") or "").strip()
+        if cid and os.path.basename(path) != f"{cid}.json":
+            errors.append(f"{rel}: filename should be {cid}.json")
+        for ds in (c.get("linked_ds") or []):
+            if ds_seen and str(ds).strip() not in ds_seen:
+                warnings.append(f"{rel}: linked DS{ds} not found in catalog")
+
     # ── report ──
-    print(f"Validated {len(files)} product file(s)"
-          + (f" and {len(status_files)} status file(s)" if status_files else "") + ".\n")
+    extra = ""
+    if status_files:
+        extra += f" and {len(status_files)} status file(s)"
+    if case_files:
+        extra += f" and {len(case_files)} case file(s)"
+    print(f"Validated {len(files)} product file(s){extra}.\n")
     if warnings:
         print(f"WARNINGS ({len(warnings)}):")
         for w in warnings:

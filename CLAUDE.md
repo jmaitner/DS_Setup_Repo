@@ -40,12 +40,13 @@ the per-product marketing brand and can differ.
 
 Images are **Cloudinary URLs**, never binary files in the repo.
 
-**Two layers, joined by DS#.** Product *data* lives in `products/` (above). Channel *status*
-— lifecycle (active/discontinued/…) and per-channel setup state (live/error/not_listed/…),
-case numbers, listing ids, issues — lives separately in `status/DS#####.json`, keyed by DS#.
-They change for different reasons; never mix them. See `docs/STATUS_LAYER.md`. Channels:
-Amazon, Walmart 1P, Walmart 3P, TikTok, Best Buy, NocNoc, Shopify (Face2FaceFun), Toys R Us,
-eBay, Target Plus.
+**Three layers, joined by DS#.** (1) Product *data* in `products/` (above). (2) Channel
+*status* — lifecycle + per-channel state (live/error/not_listed/…), case#, listing ids,
+issues — in `status/DS#####.json` (see `docs/STATUS_LAYER.md`). (3) *Cases* — support cases &
+vendor/compliance issues, each attributed to items/brands with tags — in `cases/<id>.json`
+(see `docs/CASES.md`). They change for different reasons; never mix them. Channels: Amazon,
+Walmart 1P, Walmart 3P, TikTok, Best Buy, NocNoc, Shopify (Face2FaceFun), Toys R Us, eBay,
+Target Plus.
 
 ---
 
@@ -64,7 +65,8 @@ eBay, Target Plus.
 | `update_status.py <DS#> ...` | Edit lifecycle / a channel's state, case#, listing id, issue. |
 | `ingest_status.py "<report.xlsx>" --channel <ch>` | Bulk-update one channel's status from a channel export/error report (match by DS#/SKU/id). |
 | `pull_goflow.py` | Sync status from GoFlow (the hub) for all connected channels in one sweep (match by `product.item_number`=DS#). Needs `GOFLOW_KEY` env. Runs 2×/week via `.github/workflows/sync-status.yml`. |
-| `build_dashboard.py` | Regenerate `site/index.html` — a self-contained visual dashboard (catalog + status + detail). Open in a browser or host `site/`. Rerun after data/status changes. |
+| `build_dashboard.py` | Regenerate `site/index.html` — a self-contained visual dashboard (catalog + status + **cases** + detail). Open in a browser or host `site/`. Rerun after data/status/case changes. |
+| `case.py` | Create/update/attribute cases in the **cases layer** (`cases/<id>.json`). Upsert by id; `--ds`/`--brand`/`--tags`/`--status`; `--stamp` writes the case# onto linked items' channel. `--list` shows all. See `docs/CASES.md`. |
 | `ds_automation.py` | Vendored transformer (the 5 WMS + 7 channel generators). Single source of the column map. |
 | `ds_schema.py` | Conversion between sheet rows, product JSON, and the transformer's dict. |
 
