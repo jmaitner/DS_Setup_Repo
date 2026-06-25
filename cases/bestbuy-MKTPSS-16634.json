@@ -1,0 +1,21 @@
+{
+  "id": "bestbuy-MKTPSS-16634",
+  "source": "bestbuy",
+  "case_number": "MKTPSS-16634",
+  "title": "Best Buy Marketplace suspension case (acknowledged)",
+  "description": "Best Buy Marketplace Support (Jira automation, automation@bestbuy.atlassian.net) acknowledged the request. Ticket MKTPSS-16634, re: a seller suspension case. Initial review up to 2 business days; up to 30 days if a return dispute. Keep subject line unchanged when replying. Acknowledgement only - no resolution yet.",
+  "status": "open",
+  "tags": [
+    "suspension",
+    "bestbuy"
+  ],
+  "brand": null,
+  "linked_ds": [],
+  "email_link": null,
+  "email_id": null,
+  "opened": "2026-06-25",
+  "updated": "2026-06-25",
+  "owner": null,
+  "notes": null,
+  "_meta": {}
+}
