@@ -272,7 +272,7 @@ function renderCases(){
   stats.innerHTML=`<span><b>${CASES.length}</b> cases</span><span><b style="color:var(--error)">${openN}</b> open</span><span>showing <b>${cs.length}</b></span>`;
   document.getElementById('empty').style.display = cs.length?'none':'block';
   thead.innerHTML='<tr><th>Status</th><th>Source</th><th>Case #</th><th>Title</th><th>Tags</th><th>Brand</th><th>Items</th><th>Email</th></tr>';
-  tbody.innerHTML=cs.map(c=>`<tr>
+  tbody.innerHTML=cs.map(c=>`<tr data-cid="${esc(c.id)}">
     <td><span class="badge cs-${c.status}">${c.status.replace(/_/g,' ')}</span></td>
     <td class="muted">${esc(c.source)}</td>
     <td class="muted">${esc(c.case_number||'')}</td>
@@ -346,12 +346,38 @@ function openDrawer(d){
 }
 function closeDrawer(){ drawer.classList.remove('open'); backdrop.classList.remove('open'); }
 
+function dsName(ds){ const d=DATA.find(x=>x.ds===ds); return d?`${ds} — ${esc(d.name)}`:esc(ds); }
+function openCaseDrawer(cid){
+  const c=CASES.find(x=>x.id===cid); if(!c) return;
+  dcontent.innerHTML=`<div class="dh"><h2>${esc(c.title)}</h2>
+    <div class="muted">${esc(c.source)}${c.case_number?' · case '+esc(c.case_number):''} <span class="badge cs-${c.status}">${c.status.replace(/_/g,' ')}</span></div></div>
+  <div class="db">
+    ${c.description?`<div class="sect">Summary</div><p>${esc(c.description)}</p>`:'<p class="muted">No summary yet.</p>'}
+    <div class="sect">Details</div>
+    <div class="kv">
+      <div>Source</div><div>${esc(c.source)}</div>
+      <div>Case #</div><div>${esc(c.case_number)||'—'}</div>
+      <div>Brand</div><div>${esc(c.brand)||'—'}</div>
+      <div>Tags</div><div>${(c.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join('')||'—'}</div>
+      <div>Opened</div><div>${esc(c.opened)||'—'}</div>
+      <div>Updated</div><div>${esc(c.updated)||'—'}</div>
+      <div>Case id</div><div class="muted">${esc(c.id)}</div>
+    </div>
+    <div class="sect">Linked items (${(c.linked_ds||[]).length})</div>
+    ${(c.linked_ds||[]).length?`<ul>${c.linked_ds.map(ds=>`<li>${dsName(ds)}</li>`).join('')}</ul>`:'<p class="muted">No items attached yet.</p>'}
+    ${c.email_link?`<div class="sect">Source email</div><a href="${esc(c.email_link)}" target="_blank">Open in Outlook</a>`:''}
+  </div>`;
+  drawer.classList.add('open'); backdrop.classList.add('open');
+}
+
 document.querySelectorAll('.seg button').forEach(b=>b.onclick=()=>{
   document.querySelectorAll('.seg button').forEach(x=>x.classList.remove('on'));
   b.classList.add('on'); view=b.dataset.view; render();
 });
 ['q','vendor','lifecycle','channel','cstate'].forEach(id=>document.getElementById(id).addEventListener('input',render));
-tbody.addEventListener('click',e=>{const tr=e.target.closest('tr'); if(tr) openDrawer(DATA[+tr.dataset.i]);});
+tbody.addEventListener('click',e=>{const tr=e.target.closest('tr'); if(!tr)return;
+  if(tr.dataset.cid) openCaseDrawer(tr.dataset.cid);
+  else if(tr.dataset.i!==undefined) openDrawer(DATA[+tr.dataset.i]);});
 dclose.onclick=closeDrawer; backdrop.onclick=closeDrawer;
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeDrawer()});
 render();
