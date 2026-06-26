@@ -1,0 +1,114 @@
+{
+  "ds_number": "5531573",
+  "vendor": "BANDAI NAMCO",
+  "brand": "Bandai Namco",
+  "vendor_item_number": "93397",
+  "product_name": "Bandai Namco - Ultraman - Ultraman Zero 5\" Soft Vinyl Hero Figure",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557933975"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 7.794,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 12.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "‌Looks just like the show - Ultraman soft vinyl series have detailed deco and sculpting to make sure each figure come to life in your hands, and look just like your favorite characters in the show",
+      "Collect them all - with the variety of styles there is an endless amount of fight scenes that you can recreate",
+      "Each soft vinyl figure comes with a collector card to collect",
+      "Comes with open tray packaging",
+      "For ages 4 and up"
+    ],
+    "keywords": null,
+    "description": "Jump in to the world of ULTRAMAN! - With these 5\"\" soft vinyl figure you can recreate your favorite scene from the live action series! Make your favorite ULTRAMAN fight against the evil kaiju (monsters) to protect earth! Each soft vinyl figure comes with a collector card to collect! For ages 4 and up."
+  },
+  "attributes": {
+    "material": "PVC",
+    "num_pieces": 1,
+    "whats_in_box": "Main Figure, Collectible Card",
+    "primary_color": "Ultraman Zero",
+    "secondary_color": null,
+    "min_age": 4,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": null,
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481538/Bandai/5531573/img_01.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.05,
+      "weight_unit": "lbs",
+      "length": 1.25,
+      "length_unit": "in",
+      "width": 2.5,
+      "width_unit": "in",
+      "height": 5.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.28,
+      "weight_unit": "lbs",
+      "length": 7,
+      "length_unit": "in",
+      "width": 3.25,
+      "width_unit": "in",
+      "height": 7,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 10.63,
+      "length_unit": "in",
+      "width": 7.68,
+      "width_unit": "in",
+      "height": 8.07,
+      "height_unit": "in",
+      "weight": 1.21,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Yes",
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 6.23.26 Bandai Batch 2.xlsx",
+    "imported_at": "2026-06-26",
+    "supplier_id": 1968,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "bandai-namco"
+  }
+}

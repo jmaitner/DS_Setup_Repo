@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531590",
+  "vendor": "BANDAI NAMCO",
+  "brand": "Bandai Namco",
+  "vendor_item_number": "92342",
+  "product_name": "Bandai Namco - Godzilla - Mecha Godzilla 2002, 6\" Action Figure Set",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557923426"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 16.793999999999997,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 27.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "6\" all action figures featuring Godzilla characters from their respective films",
+      "Highly articulated with Bandai true to likeness quality customers have come to respect",
+      "Extend your play and create destructive displays with the included accessories!",
+      "Comes with an effect part",
+      "For ages 4 and up"
+    ],
+    "keywords": null,
+    "description": "From <i>Godzilla Against Mechagodzilla</i> comes a 6-inch Mechagodzilla action figure! The Godzilla Mechagodzilla 2002 6-Inch Action Figure comes with a beam effect part. This figure is highly detailed with a true likeness to the kaiju with a wide range of articulation. Extend your play and create destructive displays with the included accessories! Ages 4 and up."
+  },
+  "attributes": {
+    "material": "ABS/PC",
+    "num_pieces": 1,
+    "whats_in_box": "Main figure, effect part",
+    "primary_color": "Mecha Godzilla 2002",
+    "secondary_color": null,
+    "min_age": 4,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": null,
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481441/Bandai/5531590/img_01.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481442/Bandai/5531590/img_02.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481443/Bandai/5531590/img_03.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481444/Bandai/5531590/img_04.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481444/Bandai/5531590/img_05.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.08,
+      "weight_unit": "lbs",
+      "length": 5,
+      "length_unit": "in",
+      "width": 1.5,
+      "width_unit": "in",
+      "height": 6,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.6,
+      "weight_unit": "lbs",
+      "length": 6,
+      "length_unit": "in",
+      "width": 2,
+      "width_unit": "in",
+      "height": 10,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 18.375,
+      "length_unit": "in",
+      "width": 4.875,
+      "width_unit": "in",
+      "height": 6.88,
+      "height_unit": "in",
+      "weight": 1,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Yes",
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 6.22.26 Bandai Batch 1.xlsx",
+    "imported_at": "2026-06-26",
+    "supplier_id": 1968,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "bandai-namco"
+  }
+}

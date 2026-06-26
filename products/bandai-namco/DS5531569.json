@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531569",
+  "vendor": "BANDAI NAMCO",
+  "brand": "Bandai Namco",
+  "vendor_item_number": "93351",
+  "product_name": "Bandai Namco - Ultraman: Rising - 12\" Deluxe Ultraman Light Up Figure",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557933517"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 20.994,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 34.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Stands 12 inches tall with 9 points of articulation",
+      "Light-up chest piece can be pushed to activate quotes from the movie. Shake Ultraman to activate battle sounds!",
+      "Comes with a collectible card",
+      "Includes 3x LR44 Batteries",
+      "For ages 4 and up"
+    ],
+    "keywords": null,
+    "description": "<h3>Ultraman goes big in the new Netflix film Ultraman: Rising!</h3><p>This 12” scaled action figure features 9 points of articulation, LED lights, and a variety of different sounds from the movie to recreate its dynamic action scenes!</p><p>This toy also comes with a collectible card to add to your collection!</p><h3>Features:</h3><ul><li>Action figure is 12 inches tall</li><li>Light-up chest piece can be pushed to activate quotes from the movie</li><li>Shake Ultraman to activate battle sounds</li><li>Comes with a collectible card</li><li>For ages 4 &amp; up</li></ul>"
+  },
+  "attributes": {
+    "material": "ABS/ PVC/ PC",
+    "num_pieces": 1,
+    "whats_in_box": "Main Figure, Collectible Card",
+    "primary_color": "Ultraman Rising",
+    "secondary_color": null,
+    "min_age": 4,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": null,
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481523/Bandai/5531569/img_01.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481524/Bandai/5531569/img_02.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481525/Bandai/5531569/img_03.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481526/Bandai/5531569/img_04.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481527/Bandai/5531569/img_05.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.34,
+      "weight_unit": "lbs",
+      "length": 3.74,
+      "length_unit": "in",
+      "width": 1.77,
+      "width_unit": "in",
+      "height": 11.91,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.7,
+      "weight_unit": "lbs",
+      "length": 8,
+      "length_unit": "in",
+      "width": 3,
+      "width_unit": "in",
+      "height": 12.5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 2,
+      "length": 8.38,
+      "length_unit": "in",
+      "width": 6.7,
+      "width_unit": "in",
+      "height": 13.5,
+      "height_unit": "in",
+      "weight": 1.9,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "WARNING: Contains button or coin cell battery. Hazardous if swallowed. See instructions.",
+    "lead_phthalates": "Yes",
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "Yes",
+    "batteries_included": "Yes",
+    "battery_cell_comp": "Button Cell",
+    "battery_type_qty": "3 x LR44",
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 6.23.26 Bandai Batch 2.xlsx",
+    "imported_at": "2026-06-26",
+    "supplier_id": 1968,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "bandai-namco"
+  }
+}

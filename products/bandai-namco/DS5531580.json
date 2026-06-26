@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531580",
+  "vendor": "BANDAI NAMCO",
+  "brand": "Dragon Stars Series",
+  "vendor_item_number": "37196",
+  "product_name": "Dragon Stars Series - Dragon Ball Super - Super Saiyan Blue Vegeta, Power Up Pack 6.5\" Action Figure Set",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557407353"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 17.994,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 29.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "The Dragon Stars Power Up Pack captures the most epic moments of the Dragon Ball Universe. Recreate your favorite scene or make up one of your own",
+      "This highly sought after collection lets you step into the world of Dragon Ball with Super Saiyan Blue Vegeta where your imagination can be the star of the action",
+      "Each figure comes with its own unique power up accessories that lets you control the action like never before",
+      "Collectible packaging is the perfect way to show your love for Dragon Ball. Re-create your favorite action packed moments with 3 accessories to choose from",
+      "20+ points of articulation with the Dragon Stars figures you know and love! For ages 4 and up"
+    ],
+    "keywords": null,
+    "description": "It's time to power up your Dragon Ball Super collection! Bandai’s Dragon Stars Power Up Pack now lets you step into the anime world of Dragon Ball Super where your imagination can be the star of the action. Re-create your favorite action-packed moments with powered-up accessories. Each figure comes with its own unique power up accessories, 20+ points of articulation, and collectible packaging. Recreate your favorite scene or make up one of your own, this figure is perfect for play and display. For ages 4 and up."
+  },
+  "attributes": {
+    "material": "ABS/ PC",
+    "num_pieces": 1,
+    "whats_in_box": "Power up accessories",
+    "primary_color": "Super Saiyan Blue Vegeta",
+    "secondary_color": null,
+    "min_age": 4,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": null,
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481407/Bandai/5531580/img_01.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481408/Bandai/5531580/img_02.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481408/Bandai/5531580/img_03.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481409/Bandai/5531580/img_04.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481410/Bandai/5531580/img_05.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.7,
+      "weight_unit": "lbs",
+      "length": 5.8,
+      "length_unit": "in",
+      "width": 2,
+      "width_unit": "in",
+      "height": 7.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.47,
+      "weight_unit": "lbs",
+      "length": 8,
+      "length_unit": "in",
+      "width": 2.25,
+      "width_unit": "in",
+      "height": 10,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 18.25,
+      "length_unit": "in",
+      "width": 5.38,
+      "width_unit": "in",
+      "height": 9.25,
+      "height_unit": "in",
+      "weight": 6.5,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Yes",
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 6.22.26 Bandai Batch 1.xlsx",
+    "imported_at": "2026-06-26",
+    "supplier_id": 1968,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "bandai-namco"
+  }
+}

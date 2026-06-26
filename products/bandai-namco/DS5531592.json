@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531592",
+  "vendor": "BANDAI NAMCO",
+  "brand": "LIMIT BREAKER SERIES",
+  "vendor_item_number": "40903",
+  "product_name": "Limit Breaker Series - Dragon Ball DAIMA - Super Saiyan 4 Goku [DAIMA Ver.], 12\" Action Figure",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557409036"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 11.393999999999998,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 18.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Play with your favorite characters - each 12-inch figure comes with 5 points of articulation and endless fun. Durable, tough, and ready for action inside, or outside, these figures are great to play with and will last a long time in even the roughest conditions",
+      "Looks just like the show - Limit Breaker figures have true to character deco and sculpting to make sure each figure come to life in your hands, and look just like your favorite characters in the anime!",
+      "For kids of all ages - these figures are just as much for the adult fans as they are for the kids and make a perfect addition to your Dragon Ball collection",
+      "Collectible Package - anime inspired packaging that looks as good on your shelf as the figures do in your hands",
+      "Collect them all - with over 19 characters to choose from in the Limit Breaker line there is an endless amount of fight scenes to recreate and power up's to achieve. More figures added every year! For ages 4 and up"
+    ],
+    "keywords": null,
+    "description": "The Universe of Dragon Ball gets a lot bigger with these 12-inch figures! Inspired by the show and with the same quality deco as the 6.5 - inch figures, the Dragon Ball Limit Breaker line is perfect for the rough and tumble action scenes, or for kids who are discovering the action packed world of Dragon Ball. Fans of all ages can enjoy their favorite characters from the show and relive the epic battles that we all know and love."
+  },
+  "attributes": {
+    "material": "ABS/ PC",
+    "num_pieces": 1,
+    "whats_in_box": "Main figure",
+    "primary_color": "Super Saiyan 4 Goku [DAIMA Ver.]",
+    "secondary_color": null,
+    "min_age": 4,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": null,
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481451/Bandai/5531592/img_01.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481452/Bandai/5531592/img_02.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481453/Bandai/5531592/img_03.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481454/Bandai/5531592/img_04.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481454/Bandai/5531592/img_05.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.55,
+      "weight_unit": "lbs",
+      "length": 5.5,
+      "length_unit": "in",
+      "width": 5.2,
+      "width_unit": "in",
+      "height": 11.8,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.88,
+      "weight_unit": "lbs",
+      "length": 6,
+      "length_unit": "in",
+      "width": 3,
+      "width_unit": "in",
+      "height": 12.5,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 12.75,
+      "length_unit": "in",
+      "width": 6.63,
+      "width_unit": "in",
+      "height": 13.63,
+      "height_unit": "in",
+      "weight": 7,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Yes",
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 6.22.26 Bandai Batch 1.xlsx",
+    "imported_at": "2026-06-26",
+    "supplier_id": 1968,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "bandai-namco"
+  }
+}

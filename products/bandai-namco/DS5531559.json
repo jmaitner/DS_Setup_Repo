@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531559",
+  "vendor": "BANDAI NAMCO",
+  "brand": "Anime Heroes",
+  "vendor_item_number": "36907",
+  "product_name": "Anime Heroes - Naruto Shippuden - Naruto Uzumaki (Sage Mode), 6.5\" Action Figure",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557369071"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 14.393999999999998,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 23.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "Vietnam",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Bandai’s Anime Heroes figure line now lets you step into the anime world of Naruto. This Naruto figure (Shippuden Version) captures the determination and resolve of the hero of the Hidden Leaf Village",
+      "Comes in premium packaging that is influenced by Japanese manga and art",
+      "The detailed and amazingly decorated 6.5-inch scale figure allows you to recreate Naruto’s iconic moments with over 20+ points of articulation. This figure is perfect for play and display!",
+      "Each Anime Heroes figure comes with an additional two sets of switchable hands and character-specific accessories",
+      "Fans can look for more Anime Heroes Naruto series figures from Bandai (Each figure sold separately)"
+    ],
+    "keywords": null,
+    "description": "Fans of one of the biggest anime's of all time, Naruto, can now bring home their favorite characters from the Anime Heroes 6.5-inch Naruto action figure line, by Bandai Namco Toys & Collectibles. Immerse yourself into the world of Naruto and recreate the biggest battles and missions with action figures that look exactly like their anime characters! For ages 4 and up."
+  },
+  "attributes": {
+    "material": "ABS/ PC",
+    "num_pieces": 1,
+    "whats_in_box": "figure, 2 sets of interchangable hands, character specific accessories",
+    "primary_color": "Naruto Uzumaki (Sage Mode)",
+    "secondary_color": null,
+    "min_age": 4,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": null,
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481487/Bandai/5531559/img_01.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481488/Bandai/5531559/img_02.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481489/Bandai/5531559/img_03.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481490/Bandai/5531559/img_04.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481491/Bandai/5531559/img_05.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.28,
+      "weight_unit": "lbs",
+      "length": 5,
+      "length_unit": "in",
+      "width": 2,
+      "width_unit": "in",
+      "height": 6.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.51,
+      "weight_unit": "lbs",
+      "length": 6,
+      "length_unit": "in",
+      "width": 2,
+      "width_unit": "in",
+      "height": 10,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 18.3,
+      "length_unit": "in",
+      "width": 7.1,
+      "width_unit": "in",
+      "height": 7.6,
+      "height_unit": "in",
+      "weight": 4.5,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Yes",
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 6.23.26 Bandai Batch 2.xlsx",
+    "imported_at": "2026-06-26",
+    "supplier_id": 1968,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "bandai-namco"
+  }
+}

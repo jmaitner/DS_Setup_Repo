@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531567",
+  "vendor": "BANDAI NAMCO",
+  "brand": "Bandai Namco",
+  "vendor_item_number": "93345",
+  "product_name": "Bandai Namco - Ultraman - Ultraman Arc, 6\" Ultra Action Figure",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557933456"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 16.793999999999997,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 27.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "6 inches in scale with 16+ points of articulation",
+      "Effect part included",
+      "Comes with a collectible card",
+      "For ages 4 and up",
+      null
+    ],
+    "keywords": null,
+    "description": "Step into the large world of Ultraman! Fight giant Kaiju monsters with Ultraman & experience the universe of Ultraman. These 6” Ultra Action Figures include a wide range of motion and are a must have for fans to add to their collection! For ages 4 and up."
+  },
+  "attributes": {
+    "material": "ABS/ PVC/ Poly",
+    "num_pieces": 1,
+    "whats_in_box": "Main Figure, Effect part, Collectible Card",
+    "primary_color": "Ultraman Arc",
+    "secondary_color": null,
+    "min_age": 4,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": null,
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481516/Bandai/5531567/img_01.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481516/Bandai/5531567/img_02.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481517/Bandai/5531567/img_03.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481518/Bandai/5531567/img_04.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481519/Bandai/5531567/img_05.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.15,
+      "weight_unit": "lbs",
+      "length": 1,
+      "length_unit": "in",
+      "width": 2.75,
+      "width_unit": "in",
+      "height": 6,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.7,
+      "weight_unit": "lbs",
+      "length": 6,
+      "length_unit": "in",
+      "width": 2,
+      "width_unit": "in",
+      "height": 10,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 4,
+      "length": 18.1,
+      "length_unit": "in",
+      "width": 4.4,
+      "width_unit": "in",
+      "height": 6.6,
+      "height_unit": "in",
+      "weight": 1.76,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Yes",
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 6.23.26 Bandai Batch 2.xlsx",
+    "imported_at": "2026-06-26",
+    "supplier_id": 1968,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "bandai-namco"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "ds_number": "5531586",
+  "vendor": "BANDAI NAMCO",
+  "brand": "Bandai Namco",
+  "vendor_item_number": "37266",
+  "product_name": "Bandai Namco - Dragon Ball DAIMA - Nyoibo [Power Pole]",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557372668"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 13.793999999999999,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 22.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "From brand new anime series Dragon Ball DAIMA!",
+      "Goku's signature power pole includes a main piece (power pole), a case to store, and strap to carry on back",
+      "Don't miss out on the chance to elevate your role-playing and cosplay expeirences",
+      "Nyoibo [Power Pole] is perfect for kids to adults",
+      "Ages 4 and up"
+    ],
+    "keywords": null,
+    "description": "Train like Goku with the Dragon Ball DAIMA Nyoibo [Power Pole]! With a push of a button, you can extend the power pole up to 48 inches! The Power Pole includes a case and strap so you can have the ultimate roleplay experience! Transform into Goku and embark on thrilling quests! For ages 4 and up."
+  },
+  "attributes": {
+    "material": "ABS/ PC",
+    "num_pieces": 1,
+    "whats_in_box": "Power Pole",
+    "primary_color": "Red",
+    "secondary_color": null,
+    "min_age": 4,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": null,
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481428/Bandai/5531586/img_01.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481428/Bandai/5531586/img_02.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481429/Bandai/5531586/img_03.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481430/Bandai/5531586/img_04.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481430/Bandai/5531586/img_05.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.9,
+      "weight_unit": "lbs",
+      "length": 1.7,
+      "length_unit": "in",
+      "width": 1.7,
+      "width_unit": "in",
+      "height": 20,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 1,
+      "weight_unit": "lbs",
+      "length": 2,
+      "length_unit": "in",
+      "width": 2,
+      "width_unit": "in",
+      "height": 20,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 20.1,
+      "length_unit": "in",
+      "width": 4.9,
+      "width_unit": "in",
+      "height": 7.21,
+      "height_unit": "in",
+      "weight": 6.5,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Yes",
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 6.22.26 Bandai Batch 1.xlsx",
+    "imported_at": "2026-06-26",
+    "supplier_id": 1968,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "bandai-namco"
+  }
+}

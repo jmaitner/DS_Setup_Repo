@@ -1,0 +1,118 @@
+{
+  "ds_number": "5530916",
+  "vendor": "BANDAI NAMCO",
+  "brand": "Anime Heroes",
+  "vendor_item_number": "36987",
+  "product_name": "ANIME HEROES - Jujutsu Kaisen - Yuji Itadori Black Flash ver. 6.5\" Action Figure",
+  "identity": {
+    "id_type": "UPC",
+    "upc": "045557369873"
+  },
+  "pricing": {
+    "drop_ship_cost": null,
+    "wholesale_cost": 14.393999999999998,
+    "ds_cost_domestic": null,
+    "import_cost": null,
+    "msrp": 23.99
+  },
+  "sourcing": {
+    "fob_point": "Rancho Dominguez, CA",
+    "country_of_origin": "China",
+    "harmonized_code": null
+  },
+  "content": {
+    "bullets": [
+      "Fight curses and be in the action – Yuji Itadori’s got an all new technique and he’s not holding back any punches! After proper training with Aoi Todo, Yuji’s learned how to harness his cursed energy to unleash Black Flash with his superhuman speed and strength!",
+      "Manga Inspired Packaging - Each Anime Heroes line has manga inspired packaging and beautiful artwork on the front featuring the characters you know and love",
+      "Endless Play - Each figure come with 2 sets of interchangeable hands, character specific accessories, and 20+ points of articulation to pose and play in endless ways",
+      "Collect them all - Bandai Namco Toys &amp; Collectibles America has a full line-up of Jujutsu Kaisen action figures for you to show off your fandom and collect your favorite characters",
+      "Impressive Likeness - Each figure comes with detailed sculpt and true to show features that Anime Heroes action figures are known for. For ages 4 and up"
+    ],
+    "keywords": null,
+    "description": "Join your favorite sorcerors of the Tokyo Jujutsu High, from Jujutsu Kaisen, and relive the amazing fight scenes, demon curses and award winning anime that took the world by storm. Anime Heroes Jujutsu Kaisen, by Bandai Namco Toys & Collectibles, brings you the most iconic characters from the show in a 6.5-inch action figure. For ages 4 and up."
+  },
+  "attributes": {
+    "material": "ABS/ PC",
+    "num_pieces": 1,
+    "whats_in_box": "Main figure, 2 sets of interchangable hands, character specific accessories",
+    "primary_color": "Yuji Itadori Black Flash ver.",
+    "secondary_color": null,
+    "min_age": 4,
+    "max_age": 99,
+    "gender": "Unisex",
+    "assembly_required": "No",
+    "assembly_instructions": null
+  },
+  "images": {
+    "availability": null,
+    "urls": [
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481399/Bandai/5530916/img_01.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481400/Bandai/5530916/img_02.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481401/Bandai/5530916/img_03.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481401/Bandai/5530916/img_04.jpg",
+      "https://res.cloudinary.com/dbwtptwyf/image/upload/v1782481402/Bandai/5530916/img_05.jpg"
+    ]
+  },
+  "dimensions": {
+    "item": {
+      "weight": 0.28,
+      "weight_unit": "lbs",
+      "length": 5,
+      "length_unit": "in",
+      "width": 2,
+      "width_unit": "in",
+      "height": 6.5,
+      "height_unit": "in"
+    },
+    "package": {
+      "weight": 0.51,
+      "weight_unit": "lbs",
+      "length": 6,
+      "length_unit": "in",
+      "width": 2,
+      "width_unit": "in",
+      "height": 10,
+      "height_unit": "in"
+    },
+    "master_case": {
+      "case_qty": 6,
+      "length": 18.3,
+      "length_unit": "in",
+      "width": 7.1,
+      "width_unit": "in",
+      "height": 7.6,
+      "height_unit": "in",
+      "weight": 4.5,
+      "weight_unit": "lbs"
+    }
+  },
+  "compliance": {
+    "choking_hazard": "Yes - Small Parts; Warning label on product packaging.",
+    "lead_phthalates": "Yes",
+    "warranty_included": "No",
+    "warranty_desc": null,
+    "batteries_required": "No",
+    "batteries_included": null,
+    "battery_cell_comp": null,
+    "battery_type_qty": null,
+    "packaging_type": null,
+    "compliance_cert": null,
+    "doc": null,
+    "sds": null,
+    "sds_url": null,
+    "cpsia": null,
+    "test_reports": null,
+    "cpc": null,
+    "product_pics": null,
+    "instructions": null,
+    "letter_of_compliance": null
+  },
+  "_meta": {
+    "source_file": "New Item Setup Sheet 6.22.26 Bandai Batch 1.xlsx",
+    "imported_at": "2026-06-26",
+    "supplier_id": 1968,
+    "last_verified": null,
+    "source_sheet": "DS Only",
+    "vendor_slug": "bandai-namco"
+  }
+}
