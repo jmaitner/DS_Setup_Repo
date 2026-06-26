@@ -2,6 +2,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5530108,Bandai Namco,Tamagotchi nano x Star Wars - Grogu Tamagotchi Blue ver. (88886),active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,pending,0,3
 5530112,Bandai Namco,Tamagotchi - Original Tamagotchi - Pink Glitter (Updated Logo),active,not_listed,not_listed,not_listed,not_listed,pending,not_listed,live,not_listed,live,pending,0,2
 5530123,Bandai Namco,Anime Heroes - Naruto - Uchiha Sasuke Rinnegan / Mangekyo Sharingan Action Figure,active,not_listed,not_listed,not_listed,live,pending,live,live,not_listed,live,pending,0,4
+5530132,BANDAI NAMCO,"Dragon Ball Evolve - Dragon Ball Super - Super Saiyan Broly 5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
 5530133,Bandai Namco,Dragon Stars Beerus -Version 2 Action Figure,active,not_listed,not_listed,not_listed,live,pending,live,live,not_listed,live,pending,0,4
 5530135,Bandai Namco,Vital Hero Digimon - Black,active,not_listed,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,0,3
 5530136,Bandai Namco,Vital Hero DIM Card Pack (Infinite Tide & Titan of Dust),active,not_listed,not_listed,not_listed,live,pending,live,live,not_listed,live,not_listed,0,4
@@ -32,6 +33,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5530724,Bandai Namco,"LIMIT BREAKER SERIES - Dragon Ball Super - Cell (Final Form) 12"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,pending,0,3
 5530725,Bandai Namco,"LIMIT BREAKER SERIES - Dragon Ball Super - Super Saiyan Blue Vegito 12"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,pending,0,3
 5530727,Bandai Namco,"LIMIT BREAKER SERIES - Dragon Ball Super - Ultimate Gohan 12"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,pending,0,3
+5530860,BANDAI NAMCO,"Dragon Ball Evolve - Dragon Ball Super - Son Goku 5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
 5530874,Bandai Namco,Tamagotchi Connection - Bubbles,active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,not_listed,pending,0,2
 5530875,Bandai Namco,Tamagotchi Connection - Ice Cream,active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,not_listed,pending,0,2
 5530876,Bandai Namco,Tamagotchi Connection - Rainbow Sky,active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,not_listed,pending,0,2
@@ -46,10 +48,52 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5530913,Bandai Namco,"ANIME HEROES MEGA - Naruto - Sasuke Uchiha 12"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,pending,0,3
 5530914,Bandai Namco,"ANIME HEROES MEGA - Naruto - Kakashi 12"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,pending,0,3
 5530915,Bandai Namco,ANIME HEROES - Jujutsu Kaisen - Gojo Satoru Hollow Purple Action Figure,active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,pending,pending,0,2
+5530916,BANDAI NAMCO,"ANIME HEROES - Jujutsu Kaisen - Yuji Itadori Black Flash ver. 6.5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
 5530917,Bandai Namco,ANIME HEROES Beyond - Naruto - Kakashi Susano Ver. Action Figure w/ Accessory Pack,active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,not_listed,pending,0,2
 5530918,Bandai Namco,ANIME HEROES - One Piece - Dracule Mihawk Action Figure,active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,not_listed,pending,0,2
 5530919,Bandai Namco,ANIME HEROES - One Piece - Roronoa Zoro Three Sword Style Action Figure,active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,pending,0,3
 5530920,Bandai Namco,ANIME HEROES - One Piece - Sabo Action Figure,active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,pending,0,3
+5531552,BANDAI NAMCO,"Anime Heroes - Naruto - Naruto Uzumaki (Renewal ver.) 6.5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531553,BANDAI NAMCO,"Anime Heroes - Jujutsu Kaisen - Ryomen Sukuna (Uniform ver.), 6.5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531554,BANDAI NAMCO,"Anime Heroes - One Piece - Usopp, 6.5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531555,BANDAI NAMCO,"Anime Heroes - One Piece - Brook, 6.5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531556,BANDAI NAMCO,"Anime Heroes - One Piece - Monkey D. Luffy Dressrosa Verison, 6.5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531557,BANDAI NAMCO,"Anime Heroes - Naruto Shippuden - Kakashi Hatake 6.5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531558,BANDAI NAMCO,"Anime Heroes - Naruto Shippuden - Gaara, 6.5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531559,BANDAI NAMCO,"Anime Heroes - Naruto Shippuden - Naruto Uzumaki (Sage Mode), 6.5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531560,BANDAI NAMCO,"Anime Heroes MEGA - One Piece - Roronoa Zoro 12"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531561,BANDAI NAMCO,"Limit Breaker Series - Dragon Ball Super - Super Saiyan Blue Goku, 12"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531562,BANDAI NAMCO,"Limit Breaker Series - Dragon Ball Super - Super Saiyan Vegito, 12"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531563,BANDAI NAMCO,"Limit Breaker Series - Dragon Ball Super - Super Saiyan Gogeta 12"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531564,BANDAI NAMCO,"Limit Breaker Series - Dragon Ball Super - Super Saiyan Blue Vegeta, 12"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531565,BANDAI NAMCO,"Limit Breaker Series - Dragon Ball Super - Goku Black Rose, 12"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531566,BANDAI NAMCO,"Limit Breaker Series Sparking - Dragon Ball - Super Saiyan 2 Vegeta, 12"" Light Up Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531567,BANDAI NAMCO,"Bandai Namco - Ultraman - Ultraman Arc, 6"" Ultra Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531568,BANDAI NAMCO,"Bandai Namco - Ultraman - Zetton, 6"" Ultra Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531569,BANDAI NAMCO,"Bandai Namco - Ultraman: Rising - 12"" Deluxe Ultraman Light Up Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531570,BANDAI NAMCO,"Bandai Namco - Ultraman - Leodo, 5"" Soft Vinyl Deluxe Kaiju Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531571,BANDAI NAMCO,"Bandai Namco - Ultraman - Ultraman (Original 1966), 6"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531572,BANDAI NAMCO,"Bandai Namco - Godzilla - Burning Godzilla, 4"" Transforming Egg Toy Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531573,BANDAI NAMCO,"Bandai Namco - Ultraman - Ultraman Zero 5"" Soft Vinyl Hero Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531574,BANDAI NAMCO,"Dragon Ball Evolve - Dragon Ball Super - Super Saiyan Blue Goku 5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531575,BANDAI NAMCO,"Dragon Ball Evolve - Dragon Ball Super - Super Saiyan Blue Vegeta 5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531577,BANDAI NAMCO,"Dragon Ball Evolve - Dragon Ball Super - Jiren Full Power Final Form 5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531578,BANDAI NAMCO,"Dragon Ball Evolve - Dragon Ball Super - Ultra Instinct Goku 5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531579,BANDAI NAMCO,"Dragon Stars Series - Dragon Ball Super - Super Saiyan Blue Goku, Power Up Pack 6.5"" Action Figure Set",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531580,BANDAI NAMCO,"Dragon Stars Series - Dragon Ball Super - Super Saiyan Blue Vegeta, Power Up Pack 6.5"" Action Figure Set",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531581,BANDAI NAMCO,"Dragon Stars Series - Dragon Ball DAIMA - Goku [Mini], 5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531582,BANDAI NAMCO,"Dragon Stars Series - Dragon Ball DAIMA - Vegeta [Mini], 5"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531583,BANDAI NAMCO,"Dragon Stars Series - Dragon Ball Super - Goku Ultra Instinct Sign vs Jiren 6.5"" Battle Pack Action Figure Set",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531584,BANDAI NAMCO,"Limit Breaker Series - Dragon Ball Super - Frieza 4th Form, 12"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531585,BANDAI NAMCO,"Limit Breaker Series - Dragon Ball Super - Goku Battle (Damage Ver.), 12"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531586,BANDAI NAMCO,Bandai Namco - Dragon Ball DAIMA - Nyoibo [Power Pole],active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531587,BANDAI NAMCO,"Limit Breaker Series Sparking - Dragon Ball - Super Saiyan 2 Goku, Light Up 12"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531588,BANDAI NAMCO,Bandai Namco - Godzilla Monster Series - King Ghidorah 1991 Soft Vinyl Figure,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531589,BANDAI NAMCO,"Bandai Namco - Godzilla - Godzilla 2004, 6"" Action Figure Set",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531590,BANDAI NAMCO,"Bandai Namco - Godzilla - Mecha Godzilla 2002, 6"" Action Figure Set",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531591,BANDAI NAMCO,"Bandai Namco - Godzilla - Godzilla 1991, 6"" Action Figure Set",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531592,BANDAI NAMCO,"Limit Breaker Series - Dragon Ball DAIMA - Super Saiyan 4 Goku [DAIMA Ver.], 12"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
+5531593,BANDAI NAMCO,"Limit Breaker Series - Dragon Ball Super - Gohan Beast, 12"" Action Figure",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,0,0
 5531372,BLADEZ TOYS,Hot Wheels Motorised Track Playset (6pcs),active,not_listed,not_listed,not_listed,live,pending,not_listed,live,not_listed,live,not_listed,0,3
 5531373,BLADEZ TOYS,Hot Wheels Creative Maker Kitz - Custom Racer Kit Super Van,active,not_listed,not_listed,not_listed,live,pending,not_listed,live,not_listed,live,pending,0,3
 5531374,BLADEZ TOYS,Hot Wheels Bumper Activity Set,active,live,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,live,0,5
@@ -113,19 +157,19 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531370,Cactus Games,Louie the Lamb Prayer Buddy,active,not_listed,not_listed,not_listed,live,not_listed,live,live,not_listed,not_listed,live,0,4
 5531371,Cactus Games,Liam the Lion Prayer Buddy,active,not_listed,not_listed,not_listed,live,not_listed,live,live,not_listed,not_listed,pending,0,3
 5526590,CANAL TOYS,So Slime DIY Slime Case Shaker Storage Set,active,live,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,live,0,5
-5526591,CANAL TOYS,So Slime DIY Slime Factory – Just Add Water!,active,live,not_listed,not_listed,live,pending,live,live,not_listed,live,live,0,6
-5527199,CANAL TOYS,So Slime DIY Slime Factory – Bold & Creepy Edition,active,live,not_listed,not_listed,live,pending,live,live,not_listed,live,live,0,6
-5528695,CANAL TOYS,Style 4 Ever DIY Lava Lamp Kit,active,live,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,live,0,5
-5528927,CANAL TOYS,"Studio Creator Video Maker Kit with Ring Light, Tripod & Green Screen",active,live,not_listed,not_listed,live,pending,live,live,not_listed,live,live,0,6
-5529320,CANAL TOYS,Studio Creator V2 Video Maker Kit with LED Ring Light & Green Screen,active,live,not_listed,not_listed,live,pending,live,live,not_listed,live,pending,0,5
+5526591,CANAL TOYS,So Slime DIY Slime Factory – Just Add Water!,active,live,live,not_listed,live,pending,live,live,not_listed,live,live,0,7
+5527199,CANAL TOYS,So Slime DIY Slime Factory – Bold & Creepy Edition,active,live,live,not_listed,live,pending,live,live,not_listed,live,live,0,7
+5528695,CANAL TOYS,Style 4 Ever DIY Lava Lamp Kit,active,live,live,not_listed,not_listed,pending,live,live,not_listed,live,live,0,6
+5528927,CANAL TOYS,"Studio Creator Video Maker Kit with Ring Light, Tripod & Green Screen",active,live,live,not_listed,live,pending,live,live,not_listed,live,live,0,7
+5529320,CANAL TOYS,Studio Creator V2 Video Maker Kit with LED Ring Light & Green Screen,active,live,live,not_listed,live,pending,live,live,not_listed,live,pending,0,6
 5529831,CANAL TOYS,Airbrush Plush Refill Marker Set – 7 Colors & Stencils,active,live,not_listed,not_listed,live,pending,live,live,not_listed,live,pending,0,5
 5529941,CANAL TOYS,Photo Creator Kids Instant Print Camera,active,live,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,live,pending,0,4
-5530496,CANAL TOYS,Airbrush Plush Unicorn Paint Bucket Set,active,not_listed,not_listed,not_listed,live,pending,not_listed,live,not_listed,live,live,0,4
+5530496,CANAL TOYS,Airbrush Plush Unicorn Paint Bucket Set,active,not_listed,live,not_listed,live,pending,not_listed,live,not_listed,live,live,0,5
 5530498,CANAL TOYS,So Slime DIY Sensory Slime Factory,active,live,not_listed,not_listed,live,pending,live,live,not_listed,live,live,0,6
 5530501,CANAL TOYS,So Slime DIY Glow-in-the-Dark Lava Slime 5-Pack,active,live,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,pending,0,4
-5530503,CANAL TOYS,So Slime DIY Marble Mix & Twist Slime Kit,active,live,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,live,0,5
+5530503,CANAL TOYS,So Slime DIY Marble Mix & Twist Slime Kit,active,live,live,not_listed,not_listed,pending,live,live,not_listed,live,live,0,6
 5530505,CANAL TOYS,Studio Creator 360° Video Maker Kit with Motion Tracking,active,live,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,pending,0,4
-5530506,CANAL TOYS,Studio Creator Podcast & Vlog Kit with Microphone & LED Light,active,live,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,live,0,5
+5530506,CANAL TOYS,Studio Creator Podcast & Vlog Kit with Microphone & LED Light,active,live,live,not_listed,not_listed,pending,live,live,not_listed,live,live,0,6
 5530977,CANAL TOYS,Style 4 Ever Fashion Design Studio,active,live,live,not_listed,live,pending,not_listed,live,not_listed,live,live,0,6
 5530978,CANAL TOYS,Airbrush Plush Panda – Customizable Stuffed Animal Kit,active,live,live,not_listed,live,pending,live,live,not_listed,live,live,0,7
 5530979,CANAL TOYS,Airbrush Plush Mini Mystery 2-Pack – DIY Plush Decorating Kit,active,live,not_listed,not_listed,live,pending,live,live,not_listed,live,live,0,6

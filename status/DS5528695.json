@@ -13,12 +13,12 @@
       "url": "https://www.amazon.com//dp/B089YTLR1C"
     },
     "walmart_1p": {
-      "state": "not_listed",
+      "state": "live",
       "id": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-26"
     },
     "walmart_3p": {
       "state": "not_listed",
@@ -90,5 +90,5 @@
       "url": "https://www.target.com/p/-/-/A-1004491728"
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-06-26"
 }
