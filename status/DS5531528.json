@@ -77,13 +77,14 @@
       "updated": null
     },
     "target_plus": {
-      "state": "not_listed",
-      "id": null,
+      "state": "pending",
+      "id": "1012273087",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-26",
+      "url": "https://www.target.com/p/-/-/A-1012273087"
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-06-26"
 }

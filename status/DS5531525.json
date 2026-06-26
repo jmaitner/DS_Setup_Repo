@@ -77,13 +77,14 @@
       "updated": null
     },
     "target_plus": {
-      "state": "not_listed",
+      "state": "pending",
       "id": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-26",
+      "url": null
     }
   },
-  "updated": "2026-06-23"
+  "updated": "2026-06-26"
 }

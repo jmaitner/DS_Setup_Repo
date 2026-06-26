@@ -28,12 +28,13 @@
       "updated": null
     },
     "tiktok": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "1732457484210770250",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-26",
+      "url": null
     },
     "bestbuy": {
       "state": "not_listed",
@@ -69,12 +70,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "307023010626",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-26",
+      "url": "https://www.ebay.com/itm/Mermaid-Magic-9-Doll-Nerissa-/307023010626"
     },
     "target_plus": {
       "state": "not_listed",
@@ -85,5 +87,5 @@
       "updated": null
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-06-26"
 }
