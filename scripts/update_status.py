@@ -55,7 +55,7 @@ def main():
 
     today = date.today().isoformat()
     for ds in args.ds:
-        ds = str(ds).strip()
+        ds = str(ds).strip().lstrip("DSds")
         doc = load_status(ds) or new_status_doc(ds, today)
 
         if args.lifecycle:
