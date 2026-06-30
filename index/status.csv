@@ -38,7 +38,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5530877,Bandai Namco,Tamagotchi Connection - Clear Retro,active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,not_listed,pending,0,2
 5530878,Bandai Namco,Tamagotchi Connection True Friends - Blue Graffiti and Pink Graffiti,active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,not_listed,pending,0,2
 5530906,Bandai Namco,ANIME HEROES - Chainsaw Man - Denji & Pochita Action Figure,active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,pending,0,3
-5530907,Bandai Namco,ANIME HEROES - My Hero Academia - Midoriya Izuku Action Figure,active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,pending,0,3
+5530907,Bandai Namco,ANIME HEROES - My Hero Academia - Midoriya Izuku Action Figure,active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,pending,pending,0,2
 5530909,Bandai Namco,ANIME HEROES - My Hero Academia - All Might Action Figure,active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,pending,0,3
 5530910,Bandai Namco,ANIME HEROES - Naruto - Sasuke Uchiha Taka ver. Action Figure,active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,pending,0,3
 5530911,Bandai Namco,ANIME HEROES - Naruto - Orochimaru Action Figure,active,not_listed,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,pending,0,3
@@ -414,25 +414,25 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531227,First 4 Figures,FiGGYZ - Banjo-Kazooie - Bottles,active,not_listed,live,not_listed,not_listed,pending,not_listed,live,not_listed,live,live,0,4
 5531525,Headstart Inc,Disney Toddler Winnie the Pooh Hunny Pot Shape Sorter,discontinued,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,pending,0,1
 5531526,Headstart Inc,Disney Toddler Winnie the Pooh Stacking Cups,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,3
-5531527,Headstart Inc,Disney Toddler Real Feels Winnie the Pooh Plush,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,pending,0,2
-5531528,Headstart Inc,Disney Toddler Winnie the Pooh Learning Bundle – Real Feels Plush & Stacking Cups,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,pending,0,1
-5531529,Headstart Inc,Disney Toddler Winnie the Pooh Hunny Pot Walker,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,pending,0,2
+5531527,Headstart Inc,Disney Toddler Real Feels Winnie the Pooh Plush,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,3
+5531528,Headstart Inc,Disney Toddler Winnie the Pooh Learning Bundle – Real Feels Plush & Stacking Cups,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,0,2
+5531529,Headstart Inc,Disney Toddler Winnie the Pooh Hunny Pot Walker,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,3
 5531530,Headstart Inc,Disney Toddler Stitch Ring Stacker,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,3
-5531531,Headstart Inc,Disney Toddler Stitch Shake It Up Feature Plush,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,pending,0,2
+5531531,Headstart Inc,Disney Toddler Stitch Shake It Up Feature Plush,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,3
 5531532,Headstart Inc,Disney Toddler Stitch Learning Bundle – Sensory Plush & Ring Stacker,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,3
 5531533,Headstart Inc,Toy Story Push N Play Vehicles,discontinued,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,pending,0,1
-5531534,Headstart Inc,Toy Story Buzz Lightyear Feature Plush with Projector Light,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,pending,0,2
+5531534,Headstart Inc,Toy Story Buzz Lightyear Feature Plush with Projector Light,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,3
 5531535,Headstart Inc,Disney Toddler Mickey Mouse Shape O’Clock Learning Toy,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,3
-5531536,Headstart Inc,Disney Toddler Learn & Play Mickey Mouse Plush,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,pending,0,2
-5531537,Headstart Inc,Disney Toddler Learn & Play Minnie Mouse Plush,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,pending,0,2
-5531541,Headstart Inc,"Mermaid Magic 9"" Doll - Merlinda",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,0,3
-5531542,Headstart Inc,"Mermaid Magic 9"" Doll - Sasha",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,0,3
-5531543,Headstart Inc,"Mermaid Magic 9"" Doll - Nerissa",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,0,3
-5531544,Headstart Inc,"Mermaid Magic  9"" Warrior Transformation Doll  - Merlinda",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,0,3
-5531545,Headstart Inc,"Mermaid Magic  9"" Warrior Transformation Doll  - Sasha",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,0,3
-5531546,Headstart Inc,"Mermaid Magic  9"" Warrior Transformation Doll - Nerissa",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,0,3
-5531547,Headstart Inc,Mermaid Magic Light Up Musical Necklace,active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,0,3
-5531548,Headstart Inc,Mermaid Magic Accessory Set - Merlinda,active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,0,3
+5531536,Headstart Inc,Disney Toddler Learn & Play Mickey Mouse Plush,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,3
+5531537,Headstart Inc,Disney Toddler Learn & Play Minnie Mouse Plush,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,3
+5531541,Headstart Inc,"Mermaid Magic 9"" Doll - Merlinda",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,live,0,4
+5531542,Headstart Inc,"Mermaid Magic 9"" Doll - Sasha",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,live,0,4
+5531543,Headstart Inc,"Mermaid Magic 9"" Doll - Nerissa",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,live,0,4
+5531544,Headstart Inc,"Mermaid Magic  9"" Warrior Transformation Doll  - Merlinda",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,live,0,4
+5531545,Headstart Inc,"Mermaid Magic  9"" Warrior Transformation Doll  - Sasha",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,live,0,4
+5531546,Headstart Inc,"Mermaid Magic  9"" Warrior Transformation Doll - Nerissa",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,live,0,4
+5531547,Headstart Inc,Mermaid Magic Light Up Musical Necklace,active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,live,0,4
+5531548,Headstart Inc,Mermaid Magic Accessory Set - Merlinda,active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,live,0,4
 5529888,KSM Toys,"ToyLet Potty Training Toilet Seat | Toddler Potty Training with Comfy Seat Cover, Tank Storage & Paper Roll Holder | Easy to Empty and Clean | Soft & Comfortable Potty Trainer for Boys & Girls (Pink)",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,0,2
 5529889,KSM Toys,"ToyLet Potty Training Toilet Seat | Toddler Potty Training with Comfy Seat Cover, Tank Storage & Paper Roll Holder | Easy to Empty and Clean | Soft & Comfortable Potty Trainer for Boys & Girls (Blue)",active,not_listed,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,not_listed,live,0,3
 5529899,KSM Toys,"Powerful Giants Crane - Realistic, Fully Articulated Toy for Imaginative Play | UV-Protected, Durable Construction",active,pending,not_listed,not_listed,not_listed,pending,live,live,not_listed,not_listed,live,0,3

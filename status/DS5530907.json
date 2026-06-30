@@ -76,13 +76,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306573287588",
       "url": "https://www.ebay.com/itm/ANIME-HEROES-My-Hero-Academia-Midoriya-Izuku-Action-Figure-/306573287588",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-23"
+      "updated": "2026-06-30"
     },
     "target_plus": {
       "state": "pending",
@@ -94,5 +94,5 @@
       "updated": "2026-06-23"
     }
   },
-  "updated": "2026-06-23"
+  "updated": "2026-06-30"
 }

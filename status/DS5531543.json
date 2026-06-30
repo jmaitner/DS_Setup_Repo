@@ -79,13 +79,14 @@
       "url": "https://www.ebay.com/itm/Mermaid-Magic-9-Doll-Nerissa-/307023010626"
     },
     "target_plus": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "1012273117",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-06-30",
+      "url": "https://www.target.com/p/-/-/A-1012273117"
     }
   },
-  "updated": "2026-06-26"
+  "updated": "2026-06-30"
 }
