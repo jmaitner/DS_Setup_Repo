@@ -78,14 +78,14 @@
       "updated": null
     },
     "target_plus": {
-      "state": "pending",
+      "state": "live",
       "id": "1011861689",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-07-03",
       "url": "https://www.target.com/p/-/-/A-1011861689"
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-07-03"
 }

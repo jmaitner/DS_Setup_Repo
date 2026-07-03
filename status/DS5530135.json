@@ -76,13 +76,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306577421669",
       "url": "https://www.ebay.com/itm/Vital-Hero-Digimon-Black-/306577421669",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-23"
+      "updated": "2026-07-03"
     },
     "target_plus": {
       "state": "not_listed",
@@ -94,5 +94,5 @@
       "updated": null
     }
   },
-  "updated": "2026-06-23"
+  "updated": "2026-07-03"
 }
