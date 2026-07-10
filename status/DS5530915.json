@@ -32,12 +32,12 @@
     },
     "tiktok": {
       "state": "live",
-      "id": "1732466949422747978",
+      "id": "1732476950079902026",
       "url": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-07-03"
+      "updated": "2026-07-10"
     },
     "bestbuy": {
       "state": "pending",
@@ -94,5 +94,5 @@
       "updated": "2026-06-23"
     }
   },
-  "updated": "2026-07-03"
+  "updated": "2026-07-10"
 }

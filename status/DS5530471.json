@@ -85,14 +85,14 @@
       "updated": "2026-06-23"
     },
     "target_plus": {
-      "state": "not_listed",
+      "state": "pending",
       "id": null,
       "url": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-07-10"
     }
   },
-  "updated": "2026-06-23"
+  "updated": "2026-07-10"
 }
