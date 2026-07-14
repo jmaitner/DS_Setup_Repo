@@ -37,12 +37,12 @@
       "url": null
     },
     "bestbuy": {
-      "state": "pending",
-      "id": "5818459",
+      "state": "live",
+      "id": "6598526",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-07-14",
       "url": null
     },
     "nocnoc": {
@@ -80,14 +80,14 @@
       "url": "https://www.ebay.com/itm/Hot-Wheels-Mini-Maker-Kitz-Monster-Trucks-3-Pack--/306932282273"
     },
     "target_plus": {
-      "state": "pending",
+      "state": "live",
       "id": "1011326549",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-07-14",
       "url": "https://www.target.com/p/-/-/A-1011326549"
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-07-14"
 }
