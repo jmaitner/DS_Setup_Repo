@@ -29,12 +29,13 @@
       "updated": null
     },
     "tiktok": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "1732495494852415818",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-07-17",
+      "url": null
     },
     "bestbuy": {
       "state": "not_listed",
@@ -70,12 +71,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "307067331661",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-07-17",
+      "url": "https://www.ebay.com/itm/Bolz-Playbox-Musical-Spinning-Top-Toy-for-Kids-Buzzing-Hum-Gets-Louder-Faster-/307067331661"
     },
     "target_plus": {
       "state": "live",
@@ -87,5 +89,5 @@
       "url": "https://www.target.com/p/-/-/A-1012119168"
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-07-17"
 }

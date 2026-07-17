@@ -28,12 +28,13 @@
       "updated": null
     },
     "tiktok": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "1732495498630107466",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-07-17",
+      "url": null
     },
     "bestbuy": {
       "state": "not_listed",
@@ -69,12 +70,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "307067331672",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-07-17",
+      "url": "https://www.ebay.com/itm/Grip-Tricks-Pro-Mini-Finger-Scooter-Set-Changeable-Tires-Handlebar-Green-/307067331672"
     },
     "target_plus": {
       "state": "pending",
@@ -86,5 +88,5 @@
       "url": "https://www.target.com/p/-/-/A-1011861862"
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-07-17"
 }

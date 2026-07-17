@@ -76,13 +76,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "pending",
-      "id": "306573287584",
-      "url": "https://www.ebay.com/itm/ANIME-HEROES-Jujutsu-Kaisen-Gojo-Satoru-Hollow-Purple-Action-Figure-/306573287584",
+      "state": "live",
+      "id": "307054287410",
+      "url": "https://www.ebay.com/itm/ANIME-HEROES-Jujutsu-Kaisen-Gojo-Satoru-Hollow-Purple-6-5-Action-Figure-/307054287410",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-23"
+      "updated": "2026-07-17"
     },
     "target_plus": {
       "state": "pending",
@@ -94,5 +94,5 @@
       "updated": "2026-06-23"
     }
   },
-  "updated": "2026-07-10"
+  "updated": "2026-07-17"
 }

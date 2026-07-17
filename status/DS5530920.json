@@ -77,12 +77,12 @@
     },
     "ebay": {
       "state": "live",
-      "id": "306573287573",
-      "url": "https://www.ebay.com/itm/ANIME-HEROES-One-Piece-Sabo-Action-Figure-/306573287573",
+      "id": "307054287403",
+      "url": "https://www.ebay.com/itm/ANIME-HEROES-One-Piece-Sabo-6-5-Action-Figure-/307054287403",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-23"
+      "updated": "2026-07-17"
     },
     "target_plus": {
       "state": "pending",
@@ -94,5 +94,5 @@
       "updated": "2026-06-23"
     }
   },
-  "updated": "2026-07-03"
+  "updated": "2026-07-17"
 }

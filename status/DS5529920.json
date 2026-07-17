@@ -28,12 +28,13 @@
       "updated": null
     },
     "tiktok": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "1732495498868855114",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-07-17",
+      "url": null
     },
     "bestbuy": {
       "state": "not_listed",
@@ -70,12 +71,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "307067331666",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-07-17",
+      "url": "https://www.ebay.com/itm/Bolz-Choral-Multicolor-Musical-Spinning-Top-Toy-for-Kids-Buzzing-Hum-Ages-18m--/307067331666"
     },
     "target_plus": {
       "state": "live",
@@ -87,5 +89,5 @@
       "url": "https://www.target.com/p/-/-/A-1011861682"
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-07-17"
 }
