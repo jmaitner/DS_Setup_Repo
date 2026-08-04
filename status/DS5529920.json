@@ -4,12 +4,13 @@
   "lifecycle_note": null,
   "channels": {
     "amazon": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "5529920",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-08-04",
+      "url": "https://www.amazon.com//dp/B09Z453NHK"
     },
     "walmart_1p": {
       "state": "not_listed",
@@ -89,5 +90,5 @@
       "url": "https://www.target.com/p/-/-/A-1011861682"
     }
   },
-  "updated": "2026-07-17"
+  "updated": "2026-08-04"
 }

@@ -4,12 +4,13 @@
   "lifecycle_note": null,
   "channels": {
     "amazon": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "5531176",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-08-04",
+      "url": "https://www.amazon.com//dp/B0GCH2XHCB"
     },
     "walmart_1p": {
       "state": "live",
@@ -79,14 +80,14 @@
       "url": "https://www.ebay.com/itm/FiGGYZ-Mega-Man-Mega-Man-/306965992194"
     },
     "target_plus": {
-      "state": "not_listed",
+      "state": "live",
       "id": "1011706827",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-07-24",
+      "updated": "2026-08-04",
       "url": "https://www.target.com/p/-/-/A-1011706827"
     }
   },
-  "updated": "2026-07-24"
+  "updated": "2026-08-04"
 }

@@ -4,12 +4,12 @@
   "lifecycle_note": null,
   "channels": {
     "amazon": {
-      "state": "pending",
+      "state": "live",
       "id": "5531169",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-07-21",
+      "updated": "2026-08-04",
       "url": "https://www.amazon.com//dp/B0G2YK1F6C"
     },
     "walmart_1p": {
@@ -82,14 +82,14 @@
       "url": "https://www.ebay.com/itm/FiGGYZ-Metal-Gear-Solid-3-Naked-Snake-/306965992183"
     },
     "target_plus": {
-      "state": "not_listed",
+      "state": "live",
       "id": "1011704719",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-07-24",
+      "updated": "2026-08-04",
       "url": "https://www.target.com/p/-/-/A-1011704719"
     }
   },
-  "updated": "2026-07-24"
+  "updated": "2026-08-04"
 }
