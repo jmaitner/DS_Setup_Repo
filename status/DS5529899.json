@@ -80,14 +80,14 @@
       "updated": null
     },
     "target_plus": {
-      "state": "live",
+      "state": "not_listed",
       "id": "1005448065",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-08-07",
       "url": "https://www.target.com/p/-/-/A-1005448065"
     }
   },
-  "updated": "2026-07-14"
+  "updated": "2026-08-07"
 }
