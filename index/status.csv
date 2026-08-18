@@ -361,7 +361,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531166,First 4 Figures,FiGGYZ - Sonic the Hedgehog (Modern) - Tails,active,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,live,not_listed,0,4
 5531167,First 4 Figures,FiGGYZ - Sonic the Hedgehog (Modern) - Shadow,active,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,live,not_listed,0,4
 5531168,First 4 Figures,FiGGYZ - Sonic the Hedgehog (Modern) - Silver,active,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,live,not_listed,0,3
-5531169,First 4 Figures,FiGGYZ - Metal Gear Solid 3 - Naked Snake,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,not_listed,0,6
+5531169,First 4 Figures,FiGGYZ - Metal Gear Solid 3 - Naked Snake,active,pending,live,not_listed,live,live,not_listed,live,not_listed,live,not_listed,0,5
 5531170,First 4 Figures,FiGGYZ - Metal Gear Solid 3 - Big Boss (Grave Salute),active,live,live,not_listed,live,live,not_listed,live,not_listed,live,not_listed,0,6
 5531171,First 4 Figures,FiGGYZ - Metal Gear Solid 3 - The Boss,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,not_listed,0,6
 5531172,First 4 Figures,FiGGYZ - Metal Gear Solid 3 - Young Ocelot,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,not_listed,0,6
@@ -431,8 +431,8 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531544,Headstart Inc,"Mermaid Magic  9"" Warrior Transformation Doll  - Merlinda",active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
 5531545,Headstart Inc,"Mermaid Magic  9"" Warrior Transformation Doll  - Sasha",active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
 5531546,Headstart Inc,"Mermaid Magic  9"" Warrior Transformation Doll - Nerissa",active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
-5531547,Headstart Inc,Mermaid Magic Light Up Musical Necklace,active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,live,0,4
-5531548,Headstart Inc,Mermaid Magic Accessory Set - Merlinda,active,pending,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,live,0,4
+5531547,Headstart Inc,Mermaid Magic Light Up Musical Necklace,active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
+5531548,Headstart Inc,Mermaid Magic Accessory Set - Merlinda,active,pending,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
 5529888,KSM Toys,"ToyLet Potty Training Toilet Seat | Toddler Potty Training with Comfy Seat Cover, Tank Storage & Paper Roll Holder | Easy to Empty and Clean | Soft & Comfortable Potty Trainer for Boys & Girls (Pink)",active,live,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,0,3
 5529889,KSM Toys,"ToyLet Potty Training Toilet Seat | Toddler Potty Training with Comfy Seat Cover, Tank Storage & Paper Roll Holder | Easy to Empty and Clean | Soft & Comfortable Potty Trainer for Boys & Girls (Blue)",active,live,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,live,live,0,5
 5529899,KSM Toys,"Powerful Giants Crane - Realistic, Fully Articulated Toy for Imaginative Play | UV-Protected, Durable Construction",active,pending,not_listed,not_listed,not_listed,live,live,live,not_listed,not_listed,not_listed,0,3
