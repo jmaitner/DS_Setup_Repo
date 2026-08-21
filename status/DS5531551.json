@@ -37,12 +37,13 @@
       "updated": null
     },
     "bestbuy": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "7071691",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-08-21",
+      "url": null
     },
     "nocnoc": {
       "state": "not_listed",
@@ -85,5 +86,5 @@
       "updated": null
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-08-21"
 }

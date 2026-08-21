@@ -70,12 +70,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "307133461112",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-08-21",
+      "url": "https://www.ebay.com/itm/Harry-Potter-Creative-Maker-Kitz-Make-Your-Own-Light-Up-Hogwarts-/307133461112"
     },
     "target_plus": {
       "state": "not_listed",
@@ -87,5 +88,5 @@
       "url": "https://www.target.com/p/-/-/A-1011326535"
     }
   },
-  "updated": "2026-07-24"
+  "updated": "2026-08-21"
 }

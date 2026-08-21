@@ -70,12 +70,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "307133461110",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-08-21",
+      "url": "https://www.ebay.com/itm/Bladez-RPM-R-C-1-10-Ultimate-Racer-/307133461110"
     },
     "target_plus": {
       "state": "pending",
@@ -87,5 +88,5 @@
       "url": "https://www.target.com/p/-/-/A-1011326520"
     }
   },
-  "updated": "2026-07-14"
+  "updated": "2026-08-21"
 }
