@@ -4,12 +4,13 @@
   "lifecycle_note": null,
   "channels": {
     "amazon": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "5531535",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-08-25",
+      "url": "https://www.amazon.com//dp/B0HGBGPKPB"
     },
     "walmart_1p": {
       "state": "not_listed",
@@ -36,12 +37,13 @@
       "updated": null
     },
     "bestbuy": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "7120476",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-08-25",
+      "url": null
     },
     "nocnoc": {
       "state": "not_listed",
@@ -87,5 +89,5 @@
       "url": "https://www.target.com/p/-/-/A-1012273147"
     }
   },
-  "updated": "2026-06-26"
+  "updated": "2026-08-25"
 }

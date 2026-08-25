@@ -38,12 +38,13 @@
       "url": null
     },
     "bestbuy": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "7144073",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-08-25",
+      "url": null
     },
     "nocnoc": {
       "state": "not_listed",
@@ -89,5 +90,5 @@
       "url": "https://www.target.com/p/-/-/A-1011861681"
     }
   },
-  "updated": "2026-08-04"
+  "updated": "2026-08-25"
 }
