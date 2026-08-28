@@ -39,12 +39,13 @@
       "url": null
     },
     "bestbuy": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "7156337",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-08-28",
+      "url": null
     },
     "nocnoc": {
       "state": "not_listed",
@@ -81,14 +82,14 @@
       "url": "https://www.ebay.com/itm/FiGGYZ-Frieren-Beyond-Journey-s-End-Heiter-/306965992119"
     },
     "target_plus": {
-      "state": "not_listed",
+      "state": "live",
       "id": "1011704692",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-08-07",
+      "updated": "2026-08-28",
       "url": "https://www.target.com/p/-/-/A-1011704692"
     }
   },
-  "updated": "2026-08-07"
+  "updated": "2026-08-28"
 }
