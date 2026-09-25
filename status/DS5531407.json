@@ -70,12 +70,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "307197204698",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-09-25",
+      "url": "https://www.ebay.com/itm/Bladez-Harry-Potter-Activity-Set-/307197204698"
     },
     "target_plus": {
       "state": "live",
@@ -87,5 +88,5 @@
       "url": "https://www.target.com/p/-/-/A-1011326516"
     }
   },
-  "updated": "2026-09-11"
+  "updated": "2026-09-25"
 }

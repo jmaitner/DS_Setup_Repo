@@ -72,12 +72,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "307197204701",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-09-25",
+      "url": "https://www.ebay.com/itm/Bladez-Harry-Potter-Maker-Kitz-Make-Your-Own-Hedwig-/307197204701"
     },
     "target_plus": {
       "state": "live",
@@ -89,5 +90,5 @@
       "url": "https://www.target.com/p/-/-/A-1011326514"
     }
   },
-  "updated": "2026-09-15"
+  "updated": "2026-09-25"
 }

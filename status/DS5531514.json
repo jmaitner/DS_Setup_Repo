@@ -70,12 +70,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "307197201389",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-09-25",
+      "url": "https://www.ebay.com/itm/Grip-Tricks-Mini-Pro-Skate-Park-X-TREM-Rider-Shop-Set-Mini-Skatepark-for-/307197201389"
     },
     "target_plus": {
       "state": "live",
@@ -87,5 +88,5 @@
       "url": "https://www.target.com/p/-/-/A-1011861864"
     }
   },
-  "updated": "2026-09-15"
+  "updated": "2026-09-25"
 }

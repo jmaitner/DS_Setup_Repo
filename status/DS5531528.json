@@ -69,12 +69,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "307197210047",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-09-25",
+      "url": "https://www.ebay.com/itm/Disney-Toddler-Winnie-the-Pooh-Learning-Bundle-Real-Feels-Plush-Stacking-/307197210047"
     },
     "target_plus": {
       "state": "live",
@@ -86,5 +87,5 @@
       "url": "https://www.target.com/p/-/-/A-1012273087"
     }
   },
-  "updated": "2026-06-30"
+  "updated": "2026-09-25"
 }

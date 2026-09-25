@@ -37,12 +37,12 @@
       "updated": null
     },
     "bestbuy": {
-      "state": "live",
+      "state": "pending",
       "id": "7318394",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-09-11",
+      "updated": "2026-09-25",
       "url": null
     },
     "nocnoc": {
@@ -71,12 +71,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "307197201390",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-09-25",
+      "url": "https://www.ebay.com/itm/Bolz-Classic-Playbox-Music-Spinning-Tin-Top-Toy-from-KsmToys-The-Funny-Buzzing-/307197201390"
     },
     "target_plus": {
       "state": "live",
@@ -88,5 +89,5 @@
       "url": "https://www.target.com/p/-/-/A-1011861779"
     }
   },
-  "updated": "2026-09-11"
+  "updated": "2026-09-25"
 }
