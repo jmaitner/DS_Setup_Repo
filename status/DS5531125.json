@@ -4,12 +4,12 @@
   "lifecycle_note": null,
   "channels": {
     "amazon": {
-      "state": "live",
+      "state": "pending",
       "id": "5531125",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-08-04",
+      "updated": "2026-09-29",
       "url": "https://www.amazon.com//dp/B0FKNNV3M7"
     },
     "walmart_1p": {
@@ -30,12 +30,12 @@
       "updated": null
     },
     "tiktok": {
-      "state": "live",
+      "state": "pending",
       "id": "1732399863801876810",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-09-29",
       "url": null
     },
     "bestbuy": {
@@ -56,12 +56,12 @@
       "updated": null
     },
     "shopify_f2f": {
-      "state": "live",
+      "state": "pending",
       "id": "45189582716951",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-09-29",
       "url": "https://nerrc4-1t.myshopify.com/products/figgyz-silent-hill-2-james-sunderland"
     },
     "toysrus": {
@@ -82,14 +82,14 @@
       "url": "https://www.ebay.com/itm/FiGGYZ-Silent-Hill-2-James-Sunderland-/306965992131"
     },
     "target_plus": {
-      "state": "pending",
+      "state": "not_listed",
       "id": "1011704705",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-08-28",
+      "updated": "2026-09-29",
       "url": "https://www.target.com/p/-/-/A-1011704705"
     }
   },
-  "updated": "2026-08-28"
+  "updated": "2026-09-29"
 }
