@@ -73,12 +73,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306965992131",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-10-02",
       "url": "https://www.ebay.com/itm/FiGGYZ-Silent-Hill-2-James-Sunderland-/306965992131"
     },
     "target_plus": {
@@ -91,5 +91,5 @@
       "url": "https://www.target.com/p/-/-/A-1011704705"
     }
   },
-  "updated": "2026-09-29"
+  "updated": "2026-10-02"
 }

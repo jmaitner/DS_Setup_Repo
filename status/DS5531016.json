@@ -71,12 +71,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306965991988",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-10-02",
       "url": "https://www.ebay.com/itm/Animal-Crossing-New-Horizons-Isabelle-/306965991988"
     },
     "target_plus": {
@@ -89,5 +89,5 @@
       "url": "https://www.target.com/p/-/-/A-1011704601"
     }
   },
-  "updated": "2026-08-04"
+  "updated": "2026-10-02"
 }

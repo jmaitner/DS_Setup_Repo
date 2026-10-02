@@ -70,12 +70,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306990093903",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-10-02",
       "url": "https://www.ebay.com/itm/4D-Build-Harry-Potter-Deluxe-Hogwarts-Castle-3D-Model-Kit-Ages-12-Up-/306990093903"
     },
     "target_plus": {
@@ -88,5 +88,5 @@
       "url": "https://www.target.com/p/-/-/A-1011979290"
     }
   },
-  "updated": "2026-06-22"
+  "updated": "2026-10-02"
 }

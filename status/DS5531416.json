@@ -71,12 +71,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "307197205005",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-09-25",
+      "updated": "2026-10-02",
       "url": "https://www.ebay.com/itm/Bladez-Harry-Potter-Sticker-Activity-Set-6-Pack--/307197205005"
     },
     "target_plus": {
@@ -89,5 +89,5 @@
       "url": "https://www.target.com/p/-/-/A-1011326554"
     }
   },
-  "updated": "2026-09-25"
+  "updated": "2026-10-02"
 }

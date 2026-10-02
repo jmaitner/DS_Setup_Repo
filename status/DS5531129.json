@@ -71,12 +71,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306965992136",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-10-02",
       "url": "https://www.ebay.com/itm/FiGGYZ-Sonic-the-Hedgehog-Classic-Sonic-Act-Clear-/306965992136"
     },
     "target_plus": {
@@ -89,5 +89,5 @@
       "url": "https://www.target.com/p/-/-/A-1011704728"
     }
   },
-  "updated": "2026-08-28"
+  "updated": "2026-10-02"
 }

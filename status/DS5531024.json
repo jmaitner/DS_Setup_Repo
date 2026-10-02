@@ -71,12 +71,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306965991994",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-10-02",
       "url": "https://www.ebay.com/itm/Kirby-and-the-Goal-Door-Standard-Edition--/306965991994"
     },
     "target_plus": {
@@ -89,5 +89,5 @@
       "url": "https://www.target.com/p/-/-/A-1011704611"
     }
   },
-  "updated": "2026-09-11"
+  "updated": "2026-10-02"
 }

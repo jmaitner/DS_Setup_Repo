@@ -70,12 +70,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "307022930228",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-26",
+      "updated": "2026-10-02",
       "url": "https://www.ebay.com/itm/Disney-Toddler-Learn-Play-Mickey-Mouse-Plush-/307022930228"
     },
     "target_plus": {
@@ -88,5 +88,5 @@
       "url": "https://www.target.com/p/-/-/A-1012273107"
     }
   },
-  "updated": "2026-08-25"
+  "updated": "2026-10-02"
 }

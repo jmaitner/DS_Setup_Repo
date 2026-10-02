@@ -70,12 +70,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "307197201392",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-09-25",
+      "updated": "2026-10-02",
       "url": "https://www.ebay.com/itm/Classic-Multicolored-Spinning-Tin-Top-Toy-Bolz-Funny-Buzzing-Hum-Gets-Louder-As-/307197201392"
     },
     "target_plus": {
@@ -88,5 +88,5 @@
       "url": "https://www.target.com/p/-/-/A-1011861772"
     }
   },
-  "updated": "2026-09-25"
+  "updated": "2026-10-02"
 }

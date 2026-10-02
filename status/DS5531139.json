@@ -73,12 +73,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306965992144",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-10-02",
       "url": "https://www.ebay.com/itm/FiGGYZ-Suikoden-2-Jowy-/306965992144"
     },
     "target_plus": {
@@ -91,5 +91,5 @@
       "url": "https://www.target.com/p/-/-/A-1011704710"
     }
   },
-  "updated": "2026-08-28"
+  "updated": "2026-10-02"
 }

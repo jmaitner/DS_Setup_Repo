@@ -4,12 +4,12 @@
   "lifecycle_note": null,
   "channels": {
     "amazon": {
-      "state": "live",
+      "state": "pending",
       "id": "5531405",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-07-17",
+      "updated": "2026-10-02",
       "url": "https://www.amazon.com//dp/B0DM9R1428"
     },
     "walmart_1p": {
@@ -72,12 +72,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "307197200943",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-09-25",
+      "updated": "2026-10-02",
       "url": "https://www.ebay.com/itm/Bladez-Electronic-Whack-A-Mole-Blue-Green--/307197200943"
     },
     "target_plus": {
@@ -90,5 +90,5 @@
       "url": "https://www.target.com/p/-/-/A-1011325717"
     }
   },
-  "updated": "2026-09-25"
+  "updated": "2026-10-02"
 }
