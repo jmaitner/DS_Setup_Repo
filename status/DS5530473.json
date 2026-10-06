@@ -40,13 +40,13 @@
       "updated": null
     },
     "bestbuy": {
-      "state": "not_listed",
-      "id": null,
+      "state": "pending",
+      "id": "6598936",
       "url": null,
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-10-06"
     },
     "nocnoc": {
       "state": "not_listed",
@@ -94,5 +94,5 @@
       "updated": "2026-06-23"
     }
   },
-  "updated": "2026-06-23"
+  "updated": "2026-10-06"
 }
