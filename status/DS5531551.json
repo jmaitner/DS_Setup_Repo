@@ -54,12 +54,13 @@
       "updated": null
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "45712128573463",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-10-09",
+      "url": "https://nerrc4-1t.myshopify.com/products/bladez-rpm-r-c-1-10-ultimate-racer-orange-blue"
     },
     "toysrus": {
       "state": "not_listed",
@@ -70,12 +71,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "307221033490",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-10-09",
+      "url": "https://www.ebay.com/itm/Bladez-RPM-R-C-1-10-Ultimate-Racer-Orange-Blue--/307221033490"
     },
     "target_plus": {
       "state": "pending",
@@ -87,5 +89,5 @@
       "url": null
     }
   },
-  "updated": "2026-09-08"
+  "updated": "2026-10-09"
 }

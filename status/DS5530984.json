@@ -73,12 +73,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306868720672",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-10-09",
       "url": "https://www.ebay.com/itm/Style-4-Ever-Diamond-Art-Lamp-Set-Unicorn-Butterfly-/306868720672"
     },
     "target_plus": {
@@ -91,5 +91,5 @@
       "url": "https://www.target.com/p/-/-/A-1011261565"
     }
   },
-  "updated": "2026-07-24"
+  "updated": "2026-10-09"
 }

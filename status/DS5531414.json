@@ -29,12 +29,12 @@
       "updated": null
     },
     "tiktok": {
-      "state": "live",
+      "state": "pending",
       "id": "1732404532901876042",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-10-09",
       "url": null
     },
     "bestbuy": {
@@ -81,14 +81,14 @@
       "url": "https://www.ebay.com/itm/Bladez-Harry-Potter-Maker-Kitz-Make-Your-Own-Hedwig-/307197204701"
     },
     "target_plus": {
-      "state": "live",
+      "state": "not_listed",
       "id": "1011326514",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-09-15",
+      "updated": "2026-10-09",
       "url": "https://www.target.com/p/-/-/A-1011326514"
     }
   },
-  "updated": "2026-10-06"
+  "updated": "2026-10-09"
 }

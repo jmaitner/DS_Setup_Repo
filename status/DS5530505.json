@@ -72,12 +72,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306868720657",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-10-09",
       "url": "https://www.ebay.com/itm/Studio-Creator-360-Video-Maker-Kit-with-Motion-Tracking-/306868720657"
     },
     "target_plus": {
@@ -90,5 +90,5 @@
       "url": "https://www.target.com/p/-/-/A-1011617314"
     }
   },
-  "updated": "2026-07-14"
+  "updated": "2026-10-09"
 }

@@ -53,12 +53,13 @@
       "updated": null
     },
     "shopify_f2f": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "45712129458199",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-10-09",
+      "url": "https://nerrc4-1t.myshopify.com/products/hot-wheels-r-c-drift-n-fly-drone"
     },
     "toysrus": {
       "state": "not_listed",
@@ -69,12 +70,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "307221034815",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-10-09",
+      "url": "https://www.ebay.com/itm/Hot-Wheels-R-C-Drift-N-Fly-Drone-/307221034815"
     },
     "target_plus": {
       "state": "pending",
@@ -86,5 +88,5 @@
       "url": null
     }
   },
-  "updated": "2026-09-08"
+  "updated": "2026-10-09"
 }

@@ -72,12 +72,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306868720651",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-10-09",
       "url": "https://www.ebay.com/itm/So-Slime-DIY-Marble-Mix-Twist-Slime-Kit-/306868720651"
     },
     "target_plus": {
@@ -90,5 +90,5 @@
       "url": "https://www.target.com/p/-/-/A-1011617335"
     }
   },
-  "updated": "2026-09-25"
+  "updated": "2026-10-09"
 }

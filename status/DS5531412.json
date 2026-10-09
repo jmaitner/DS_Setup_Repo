@@ -4,12 +4,12 @@
   "lifecycle_note": null,
   "channels": {
     "amazon": {
-      "state": "live",
+      "state": "pending",
       "id": "5531412",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-10-09",
       "url": "https://www.amazon.com//dp/B0CW951ZX2"
     },
     "walmart_1p": {
@@ -29,12 +29,12 @@
       "updated": null
     },
     "tiktok": {
-      "state": "live",
+      "state": "pending",
       "id": "1732404535564996938",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-10-09",
       "url": null
     },
     "bestbuy": {
@@ -72,22 +72,23 @@
       "updated": null
     },
     "ebay": {
-      "state": "not_listed",
-      "id": null,
+      "state": "pending",
+      "id": "307221034810",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-10-09",
+      "url": "https://www.ebay.com/itm/Harry-Potter-Maker-Kitz-Make-Your-Own-Niffler-/307221034810"
     },
     "target_plus": {
-      "state": "pending",
+      "state": "not_listed",
       "id": "1011617208",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-09-11",
+      "updated": "2026-10-09",
       "url": "https://www.target.com/p/-/-/A-1011617208"
     }
   },
-  "updated": "2026-09-11"
+  "updated": "2026-10-09"
 }

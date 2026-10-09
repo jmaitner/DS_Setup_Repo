@@ -4,12 +4,12 @@
   "lifecycle_note": null,
   "channels": {
     "amazon": {
-      "state": "live",
+      "state": "pending",
       "id": "5531377",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-09-04",
+      "updated": "2026-10-09",
       "url": "https://www.amazon.com//dp/B0B57BZDFD"
     },
     "walmart_1p": {
@@ -71,23 +71,23 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306932282261",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-10-09",
       "url": "https://www.ebay.com/itm/Hot-Wheels-Motor-Maker-Kitz-Street-Racer-Kit-/306932282261"
     },
     "target_plus": {
-      "state": "live",
+      "state": "not_listed",
       "id": "1011326546",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-09-11",
+      "updated": "2026-10-09",
       "url": "https://www.target.com/p/-/-/A-1011326546"
     }
   },
-  "updated": "2026-09-11"
+  "updated": "2026-10-09"
 }

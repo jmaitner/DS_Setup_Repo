@@ -73,12 +73,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306868720659",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-10-09",
       "url": "https://www.ebay.com/itm/Style-4-Ever-3-in-1-Scrapbooking-Station-/306868720659"
     },
     "target_plus": {
@@ -91,5 +91,5 @@
       "url": "https://www.target.com/p/-/-/A-1011261566"
     }
   },
-  "updated": "2026-07-17"
+  "updated": "2026-10-09"
 }

@@ -38,11 +38,11 @@
     },
     "bestbuy": {
       "state": "live",
-      "id": "7578813",
+      "id": "7654595",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-06",
+      "updated": "2026-10-09",
       "url": null
     },
     "nocnoc": {
@@ -89,5 +89,5 @@
       "url": "https://www.target.com/p/-/-/A-1011326515"
     }
   },
-  "updated": "2026-10-06"
+  "updated": "2026-10-09"
 }

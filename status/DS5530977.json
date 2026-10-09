@@ -73,12 +73,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306868720648",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-10-09",
       "url": "https://www.ebay.com/itm/Style-4-Ever-Fashion-Design-Studio-/306868720648"
     },
     "target_plus": {
@@ -91,5 +91,5 @@
       "url": "https://www.target.com/p/-/-/A-1011309267"
     }
   },
-  "updated": "2026-07-24"
+  "updated": "2026-10-09"
 }
