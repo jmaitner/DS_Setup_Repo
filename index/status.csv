@@ -83,7 +83,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531402,BLADEZ TOYS,Bladez RPM R/C 1:20 Armoured Racer,active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,not_listed,live,0,4
 5531403,BLADEZ TOYS,Bladez RPM R/C 1:10 Ultimate Racer,active,live,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,live,pending,0,4
 5531404,BLADEZ TOYS,Bladez Electronic Whack-A-Mole Style (Yellow/Purple),active,live,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,pending,pending,0,3
-5531405,BLADEZ TOYS,Bladez Electronic Whack-A-Mole (Blue/Green),active,pending,not_listed,not_listed,live,live,not_listed,live,not_listed,pending,live,0,4
+5531405,BLADEZ TOYS,Bladez Electronic Whack-A-Mole (Blue/Green),active,pending,not_listed,not_listed,live,live,not_listed,live,not_listed,pending,pending,0,3
 5531406,BLADEZ TOYS,Bladez TEK Lazer Tag (Red/Blue),active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,not_listed,not_listed,0,3
 5531407,BLADEZ TOYS,Harry Potter Activity Set,active,live,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,pending,live,0,4
 5531408,BLADEZ TOYS,Harry Potter Creative Maker Kitz - Make Your Own Light Up Weasley Burrow,active,live,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,6
@@ -93,9 +93,9 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531412,BLADEZ TOYS,Harry Potter Maker Kitz - Make Your Own Niffler,active,pending,not_listed,not_listed,pending,live,not_listed,live,not_listed,pending,not_listed,0,2
 5531413,BLADEZ TOYS,Harry Potter Maker Kitz - Make Your Own Buckbeak,active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,not_listed,not_listed,0,3
 5531414,BLADEZ TOYS,Harry Potter Maker Kitz - Make Your Own Hedwig,active,pending,not_listed,not_listed,pending,live,not_listed,live,not_listed,pending,not_listed,0,2
-5531415,BLADEZ TOYS,Harry Potter Sticker Activity Set,active,live,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,not_listed,pending,0,3
+5531415,BLADEZ TOYS,Harry Potter Sticker Activity Set,active,live,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,not_listed,live,0,4
 5531416,BLADEZ TOYS,Harry Potter Sticker Activity Set (6 Pack),active,live,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,pending,live,0,4
-5531417,BLADEZ TOYS,Harry Potter Sticker Activity Set (12 Pack),active,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,not_listed,pending,0,2
+5531417,BLADEZ TOYS,Harry Potter Sticker Activity Set (12 Pack),active,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,not_listed,live,0,3
 5531418,BLADEZ TOYS,Harry Potter Maker Kitz -  Make Your Own Magical Creatures,active,live,not_listed,not_listed,live,live,not_listed,live,not_listed,not_listed,not_listed,0,4
 5531419,BLADEZ TOYS,Harry Potter Creative Maker Kitz - Make Your Own Knight Bus,active,live,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,live,live,0,5
 5531420,BLADEZ TOYS,Harry Potter Maker Kitz - Make Your Own Dobby,active,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,pending,not_listed,0,2
@@ -305,7 +305,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531110,First 4 Figures,FiGGYZ - Mega Man - X,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,6
 5531111,First 4 Figures,FiGGYZ - Mega Man - Zero,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531112,First 4 Figures,FiGGYZ - Mega Man - X Ultimate Armour,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,6
-5531113,First 4 Figures,FiGGYZ - Frieren: Beyond Journey's End - Frieren in Mimic,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
+5531113,First 4 Figures,FiGGYZ - Frieren: Beyond Journey's End - Frieren in Mimic,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,6
 5531114,First 4 Figures,FiGGYZ - Frieren: Beyond Journey's End - Himmel,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,6
 5531115,First 4 Figures,FiGGYZ - Frieren: Beyond Journey's End - Heiter,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531116,First 4 Figures,FiGGYZ - Frieren: Beyond Journey's End - Eisen,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,6
@@ -439,7 +439,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5529900,KSM Toys,Lena Ksmtoys Construction Toys Powerful Giants Toy Garbage Truck with Garbage and Recycle Bin and Dumpster in Yellow and Black Toys for Boys or Girls Age 3+,active,live,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,not_listed,not_listed,0,3
 5529911,KSM Toys,Grip & Tricks Mini Pro Finger Blue Scooter Set with Changeable Tires and Handlebar,active,live,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,live,live,0,5
 5529912,KSM Toys,"Grip and Tricks - Finger Scooter - Skate - Pack1 - Dimensions: 22 X 13,5 X 2 cm",active,pending,not_listed,not_listed,not_listed,live,live,live,not_listed,pending,live,0,4
-5529913,KSM Toys,Grip & Tricks Mini Pro Skate Park X-TREM Rider Shop Set,active,pending,not_listed,not_listed,live,not_listed,live,live,not_listed,live,live,0,5
+5529913,KSM Toys,Grip & Tricks Mini Pro Skate Park X-TREM Rider Shop Set,active,live,not_listed,not_listed,live,not_listed,live,live,not_listed,live,live,0,6
 5529914,KSM Toys,RAMPS for Finger Skate - Halfpipe Slider with 1 Fingerboard - Dimensions: 28 X 12 X 10 cm by Grip&Tricks,active,pending,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,not_listed,not_listed,0,2
 5529918,KSM Toys,Bolz 52315 Multicolor Spinning Top Toy,active,pending,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
 5529920,KSM Toys,Choral Multicolor Music Spin Top Toy toupi for Children from KsmToys Bolz. The Funny Buzzing Choral Hum Gets Louder As The Top Spins Faster Ages 18 m+,active,pending,not_listed,not_listed,live,live,live,live,not_listed,live,pending,0,5
@@ -473,7 +473,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531511,KSM Toys,"LENA Eco Active Garbage Truck Toy for Kids, Easy Grab Handle and Flip Open Cab. Indoor or Sandbox toy.",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,not_listed,0,1
 5531512,KSM Toys,"LENA Eco Active Cement Mixer Toy Truck for Kids, Easy Grab Handle and Flip Open Cab, Super Sturdy Construction for Sanbox or indoor Action",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,not_listed,0,1
 5531513,KSM Toys,"Grip & Tricks Pro Finger Scooter Set for Kids | Mini Scooter Finger Set with Changeable Tires, Handlebar & Mini Fingerboards Accessories Finger Scooter Toys for Xtreme Sports Tricks & Stunts BLUE",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,0,3
-5531514,KSM Toys,Grip & Tricks Mini Pro Skate Park X-TREM Rider Shop Set | Mini Skatepark for Fingers with Halfpipe Ramp & Skateboard Toys Set | Finger Toys BMX for Xtreme Sports Tricks & Stunts | (Multicolored),active,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,pending,live,0,3
+5531514,KSM Toys,Grip & Tricks Mini Pro Skate Park X-TREM Rider Shop Set | Mini Skatepark for Fingers with Halfpipe Ramp & Skateboard Toys Set | Finger Toys BMX for Xtreme Sports Tricks & Stunts | (Multicolored),active,live,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,pending,live,0,4
 5531515,KSM Toys,"Grip & Tricks Pro Mini Finger Scooter Set for Kids | Mini scooter finger With Changeable Tires, Handlebar & Mini Fingerboards Accessories  Finger Scooter Toys for Xtreme Sports Tricks & Stunts Green",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,pending,live,0,3
 5531516,KSM Toys,"Grip & Tricks Pro Mini Finger Scooter Set for Kids | Mini Scooter Finger with Changeable Tires, Handlebar & Mini Fingerboards Accessories Finger Scooter Toys for Xtreme Sports Tricks & Stunts White",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,0,3
 5531518,KSM Toys,RAMPS FOR FINGER SKATE - FUNBOX AND STAIRS - Fingerboard - Penny Board : Dimensions: 28 X 12 X 10 cm,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,pending,0,1
