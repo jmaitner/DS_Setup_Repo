@@ -71,23 +71,23 @@
       "updated": null
     },
     "ebay": {
-      "state": "pending",
-      "id": "307197200942",
+      "state": "live",
+      "id": "307235021525",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-02",
-      "url": "https://www.ebay.com/itm/Bladez-Electronic-Whack-A-Mole-Style-Yellow-Purple--/307197200942"
+      "updated": "2026-10-23",
+      "url": "https://www.ebay.com/itm/Bladez-Electronic-Whack-A-Mole-Style-Yellow-Purple--/307235021525"
     },
     "target_plus": {
-      "state": "pending",
+      "state": "live",
       "id": "1011325688",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-13",
+      "updated": "2026-10-23",
       "url": "https://www.target.com/p/-/-/A-1011325688"
     }
   },
-  "updated": "2026-10-13"
+  "updated": "2026-10-23"
 }

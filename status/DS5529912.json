@@ -72,13 +72,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "pending",
-      "id": "307133440011",
+      "state": "live",
+      "id": "307235021541",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-02",
-      "url": "https://www.ebay.com/itm/Grip-and-Tricks-Finger-Scooter-Skate-Pack1-22-x-13-5-x-2-cm-/307133440011"
+      "updated": "2026-10-23",
+      "url": "https://www.ebay.com/itm/Grip-and-Tricks-Finger-Scooter-Skate-Pack1-Dimensions-22-X-13-5-X-2-cm-/307235021541"
     },
     "target_plus": {
       "state": "live",
@@ -90,5 +90,5 @@
       "url": "https://www.target.com/p/-/-/A-1007433264"
     }
   },
-  "updated": "2026-10-02"
+  "updated": "2026-10-23"
 }

@@ -73,13 +73,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "pending",
-      "id": "306965992144",
+      "state": "live",
+      "id": "307235033441",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-02",
-      "url": "https://www.ebay.com/itm/FiGGYZ-Suikoden-2-Jowy-/306965992144"
+      "updated": "2026-10-23",
+      "url": "https://www.ebay.com/itm/FiGGYZ-Suikoden-2-Jowy-Magnetic-Collectible-Figure-/307235033441"
     },
     "target_plus": {
       "state": "live",
@@ -91,5 +91,5 @@
       "url": "https://www.target.com/p/-/-/A-1011704710"
     }
   },
-  "updated": "2026-10-02"
+  "updated": "2026-10-23"
 }

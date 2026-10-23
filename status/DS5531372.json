@@ -71,13 +71,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "pending",
-      "id": "306932279850",
+      "state": "live",
+      "id": "307235033428",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-02",
-      "url": "https://www.ebay.com/itm/Hot-Wheels-Motorised-Track-Playset-6pcs--/306932279850"
+      "updated": "2026-10-23",
+      "url": "https://www.ebay.com/itm/Hot-Wheels-Motorised-Track-Playset-6pcs--/307235033428"
     },
     "target_plus": {
       "state": "live",
@@ -89,5 +89,5 @@
       "url": "https://www.target.com/p/-/-/A-1011326529"
     }
   },
-  "updated": "2026-10-02"
+  "updated": "2026-10-23"
 }

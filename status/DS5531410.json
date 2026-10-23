@@ -71,13 +71,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "pending",
-      "id": "307197204702",
+      "state": "live",
+      "id": "307235021537",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-02",
-      "url": "https://www.ebay.com/itm/Bladez-Harry-Potter-Creative-Maker-Kitz-Make-Your-Own-Hogwarts-Lanterns-/307197204702"
+      "updated": "2026-10-23",
+      "url": "https://www.ebay.com/itm/Bladez-Harry-Potter-Creative-Maker-Kitz-Make-Your-Own-Hogwarts-Lanterns-/307235021537"
     },
     "target_plus": {
       "state": "live",
@@ -89,5 +89,5 @@
       "url": "https://www.target.com/p/-/-/A-1011326515"
     }
   },
-  "updated": "2026-10-09"
+  "updated": "2026-10-23"
 }

@@ -73,23 +73,23 @@
       "updated": null
     },
     "ebay": {
-      "state": "pending",
-      "id": "306965992137",
+      "state": "live",
+      "id": "307235033407",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-02",
-      "url": "https://www.ebay.com/itm/FiGGYZ-Persona-5-Joker-/306965992137"
+      "updated": "2026-10-23",
+      "url": "https://www.ebay.com/itm/FiGGYZ-Persona-5-Joker-Magnetic-Collectible-Figure-/307235033407"
     },
     "target_plus": {
-      "state": "pending",
+      "state": "live",
       "id": "1011704718",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-06",
+      "updated": "2026-10-23",
       "url": "https://www.target.com/p/-/-/A-1011704718"
     }
   },
-  "updated": "2026-10-06"
+  "updated": "2026-10-23"
 }

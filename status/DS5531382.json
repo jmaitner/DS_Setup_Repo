@@ -72,13 +72,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "pending",
-      "id": "306932279851",
+      "state": "live",
+      "id": "307235021535",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-02",
-      "url": "https://www.ebay.com/itm/Hot-Wheels-Activity-Set-/306932279851"
+      "updated": "2026-10-23",
+      "url": "https://www.ebay.com/itm/Bladez-Hot-Wheels-Activity-Set-/307235021535"
     },
     "target_plus": {
       "state": "live",
@@ -90,5 +90,5 @@
       "url": "https://www.target.com/p/-/-/A-1011326540"
     }
   },
-  "updated": "2026-10-02"
+  "updated": "2026-10-23"
 }

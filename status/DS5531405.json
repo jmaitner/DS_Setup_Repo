@@ -72,23 +72,23 @@
       "updated": null
     },
     "ebay": {
-      "state": "pending",
-      "id": "307197200943",
+      "state": "live",
+      "id": "307235021543",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-02",
-      "url": "https://www.ebay.com/itm/Bladez-Electronic-Whack-A-Mole-Blue-Green--/307197200943"
+      "updated": "2026-10-23",
+      "url": "https://www.ebay.com/itm/Bladez-Electronic-Whack-A-Mole-Blue-Green--/307235021543"
     },
     "target_plus": {
-      "state": "pending",
+      "state": "live",
       "id": "1011325717",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-16",
+      "updated": "2026-10-23",
       "url": "https://www.target.com/p/-/-/A-1011325717"
     }
   },
-  "updated": "2026-10-16"
+  "updated": "2026-10-23"
 }

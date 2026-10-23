@@ -73,13 +73,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "pending",
-      "id": "306965992177",
+      "state": "live",
+      "id": "307235033434",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-02",
-      "url": "https://www.ebay.com/itm/FiGGYZ-Metal-Gear-Solid-2-Solidus-Snake-/306965992177"
+      "updated": "2026-10-23",
+      "url": "https://www.ebay.com/itm/FiGGYZ-Metal-Gear-Solid-2-Solidus-Snake-Magnetic-Collectible-Figure-/307235033434"
     },
     "target_plus": {
       "state": "live",
@@ -91,5 +91,5 @@
       "url": "https://www.target.com/p/-/-/A-1011704721"
     }
   },
-  "updated": "2026-10-02"
+  "updated": "2026-10-23"
 }

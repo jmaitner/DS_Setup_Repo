@@ -74,13 +74,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "pending",
-      "id": "306868710895",
+      "state": "live",
+      "id": "307235021520",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-02",
-      "url": "https://www.ebay.com/itm/Airbrush-Plush-Panda-Customizable-Stuffed-Animal-Kit-/306868710895"
+      "updated": "2026-10-23",
+      "url": "https://www.ebay.com/itm/Airbrush-Plush-Panda-Customizable-Stuffed-Animal-Kit-/307235021520"
     },
     "target_plus": {
       "state": "live",
@@ -92,5 +92,5 @@
       "url": "https://www.target.com/p/-/-/A-1010984104"
     }
   },
-  "updated": "2026-10-02"
+  "updated": "2026-10-23"
 }

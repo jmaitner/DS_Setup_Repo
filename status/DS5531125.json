@@ -73,13 +73,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "pending",
-      "id": "306965992131",
+      "state": "live",
+      "id": "307235033419",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-02",
-      "url": "https://www.ebay.com/itm/FiGGYZ-Silent-Hill-2-James-Sunderland-/306965992131"
+      "updated": "2026-10-23",
+      "url": "https://www.ebay.com/itm/FiGGYZ-Silent-Hill-2-James-Sunderland-Magnetic-Collectible-Figure-/307235033419"
     },
     "target_plus": {
       "state": "not_listed",
@@ -91,5 +91,5 @@
       "url": "https://www.target.com/p/-/-/A-1011704705"
     }
   },
-  "updated": "2026-10-02"
+  "updated": "2026-10-23"
 }

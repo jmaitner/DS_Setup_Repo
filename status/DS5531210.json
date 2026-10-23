@@ -73,13 +73,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "pending",
-      "id": "306965992231",
+      "state": "live",
+      "id": "307235033444",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-02",
-      "url": "https://www.ebay.com/itm/FiGGYZ-Cowboy-Bebop-Andy-/306965992231"
+      "updated": "2026-10-23",
+      "url": "https://www.ebay.com/itm/FiGGYZ-Cowboy-Bebop-Andy-Magnetic-Collectible-Figure-/307235033444"
     },
     "target_plus": {
       "state": "live",
@@ -91,5 +91,5 @@
       "url": "https://www.target.com/p/-/-/A-1011704776"
     }
   },
-  "updated": "2026-10-02"
+  "updated": "2026-10-23"
 }

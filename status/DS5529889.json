@@ -38,12 +38,12 @@
       "updated": null
     },
     "bestbuy": {
-      "state": "live",
+      "state": "pending",
       "id": "7196824",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-09-01",
+      "updated": "2026-10-23",
       "url": null
     },
     "nocnoc": {
@@ -91,5 +91,5 @@
       "url": "https://www.target.com/p/-/-/A-1011861858"
     }
   },
-  "updated": "2026-09-01"
+  "updated": "2026-10-23"
 }

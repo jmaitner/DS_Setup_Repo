@@ -70,13 +70,13 @@
       "updated": null
     },
     "ebay": {
-      "state": "pending",
-      "id": "307022930221",
+      "state": "live",
+      "id": "307235033465",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-10-02",
-      "url": "https://www.ebay.com/itm/Disney-Toddler-Stitch-Ring-Stacker-/307022930221"
+      "updated": "2026-10-23",
+      "url": "https://www.ebay.com/itm/Disney-Toddler-Stitch-Ring-Stacker-/307235033465"
     },
     "target_plus": {
       "state": "live",
@@ -88,5 +88,5 @@
       "url": "https://www.target.com/p/-/-/A-1012273149"
     }
   },
-  "updated": "2026-10-02"
+  "updated": "2026-10-23"
 }
