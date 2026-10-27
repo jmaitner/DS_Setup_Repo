@@ -317,9 +317,9 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531122,First 4 Figures,FiGGYZ - Metal Gear Solid 1 - Psycho Mantis,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,6
 5531123,First 4 Figures,FiGGYZ - Metal Gear Solid 1 - Liquid Snake,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,6
 5531124,First 4 Figures,FiGGYZ - Metal Gear Solid 1 - Cyborg Ninja,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,6
-5531125,First 4 Figures,FiGGYZ - Silent Hill 2 - James Sunderland,active,pending,live,not_listed,pending,live,not_listed,pending,not_listed,live,not_listed,0,3
-5531126,First 4 Figures,FiGGYZ - Silent Hill 2 - Maria,active,pending,live,not_listed,pending,live,not_listed,pending,not_listed,live,not_listed,0,3
-5531127,First 4 Figures,FiGGYZ - Silent Hill 2 - Bubblehead Nurse,active,pending,live,not_listed,pending,live,not_listed,pending,not_listed,live,not_listed,0,3
+5531125,First 4 Figures,FiGGYZ - Silent Hill 2 - James Sunderland,active,pending,live,not_listed,pending,live,not_listed,pending,not_listed,live,pending,0,3
+5531126,First 4 Figures,FiGGYZ - Silent Hill 2 - Maria,active,pending,live,not_listed,pending,live,not_listed,pending,not_listed,live,pending,0,3
+5531127,First 4 Figures,FiGGYZ - Silent Hill 2 - Bubblehead Nurse,active,pending,live,not_listed,pending,live,not_listed,pending,not_listed,live,live,0,4
 5531128,First 4 Figures,FiGGYZ - Silent Hill 2 - Red Pyramid Thing,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531129,First 4 Figures,FiGGYZ - Sonic the Hedgehog (Classic) - Sonic-Act Clear,active,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,live,live,0,5
 5531130,First 4 Figures,FiGGYZ - Sonic the Hedgehog (Classic) - Amy,active,not_listed,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,6
@@ -336,7 +336,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531141,First 4 Figures,FiGGYZ - Shin Megami Tensei V Vengeance - Nahobino (New Form),active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531142,First 4 Figures,FiGGYZ - Shin Megami Tensei V Vengeance - Aogami,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531143,First 4 Figures,FiGGYZ - Shin Megami Tensei V Vengeance - Yoko Hiromine,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
-5531144,First 4 Figures,FiGGYZ - Shin Megami Tensei V Vengeance - Jack Frost,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
+5531144,First 4 Figures,FiGGYZ - Shin Megami Tensei V Vengeance - Jack Frost,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,6
 5531145,First 4 Figures,FiGGYZ - Conker's Bad Fur Day - Conker,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531146,First 4 Figures,FiGGYZ - Conker's Bad Fur Day - Berry,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531147,First 4 Figures,FiGGYZ - Conker's Bad Fur Day - Panther King,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
@@ -397,7 +397,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531206,First 4 Figures,FiGGYZ - Streets of Rage - Mr. X,active,live,live,not_listed,not_listed,live,not_listed,live,not_listed,live,live,0,6
 5531207,First 4 Figures,FiGGYZ - Cowboy Bebop - Vicious,active,live,live,not_listed,not_listed,live,not_listed,live,not_listed,live,live,0,6
 5531208,First 4 Figures,FiGGYZ - Cowboy Bebop - Julia,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
-5531209,First 4 Figures,FiGGYZ - Cowboy Bebop - Gren,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
+5531209,First 4 Figures,FiGGYZ - Cowboy Bebop - Gren,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,6
 5531210,First 4 Figures,FiGGYZ - Cowboy Bebop - Andy,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531211,First 4 Figures,FiGGYZ - Catherine  - Vincent Brooks,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531212,First 4 Figures,FiGGYZ - Catherine  - Rin,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
@@ -414,24 +414,24 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531227,First 4 Figures,FiGGYZ - Banjo-Kazooie - Bottles,active,live,live,not_listed,not_listed,live,not_listed,live,not_listed,live,live,0,6
 5531525,Headstart Inc,Disney Toddler Winnie the Pooh Hunny Pot Shape Sorter,discontinued,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,pending,0,1
 5531526,Headstart Inc,Disney Toddler Winnie the Pooh Stacking Cups,active,live,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,4
-5531527,Headstart Inc,Disney Toddler Real Feels Winnie the Pooh Plush,active,live,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,4
-5531528,Headstart Inc,Disney Toddler Winnie the Pooh Learning Bundle – Real Feels Plush & Stacking Cups,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,3
+5531527,Headstart Inc,Disney Toddler Real Feels Winnie the Pooh Plush,active,live,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,pending,0,3
+5531528,Headstart Inc,Disney Toddler Winnie the Pooh Learning Bundle – Real Feels Plush & Stacking Cups,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,pending,0,2
 5531529,Headstart Inc,Disney Toddler Winnie the Pooh Hunny Pot Walker,active,live,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,pending,0,3
 5531530,Headstart Inc,Disney Toddler Stitch Ring Stacker,active,live,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,4
-5531531,Headstart Inc,Disney Toddler Stitch Shake It Up Feature Plush,active,live,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,live,live,0,5
+5531531,Headstart Inc,Disney Toddler Stitch Shake It Up Feature Plush,active,live,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,live,pending,0,4
 5531532,Headstart Inc,Disney Toddler Stitch Learning Bundle – Sensory Plush & Ring Stacker,active,live,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,live,pending,0,4
 5531533,Headstart Inc,Toy Story Push N Play Vehicles,discontinued,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,pending,0,1
-5531534,Headstart Inc,Toy Story Buzz Lightyear Feature Plush with Projector Light,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,pending,0,2
+5531534,Headstart Inc,Toy Story Buzz Lightyear Feature Plush with Projector Light,active,live,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,pending,0,3
 5531535,Headstart Inc,Disney Toddler Mickey Mouse Shape O’Clock Learning Toy,active,live,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,live,live,0,5
-5531536,Headstart Inc,Disney Toddler Learn & Play Mickey Mouse Plush,active,live,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,4
-5531537,Headstart Inc,Disney Toddler Learn & Play Minnie Mouse Plush,active,live,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,4
+5531536,Headstart Inc,Disney Toddler Learn & Play Mickey Mouse Plush,active,live,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,pending,0,3
+5531537,Headstart Inc,Disney Toddler Learn & Play Minnie Mouse Plush,active,live,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,pending,0,3
 5531541,Headstart Inc,"Mermaid Magic 9"" Doll - Merlinda",active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
 5531542,Headstart Inc,"Mermaid Magic 9"" Doll - Sasha",active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
 5531543,Headstart Inc,"Mermaid Magic 9"" Doll - Nerissa",active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
 5531544,Headstart Inc,"Mermaid Magic  9"" Warrior Transformation Doll  - Merlinda",active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
 5531545,Headstart Inc,"Mermaid Magic  9"" Warrior Transformation Doll  - Sasha",active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
 5531546,Headstart Inc,"Mermaid Magic  9"" Warrior Transformation Doll - Nerissa",active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
-5531547,Headstart Inc,Mermaid Magic Light Up Musical Necklace,active,live,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,6
+5531547,Headstart Inc,Mermaid Magic Light Up Musical Necklace,active,live,not_listed,not_listed,live,live,not_listed,live,not_listed,live,pending,0,5
 5531548,Headstart Inc,Mermaid Magic Accessory Set - Merlinda,active,pending,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
 5529888,KSM Toys,"ToyLet Potty Training Toilet Seat | Toddler Potty Training with Comfy Seat Cover, Tank Storage & Paper Roll Holder | Easy to Empty and Clean | Soft & Comfortable Potty Trainer for Boys & Girls (Pink)",active,live,not_listed,live,not_listed,pending,not_listed,live,not_listed,live,live,0,5
 5529889,KSM Toys,"ToyLet Potty Training Toilet Seat | Toddler Potty Training with Comfy Seat Cover, Tank Storage & Paper Roll Holder | Easy to Empty and Clean | Soft & Comfortable Potty Trainer for Boys & Girls (Blue)",active,live,not_listed,live,not_listed,pending,live,live,not_listed,live,live,0,6
