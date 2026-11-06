@@ -370,7 +370,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531175,First 4 Figures,FiGGYZ - Castlevania Symphony of the Night - Richter,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531176,First 4 Figures,FiGGYZ - Mega Man - Mega Man,active,live,live,not_listed,not_listed,live,not_listed,live,not_listed,pending,live,0,5
 5531177,First 4 Figures,FiGGYZ - Mega Man - Proto Man,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
-5531178,First 4 Figures,FiGGYZ - Mega Man - Bass,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
+5531178,First 4 Figures,FiGGYZ - Mega Man - Bass,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,6
 5531179,First 4 Figures,FiGGYZ - Yu-Gi-Oh! - Joey Wheeler,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531180,First 4 Figures,FiGGYZ - Yu-Gi-Oh! - Red-Eyes B. Dragon,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531181,First 4 Figures,FiGGYZ - Yu-Gi-Oh! - Jinzo,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
@@ -454,7 +454,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531492,KSM Toys,"Classic Train Spinning Top Toy from KsmToys by Bolz. Real Action and Sounds when the top spins. Durable 9.5"" x 7.5"" x 7.5"" Ages 18 m+",active,live,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,0,3
 5531493,KSM Toys,"Classic Train Spinning Top Toy Real Action and Sounds When The top Spins. Durable 9.5"" x 7.5"" x 7.5"" Ages 18 m+",active,live,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,0,3
 5531494,KSM Toys,Classic Multicolor CHORAL musical Spinning Tin Top Toy from KsmToys by Bolz. The Buzzing Hum Gets Louder As The Top Spins Faster. 18M+,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,0,2
-5531495,KSM Toys,"Bolz Playbox Music Spinning Top Toy for Children, The Funny Buzzing Hum Gets Louder As The Top Spins Faster, So Durable",active,live,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,6
+5531495,KSM Toys,"Bolz Playbox Music Spinning Top Toy for Children, The Funny Buzzing Hum Gets Louder As The Top Spins Faster, So Durable",active,pending,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
 5531496,KSM Toys,"Bolz Classic Playbox Music Spinning Tin Top Toy from KsmToys The Funny Buzzing Hum Gets Louder As The Top Spins Faster, Ages 18 m+",active,live,not_listed,not_listed,not_listed,pending,not_listed,live,not_listed,live,live,0,4
 5531497,KSM Toys,"Classic Music Box Spinning Tin Top Toy from KsmToys by Bolz. The Funny Buzzing Hum Gets Louder As The Top Spins Faster, 7.5"" x 7.5"" x 7.5"" Ages 18 m+",active,pending,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,0,2
 5531498,KSM Toys,"Classic Multicolour Spinning Tin Top Toy from KsmToys by Bolz. The Funny Buzzing Hum Gets Louder As The Top Spins Faster, 7.5"" x 7.5"" x 7.5"" Ages 18 m+",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,0,2
@@ -479,7 +479,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531518,KSM Toys,RAMPS FOR FINGER SKATE - FUNBOX AND STAIRS - Fingerboard - Penny Board : Dimensions: 28 X 12 X 10 cm,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,pending,0,1
 5531421,Smartivity,Food Body & Nutrition,active,not_listed,not_listed,not_listed,live,live,not_listed,not_listed,not_listed,pending,live,0,3
 5531538,Spinmaster,"DREAMWORKS GABBY'S DOLLHOUSE, 14 Pc Celebration Dollhouse, 25-Inches Tall, with Toy Figures, Doll House Furniture & 10 Sounds, Kids Toys for Girls & Boys Ages 3+",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,0,3
-5531539,Spinmaster,"4D Build, Star Wars Jabba’s Palace 3D Model Kit, Star Wars Collectibles & Desk Décor, Adult Puzzles, Building Toys, 3D Puzzles for Adults & Teens, 340 Pieces, Gift Ideas for Ages 12 & Up",active,live,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,live,live,0,5
+5531539,Spinmaster,"4D Build, Star Wars Jabba’s Palace 3D Model Kit, Star Wars Collectibles & Desk Décor, Adult Puzzles, Building Toys, 3D Puzzles for Adults & Teens, 340 Pieces, Gift Ideas for Ages 12 & Up",active,live,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,6
 5531540,Spinmaster,"4D Build, Harry Potter Deluxe Hogwarts Castle 3D Model Kit with Tower & Great Hall, Harry Potter Collectibles & Desk Decor, Building Toys, 384 Pieces, 3D Puzzles, Gift Ideas for Ages 12 & Up",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,pending,pending,0,2
 5531001,Wishbone Products Inc,Lil Squeezers  with 3.5 ounces solution - Monkey,active,not_listed,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,5
 5531002,Wishbone Products Inc,Lil Squeezers  with 3.5 ounces solution - Blowfish,active,pending,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,5
