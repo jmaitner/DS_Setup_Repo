@@ -112,7 +112,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531369,Cactus Games,Galilean Boat with Jesus & Apostles Playset,active,not_listed,live,not_listed,live,not_listed,live,live,not_listed,not_listed,live,0,5
 5531370,Cactus Games,Louie the Lamb Prayer Buddy,active,not_listed,not_listed,not_listed,live,not_listed,live,live,not_listed,not_listed,live,0,4
 5531371,Cactus Games,Liam the Lion Prayer Buddy,active,not_listed,not_listed,not_listed,live,not_listed,live,live,not_listed,not_listed,live,0,4
-5526590,CANAL TOYS,So Slime DIY Slime Case Shaker Storage Set,active,live,not_listed,not_listed,not_listed,live,live,live,not_listed,live,live,0,6
+5526590,CANAL TOYS,So Slime DIY Slime Case Shaker Storage Set,active,live,not_listed,not_listed,not_listed,live,live,live,not_listed,pending,live,0,5
 5526591,CANAL TOYS,So Slime DIY Slime Factory – Just Add Water!,active,live,not_listed,not_listed,live,live,live,live,not_listed,live,live,0,7
 5527199,CANAL TOYS,So Slime DIY Slime Factory – Bold & Creepy Edition,active,live,not_listed,not_listed,live,live,live,live,not_listed,pending,live,0,6
 5528695,CANAL TOYS,Style 4 Ever DIY Lava Lamp Kit,active,live,not_listed,not_listed,not_listed,live,live,live,not_listed,pending,not_listed,0,4
@@ -351,7 +351,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531156,First 4 Figures,FiGGYZ - Yu-Gi-Oh! - Blue-Eyes White Dragon,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531157,First 4 Figures,FiGGYZ - Yu-Gi-Oh! - Saggi the Dark Clown,active,live,live,not_listed,not_listed,live,not_listed,live,not_listed,live,live,0,6
 5531158,First 4 Figures,FiGGYZ - Metal Gear Solid 2 - Solid Snake (Hero Pose),active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
-5531159,First 4 Figures,FiGGYZ - Metal Gear Solid 2 - Raiden,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
+5531159,First 4 Figures,FiGGYZ - Metal Gear Solid 2 - Raiden,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,6
 5531160,First 4 Figures,FiGGYZ - Metal Gear Solid 2 - Solidus Snake,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531161,First 4 Figures,FiGGYZ - Metal Gear Solid 2 - Revolver Ocelot,active,live,live,not_listed,not_listed,live,not_listed,live,not_listed,live,live,0,6
 5531162,First 4 Figures,FiGGYZ - Persona 3 Reload - Protagonist,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
@@ -387,7 +387,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531192,First 4 Figures,FiGGYZ - Sonic the Hedgehog (Modern) - Knuckles,active,not_listed,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,6
 5531193,First 4 Figures,FiGGYZ - Sonic the Hedgehog (Modern) - Metal Sonic,active,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,live,live,0,5
 5531194,First 4 Figures,FiGGYZ - Sonic the Hedgehog (Modern) - Dr. Eggman,active,not_listed,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,6
-5531195,First 4 Figures,FiGGYZ - Golden Axe - Ax Battler,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
+5531195,First 4 Figures,FiGGYZ - Golden Axe - Ax Battler,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,6
 5531196,First 4 Figures,FiGGYZ - Golden Axe - Tyris Flare,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531197,First 4 Figures,FiGGYZ - Golden Axe - Gilius Thunderhead,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531198,First 4 Figures,FiGGYZ - Golden Axe - Death Adder,active,live,live,not_listed,not_listed,live,not_listed,live,not_listed,live,live,0,6
@@ -480,7 +480,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531421,Smartivity,Food Body & Nutrition,active,not_listed,not_listed,not_listed,live,live,not_listed,not_listed,not_listed,pending,live,0,3
 5531538,Spinmaster,"DREAMWORKS GABBY'S DOLLHOUSE, 14 Pc Celebration Dollhouse, 25-Inches Tall, with Toy Figures, Doll House Furniture & 10 Sounds, Kids Toys for Girls & Boys Ages 3+",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,0,3
 5531539,Spinmaster,"4D Build, Star Wars Jabba’s Palace 3D Model Kit, Star Wars Collectibles & Desk Décor, Adult Puzzles, Building Toys, 3D Puzzles for Adults & Teens, 340 Pieces, Gift Ideas for Ages 12 & Up",active,live,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,6
-5531540,Spinmaster,"4D Build, Harry Potter Deluxe Hogwarts Castle 3D Model Kit with Tower & Great Hall, Harry Potter Collectibles & Desk Decor, Building Toys, 384 Pieces, 3D Puzzles, Gift Ideas for Ages 12 & Up",active,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,pending,pending,0,2
+5531540,Spinmaster,"4D Build, Harry Potter Deluxe Hogwarts Castle 3D Model Kit with Tower & Great Hall, Harry Potter Collectibles & Desk Decor, Building Toys, 384 Pieces, 3D Puzzles, Gift Ideas for Ages 12 & Up",active,live,not_listed,not_listed,live,not_listed,not_listed,live,not_listed,pending,pending,0,3
 5531001,Wishbone Products Inc,Lil Squeezers  with 3.5 ounces solution - Monkey,active,not_listed,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,5
 5531002,Wishbone Products Inc,Lil Squeezers  with 3.5 ounces solution - Blowfish,active,pending,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,5
 5531003,Wishbone Products Inc,Lil Squeezers  with 3.5 ounces solution - Brown Bear,active,pending,live,not_listed,live,live,not_listed,live,not_listed,live,pending,0,5
