@@ -72,12 +72,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306932279841",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-11-13",
       "url": "https://www.ebay.com/itm/Hot-Wheels-Sticker-Activity-Set-/306932279841"
     },
     "target_plus": {
@@ -90,5 +90,5 @@
       "url": "https://www.target.com/p/-/-/A-1011326518"
     }
   },
-  "updated": "2026-07-24"
+  "updated": "2026-11-13"
 }

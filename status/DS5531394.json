@@ -71,12 +71,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306932282276",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-11-13",
       "url": "https://www.ebay.com/itm/Hot-Wheels-Mini-Maker-Kitz-16-Pack--/306932282276"
     },
     "target_plus": {
@@ -89,5 +89,5 @@
       "url": "https://www.target.com/p/-/-/A-1011326555"
     }
   },
-  "updated": "2026-10-13"
+  "updated": "2026-11-13"
 }

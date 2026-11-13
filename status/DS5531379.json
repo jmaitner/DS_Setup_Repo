@@ -71,12 +71,12 @@
       "updated": null
     },
     "ebay": {
-      "state": "live",
+      "state": "pending",
       "id": "306932283938",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-11-13",
       "url": "https://www.ebay.com/itm/Hot-Wheels-TEK-Maker-Kitz-Motorised-Racer-Kit-/306932283938"
     },
     "target_plus": {
@@ -89,5 +89,5 @@
       "url": "https://www.target.com/p/-/-/A-1011460949"
     }
   },
-  "updated": "2026-07-24"
+  "updated": "2026-11-13"
 }
