@@ -48,12 +48,13 @@
       "url": null
     },
     "nocnoc": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "5531211",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-11-17",
+      "url": null
     },
     "shopify_f2f": {
       "state": "live",
@@ -91,5 +92,5 @@
       "url": "https://www.target.com/p/-/-/A-1011704783"
     }
   },
-  "updated": "2026-08-28"
+  "updated": "2026-11-17"
 }
