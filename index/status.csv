@@ -99,8 +99,8 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531418,BLADEZ TOYS,Harry Potter Maker Kitz -  Make Your Own Magical Creatures,active,live,not_listed,not_listed,live,live,not_listed,live,not_listed,not_listed,not_listed,0,4
 5531419,BLADEZ TOYS,Harry Potter Creative Maker Kitz - Make Your Own Knight Bus,active,live,not_listed,not_listed,not_listed,live,live,live,not_listed,live,live,0,6
 5531420,BLADEZ TOYS,Harry Potter Maker Kitz - Make Your Own Dobby,active,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,pending,not_listed,0,2
-5531549,BLADEZ TOYS,Hot Wheels R/C Drift 'N' Fly Drone,active,live,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,pending,0,3
-5531550,BLADEZ TOYS,Hot Wheels Monster Marker Set,active,pending,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,live,pending,0,3
+5531549,BLADEZ TOYS,Hot Wheels R/C Drift 'N' Fly Drone,active,pending,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,pending,0,2
+5531550,BLADEZ TOYS,Hot Wheels Monster Marker Set,active,pending,not_listed,not_listed,not_listed,live,live,live,not_listed,live,pending,0,4
 5531551,BLADEZ TOYS,Bladez RPM R/C 1:10 Ultimate Racer (Orange/Blue),active,pending,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,live,live,0,4
 5531362,Cactus Games,Apples to Apples Bible Edition Game,active,not_listed,live,not_listed,live,not_listed,live,live,not_listed,not_listed,live,0,5
 5531363,Cactus Games,Bible Outburst Game,active,not_listed,not_listed,not_listed,live,not_listed,live,live,not_listed,not_listed,live,0,4
@@ -270,7 +270,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531075,First 4 Figures,FiGGYZ - Street Fighter 2 - Ken,active,live,live,not_listed,live,live,live,live,not_listed,live,pending,0,7
 5531076,First 4 Figures,FiGGYZ - Street Fighter 2 - Guile,active,live,live,not_listed,live,live,live,live,not_listed,live,pending,0,7
 5531077,First 4 Figures,FiGGYZ - Yu-Gi-Oh! - Yami Yugi,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
-5531078,First 4 Figures,FiGGYZ - Yu-Gi-Oh! - Dark Magician,active,live,live,not_listed,live,live,live,live,not_listed,live,pending,0,7
+5531078,First 4 Figures,FiGGYZ - Yu-Gi-Oh! - Dark Magician,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531079,First 4 Figures,FiGGYZ - Yu-Gi-Oh! - Dark Magician Girl,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531080,First 4 Figures,FiGGYZ - Yu-Gi-Oh! - Black Luster Soldier,active,live,live,not_listed,live,live,live,live,not_listed,live,pending,0,7
 5531081,First 4 Figures,FiGGYZ - Frieren: Beyond Journey's End - Frieren,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
@@ -337,7 +337,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531142,First 4 Figures,FiGGYZ - Shin Megami Tensei V Vengeance - Aogami,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531143,First 4 Figures,FiGGYZ - Shin Megami Tensei V Vengeance - Yoko Hiromine,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531144,First 4 Figures,FiGGYZ - Shin Megami Tensei V Vengeance - Jack Frost,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
-5531145,First 4 Figures,FiGGYZ - Conker's Bad Fur Day - Conker,active,live,live,not_listed,live,live,live,live,not_listed,live,pending,0,7
+5531145,First 4 Figures,FiGGYZ - Conker's Bad Fur Day - Conker,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531146,First 4 Figures,FiGGYZ - Conker's Bad Fur Day - Berry,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531147,First 4 Figures,FiGGYZ - Conker's Bad Fur Day - Panther King,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531148,First 4 Figures,FiGGYZ - Skies of Arcadia - Vyse,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
@@ -351,7 +351,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531156,First 4 Figures,FiGGYZ - Yu-Gi-Oh! - Blue-Eyes White Dragon,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531157,First 4 Figures,FiGGYZ - Yu-Gi-Oh! - Saggi the Dark Clown,active,live,live,not_listed,not_listed,live,live,live,not_listed,live,live,0,7
 5531158,First 4 Figures,FiGGYZ - Metal Gear Solid 2 - Solid Snake (Hero Pose),active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
-5531159,First 4 Figures,FiGGYZ - Metal Gear Solid 2 - Raiden,active,live,live,not_listed,live,live,live,live,not_listed,live,pending,0,7
+5531159,First 4 Figures,FiGGYZ - Metal Gear Solid 2 - Raiden,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531160,First 4 Figures,FiGGYZ - Metal Gear Solid 2 - Solidus Snake,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531161,First 4 Figures,FiGGYZ - Metal Gear Solid 2 - Revolver Ocelot,active,live,live,not_listed,not_listed,live,live,live,not_listed,live,live,0,7
 5531162,First 4 Figures,FiGGYZ - Persona 3 Reload - Protagonist,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
@@ -362,15 +362,15 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531167,First 4 Figures,FiGGYZ - Sonic the Hedgehog (Modern) - Shadow,active,not_listed,live,not_listed,not_listed,live,not_listed,live,not_listed,live,live,0,5
 5531168,First 4 Figures,FiGGYZ - Sonic the Hedgehog (Modern) - Silver,active,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,not_listed,live,live,0,4
 5531169,First 4 Figures,FiGGYZ - Metal Gear Solid 3 - Naked Snake,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
-5531170,First 4 Figures,FiGGYZ - Metal Gear Solid 3 - Big Boss (Grave Salute),active,live,live,not_listed,live,live,live,live,not_listed,live,pending,0,7
+5531170,First 4 Figures,FiGGYZ - Metal Gear Solid 3 - Big Boss (Grave Salute),active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531171,First 4 Figures,FiGGYZ - Metal Gear Solid 3 - The Boss,active,pending,live,not_listed,live,live,live,live,not_listed,live,live,0,7
 5531172,First 4 Figures,FiGGYZ - Metal Gear Solid 3 - Young Ocelot,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
-5531173,First 4 Figures,FiGGYZ - Castlevania Symphony of the Night - Alucard,active,live,live,not_listed,live,live,live,live,not_listed,live,pending,0,7
+5531173,First 4 Figures,FiGGYZ - Castlevania Symphony of the Night - Alucard,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531174,First 4 Figures,FiGGYZ - Castlevania Symphony of the Night - Dracula,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531175,First 4 Figures,FiGGYZ - Castlevania Symphony of the Night - Richter,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531176,First 4 Figures,FiGGYZ - Mega Man - Mega Man,active,live,live,not_listed,not_listed,live,not_listed,live,not_listed,pending,live,0,5
 5531177,First 4 Figures,FiGGYZ - Mega Man - Proto Man,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
-5531178,First 4 Figures,FiGGYZ - Mega Man - Bass,active,live,live,not_listed,live,live,live,live,not_listed,live,pending,0,7
+5531178,First 4 Figures,FiGGYZ - Mega Man - Bass,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531179,First 4 Figures,FiGGYZ - Yu-Gi-Oh! - Joey Wheeler,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531180,First 4 Figures,FiGGYZ - Yu-Gi-Oh! - Red-Eyes B. Dragon,active,live,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,7
 5531181,First 4 Figures,FiGGYZ - Yu-Gi-Oh! - Jinzo,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
@@ -387,7 +387,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531192,First 4 Figures,FiGGYZ - Sonic the Hedgehog (Modern) - Knuckles,active,not_listed,live,not_listed,live,live,live,live,not_listed,live,live,0,7
 5531193,First 4 Figures,FiGGYZ - Sonic the Hedgehog (Modern) - Metal Sonic,active,not_listed,live,not_listed,not_listed,live,live,live,not_listed,live,live,0,6
 5531194,First 4 Figures,FiGGYZ - Sonic the Hedgehog (Modern) - Dr. Eggman,active,not_listed,live,not_listed,live,live,not_listed,live,not_listed,live,live,0,6
-5531195,First 4 Figures,FiGGYZ - Golden Axe - Ax Battler,active,live,live,not_listed,live,live,live,live,not_listed,live,pending,0,7
+5531195,First 4 Figures,FiGGYZ - Golden Axe - Ax Battler,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531196,First 4 Figures,FiGGYZ - Golden Axe - Tyris Flare,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531197,First 4 Figures,FiGGYZ - Golden Axe - Gilius Thunderhead,active,live,live,not_listed,live,live,live,live,not_listed,live,live,0,8
 5531198,First 4 Figures,FiGGYZ - Golden Axe - Death Adder,active,live,live,not_listed,not_listed,live,live,live,not_listed,live,live,0,7
@@ -414,24 +414,24 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5531227,First 4 Figures,FiGGYZ - Banjo-Kazooie - Bottles,active,live,live,not_listed,not_listed,live,live,live,not_listed,live,live,0,7
 5531525,Headstart Inc,Disney Toddler Winnie the Pooh Hunny Pot Shape Sorter,discontinued,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,pending,0,1
 5531526,Headstart Inc,Disney Toddler Winnie the Pooh Stacking Cups,active,live,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,live,live,0,5
-5531527,Headstart Inc,Disney Toddler Real Feels Winnie the Pooh Plush,active,live,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,live,pending,0,4
-5531528,Headstart Inc,Disney Toddler Winnie the Pooh Learning Bundle – Real Feels Plush & Stacking Cups,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,pending,0,2
-5531529,Headstart Inc,Disney Toddler Winnie the Pooh Hunny Pot Walker,active,live,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,live,pending,0,4
+5531527,Headstart Inc,Disney Toddler Real Feels Winnie the Pooh Plush,active,live,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,live,live,0,5
+5531528,Headstart Inc,Disney Toddler Winnie the Pooh Learning Bundle – Real Feels Plush & Stacking Cups,active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,live,live,0,3
+5531529,Headstart Inc,Disney Toddler Winnie the Pooh Hunny Pot Walker,active,live,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,live,live,0,5
 5531530,Headstart Inc,Disney Toddler Stitch Ring Stacker,active,live,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,live,live,0,5
-5531531,Headstart Inc,Disney Toddler Stitch Shake It Up Feature Plush,active,live,not_listed,not_listed,not_listed,live,live,live,not_listed,live,pending,0,5
-5531532,Headstart Inc,Disney Toddler Stitch Learning Bundle – Sensory Plush & Ring Stacker,active,live,not_listed,not_listed,not_listed,live,live,live,not_listed,live,pending,0,5
+5531531,Headstart Inc,Disney Toddler Stitch Shake It Up Feature Plush,active,live,not_listed,not_listed,not_listed,live,live,live,not_listed,live,live,0,6
+5531532,Headstart Inc,Disney Toddler Stitch Learning Bundle – Sensory Plush & Ring Stacker,active,live,not_listed,not_listed,not_listed,live,live,live,not_listed,live,live,0,6
 5531533,Headstart Inc,Toy Story Push N Play Vehicles,discontinued,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,pending,0,1
-5531534,Headstart Inc,Toy Story Buzz Lightyear Feature Plush with Projector Light,active,live,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,live,pending,0,4
+5531534,Headstart Inc,Toy Story Buzz Lightyear Feature Plush with Projector Light,active,live,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,live,live,0,5
 5531535,Headstart Inc,Disney Toddler Mickey Mouse Shape O’Clock Learning Toy,active,live,not_listed,not_listed,not_listed,live,live,live,not_listed,live,live,0,6
-5531536,Headstart Inc,Disney Toddler Learn & Play Mickey Mouse Plush,active,live,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,live,pending,0,4
-5531537,Headstart Inc,Disney Toddler Learn & Play Minnie Mouse Plush,active,live,not_listed,not_listed,not_listed,live,live,live,not_listed,live,pending,0,5
+5531536,Headstart Inc,Disney Toddler Learn & Play Mickey Mouse Plush,active,live,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,live,live,0,5
+5531537,Headstart Inc,Disney Toddler Learn & Play Minnie Mouse Plush,active,live,not_listed,not_listed,not_listed,pending,live,live,not_listed,live,live,0,5
 5531541,Headstart Inc,"Mermaid Magic 9"" Doll - Merlinda",active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
 5531542,Headstart Inc,"Mermaid Magic 9"" Doll - Sasha",active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
 5531543,Headstart Inc,"Mermaid Magic 9"" Doll - Nerissa",active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
 5531544,Headstart Inc,"Mermaid Magic  9"" Warrior Transformation Doll  - Merlinda",active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
 5531545,Headstart Inc,"Mermaid Magic  9"" Warrior Transformation Doll  - Sasha",active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
 5531546,Headstart Inc,"Mermaid Magic  9"" Warrior Transformation Doll - Nerissa",active,not_listed,not_listed,not_listed,live,live,not_listed,live,not_listed,live,live,0,5
-5531547,Headstart Inc,Mermaid Magic Light Up Musical Necklace,active,live,not_listed,not_listed,live,live,live,live,not_listed,live,pending,0,6
+5531547,Headstart Inc,Mermaid Magic Light Up Musical Necklace,active,live,not_listed,not_listed,live,live,live,live,not_listed,live,live,0,7
 5531548,Headstart Inc,Mermaid Magic Accessory Set - Merlinda,active,pending,not_listed,not_listed,live,live,live,live,not_listed,live,live,0,6
 5529888,KSM Toys,"ToyLet Potty Training Toilet Seat | Toddler Potty Training with Comfy Seat Cover, Tank Storage & Paper Roll Holder | Easy to Empty and Clean | Soft & Comfortable Potty Trainer for Boys & Girls (Pink)",active,live,not_listed,live,not_listed,pending,live,live,not_listed,live,live,0,6
 5529889,KSM Toys,"ToyLet Potty Training Toilet Seat | Toddler Potty Training with Comfy Seat Cover, Tank Storage & Paper Roll Holder | Easy to Empty and Clean | Soft & Comfortable Potty Trainer for Boys & Girls (Blue)",active,live,not_listed,live,not_listed,pending,live,live,not_listed,live,live,0,6
@@ -442,7 +442,7 @@ DS#,Vendor,Product Name,Lifecycle,Amazon,Walmart 1P,Walmart 3P,TikTok Shop,Best 
 5529913,KSM Toys,Grip & Tricks Mini Pro Skate Park X-TREM Rider Shop Set,active,live,not_listed,not_listed,live,not_listed,live,live,not_listed,live,live,0,6
 5529914,KSM Toys,RAMPS for Finger Skate - Halfpipe Slider with 1 Fingerboard - Dimensions: 28 X 12 X 10 cm by Grip&Tricks,active,pending,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,not_listed,not_listed,0,2
 5529918,KSM Toys,Bolz 52315 Multicolor Spinning Top Toy,active,pending,not_listed,not_listed,live,live,live,live,not_listed,live,live,0,6
-5529920,KSM Toys,Choral Multicolor Music Spin Top Toy toupi for Children from KsmToys Bolz. The Funny Buzzing Choral Hum Gets Louder As The Top Spins Faster Ages 18 m+,active,pending,not_listed,not_listed,live,live,live,live,not_listed,live,pending,0,5
+5529920,KSM Toys,Choral Multicolor Music Spin Top Toy toupi for Children from KsmToys Bolz. The Funny Buzzing Choral Hum Gets Louder As The Top Spins Faster Ages 18 m+,active,pending,not_listed,not_listed,live,live,live,live,not_listed,live,live,0,6
 5529922,KSM Toys,"Tap-Along Sounder Snare Drum with Double Sided Batter Head Toy Tambourine Drum for Kids, Musical toys for Children 12 Months and Up Realistic Look with 2 Drum Sticks 10X10X4",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,0,2
 5529923,KSM Toys,"Tap-Along Sounder Timbale Drum with Double Sided Batter Head Toy Tambourine Drum for Kids, Musical Instrument for Children 12 Months and Up Realistic Look with 2 Drum Sticks 10X10X8",active,not_listed,not_listed,not_listed,not_listed,not_listed,not_listed,live,not_listed,not_listed,live,0,2
 5529924,KSM Toys,"Tap-Along Sounder Timbale Drum with Double Sided Batter Head Toy Tambourine Drum for Kids, Musical Instrument for Children 12 Months and Up Realistic Look with 2 Drum Sticks 10X10X8",active,not_listed,not_listed,not_listed,not_listed,not_listed,live,live,not_listed,not_listed,live,0,3
