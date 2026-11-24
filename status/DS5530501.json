@@ -29,12 +29,13 @@
       "updated": null
     },
     "tiktok": {
-      "state": "not_listed",
-      "id": null,
+      "state": "live",
+      "id": "1732384477273362762",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": null
+      "updated": "2026-11-24",
+      "url": null
     },
     "bestbuy": {
       "state": "live",
@@ -81,14 +82,14 @@
       "url": "https://www.ebay.com/itm/So-Slime-DIY-Glow-in-the-Dark-Lava-Slime-5-Pack-/306868720661"
     },
     "target_plus": {
-      "state": "pending",
+      "state": "live",
       "id": "1009840541",
       "case_number": null,
       "issue": null,
       "notes": null,
-      "updated": "2026-06-22",
+      "updated": "2026-11-24",
       "url": "https://www.target.com/p/-/-/A-1009840541"
     }
   },
-  "updated": "2026-07-14"
+  "updated": "2026-11-24"
 }
